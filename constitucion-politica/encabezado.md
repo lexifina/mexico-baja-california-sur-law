@@ -143,7 +143,8 @@ II.- Tener 21 años cumplidos el día de la elección; y
 III.- Tener residencia efectiva no menor de un año anterior al día de la elección, en el Distrito o en la circunscripción del Estado.
 45.- No podrá ser diputado:
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
-II.- El Secretario de Gobierno, Oficial Mayor, Tesorero General, Procurador General, Los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquiera otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días antes de la fecha de las elecciones;
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+II.- El Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Oficial Mayor, Procurador General, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquiera otra persona que desempeñe cargo público Estatal, a menos que se separe definitivamente de su cargo 60 días antes de la fecha de las elecciones;
 III.- Los Presidentes Municipales o quienes ocupen cualquier cargo municipal, a menos que se separen de su cargo sesenta días antes de la elección;
 IV.- Los funcionarios y empleados federales en el Estado, a menos que se separen de su cargo sesenta días antes de la elección;
 V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y
@@ -159,14 +160,16 @@ IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso 
 SECCION III
 DE LAS SESIONES
 50.- El Congreso del Estado tendrá, durante el año, dos períodos ordinarios de sesiones: el primero, del primero de abril al último de junio, y el segundo, del 15 de septiembre al 15 de diciembre, pero no podrá prolongarse más que hasta el 31 de diciembre del mismo año.
-51.- El Congreso del Estado celebrará sesiones extraordinarias, a convocatoria del Gobernador o la Diputación Permanente. En la convocatoria correspondiente se señalarán el motivo y la finalidad de las sesiones extraordinarias.
+(REFORMADO, B.O. 30 DE ABRIL DE 1981)
+51.- El Congreso del Estado celebrará Período Extraordinario de Sesiones, a convocatoria del Gobernador o la Diputación Permanente. En la convocatoria correspondiente se señalarán el motivo y la finalidad de los Períodos Extraordinarios.
 52.- No podrá celebrarse ninguna sesión sin la concurrencia de más de la mitad del número total de diputados.
 53.- Los diputados que no concurran a una sesión sin causa justificada o sin permiso del Presidente del Congreso del Estado, no tendrán derecho a la dieta correspondiente al día en que faltaren.
 Cuando algún diputado deje de asistir por más de cinco sesiones continuas del Congreso del Estado, se entenderá que renuncia a concurrir al período respectivo. En este caso, se llamará al suplente para que lo reemplace.
 54.- Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electos diputados no se presenten, sin causa justificada, a juicio del Congreso del Estado, a desempeñar el cargo dentro del plazo señalado en el artículo anterior.
 También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que habiendo postulado candidatos en una elección, acuerden que sus miembros que resultaren electos, no se presenten a desempeñar sus funciones.
 55.- El Gobernador del Estado asistirá a la apertura del período ordinario de sesiones, en la que presentará un informe por escrito exponiendo la situación que guarde la administración pública del Estado.
-Podrá asistir también, cuando lo solicite para informar sobre asuntos de su competencia y así lo acuerde el Congreso del Estado.
+(REFORMADO, B.O. 30 DE ABRIL DE 1981)
+Podrá asistir también, por sí o por conducto de un Funcionario del Poder Ejecutivo para informar cuando se trate algún asunto o proyecto sobre la materia a cargo del que comparece, si así lo acuerda el Congreso del Estado.
 56.- El Congreso se reunirá en la capital del Estado, pero podrá cambiar provisionalmente su sede, si así lo acuerdan las dos terceras partes de la totalidad de los diputados, notificando a los otros dos poderes.
 SECCION IV
 DE LA INICIATIVA Y FORMACION DE LAS LEYES Y DECRETOS
@@ -185,22 +188,25 @@ III.- Si el Congreso del Estado aprobase, por la misma mayoría calificada, en p
 61.- El Gobernador no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en Gran Jurado o Colegio Electoral, las referentes a la responsabilidad de los funcionarios por delitos oficiales, ni al decreto de convocatoria a sesiones extraordinarias expedido por la Diputación Permanente.
 62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
 63.- Toda resolución del Congreso del Estado tendrá carácter de ley o decreto y se comunicarán al Gobernador por el Presidente y el Secretario de la misma, con la formalidad: "El Congreso del Estado de Baja California Sur decreta: (texto de la ley o decreto).
-SECCION V
-DE LAS FACULTADES DEL CONGRESO DEL ESTADO
+(REFORMADA SU DENOMINACION, B.O. 30 DE ABRIL DE 1981)
+SECCION IV (SIC)
+DE LAS FACULTADES DEL CONGRESO
 64.- Son facultades del Congreso del Estado:
 I.- Legislar en todo lo relativo al Gobierno del Estado;
 II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
 V.- (DEROGADA, B.O. 20 DE ABRIL DE 1977)
-VI.- Declarar electos a los senadores de la República;
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+VI.- Declarar electos a los Senadores de la República que hubieren obtenido mayoría de votos en la Entidad;
 VII.- Calificar las elecciones de los Ayuntamientos del Estado, declarando electos a los ciudadanos que hayan obtenido la mayoría de votos;
 VIII.- Convocar a elecciones para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los dos primeros años del período constitucional, conforme a lo establecido en este ordenamiento;
 IX.- Convocar a elecciones extraordinarias para cubrir las vacantes de sus miembros;
 X.- Erigirse en Colegio Electoral para elegir Gobernador Substituto que concluya el período constitucional, en caso de falta absoluta de Gobernador ocurrida dentro de los cuatro últimos años de dicho período, de conformidad al artículo 72 de esta Constitución;
 XI.- Conceder a los diputados licencia temporal para separarse de sus cargos;
 XII.- Decidir sobre las solicitudes de renuncia que formulen los diputados y Gobernador del Estado para separarse definitivamente de sus cargos;
-XIII.- Decidir cuando alguna ley o acto del Gobierno Federal invada la soberanía del Estado y turnarla al Procurador General de Justicia para que haga la reclamación a quien corresponda;
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+XIII.- Declarar cuando alguna Ley o acto del Gobierno Federal invada la soberanía del Estado y solicitar al Procurador General de Justicia que haga la reclamación que corresponda;
 XIV.- Cambiar la sede de los Poderes del Estado;
 XV.- Ejercer las facultades que le otorga la Constitución General de la República en relación a la Guardia Nacional;
 XVI.- Determinar las características y el uso del Escudo Estatal;
@@ -213,19 +219,19 @@ XXII.- Legislar en todo lo relativo a la administración pública;
 XXIII.- Autorizar la participación del Gobernador en comisiones interestatales de desarrollo regional;
 XXIV.- Autorizar al Gobernador para celebrar convenios con la Federación;
 XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad;
-XXVI.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que sean para la ejecución de obras que directamente produzcan un incremento económico, salvo los que se contraten en caso de emergencia por causa de desastre, señalando en todo caso los recursos con que deben cubrirse;
-(ADICIONADO, B.O. 26 DE AGOSTO DE 1975)
-Autorizar al Gobernador del Estado para avalar los empréstitos o financiamientos que obtengan los ayuntamientos del Estado, siempre y cuando de los estudios que se practiquen al efecto aparezca demostrada la necesidad y utilidad de la obra para la cual los haya gestionado la autoridad municipal. En el convenio que celebre el Gobierno local con el ayuntamiento correspondiente se estipulará la recuperación de lo que aquel pague como avalista, garantizándolo en base de las participaciones de los impuestos que reciba el ayuntamiento, ya sean éstos federales o locales
-(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
-XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre bienes muebles e inmuebles pertenecientes al Estado, cuando el valor sea mayor de $100,000.00 (CIEN MIL PESOS 00/100 M.N.) previo avalúo practicado por la Dirección de Catastro de la Secretaría de Finanzas. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+XXVI.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que se destinen a inversiones públicas productivas, salvo los que se contraten en caso de emergencia por causa de desastre, señalando en cada caso los recursos con que deben cubrirse.
+Autorizar al Gobernador del Estado para avalar los empréstitos o financiamientos que obtengan los Ayuntamientos del Estado, siempre y cuando de los estudios que se practiquen al efecto aparezca demostrada la necesidad y utilidad de la obra para la cual los haya gestionado la autoridad municipal. En el convenio que celebre el Gobierno local con el Ayuntamiento correspondiente, se estipulará la recuperación de lo que aquél pague como avalista, garantizándolo en base de las participaciones de los impuestos que reciba el Ayuntamiento, ya sean éstos Federales o locales.
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre bienes muebles e inmuebles pertenecientes al Estado, cuando el valor sea mayor de $500,000.00 (QUINIENTOS MIL PESOS 00/100 M.N.), previo avalúo practicado por la Dirección de Catastro. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 XXIX.- Nombrar y remover libremente a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda;
 XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones;
 XXXI.- Aprobar el Presupuesto de Egresos y fijar las contribuciones para cubrirlo;
 XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de emergencia en caso de desastre;
 XXXIII.- Aprobar y decretar las leyes de Hacienda y de ingresos municipales, en atención a todas sus necesidades y funciones, tomando en consideración su independencia económica;
-(ADICIONADO, B.O. 26 DE AGOSTO DE 1975)
-Autorizar a los ayuntamientos del Estado para contratar empréstitos o financiamientos destinados a la ejecución de las obras que sean necesarias para la prestación de los servicios públicos que corresponda, previa la opinión favorable del Gobernador del Estado respecto a la utilidad pública que emane de esas obras en beneficio de la comunidad.
+(REFORMADO, B.O. 30 DE ABRIL DE 1981)
+Autorizar a los Ayuntamientos del Estado para contratar empréstitos o financiamientos destinados a la ejecución de las obras que sean necesarias para la prestación de los servicios públicos que corresponda.
 XXXIV.- Decretar la Ley Orgánica Municipal;
 XXXV.- Crear o suprimir municipios y reformar la división política del Estado mediante el voto de las dos terceras partes de la totalidad de los diputados;
 XXXVI.- Resolver los conflictos que surjan entre los ayuntamientos entre sí y entre éstos y los demás poderes del Estado;
@@ -262,7 +268,8 @@ II.- Tener 30 años cumplidos el día de la elección;
 III.- No pertenecer al Estado eclesiástico ni ser ministro de algún culto religioso;
 IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de seguridad pública, dentro de los noventa días anteriores a la fecha de la elección;
 V.- No ser funcionario o empleado federal noventa días anteriores a la fecha de la elección;
-VI.- No ser Secretario General de Gobierno, Oficial Mayor, Tesorero General, Procurador o Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local o Presidente Municipal, noventa días anteriores a la fecha de la elección; y
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Oficial Mayor, Procurador General o Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local o Presidente Municipal, 90 días anteriores a la fecha de la elección; y
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
 70.- El Gobernador del Estado durará en su encargo seis años; iniciará el ejercicio de sus funciones el día 5 de abril.
 71.- Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:
@@ -285,8 +292,8 @@ DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 79.- Son facultades y obligaciones del Gobernador:
 I.- Publicar, cumplir y hacer cumplir las leyes federales;
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
-(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
-III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Oficial Mayor, Procurador General de Justicia y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes;
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Oficial Mayor, Procurador General de Justicia y demás Funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
 IV.- Nombrar a los Magistrados del Tribunal Superior de Justicia, con la aprobación del Congreso del Estado o la Diputación Permanente, en su caso;
 V.- Nombrar a los miembros del Consejo tutelar para menores, en los términos que disponga la ley de la materia;
 VI.- Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia y turnarlas, en su caso, al Congreso del Estado o a la Comisión Permanente;
@@ -301,8 +308,10 @@ XIV.- Proponer al Congreso del Estado o a la Diputación Permanente, en su caso,
 XV.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales;
 XVI.- Ejercer actos de dominio del patrimonio del Estado en los términos de esta Constitución;
 XVII.- Ejercer el presupuesto de egresos;
-XVIII.- Contratar empréstitos con aprobación del Congreso del Estado, para la ejecución de obras que estén destinadas a producir directamente un incremento en sus ingresos;
-XIX.- Presentar al Congreso del Estado, durante la primera quincena de octubre de cada año, las iniciativas de ley de Ingresos y Presupuestos de Egresos Generales del Estado, que deberán regir en el año inmediato siguiente;
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+XVIII.- Contratar empréstitos con la aprobación del Congreso del Estado destinado a inversiones públicas productivas.
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+XIX.- Presentar al Congreso del Estado, durante la primera quincena del mes de noviembre de cada año, las Iniciativas de Ley de Ingresos y Presupuestos de Egresos Generales del Estado, que deberán regir en el año inmediato siguiente.
 XX.- Rendir al Congreso un informe anual del Estado que guarde la administración pública de la entidad;
 XXI.- Presentar al Congreso, al término de su período constitucional, una memoria sobre el estado que guarden los asuntos públicos;
 XXII.- Facilitar al Poder Judicial el auxilio que requiera para el ejercicio de sus funciones;
@@ -312,7 +321,8 @@ XXV.- Promover el desarrollo económico del Estado buscando siempre que sea comp
 XXVI.- Fomentar la creación de industrias y empresas rurales, buscando la participación armónica de todos los factores de la producción;
 XXVII.- Planificar el crecimiento de los centros urbanos, dotándolos de los servicios necesarios, a fin de propiciar el espíritu de solidaridad en la convivencia social y el desarrollo pleno y armónico de la población;
 XXVIII.- Mejorar las condiciones económicas y sociales de vida de los campesinos, fomentando en ellos el arraigo a sus lugares de residencia;
-XXIX.- (DEROGADA, B.O. 26 DE AGOSTO DE 1975)
+(ADICIONADA, B.O. 30 DE ABRIL DE 1981)
+XXIX.- Celebrar convenios con el Gobierno Federal o con los Ayuntamientos, para coordinar sus atribuciones en materias concurrentes, satisfaciendo las formalidades exigidas por la Constitución y por las Leyes.
 XXX.- Conocer de las designaciones que haga el Procurador y el Presidente del Tribunal Superior de Justicia;
 XXXI.- Promover el desarrollo integral de todos los recursos naturales, entre otros la minería, la pesca; y además las actividades agropecuarias y el turismo;
 XXXII.- Prestar y vigilar el eficaz cumplimiento de los servicios sociales que desarrolle el Estado;
@@ -330,8 +340,8 @@ XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tec
 XLIII.- Las demás que señalen esta Constitución y sus leyes.
 SECCION III
 DE LAS DEPENDENCIAS DEL EJECUTIVO
-(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)
-80.- Para el despacho de los negocios del orden administrativo habrá: un Secretario General de Gobierno, un Oficial Mayor, un Procurador General de Justicia, un Secretario de Finanzas, un Secretario de Desarrollo y los demás funcionarios que establezca la Ley Orgánica del Poder Ejecutivo.
+(REFORMADO, B.O. 30 DE ABRIL DE 1981)
+80.- Para el despacho de los asuntos del orden administrativo, habrá: un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Públicas, un Oficial Mayor, un Procurador General de Justicia y los demás funcionarios que establezca la Ley Orgánica del Poder Ejecutivo.
 81.- Toda ley o decreto será refrendada por el Secretario General de Gobierno y por el funcionario del ramo relativo.
 (REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 1981)
 82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo y Oficial Mayor se requiere:
@@ -345,17 +355,19 @@ III.- Tener modo honesto de vivir y
 IV.- No haber sido condenado por delito del fuero común, intencionales u oficiales.
 83.- Son facultades y obligaciones del Secretario General de Gobierno y del Oficial Mayor:
 a).- Del Secretario:
-I.- Substituir al Gobernador en sus faltas temporales, no mayores de 30 días;
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+I.- Suplir al Gobernador en sus faltas temporales, no mayores de treinta días;
 II.- Coordinar las actividades de las diferentes dependencias del Gobierno del Estado y resolver, previo acuerdo con el Gobernador, los conflictos de competencia que pudieran surgir entre ellos;
 III.- Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones del Gobierno del Estado;
 IV.- Firmar los acuerdos dictados por el Gobernador del Estado, así como los contratos que celebre. Sin este requisito no surtirán efectos legales;
 V.- Representar al Gobernador del Estado cuando éste lo estime conveniente, ante las autoridades de la Federación, de las Entidades Federativas y de los Municipios del Estado; y
 VI.- Las demás que le confieran las leyes.
 b).- Del Oficial Mayor:
-I.- Substituir al Secretario General de Gobierno cuando esté encargado del despacho de la gubernatura, o en sus faltas temporales;
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+I.- Suplir al Secretario General de Gobierno cuando esté encargado del despacho de la gubernatura, o en sus faltas temporales;
 II.- Cumplir y hacer cumplir los acuerdos, órdenes y circulares del Gobernador del Estado en su correspondiente esfera de competencia;
 III.- Tramitar lo relacionado con los nombramientos, licencias y permisos de funcionarios y empleados del Gobierno del Estado, en los términos de las disposiciones relativas;
-IV.- Vigilar que los funcionarios y empleados del Gobierno del Estado cumplan con sus actividades y obligaciones, informando al Gobernador de las faltas que cometieren, para los efectos legales que procedan; y
+IV.- (DEROGADA, B.O. 30 DE ABRIL DE 1981)
 V.- Las demás que le confieran las leyes.
 84.- Para ser Procurador General de Justicia se requiere:
 I.- Ser ciudadano sudcaliforniano;
@@ -363,24 +375,26 @@ II.- Tener 30 años de edad como mínimo;
 III.- Ser licenciado en Derecho, y acreditar un ejercicio profesional de cinco años, cuando menos;
 IV.- Tener modo honesto de vivir; y
 V.- No haber sido condenado por delitos del fuero común intencionales, u oficiales.
-85.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Judicial, en los términos de su ley orgánica.
-El Procurador General de Justicia será el Consejero Jurídico del Gobernador.
+(REFORMADO PRIMER PARRAFO, B.O. 30 DE ABRIL DE 1981)
+85.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Judicial, en los términos de su Ley Orgánica.
 Son atribuciones del Ministerio Público:
 I.- Ejercitar ante los Tribunales del Estado, las acciones que correspondan contra las personas que violen las leyes de interés público;
 II.- Intervenir en la forma y términos que la ley disponga, en los juicios que afecten a personas a quienes la ley otorga especial protección; y
-III.- Defender los intereses del Estado ante los Tribunales.
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+III.- Defender los intereses del Estado ante los Tribunales, excepto en lo relativo a la Hacienda Pública.
+N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMA DE 30 DE ABRIL DE 1981 SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO DE NUEVE FRACCIONES A SEIS.
 (REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 1981)
 86.- Son facultades y obligaciones del Secretario de Finanzas:
 I.- Recaudar los ingresos del erario conforme a las leyes en vigor, ordenando las medidas necesarias para hacerlos efectivos, así como revisar todas las resoluciones que dicten las oficinas fiscales del Estado, en el procedimiento administrativo de ejecución;
 II.- Vigilar que sean garantizadas las prestaciones a favor del erario conforme a las disposiciones vigentes, fijar el monto y calificar las garantías que llenen las seguridades conducentes; comprobar, periódicamente su eficacia y adoptar, en caso contrario, las medidas necesarias para asegurar los intereses fiscales;
-III.- Dictar las medidas necesarias para el estricto ejercicio del presupuesto de egresos;
-IV.- Pagar oportunamente mediante los requisitos generales establecidos y sin necesidad de orden especial, los sueldos y demás emolumentos que devenguen los servidores del Gobierno del Estado, así como los gastos de oficina, conforme a las respectivas asignaciones del presupuesto de egresos;
-V.- Dar aviso al Gobernador tan pronto como una partida del presupuesto de egresos esté próxima a agotarse y proponerle las modificaciones que deben solicitarse al Congreso del Estado;
-VI.- Formar diariamente un estado de ingresos, egresos y existencias, presentanto (sic) un ejemplar al Gobernador;
-VII.- Hacer, el día primero de cada mes, corte de caja de primera operación por el mes inmediato anterior;
-(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
-VIII.- Recabar del Gobernador del Estado, antes del día primero de enero de cada año, la autorización de los libros principales de la contabilidad relativa al ejercicio fiscal que se avecine, así como autorizar oportunamente los libros auxiliares de la Secretaría de Finanzas y los de sus dependencias y
-IX.- Las demás que le confieran las leyes.
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+III.- Dictar las medidas necesarias para el estricto ejercicio del Presupuesto de Egresos y el control del gasto público.
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+IV.- Intervenir en la celebración de los convenios de coordinación que en materia hacendaria el Gobierno del Estado celebre con los Gobiernos Federal y Municipal, así como ejercer las atribuciones que señalen a favor de los funcionarios estatales los convenios de coordinación fiscal, respecto a ingresos federales.
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+V.- Representar a la Hacienda Pública del Estado y ejercer las acciones y excepciones de que sea titular ante los Tribunales y autoridades respectivas.
+(REFORMADA, B.O. 30 DE ABRIL DE 1981)
+VI.- Las demás que le confieran las Leyes.
 CAPITULO III
 DEL PODER JUDICIAL
 87.- Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del fuero común en los términos de esta Constitución.
@@ -452,7 +466,8 @@ I.- Los ingresos que determine su Ley de Hacienda y demás normas aplicables; y
 II.- Los ingresos que adquiera por concepto de convenios, participaciones legales, legados, donaciones o cualesquiera otras causas.
 106.- La administración de la Hacienda Pública estará a cargo del Gobernador por conducto del Tesorero General del Estado, quien será responsable de su manejo.
 107.- La Ley determinará la organización y funcionamiento de las oficinas de Hacienda en el Estado.
-108.- Anualmente, durante la primera quincena del mes de octubre, el Gobernador presentará al Congreso del Estado el proyecto de presupuesto.
+(REFORMADO, B.O. 30 DE ABRIL DE 1981)
+108.- Anualmente, durante la primera quincena del mes de noviembre, el Gobernador presentará al Congreso del Estado el proyecto de presupuesto.
 109.- El año fiscal comprenderá del primero de enero al treinta y uno de diciembre, inclusive.
 110.- Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, en tanto se expide éste, continuará vigente el del año inmediato anterior.
 111.- Las cuentas de los caudales públicos deberán glosarse sin excepción por una Contaduría Mayor de Hacienda, que dependerá exclusivamente del Congreso del Estado.
@@ -460,14 +475,16 @@ II.- Los ingresos que adquiera por concepto de convenios, participaciones legale
 113.- Los pagos se harán previa autorización del Gobernador, y con absoluta igualdad y proporcionalidad entre los servidores y pensionistas del Estado.
 114.- Todo empleado de Hacienda que deba tener a su cargo manejo de fondos del Estado, otorgará previamente fianza suficiente para garantizar su manejo en los términos que la ley señale.
 115.- El Gobernador cuidará de que el Congreso del Estado conozca de la fianza con que los empleados de la Tesorería General caucionen su manejo.
-116.- El Tesorero General del Estado remitirá anualmente al Gobernador, en la segunda quincena del mes de enero, un informe pormenorizado del estado que guarda la hacienda pública al final del ejercicio fiscal anterior.
+(REFORMADO, B.O. 30 DE ABRIL DE 1981)
+116.- El Secretario de Finanzas del Estado remitirá anualmente al Gobernador, en el mes de febrero, un informe pormenorizado del estado que guarda la Hacienda Pública al final del ejercicio fiscal anterior.
 TITULO OCTAVO
 DE LOS MUNICIPIOS
 CAPITULO I
 CONCEPTOS Y FINES
 117.- El Municipio Libre es una entidad de carácter público dotada de personalidad jurídica y patrimonio propio, autónoma en su régimen interior y con libre administración de su hacienda.
 118.- Cada Municipio será administrado por un ayuntamiento de elección popular directa en los términos de la Ley Electoral y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
-119.- Los municipios podrán tener representación en los organismos federales y estatales que realicen obras dentro de su jurisdicción.
+(REFORMADO, B.O. 30 DE ABRIL DE 1981)
+119.- Los Municipios podrán tener representación en los Organismos Federales y Estatales que actúen dentro de su jurisdicción.
 CAPITULO II
 DE LA EXTENSION, LIMITES Y CABECERAS
 (REFORMADO PRIMER PARRAFO, B.O. 10 DE ABRIL DE 1980)
@@ -632,9 +649,9 @@ DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 156.- Los funcionarios y empleados del gobierno del Estado y de los ayuntamientos son responsables de los delitos y faltas oficiales que cometan en el desempeño de sus cargos. El Congreso del Estado expedirá una Ley de Responsabilidades de los Funcionarios y Empleados del Estado y de los Municipios.
 157.- La responsabilidad oficial sólo podrá exigirse durante el tiempo que el funcionario o empleado desempeñe el encargo y hasta un año después.
 158.- El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado por delitos de traición a la Patria, violación a la Constitución General de la República y del Estado y delitos graves de orden común.
-(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)
-159.- Siempre que se impute a los altos funcionarios del Gobierno del Estado y Municipales como son: el Gobernador del Estado, los Secretarios: General de Gobierno, de Finanzas y de Desarrollo, los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Procurador General de Justicia del Estado, los Presidentes Municipales, un delito del orden común, el Congreso del Estado, erigido en Gran Jurado, declarará si hay lugar o no a proceder contra el acusado.
-En caso afirmativo por esta sola declaración quedará el acusado separado de su encargo y sujeto a la autoridad judicial correspondiente. Los demás funcionarios y empleados del Estado y Municipios serán consignados a las autoridades judiciales sin la intervención del Gran Jurado y el procedimiento se regirá por las leyes del orden común.
+(REFORMADO, B.O. 30 DE ABRIL DE 1981)
+159.- Siempre que se impute a los altos Funcionarios del Gobierno del Estado y Municipales, como son el Gobernador del Estado, los Secretarios: General de Gobierno, de Finanzas, de Desarrollo, de Asentamientos Humanos y Obras Públicas, el Oficial Mayor, el Procurador General de Justicia, los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Presidentes Municipales, un delito del orden común, el Congreso del Estado, erigido en Gran Jurado, declarará si hay lugar o nó a proceder contra el acusado.
+En caso afirmativo por esta sola declaración quedará el acusado separado de su encargo y sujeto a la autoridad judicial correspondiente. Los demás Funcionarios y Empleados del Estado y Municipios serán consignados a las autoridades judiciales, sin la intervención del Gran Jurado y el procedimiento se regirá por las Leyes del orden común.
 (REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)
 160.- De los delitos oficiales cometidos por los mismos altos funcionarios a que se refiere el artículo anterior, conocerán también el Congreso del Estado y el Tribunal Superior de Justicia con sujeción a lo previsto en las leyes de la materia.
 TITULO DECIMO
