@@ -1,0 +1,1 @@
+ARTICULO PRIMERO.- En toda promoción o escrito en que se ejercite el derecho de petición ante cualquier Autoridad residente en el Estado de Baja California Sur, se hará en la forma y términos que lo disponga la Constitución General de la República y la Constitución Política del Estado de Baja California Sur.

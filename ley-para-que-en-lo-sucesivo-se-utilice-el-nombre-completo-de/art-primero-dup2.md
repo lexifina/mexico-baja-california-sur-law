@@ -1,0 +1,1 @@
+ARTICULO PRIMERO.- Los titulares de los giros a que se refiere el Artículo 4° de esta Ley, que ya están operando en el Estado, disponen de un plazo hasta de 360 días a partir de la vigencia de la presente Ley, para cumplir con el texto de la misma.

@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Es congruente con el texto Constitucional el utilizar en los escritos y promociones que ejercitan el derecho de petición y que se dirijan a cualquier Autoridad residente en el Estado, el término de Baja California Sur o su equivalente abreviado B.C.S.
