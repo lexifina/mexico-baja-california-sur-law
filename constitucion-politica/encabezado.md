@@ -169,8 +169,8 @@ III.- Tener residencia efectiva no menor de un año anterior al día de la elecc
 (REFORMADO PRIMER PARRAFO, B.O. 20 DE MAYO DE 1987)
 45.- No podrá ser Diputado:
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
-(REFORMADA, B.O. 31 DE MAYO DE 1993)
-II.- El Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Secretario de la Contraloría General, Secretario de Educación Pública, Oficial Mayor, Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días antes de la fecha de las elecciones.
+(REFORMADA, B.O. 10 DE DICIEMBRE DE 1993)
+II.- Los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquiera otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días naturales antes de la fecha de las elecciones;
 III.- Los Presidentes Municipales o quienes ocupen cualquier cargo municipal, a menos que se separen de su cargo sesenta días antes de la elección;
 IV.- Los funcionarios y empleados federales en el Estado, a menos que se separen de su cargo sesenta días antes de la elección;
 V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y
@@ -310,8 +310,8 @@ II.- Tener 30 años cumplidos el día de la elección;
 III.- No pertenecer al Estado eclesiástico ni ser ministro de algún culto religioso;
 IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de seguridad pública, dentro de los noventa días anteriores a la fecha de la elección;
 V.- No ser funcionario o empleado federal noventa días anteriores a la fecha de la elección;
-(REFORMADA, B.O. 31 DE MAYO DE 1993)
-VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Secretario de la Contraloría General, Secretario de Educación Pública, Oficial Mayor, Procurador General de Justicia, Magistrado del Tribunal Superior de Justicia, Diputado Local, Presidente Municipal, y cualquier otra persona que desempeñe cargo público estatal o municipal, 90 días anteriores a la fecha de la elección; y
+(REFORMADA, B.O. 10 DE DICIEMBRE DE 1993)
+VI.- No ser Secretario del Despacho del Poder Ejecutivo, Procurador General de Justicia, Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local, Presidente Municipal y cualquier otra persona que desempeñe cargo público estatal o municipal, noventa días naturales anteriores a la fecha de la elección; y
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
 70.- El Gobernador del Estado durará en su encargo seis años; iniciará el ejercicio de sus funciones el día 5 de abril.
 71.- Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:
@@ -334,8 +334,8 @@ DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 79.- Son facultades y obligaciones del Gobernador:
 I.- Publicar, cumplir y hacer cumplir las leyes federales;
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
-(REFORMADA, B.O. 31 DE MAYO DE 1993)
-III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Secretario de la Contraloría General, Secretario de Educación Pública, Oficial Mayor, Procurador General de Justicia y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
+(REFORMADA, B.O. 10 DE DICIEMBRE DE 1993)
+III.- Nombrar y remover libremente a los Secretarios del Despacho, Procurador General de Justicia y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no este determinado de otro modo en la Constitución o en las Leyes.
 IV.- Nombrar a los Magistrados del Tribunal Superior de Justicia, con la aprobación del Congreso del Estado o la Diputación Permanente, en su caso;
 V.- Nombrar a los miembros del Consejo tutelar para menores, en los términos que disponga la ley de la materia;
 VI.- Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia y turnarlas, en su caso, al Congreso del Estado o a la Comisión Permanente;
@@ -388,12 +388,13 @@ XLIII.- Promover y vigilar el saneamiento al medio ambiente y realizar las accio
 XLIV.- Las demás que señalen esta Constitución y sus leyes.
 SECCION III
 DE LAS DEPENDENCIAS DEL EJECUTIVO
-(REFORMADO, B.O. 31 DE MAYO DE 1993)
-80.- La Administración Pública de Baja California Sur, será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expide el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Bienestar Social, un Secretario de Turismo, un Secretario de la Contraloría General, un Secretario de Educación Pública, un Oficial Mayor, un Procurador General de Justicia y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Estatal en su operación.
-Las Leyes determinarán las relaciones entre las entidades paraestatales y el Gobernador o entre estas y las Dependencias del Ejecutivo.
-81.- Toda ley o decreto será refrendada por el Secretario General de Gobierno y por el funcionario del ramo relativo.
-(REFORMADO PRIMER PARRAFO, B.O. 31 DE MAYO DE 1993)
-82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Secretario de la Contraloría General, Secretario de Educación Pública, y Oficial Mayor, se requiere:
+(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
+80.- La Administración Pública de Baja California Sur será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas y Administración, un Secretario de Desarrollo y Fomento Económico, un Secretario de Planeación Urbana e Infraestructura, un Secretario de Educación Pública, un Procurador General de Justicia, las Unidades Administrativas de Turismo y de la Contraloría General y definirá las bases para la creación de las entidades paraestatales y la intervención del Ejecutivo Estatal en su operación.
+Las Leyes determinarán las relaciones entre las entidades paraestatales y el Gobernador y por el funcionario del ramo relativo.
+(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
+81.- Toda Ley o Decreto será refrendada por el Secretario General de Gobierno y por el Secretario del ramo.
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1993)
+82.- Para ser Secretario del Despacho se requiere:
 (REFORMADA, B.O. 20 DE MAYO DE 1987)
 I.- Ser Ciudadano Sudcaliforniano.
 (REFORMADA, B.O. 20 DE MAYO DE 1987)
@@ -402,22 +403,14 @@ II.- Tener 25 años de edad como mínimo.
 III.- Tener modo honesto de vivir. Y
 (REFORMADA, B.O. 20 DE MAYO DE 1987)
 IV.- No haber sido condenado por delitos intencionales y oficiales.
-83.- Son facultades y obligaciones del Secretario General de Gobierno y del Oficial Mayor:
-a).- Del Secretario:
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-I.- Suplir al Gobernador en sus faltas temporales, no mayores de treinta días;
-II.- Coordinar las actividades de las diferentes dependencias del Gobierno del Estado y resolver, previo acuerdo con el Gobernador, los conflictos de competencia que pudieran surgir entre ellos;
-III.- Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones del Gobierno del Estado;
-IV.- Firmar los acuerdos dictados por el Gobernador del Estado, así como los contratos que celebre. Sin este requisito no surtirán efectos legales;
-V.- Representar al Gobernador del Estado cuando éste lo estime conveniente, ante las autoridades de la Federación, de las Entidades Federativas y de los Municipios del Estado; y
-VI.- Las demás que le confieran las leyes.
-b).- Del Oficial Mayor:
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-I.- Suplir al Secretario General de Gobierno cuando esté encargado del despacho de la gubernatura, o en sus faltas temporales;
-II.- Cumplir y hacer cumplir los acuerdos, órdenes y circulares del Gobernador del Estado en su correspondiente esfera de competencia;
-III.- Tramitar lo relacionado con los nombramientos, licencias y permisos de funcionarios y empleados del Gobierno del Estado, en los términos de las disposiciones relativas;
-IV.- (DEROGADA, B.O. 30 DE ABRIL DE 1981)
-V.- Las demás que le confieran las leyes.
+(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
+83.- Son facultades y obligaciones del Secretario General de Gobierno:
+I.- Suplir al Gobernador en sus faltas temporales, no mayores de treinta días.
+II.- Coordinar las actividades de las diferentes Dependencias del Gobierno del Estado y resolver, previo acuerdo con el Gobernador, los conflictos de competencia que pudieran surgir entre ellas.
+III.- Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones del Gobierno del Estado.
+IV.- Firmar los acuerdos dictados por el Gobernador del Estado, así como los contratos que celebre. Sin este requisito no surtirán efectos legales.
+V.- Representar al Gobernador del Estado cuand0 (sic) éste lo estime conveniente, ante las Autoridades de la Federación, de las Entidades Federativas y de los Municipios del Estado; y
+VI.- Las demás que les confieran las Leyes.
 84.- Para ser Procurador General de Justicia se requiere:
 I.- Ser ciudadano sudcaliforniano;
 II.- Tener 30 años de edad como mínimo;
@@ -435,19 +428,7 @@ III.- Defender los intereses del Estado ante los Tribunales, excepto en lo relat
 (ADICIONADO, B.O. 10 DE ABRIL DE 1992)
 B.- El Congreso del Estado, establecerá un organismo de protección de los derechos humanos que otorga el orden jurídico mexicano, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público local, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
 Este organismo que establezca el Congreso de la Unión conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones del organismo que en su caso cree el Congreso del Estado, el cual asimismo, podrá comunicarse con el organismo federal que conozca de la defensa y protección de los derechos humanos, para actuar coordinadamente en sus respectivos ámbitos de competencia.
-N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMA DE 30 DE ABRIL DE 1981 SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO DE NUEVE FRACCIONES A SEIS.
-(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 1981)
-86.- Son facultades y obligaciones del Secretario de Finanzas:
-I.- Recaudar los ingresos del erario conforme a las leyes en vigor, ordenando las medidas necesarias para hacerlos efectivos, así como revisar todas las resoluciones que dicten las oficinas fiscales del Estado, en el procedimiento administrativo de ejecución;
-II.- Vigilar que sean garantizadas las prestaciones a favor del erario conforme a las disposiciones vigentes, fijar el monto y calificar las garantías que llenen las seguridades conducentes; comprobar, periódicamente su eficacia y adoptar, en caso contrario, las medidas necesarias para asegurar los intereses fiscales;
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-III.- Dictar las medidas necesarias para el estricto ejercicio del Presupuesto de Egresos y el control del gasto público.
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-IV.- Intervenir en la celebración de los convenios de coordinación que en materia hacendaria el Gobierno del Estado celebre con los Gobiernos Federal y Municipal, así como ejercer las atribuciones que señalen a favor de los funcionarios estatales los convenios de coordinación fiscal, respecto a ingresos federales.
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-V.- Representar a la Hacienda Pública del Estado y ejercer las acciones y excepciones de que sea titular ante los Tribunales y autoridades respectivas.
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-VI.- Las demás que le confieran las Leyes.
+86.- (DEROGADO, B.O. 10 DE DICIEMBRE DE 1993)
 CAPITULO III
 DEL PODER JUDICIAL
 87.- Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del fuero común en los términos de esta Constitución.
@@ -524,7 +505,8 @@ DE LA HACIENDA PUBLICA
 105.- La Hacienda Pública del Estado está constituída por:
 I.- Los ingresos que determine su Ley de Hacienda y demás normas aplicables; y
 II.- Los ingresos que adquiera por concepto de convenios, participaciones legales, legados, donaciones o cualesquiera otras causas.
-106.- La administración de la Hacienda Pública estará a cargo del Gobernador por conducto del Tesorero General del Estado, quien será responsable de su manejo.
+(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
+106.- La Administración de la Hacienda Pública estará a cargo del Gobernador por conducto del Secretario de Finanzas y Administración, quien será responsable de su manejo.
 107.- La Ley determinará la organización y funcionamiento de las oficinas de Hacienda en el Estado.
 (REFORMADO, B.O. 30 DE ABRIL DE 1981)
 108.- Anualmente, durante la primera quincena del mes de noviembre, el Gobernador presentará al Congreso del Estado el proyecto de presupuesto.
@@ -534,9 +516,10 @@ II.- Los ingresos que adquiera por concepto de convenios, participaciones legale
 112.- No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por ley posterior.
 113.- Los pagos se harán previa autorización del Gobernador, y con absoluta igualdad y proporcionalidad entre los servidores y pensionistas del Estado.
 114.- Todo empleado de Hacienda que deba tener a su cargo manejo de fondos del Estado, otorgará previamente fianza suficiente para garantizar su manejo en los términos que la ley señale.
-115.- El Gobernador cuidará de que el Congreso del Estado conozca de la fianza con que los empleados de la Tesorería General caucionen su manejo.
-(REFORMADO, B.O. 30 DE ABRIL DE 1981)
-116.- El Secretario de Finanzas del Estado remitirá anualmente al Gobernador, en el mes de febrero, un informe pormenorizado del estado que guarda la Hacienda Pública al final del ejercicio fiscal anterior.
+(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
+115.- El Gobernador cuidará de que el Congreso del Estado conozca de la fianza con que los empleados de la Secretaría de Finanzas y Administración caucionen el manejo de las finanzas estatales.
+(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
+116.- El Secretario de Finanzas y Administración remitirá anualmente al Gobernador, en el mes de febrero, un informe pormenorizado del estado que guarda la Hacienda Pública al final del ejercicio fiscal anterior.
 TITULO OCTAVO
 DE LOS MUNICIPIOS
 CAPITULO I
@@ -745,11 +728,15 @@ III.- Se aplicarán sanciones administrativas a los servidores públicos por los
 Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 Las leyes determinarán las causas y circunstancias por las que se deba sancionar penalmente a los servidores públicos, por enriquecimiento ilícito, cuando aumente sustancialmente su patrimonio durante el tiempo de su encargo o por motivo del mismo, mediante la adquisición de bienes por sí o por interpósita persona, o que se conduzcan como dueños de ellos y cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de propiedad de dichos bienes, además de las otras penas que correspondan.
 Cualquier ciudadano, mediante la presentación de elementos de prueba y bajo su más estricta responsabilidad, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente Artículo.
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1993)
+158.- Podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador y el Subprocurador General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones Asimiladas y los Presidentes de Juntas y del Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
-158.- Podrán ser sujeto (sic) a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces del Fuero Común, los Secretarios y Subsecretarios de Despacho, el Oficial Mayor, el Procurador General y el Subprocurador General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores y los Directores del Poder Ejecutivo, los Directores de los organismos descentralizados, empresas de participación estatal, sociedades y asociaciones asimiladas y los Presidentes de Juntas y del Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal.
+(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 Recibida la denuncia por el Congreso del Estado, éste se erigirá en Jurado de Sentencia y substanciará el procedimiento respectivo, con audiencia del inculpado, aplicará la sanción correspondiente mediante resolución de las dos terceras partes de los miembros presentes en Sesión.
+(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
+(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 El procedimiento a que se refiere el presente Artículo solo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se impondrán en un período no mayor de un año a partir de iniciado el procedimiento.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 159.- Para proceder penalmente contra los servidores públicos, a que se refiere el párrafo primero del Artículo 158 por la comisión de delitos cometidos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría de votos de sus miembros presentes en Sesión, si ha lugar o no a proceder contra el inculpado, con las siguientes prevenciones:
