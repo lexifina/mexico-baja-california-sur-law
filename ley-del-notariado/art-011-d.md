@@ -1,6 +1,7 @@
 (ADICIONADO, B.O. 10 DE JUNIO DE 1993)
 ARTICULO 11 D. El examen versará sobre teoría y práctica notariales.
-El Consejo de Notarios tendrá preparados temarios que contemplen un mínimo de diez temas teóricos e igual número de temas prácticos sobre actos notariales.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)
+El Jurado tendrá preparados temarios que contemplen un mínimo de diez temas teóricos e igual número de temas prácticos sobre actos notariales.
 Para la celebración del examen sobre el aspecto teórico, el sustentante extraerá, al azar, tres temas, de los cuales seleccionará uno, a fin de que el examen se desarrolle sobre el elegido.
 Para el examen sobre el aspecto de práctica notarial, el sustentante extraerá otros tres temas de los que el jurado, por mayoría, elegirá uno, a fin de que el sustentante, desarrolle el mismo elaborando un proyecto sobre el instrumento notarial correspondiente; así como sus implicaciones administrativas. Para este examen se otorgarán al sustentante facilidades de consulta de los ordenamientos legales conducentes.
 Concluido el acto, se calificará su resultado con el voto individual y secreto de los sinodales, cuya mayoría o unanimidad determinará la aprobación o reprobación respectiva.
