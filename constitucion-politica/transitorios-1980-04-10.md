@@ -1,0 +1,7 @@
+B.O. 10 DE ABRIL DE 1980.
+ARTICULO 1o.- A partir de la fecha en que entre en vigor este Decreto, todas las personas que de manera definitiva, temporal o transitoria residan dentro del territorio que corresponda al nuevo Municipio, se considerarán vecinos y habitantes del mismo y quedarán sujetas a la jurisdicción de las autoridades de éste.
+ARTICULO 2o.- Los bienes propiedad del Municipio de La Paz ubicados en el territorio que se le segrega, pasarán, mediante el procedimiento legal correspondiente a integrar el patrimonio del Municipio de Los Cabos.
+ARTICULO 3o.- Las obligaciones de contenido económico o suscritos por el Ayuntamiento de La Paz por obras de beneficio colectivo realizadas por éste en el territorio del Municipio de Los Cabos, a partir de la vigencia del presente Decreto pasa a cargo del nuevo gobierno municipal.
+ARTICULO 4o.- Mientras los Ordenamientos propios del nuevo Municipio no sean expedidos seguirán aplicándose los vigentes hasta ese momento en su respectivo territorio.
+ARTICULO 5o.- El Ayuntamiento de La Paz, ejercerá sus atribuciones en el Municipio que se crea, hasta el 31 de diciembre de 1980, y deberá formular la iniciativa de Ley de Ingresos del mismo, tramitándolo en los términos del artículo 26, fracción X de la Ley Orgánica Municipal.
+ARTICULO 6o.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.

@@ -401,7 +401,7 @@ III.- Ser licenciado en Derecho, con título debidamente registrado y acreditar 
 IV.- Gozar de buena reputación; y
 V.- No haber sido condenado por delito intencional.
 92.- Los nombramientos de Magistrados del Tribunal Superior de Justicia que el Gobernador del Estado someta al Congreso del Estado o a la Comisión Permanente, en su caso, deberán ser aprobados o desechados dentro del improrrogable término de diez días.
-Si el Congreso del Estado o la Comisión Permanente, en su caso, nada resolviere dentro del plazo anterior, se tendrán por aprobados los nombramiencos y los designados entrarán a desempeñar sus funciones.
+Si el Congreso del Estado o la Comisión Permanente, en su caso, nada resolviere dentro del plazo anterior, se tendrán por aprobados los nombramiencos (sic) y los designados entrarán a desempeñar sus funciones.
 En caso de que no se aprueben dos nombramientos sucesivos respecto a una misma vacante, el Gobernador del Estado hará un tercero que surtirá efectos desde luego como provisional y que será sometido a la aprobación de la Comisión Permanente. Cuando los nombramientos hayan sido sometidos a la Comisión Permanente, el tercero se someterá al Congreso del Estado en el siguiente período de sesiones.
 Dentro de los primeros diez días de sesiones del Congreso del Estado o de la Comisión Permanente, se deberá aprobar o rechazar el nombramiento; si nada se resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo y el Gobernador hará la declaratoria correspondiente.
 Si el Congreso o la Comisión Permanente desecha el nombramiento, cesará desde luego en sus funciones el Magistrado Provisional y el Gobernador someterá nuevo nombramiento en los términos que se indican en este precepto.
@@ -468,12 +468,16 @@ CONCEPTOS Y FINES
 119.- Los municipios podrán tener representación en los organismos federales y estatales que realicen obras dentro de su jurisdicción.
 CAPITULO II
 DE LA EXTENSION, LIMITES Y CABECERAS
-120.- El territorio del Estado de Baja California Sur, se divide en tres Municipios que son: La Paz, Comondú y Mulegé, que tendrán los siguientes límites:
-a).- MUNICIPIO DE LA PAZ: Al norte colinda con el Municipio de Comondú, línea descrita en la colindancia sur de la municipalidad citada; por el este, sur y oeste, lo rodean las aguas litorales del Golfo de California y el Océano Pacífico, respectivamente.
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE ABRIL DE 1980)
+120.- El territorio del Estado de Baja California Sur se divide en cuatro Municipios que son: La Paz, Comondú, Mulegé y Los Cabos, que tendrán los siguientes límites:
+(REFORMADO, B.O. 10 DE ABRIL DE 1980)
+a).- Municipio de La Paz: al Norte, colinda con el Municipio de Comondú, línea descrita en la colindancia Sur de la municipalidad citada; por el Sur, con la colindancia Norte del Municipio de Los Cabos; por el Este y el Oeste, lo rodean aguas litorales del Golfo de California y el Océano Pacífico, respectivamente.
 b).- MUNICIPIO DE COMONDU: Al norte la misma línea de colindancia del sur del Municipio de Mulegé; por el sur, colinda con la municipalidad de La Paz, en una línea recta que parte del Golfo de California, del lugar conocido por Los Dolores que corresponde a la municipalidad de La Paz, cruzando la península hasta un lugar conocido por El Cayuco, rada que se ubica en la Costa de Bahía de Almejas, en el litoral del Océano Pacífico; por el este colinda con el litoral del Golfo de California y por el oeste con el Océano Pacífico.
 c).- MUNICIPIO DE MULEGE: Al norte colinda con el Estado de Baja California, siendo su línea limítrofe el paralelo 28° de latitud norte; al sur con una línea que partiendo de la Punta de San Ildefonso, situada en el extremo sur de la Bahía de San Nicolás, sigue con rumbo suroeste hasta el punto conocido por Cerrito de la Pitahaya, situado al sureste e inmediato al Puerto de Santa Rosaliita (sic); de aquí con rumbo oeste, hasta llegar al litoral del Pacífico, con el lugar conocido por la Bocana de Rancho Nuevo; por el este con el Golfo de California y por el oeste con el Océano Pacífico.
-Las cabeceras de los Municipios antes descritos, serán las siguientes:
-De La Paz, la población del mismo nombre; de Comondú, Ciudad Constitución; y de Mulegé, Santa Rosalía.
+(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE ABRIL DE 1980)
+d).- Municipio de Los Cabos: al Norte, en línea quebrada con la Delegación de Todos Santos, partiendo del Océano Pacífico de un punto llamado "La Tinaja", que va en línea recta al copo de la Sierra de "La Soledad" rumbo al Este; de este punto hacia el Norte, en línea recta al copo de la sierra de "Santa Genoveva" y de este lugar pasando por el copo de la Sierra de "Las Casitas" hasta un lugar conocido como "San Vicente"; de este lugar en línea recta hacia el Este hasta llegar a "Piedras Gordas" Delegación de San Antonio, en el Golfo de California; al Sur, el Océano Pacífico; al Este, el Golfo de California, y al Oeste, el Océano Pacífico y la Delegación de Todos Santos.
+(REFORMADO, B.O. 10 DE ABRIL DE 1980)
+Las cabeceras de los Municipios antes descritos serán las siguientes: La Paz, la población del mismo nombre; Comondú, Ciudad Constitución; de Mulegé, Santa Rosalía y de Los Cabos, San José del Cabo.
 121.- Los Municipios se dividirán en:
 I.- Cabeceras;
 II.- Delegaciones; y
