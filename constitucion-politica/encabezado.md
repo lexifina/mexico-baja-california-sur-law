@@ -401,7 +401,7 @@ III.- Ser licenciado en Derecho, con título debidamente registrado y acreditar 
 IV.- Gozar de buena reputación; y
 V.- No haber sido condenado por delito intencional.
 92.- Los nombramientos de Magistrados del Tribunal Superior de Justicia que el Gobernador del Estado someta al Congreso del Estado o a la Comisión Permanente, en su caso, deberán ser aprobados o desechados dentro del improrrogable término de diez días.
-Si el Congreso del Estado o la Comisión Permanente, en su caso, nada resolviere dentro del plazo anterior, se tendrán por aprobados los nombramiencos (sic) y los designados entrarán a desempeñar sus funciones.
+Si el Congreso del Estado o la Comisión Permanente, en su caso, nada resolviere dentro del plazo anterior, se tendrán por aprobados los nombramiencos y los designados entrarán a desempeñar sus funciones.
 En caso de que no se aprueben dos nombramientos sucesivos respecto a una misma vacante, el Gobernador del Estado hará un tercero que surtirá efectos desde luego como provisional y que será sometido a la aprobación de la Comisión Permanente. Cuando los nombramientos hayan sido sometidos a la Comisión Permanente, el tercero se someterá al Congreso del Estado en el siguiente período de sesiones.
 Dentro de los primeros diez días de sesiones del Congreso del Estado o de la Comisión Permanente, se deberá aprobar o rechazar el nombramiento; si nada se resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo y el Gobernador hará la declaratoria correspondiente.
 Si el Congreso o la Comisión Permanente desecha el nombramiento, cesará desde luego en sus funciones el Magistrado Provisional y el Gobernador someterá nuevo nombramiento en los términos que se indican en este precepto.
@@ -481,11 +481,13 @@ III.- Subdelegaciones.
 La extensión y límites de las delegaciones y subdelegaciones serán determinadas por el ayuntamiento respectivo.
 CAPITULO III
 DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
-122.- Para la creación de municipios en el Estado se requerirán la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
+(REFORMADO PRIMER PARRAFO, B.O. 7 DE ABRIL DE 1980)
+122.- Para la creación de Municipios en el Estado se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
 I.- Que sea conveniente para satisfacer las necesidades de sus habitantes;
 II.- Que la superficie del territorio del Estado en que se pretenda erigir, sea suficiente para cubrir sus necesidades y atender a sus posibilidades y de desarrollo futuro;
 III.- Que sus recursos de desarrollo potencial le garanticen posibilidades de autosuficiencia económica, para cubrir un presupuesto mínimo anual de $30'000,000.00 (treinta millones de pesos);
-IV.- Que su población no sea inferior a treinta mil habitantes;
+(REFORMADA, B.O. 7 DE ABRIL DE 1980)
+IV.- Que su población no sea inferior a veinte mil habitantes.
 V.- Que la comunidad en que se establezca su cabecera cuente con más de cinco mil habitantes;
 VI.- Que la ciudad señalada en la fracción anterior, tenga servicios públicos adecuados para su población; y
 VII.- Que previamente se escuche la opinión de los ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo.
@@ -517,14 +519,18 @@ CAPITULO V
 DEL GOBIERNO MUNICIPAL
 CONCEPTO E INTEGRACION
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
+(REFORMADO PRIMER PARRAFO, B.O. 7 DE ABRIL DE 1980)
+135.- Los Ayuntamientos se integrarán con un Presidente, un Síndico y siete Regidores, electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa, con excepción de el de la Capital del Estado, donde el Ayuntamiento se complementará con dos Regidores electos por el principio de representación proporcional, en los términos que señala la Ley Electoral del Estado. Por cada miembro del Ayuntamiento habrá un suplente.
 (REFORMADO, B.O. 10 DE JULIO DE 1978)
-135.- Los Ayuntamientos se integran con un Presidente, un Síndico y cinco Regidores, electos por sufragio universal directo, libre y secreto mediante el sistema de mayoría relativa, con excepción de el de la Capital del Estado, donde los Ayuntamientos se complementarán con dos Regidores electos por el principio de representación proporcional en los términos que señala la Ley Electoral del Estado. Por cada miembro del Ayuntamiento habrá un suplente.
 El partido político que alcance el mayor porcentaje de votación minoritaria, tendrá derecho a que se le adjudique un Regidor, siempre y cuando satisfaga los siguientes requisitos:
 a).- Que hubiere registrado candidatos propietarios y suplentes, en la elección municipal respectiva.
 b).- Que no haya alcanzado el triunfo por mayoría relativa en la misma elección.
 c).- Que alcance, por lo menos, el tres por ciento del total de la votación emitida en el Municipio respectivo.
+(REFORMADO, B.O. 10 DE JULIO DE 1978)
 Un segundo Regidor podrá ser adjudicado al partido que habiendo obtenido el segundo porcentaje en la votación minoritaria, tenga por lo menos la mitad de los sufragios que el partido triunfador minoritario haya alcanzado. De no darse este mínimo de proporción, se le adjudicará este segundo Regidor al partido triunfador minoritario.
+(REFORMADO, B.O. 10 DE JULIO DE 1978)
 La Ley Reglamentaria determinará los procedimientos que se observarán en dicha asignación.
+(REFORMADO, B.O. 10 DE JULIO DE 1978)
 Los miembros de los Ayuntamientos durarán en su encargo tres años a partir de la fecha en que tomen posesión del mismo.
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
 CAPITULO VI
