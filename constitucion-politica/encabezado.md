@@ -333,11 +333,15 @@ DE LAS DEPENDENCIAS DEL EJECUTIVO
 (REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)
 80.- Para el despacho de los negocios del orden administrativo habrá: un Secretario General de Gobierno, un Oficial Mayor, un Procurador General de Justicia, un Secretario de Finanzas, un Secretario de Desarrollo y los demás funcionarios que establezca la Ley Orgánica del Poder Ejecutivo.
 81.- Toda ley o decreto será refrendada por el Secretario General de Gobierno y por el funcionario del ramo relativo.
-(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)
-82.- Para ser Secretario General de Gobierno, Secretario de Desarrollo y Oficial Mayor se requiere:
+(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 1981)
+82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo y Oficial Mayor se requiere:
+(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
 I.- Ser ciudadano sudcaliforniano;
-II.- Tener 30 años de edad como mínimo;
+(REFORMADA, B.O. 25 DE MARZO DE 1981)
+II.- Tener 25 años de edad como mínimo.
+(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
 III.- Tener modo honesto de vivir y
+(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
 IV.- No haber sido condenado por delito del fuero común, intencionales u oficiales.
 83.- Son facultades y obligaciones del Secretario General de Gobierno y del Oficial Mayor:
 a).- Del Secretario:
@@ -365,10 +369,8 @@ Son atribuciones del Ministerio Público:
 I.- Ejercitar ante los Tribunales del Estado, las acciones que correspondan contra las personas que violen las leyes de interés público;
 II.- Intervenir en la forma y términos que la ley disponga, en los juicios que afecten a personas a quienes la ley otorga especial protección; y
 III.- Defender los intereses del Estado ante los Tribunales.
-(REFORMADO PRIMER PARRAFO, B.O. 21 DE DICIEMBRE DE 1976)
-86.- Para ser Secretario de Finanzas se requiere: ser ciudadano sudcaliforniano, tener 30 años de edad como mínimo y un modo honesto de vivir.
-(REFORMADO PRIMER PARRAFO, B.O. 21 DE DICIEMBRE DE 1976)
-Son facultades y obligaciones del Secretario de Finanzas:
+(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 1981)
+86.- Son facultades y obligaciones del Secretario de Finanzas:
 I.- Recaudar los ingresos del erario conforme a las leyes en vigor, ordenando las medidas necesarias para hacerlos efectivos, así como revisar todas las resoluciones que dicten las oficinas fiscales del Estado, en el procedimiento administrativo de ejecución;
 II.- Vigilar que sean garantizadas las prestaciones a favor del erario conforme a las disposiciones vigentes, fijar el monto y calificar las garantías que llenen las seguridades conducentes; comprobar, periódicamente su eficacia y adoptar, en caso contrario, las medidas necesarias para asegurar los intereses fiscales;
 III.- Dictar las medidas necesarias para el estricto ejercicio del presupuesto de egresos;
