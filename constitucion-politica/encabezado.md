@@ -45,7 +45,9 @@ Las autoridades estatales, asumirán el ejercicio de todas las atribuciones que 
 15.- Las leyes locales organizarán el patrimonio familiar, determinando los bienes que deban constituirlo, sobre la base de que será inalienable y no estará sujeto a embargo ni gravamen alguno.
 16.- Las autoridades estatales organizarán, coordinarán y fomentarán la vida económica de la entidad, para asegurar a todos los habitantes una existencia digna, tomando en consideración que los factores de la producción garantizan la justicia social.
 17.- El trabajo es un derecho del individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado protegerá en beneficio de los trabajadores, el cumplimiento de los derechos y prerrogativas establecidos en el artículo 123 de la Constitución General de la República.
-18.- Todos los habitantes del Estado tienen derecho al bienestar y seguridad sociales, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y el saneamiento del medio ambiente.
+(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)
+18.- Todos los habitantes del Estado tienen derecho a la protección de la salud y seguridad sociales teniendo como objetivo la permanente superación del nivel de vida de la población y el saneamiento del medio ambiente.
+La Ley definirá las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado.
 19.- Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística y científica de la comunidad y en los beneficios que de ello resulten.
 20.- Queda prohibida la pena de muerte, y cualesquiera otras penas inusitadas y trascendentales.
 Toda persona reducida a prisión tiene derecho a la readaptación social, y los beneficios que de él resulten, sobre las bases del trabajo, la capacitación para el mismo, la educación y la reestructuración de su personalidad, inspirados en un criterio de defensa social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad.
@@ -715,7 +717,8 @@ VII.- El Gobernador del Estado, durante el período de su encargo solo podrá se
 Dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones a que se refiere el Artículo 157, Fracción III, pero no podrá exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 TITULO DECIMO
 PREVENCIONES GENERALES
-161.- Todos los contratos y concesiones que el Gobierno del Estado y los municipios tengan que celebrar para ejecución de obras públicas y servicios, con el objeto de garantizar precios, calidad y responsabilidad de contratistas y concesionarios, serán adjudicados en subasta, mediante convocatoria, para que se presenten proposiciones en sobres cerrados que serán abiertos en junta pública.
+(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)
+161.- Todos los contratos y concesiones que el Gobierno del Estado y los Municipios tengan que celebrar para ejecución de obras públicas y servicios, con el objeto de garantizar precios, calidad y responsabilidad de contratistas y concesiones, serán adjudicados en los términos de la Ley de la materia.
 162.- El Gobierno del Estado y los municipios deberán crear y desarrollar la integración de planos reguladores en sus respectivas jurisdicciones.
 163.- Los funcionarios y empleados públicos, antes de tomar posesión de su encargo, otorgarán protesta de guardar y hacer guardar la Constitución General de la República, la presente Constitución y las leyes que de ellas emanen.
 164.- Nadie puede a la vez ejercer, en el Estado, dos o más cargos de elección popular, pero el interesado podrá escoger cualquiera de ellos.
