@@ -454,8 +454,9 @@ DE LAS DEPENDENCIAS DEL EJECUTIVO
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 1999)
 80.- La Administración Pública Estatal será Centralizada y Paraestatal conforme a la Ley Orgánica que expida el Congreso de Baja California Sur, que distribuirá los negocios del orden administrativo de la entidad que estará a cargo de la Secretaría General de Gobierno, la Procuraduría General de Justicia, la Oficialía Mayor, la Secretaría de Finanzas, la Secretaría de Promoción y Desarrollo Económico, la Secretaría de Planeación Urbana, Infraestructura y Ecología, la Secretaría de Salud, la Secretaría de Educación Pública, la Coordinación de Programas de Bienestar Social, la Coordinación Estatal de Promoción al Turismo y la Unidad de Desarrollo Administrativo y Control Gubernamental, y definirá las bases para la creación de las entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación.
 Las Leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador y por el funcionario del ramo relativo.
-(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
-81.- Toda Ley o Decreto será refrendada por el Secretario General de Gobierno y por el Secretario del ramo.
+(REFORMADO, B.O. 10 DE OCTUBRE DE 2002)
+81.- Los reglamentos, Decretos, Acuerdos y órdenes expedidos por el Gobernador del Estado, deberán, para su validez y observancia, ser refrendados por el Secretario General de Gobierno y por el Secretario del Ramo respectivo; cuando se refieran (sic) asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
+Tratándose de Decretos de publicación de la (sic) Leyes o Decretos expedidos por el Congreso del Estado, solo se requerirá el refrendo del Secretario General.
 (REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1993)
 82.- Para ser Secretario del Despacho se requiere:
 (REFORMADA, B.O. 20 DE MAYO DE 1987)
