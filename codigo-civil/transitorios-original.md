@@ -1,5 +1,6 @@
 TRANSITORIOS:
-ARTICULO PRIMERO.- Este Código entrará en vigor a los seis meses que sigan a la fecha de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+(REFORMADO, B.O. 17 DE ENERO DE 1997)
+ARTICULO PRIMERO.- Este Código entrará en vigor el día 15 de Junio de 1997.
 ARTICULO SEGUNDO.- Desde esa misma fecha, quedan sin efecto las disposiciones del Código Civil del Distrito Federal vigentes hasta entonces por disposición expresa del artículo segundo transitorio de la Constitución Política del Estado de Baja California Sur.
 ARTICULO TERCERO.- Las disposiciones de este Código regirán los efectos jurídicos de los actos anteriores a su vigencia, si con su aplicación no se violan derechos adquiridos.
 ARTICULO CUARTO.- Se abroga la Ley del Registro Civil del Estado de Baja California Sur, aprobada por el Congreso del Estado mediante el Decreto número 299, de fecha 11 de diciembre de 1981.
@@ -14,3 +15,4 @@ EL GOBERNADOR CONSTITUCIONAL DE ESTADO DE BAJA CALIFORNIA SUR
 LIC. GUILLERMO MERCADO ROMERO
 SECRETARIO GENERAL DE GOBIERNO
 LIC. RAUL ANTONIO ORTEGA SALGADO
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
