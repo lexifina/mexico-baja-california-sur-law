@@ -261,7 +261,7 @@ DE LAS FACULTADES DEL CONGRESO
 I.- Legislar en todo lo relativo al Gobierno del Estado;
 II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
-IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
+IV.- Formular su Ley Reglamentaria, así comola de la Contaduría Mayor de Hacienda;
 (REFORMADA, B.O. 18 DE JUNIO DE 1998)
 V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 VI.- (DEROGADA, B.O. 14 DE JULIO DE 1995)
@@ -440,10 +440,12 @@ XLIII.- Promover y vigilar el saneamiento al medio ambiente y realizar las accio
 XLIV.- Proponer al Congreso del Estado, una terna de aspirantes al puesto de Magistrado del Tribunal Unitario de lo Contencioso Administrativo dentro de los diez días siguientes a que por renuncia, muerte o remoción se desocupe el cargo, y una vez elegido éste expedir el nombramiento respectivo; y (sic)
 (REFORMADA, B.O. 6 DE ABRIL DE 1999)
 XLV.- Nombrar a los miembros del Consejo Tutelar para Menores en los términos que disponga la Ley de la materia
-(ADICIONADA, B.O. 10 DE JUNIO DE 2000)
-XLVI.- Solicitar al Consejo Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de Gobierno consideradas como trascendentes para la vida pública del Estado.
+(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)
+XLVI.- Publicar los días 15 de Junio y 15 de Diciembre de cada año, en el Boletín Oficial del Gobierno del Estado y en el periódico local de mayor circulación, las fórmulas y criterios de asignación, así como los montos de las Participaciones Federales y Estatales otorgadas a los Municipios.
+(ADICIONADA, B.O. 10 DE JUNIO DE 2000)(F. DE E., B.O. 31 DE JULIO DE 2000)
+XLVII.- Solicitar al Consejo Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de Gobierno consideradas como trascendentes para la vida pública del Estado.
 (REFORMADA, B.O. 10 DE JUNIO DE 2000)
-XLVII.- Las demás que señalen esta Constitución y sus leyes.
+XLVIII.- Las demás que señalen esta Constitución y sus leyes.
 SECCION III
 DE LAS DEPENDENCIAS DEL EJECUTIVO
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 1999)
@@ -753,6 +755,8 @@ XVIII.- Ejercer las atribuciones que señalan el Código Civil, el de Comercio y
 XIX.- Celebrar convenios para que instituciones Federales o Estatales, presten los servicios de seguridad social a sus trabajadores.
 (ADICIONADA, B.O. 20 DE ABRIL DE 1991)
 XX.- Formular y promover la ejecución de la política municipal ecológica, cuidando que guarde congruencia con la Estatal y Federal, con la finalidad de preservar y restaurar el equilibrio ecológico en áreas o zonas de jurisdicción municipal.
+(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)
+XXI.- Publicar cada tres meses en el Boletín Oficial del Gobierno del Estado de Baja California Sur y en el periódico local de mayor circulación, los ingresos propios, Federales y Estatales obtenidos, así como su egreso por rubros.
 CAPITULO IX
 SECCION I
 DE LOS TITULARES DEL GOBIERNO MUNICIPAL
