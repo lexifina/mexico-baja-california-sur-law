@@ -171,9 +171,9 @@ III.- Visitar los distritos en los que fueren electos e informar a los habitante
 IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso del Estado un informe de sus actividades desarrolladas dentro y fuera de sus distritos correspondientes.
 SECCION III
 DE LAS SESIONES
-50.- El Congreso del Estado tendrá, durante el año, dos períodos ordinarios de sesiones: el primero, del primero de abril al último de junio, y el segundo, del 15 de septiembre al 15 de diciembre, pero no podrá prolongarse más que hasta el 31 de diciembre del mismo año.
-(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1982)
-A convocatoria del Gobernador o de la Diputación Permanente, los Periodos Ordinarios de Sesiones del Congreso del Estado, podrán iniciarse hasta quince días antes de la fecha establecida en el párrafo que precede.
+(REFORMADO, B.O. 30 DE NOVIEMBRE DE 1987)
+50.- El Congreso del Estado tendrá durante el año, dos Periodos Ordinarios de Sesiones; el primero, del 15 de Marzo, al 15 de Junio; y el segundo, del 15 de septiembre, al 15 de Diciembre, el cual podrá prolongarse hasta el 31 de diciembre del mismo año.
+A convocatoria del Gobernador o de la Diputación Permanente, los Periodos de Sesiones del Congreso del Estado, podrán iniciarse hasta 15 días antes de la fecha establecida en el párrafo que precede.
 (REFORMADO, B.O. 30 DE ABRIL DE 1981)
 51.- El Congreso del Estado celebrará Período Extraordinario de Sesiones, a convocatoria del Gobernador o la Diputación Permanente. En la convocatoria correspondiente se señalarán el motivo y la finalidad de los Períodos Extraordinarios.
 52.- No podrá celebrarse ninguna sesión sin la concurrencia de más de la mitad del número total de diputados.
