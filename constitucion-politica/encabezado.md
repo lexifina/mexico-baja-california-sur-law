@@ -262,7 +262,7 @@ XL.- Expedir leyes para fijar la extensión máxima de la propiedad rural, en lo
 XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, sobre la base de su naturaleza inalienable, ingravable e inembargable;
 XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la superación del nivel de vida de la población, mejoramiento de su salud y el saneamiento del medio ambiente; y (sic)
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
-XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos;
+XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos.
 (ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
 XLIV.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
 SECCION VI
@@ -577,14 +577,16 @@ CAPITULO V
 DEL GOBIERNO MUNICIPAL
 CONCEPTO E INTEGRACION
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
-(REFORMADO, B.O. 25 DE ABRIL DE 1983)
-135.- Los Ayuntamientos se integrarán con un Presidente, un Síndico y siete Regidores, electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con un Regidor electo por el sistema de Representación Proporcional, con excepción del Ayuntamiento de la Capital del Estado, el cual se integrará con un Presidente, un Síndico y diez Regidores electos por el sistema de Mayoría Relativa y hasta con dos Regidores electos por el principio de Representación Proporcional, en los términos que señala la Ley Electoral del Estado. Por cada miembro del Ayuntamiento habrá un Suplente.
-El Partido Político que alcance el mayor porcentaje de votación minoritaria, tendrá derecho a que se le adjudique el Regidor de Representación Proporcional en el Ayuntamiento respectivo siempre y cuando satisfaga los siguientes requisitos:
-a).- Que hubiere registrado candidatos propietarios y suplente en la elección municipal respectiva.
+(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1986)
+135.- Los Ayuntamientos se integrarán con un Presidente, un Síndico y ocho Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con un Regidor electo por el sistema de representación proporcional.
+En el caso de que los Municipios del Estado rebasen en su población total la cantidad de 50,000 habitantes, tendrán derecho a que se les asignen hasta dos Regidores más, electos por el sistema de mayoría relativa y uno más, electo por el principio de representación proporcional, con excepción del Ayuntamiento de la capital del Estado, el cual, por su elevada población, se integrará con un Presidente, un Síndico y doce Regidores electos por el sistema de mayoría relativa y hasta con tres Regidores electos por el principio de representación proporcional, en los términos que señala la Ley Electoral del Estado.
+Por cada miembro propietario del Ayuntamiento habrá un suplente.
+El partido político que alcance el mayor porcentaje de votación minoritaria, tendrá derecho a que se le adjudique el Regidor de representación proporcional en el Ayuntamiento respectivo, siempre y cuando satisfaga los siguientes requisitos:
+a).- Que hubieren registrado candidatos propietarios y suplentes en la elección Municipal respectiva.
 b).- Que no haya alcanzado el triunfo por mayoría relativa en la misma elección.
 c).- Que alcance, por lo menos, el cinco por ciento del total de la votación emitida en el Municipio correspondiente.
-En el Ayuntamiento de la Capital del Estado, la primera asignación se hará en favor del Partido que habiendo cumplido los anteriores requisitos, haya obtenido el mayor porcentaje de votación minoritaria.
-La segunda Regiduría se adjudicará a aquel Partido que habiendo reunido todos los requisitos señalados en esta misma disposición, haya obtenido el segundo porcentaje de la votación minoritaria.
+En el Ayuntamiento de la capital del Estado, la primera asignación se hará en favor del partido que habiendo cumplido con los anteriores requisitos haya obtenido el mayor porcentaje de votación minoritaria.
+La segunda y tercera Regiduría se adjudicarán a aquellos partidos que habiendo reunido todos los requisitos señalados en esta misma disposición, hayan obtenido el segundo y tercer porcentaje de la votación minoritaria.
 La Ley Reglamentaria determinará los procedimientos que se observarán para dichas asignaciones.
 Los miembros de los Ayuntamientos durarán en su cargo tres años a partir de la fecha en que tomen posesión del mismo.
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
