@@ -422,9 +422,9 @@ XLV.- Nombrar a los miembros del Consejo Tutelar para Menores en los términos q
 XLVI.- Las demás que señalen esta Constitución y sus Leyes.
 SECCION III
 DE LAS DEPENDENCIAS DEL EJECUTIVO
-(ADICIONADO [N. DE E. REFORMADO], B.O. 22 DE OCTUBRE DE 1996)
-80.- La administración pública de Baja California Sur, será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas y Administración, un Secretario de Desarrollo y Fomento Económico, un Secretario de Planeación Urbana e Infraestructura, un Secretario de Salud, un Secretario de Educación Pública, un Procurador General de Justicia, las Unidades Administrativas de Turismo y de la Contraloría General y definirá las bases para la creación de las Entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación.
-Las leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador y por el funcionario del ramo relativo.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 1999)
+80.- La Administración Pública Estatal será Centralizada y Paraestatal conforme a la Ley Orgánica que expida el Congreso de Baja California Sur, que distribuirá los negocios del orden administrativo de la entidad que estará a cargo de la Secretaría General de Gobierno, la Procuraduría General de Justicia, la Oficialía Mayor, la Secretaría de Finanzas, la Secretaría de Promoción y Desarrollo Económico, la Secretaría de Planeación Urbana, Infraestructura y Ecología, la Secretaría de Salud, la Secretaría de Educación Pública, la Coordinación de Programas de Bienestar Social, la Coordinación Estatal de Promoción al Turismo y la Unidad de Desarrollo Administrativo y Control Gubernamental, y definirá las bases para la creación de las entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación.
+Las Leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador y por el funcionario del ramo relativo.
 (REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
 81.- Toda Ley o Decreto será refrendada por el Secretario General de Gobierno y por el Secretario del ramo.
 (REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1993)
