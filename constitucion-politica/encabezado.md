@@ -122,7 +122,8 @@ DEL TERRITORIO DEL ESTADO
 I.- Por el norte el paralelo 28; por el oriente, el Golfo de California; por el sur y el poniente, el Océano Pacífico;
 II.- Quedan comprendidas bajo la jurisdicción del Estado las Islas que a continuación se mencionan:
 Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en el Océano Pacífico; Cerralvo, Santa Catalina o Catalana, San Juan Nepomuceno, Espíritu Santo, San José de Sta. Cruz, del Carmen, Coronados, San Marcos y Tortugas, situadas en el Golfo de California y, además, las islas, islotes y cayos adyacentes localizados entre los paralelos 28° y 22° 30' norte.
-35.- La ciudad de La Paz es la capital del Estado y la residencia oficial de los poderes estatales.
+(REFORMADO, B.O. 10 DE MAYO DE 2003)
+35.- La ciudad de La Paz es la Capital del Estado y la Sede Oficial de los Poderes Públicos de la entidad.
 TITULO QUINTO
 DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
 (REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)
@@ -230,24 +231,29 @@ Podrá asistir también, por sí o por conducto de un Funcionario del Poder Ejec
 56.- El Congreso se reunirá en la capital del Estado, pero podrá cambiar provisionalmente su sede, si así lo acuerdan las dos terceras partes de la totalidad de los diputados, notificando a los otros dos poderes.
 SECCION IV
 DE LA INICIATIVA Y FORMACION DE LAS LEYES Y DECRETOS
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)
-57.- El derecho de iniciar, reformar y adicionar Leyes o decretos compete:
-I.- Al Gobernador del Estado;
-II.- A los Diputados al Congreso del Estado;
-III.- A los Ayuntamientos;
-IV.- Al Tribunal Superior de Justicia en su ramo; y
-(REFORMADA, B.O. 10 DE JUNIO DE 2000)
-V.- A los ciudadanos del Estado registrados en la Lista Nominal de Electores, cuyo número represente cuando menos el 0.5% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exija la Ley de la materia y la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur. Así como por conducto del Diputado de su Distrito.
-58.- Las iniciativas se sujetarán al trámite que señale la Ley Reglamentaria del Congreso del Estado. Una vez aprobadas, pasarán al Gobernador para que en plazo no mayor de diez días formule, si las hubiere, las observaciones pertinentes, o proceda a su publicación.
-59.- Se considera aprobado todo proyecto de ley o decreto no devuelto por el Gobernador en ese plazo, a no ser que durante ese término el Congreso del Estado hubiere entrado en receso, en cuyo caso, la devolución deberá hacerla el primer día de sesiones del período siguiente.
-60.- La facultad de veto del Gobernador se sujetará a las siguientes reglas:
-I.- Todo proyecto de ley o decreto desechado en todo o en parte por el Gobernador será devuelto con sus observaciones al Congreso del Estado, quien lo discutirá nuevamente en la parte conducente;
-II.- De ser confirmado el proyecto original, por las dos terceras partes de los miembros del Congreso del Estado, éste será ley o decreto y devuelto al Gobernador para su publicación; y
-III.- Si el Congreso del Estado aprobase, por la misma mayoría calificada, en parte o todas las observaciones hechas por el Gobernador, se lo devolverá para los efectos de la fracción anterior.
-(REFORMADO, B.O. 10 DE JUNIO DE 2000)
-61.- El Gobernador no podrá hace (sic) observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia, las referentes a la responsabilidad de los servidores públicos, o cuando se refieran a la designación de personas para ocupar algún cargo público, ni al Decreto de convocatoria a período extraordinario de sesiones, expedido por la Diputación Permanente.
+(REFORMADO, B.O. 10 DE MAYO DE 2003)
+57.- La facultad de iniciar Leyes o Decretos compete a:
+I.- El Gobernador del Estado
+II.- Los Diputados al Congreso del Estado
+III.- Los Ayuntamientos
+IV.- El Tribunal Superior de Justicia
+V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.5% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas, así como por conducto del Diputado de su distrito.
+(REFORMADO, B.O. 10 DE MAYO DE 2003)
+58.- Las iniciativas se sujetarán al trámite que señale la Ley Reglamentaria del Poder Legislativo. Una vez aprobadas, se remitirán al Gobernador del Estado para que proceda a su promulgación y publicación, a no ser que formule, si las hubiere, las observaciones pertinentes en un plazo no mayor de diez días hábiles.
+(REFORMADO, B.O. 10 DE MAYO DE 2003)
+59.- Se considera aprobado todo proyecto de Ley o Decreto que no sea devuelto por el Gobernador en el plazo previsto en el artículo anterior.
+(REFORMADO, B.O. 10 DE MAYO DE 2003)
+60.- La facultad de veto del Gobernador del Estado, se sujetará a las siguientes reglas:
+I.- Deberá expresarse si el veto es parcial o total.
+II.- Una vez devuelto el Proyecto de Ley o Decreto por el Gobernador al Congreso del Estado con las observaciones respectivas, se procederá en términos de Ley a su discusión y votación.
+III.- Si las observaciones son escuchadas al menos por las dos terceras partes de los miembros del Congreso, el Proyecto de Ley o Decreto se remitirá de nueva cuenta al Gobernador del Estado para su promulgación y publicación;
+IV.- Si las observaciones con veto parcial son aprobadas al menos por las dos terceras partes de los miembros del Congreso, se incorporarán en el proyecto de Ley o Decreto y se remitirá de nueva cuenta al Gobernador del Estado para su promulgación y publicación; y
+V.- Si las observaciones con veto total son aprobadas al menos por las dos terceras partes de los miembros del Congreso, el Proyecto de Ley o Decreto quedará sin efecto, debiendo publicarse esta decisión en el Boletín Oficial del Gobierno del Estado.
+(REFORMADO, B.O. 10 DE MAYO DE 2003)
+61.- El Gobernador no podrá hace (sic) observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia, o Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al Decreto de convocatoria a periodo extraordinario de sesiones, expedido por la Diputación Permanente, ni a la Ley Reglamentaria del Poder Legislativo.
 62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
-63.- Toda resolución del Congreso del Estado tendrá carácter de ley o decreto y se comunicarán al Gobernador por el Presidente y el Secretario de la misma, con la formalidad:
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2003)
+63.- Toda resolución del Congreso del Estado tendrá carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
 (REFORMADO [N. DE E. REUBICADO ANTES ÚLTIMA PARTE DEL PRIMER PÁRRAFO], B.O. 10 DE JUNIO DE 2000)
 "El Congreso del Estado de Baja California Sur decreta: (texto de la ley o decreto)".
 (ADICIONADO, B.O. 10 DE JUNIO DE 2000)
@@ -261,10 +267,12 @@ DE LAS FACULTADES DEL CONGRESO
 I.- Legislar en todo lo relativo al Gobierno del Estado;
 II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
-IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
+(REFORMADA B.O. 10 DE MAYO DE 2003)
+IV.- Expedir la ley que regule su organización, su estructura y su funcionamiento interno, la cual no necesitará ser promulgada por el Gobernador del Estado para tener vigencia, así como expedir la Ley de la Contaduría Mayor de Hacienda.
 (REFORMADA, B.O. 18 DE JUNIO DE 1998)
 V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
-VI.- (DEROGADA, B.O. 14 DE JULIO DE 1995)
+(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE MAYO DE 2003)
+VI.- Nombrar al Presidente y a los Consejeros de la Comisión Estatal de Derechos Humanos, de conformidad con la ley de la materia.
 (ADICIONADA, B.O. 14 DE FEBRERO DE 1997)
 VII.- Elegir a los Magistrados del Tribunal Estatal Electoral, en los términos del artículo 99 de esta Constitución;
 VIII.- Convocar a elecciones para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los dos primeros años del período constitucional, conforme a lo establecido en este ordenamiento;
@@ -301,7 +309,8 @@ XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o e
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 XXIX.- Nombrar y remover libremente a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda;
 XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones;
-XXXI.- Aprobar el Presupuesto de Egresos y fijar las contribuciones para cubrirlo;
+(REFORMADA, B.O. 10 DE MAYO DE 2003)
+XXXI.- Aprobar el presupuesto de egresos del Estado a más tardar el 31 de Diciembre del año anterior al de su entrada en vigor, así como fijar las contribuciones para cubrirlo.
 XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de emergencia en caso de desastre;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 XXXIII.- Aprobar y decretar las Leyes de Hacienda y de Ingresos Municipales, tomando en consideración su independencia económica, revisar y fiscalizar sus cuentas públicas
@@ -384,7 +393,8 @@ SECCION II
 DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 (REFORMADO PRIMER PARRAFO, B.O. 6 DE FEBRERO DE 2002)
 79.- Son facultades y obligaciones del Gobernador:
-I.- Publicar, cumplir y hacer cumplir las leyes federales;
+(REFORMADA, B.O. 10 DE MAYO DE 2003)
+I.- Promulgar, cumplir y hacer cumplir las leyes federales
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 (REFORMADA, B.O. 6 DE ABRIL DE 1999)
 III.- Nombrar y remover libremente a los Secretarios del Despacho y demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes;
@@ -408,8 +418,9 @@ XVI.- Ejercer actos de dominio del patrimonio del Estado en los términos de est
 XVII.- Ejercer el presupuesto de egresos;
 (REFORMADA, B.O. 30 DE ABRIL DE 1981)
 XVIII.- Contratar empréstitos con la aprobación del Congreso del Estado destinado a inversiones públicas productivas.
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-XIX.- Presentar al Congreso del Estado, durante la primera quincena del mes de noviembre de cada año, las Iniciativas de Ley de Ingresos y Presupuestos de Egresos Generales del Estado, que deberán regir en el año inmediato siguiente.
+(REFORMADA, B.O. 10 DE MAYO DE 2003)
+XIX.- Presentar al Congreso del Estado durante la primera quincena del mes de Noviembre de cada año, la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos que deberán regir durante el año siguiente.
+El Gobernador del Estado, podrá solicitar la ampliación del plazo para hacer entrega al Congreso del Estado de los mencionados documentos.
 XX.- Rendir al Congreso un informe anual del Estado que guarde la administración pública de la entidad;
 XXI.- Presentar al Congreso, al término de su período constitucional, una memoria sobre el estado que guarden los asuntos públicos;
 XXII.- Facilitar al Poder Judicial el auxilio que requiera para el ejercicio de sus funciones;
@@ -702,8 +713,9 @@ III.- Los muebles normalmente insustituibles como son los expedientes de las ofi
 CAPITULO V
 DEL GOBIERNO MUNICIPAL
 CONCEPTO E INTEGRACION
-(REFORMADO Y REUBICADO, B.O. 31 DE DICIEMBRE DE 2001)
-133.- La Hacienda de los Municipios del Estado, se formará con las percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, y las que adquiera por concepto de participación de impuestos federales y estatales, convenios, legados, donaciones o por cualquier otra causa. Los recursos que integran la Hacienda Pública Municipal, serán ejercidos y administrados en forma libre y directa por los Ayuntamientos, o bien, por quienes ellos autoricen, conforme a la Ley.
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE MAYO DE 2003)
+133.- La Hacienda de los Municipios del Estado, se formará con los rendimientos de los bienes que les pertenezcan así como las contribuciones que establezca su Ley de Ingresos y demás disposiciones relativas, y las que adquieran por concepto de participación de impuestos federales y estatales, convenios, legados, donaciones o por cualquier otra causa. Los recursos que integran la Hacienda Municipal, serán ejercidos y administrados en forma libre y directa por los Ayuntamientos, o bien, por quienes ellos autoricen, conforme a la Ley.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
 Estarán exentos de pagar las contribuciones a que se refieren los incisos a) y c) del artículo 115 fracción IV de la Constitución General de la República los bienes de dominio público de la Federación, del (sic) los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los del objeto público.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
 134.- El Ayuntamiento es el órgano municipal de Gobierno a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
@@ -753,8 +765,8 @@ DE LA INSTALACION DEL AYUNTAMIENTO
 Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio definitivo.
 CAPITULO VIII
 DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)
-148.- Son facultades y obligaciones del ayuntamiento:
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE MAYO DE 2003)
+148.- Son facultades y obligaciones de los Ayuntamientos:
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 II.- Aprobar y expedir en el ámbito de su competencia los bandos de Policía y buen Gobierno; los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la Administración Pública Municipal, regulen las materias, procedimientos, funciones y Servicios Públicos de su competencia que procuren la participación ciudadana y vecinal.
@@ -795,18 +807,18 @@ XVIII.- Ejercer las atribuciones que señalan el Código Civil, el de Comercio y
 XIX.- Celebrar convenios para que instituciones Federales o Estatales, presten los servicios de seguridad social a sus trabajadores.
 (ADICIONADA, B.O. 20 DE ABRIL DE 1991)
 XX.- Formular y promover la ejecución de la política municipal ecológica, cuidando que guarde congruencia con la Estatal y Federal, con la finalidad de preservar y restaurar el equilibrio ecológico en áreas o zonas de jurisdicción municipal.
-(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)
-XXI.- Publicar cada tres meses en el Boletín Oficial del Gobierno del Estado de Baja California Sur y en el periódico local de mayor circulación, los ingresos propios, Federales y Estatales obtenidos, así como su egreso por rubros.
-(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)
+(REFORMADA, B.O. 10 DE MAYO DE 2003)
+XXI.- Publicar cada tres meses en el Boletín Oficial del Gobierno del Estado de Baja California Sur y en el periódico local de mayor circulación, los ingresos propios, federales y estatales obtenidos, así como su egreso por rubros.
+(REFORMADA B.O. 10 DE MAYO DE 2003)
 XXII.- Participar en la formulación de los planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia;
-(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)
+(REFORMADA B.O. 10 DE MAYO DE 2003)
 XXIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
-(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)
+(REFORMADA B.O. 10 DE MAYO DE 2003)
 XXIV.- Celebrar convenios para la administración y custodia de las zonas federales;
-(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)
-XXV.- Aprobar con el voto de las dos terceras partes de sus integrantes la afectación del patrimonio inmobiliario municipal; así como la celebración de actos o convenios que comprometan al Ayuntamiento por un plazo mayor al período de su administración; y
-(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)
-XXVI.- Proponer al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos y contribuciones de mejoras, y las tablas de valores unitarios de suelo y construcciones, las cuales serán equiparables a los valores de mercado, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+(REFORMADA B.O. 10 DE MAYO DE 2003)
+XXV.- Aprobar con el voto de las dos terceras partes de sus integrantes la afectación del patrimonio inmobiliario municipal; así como la celebración de actos o convenios que comprometan al Ayuntamiento por un plazo mayor al periodo de su administración; y
+(REFORMADA B.O. 10 DE MAYO DE 2003)
+XXVI.- Proponer al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos y contribuciones de mejoras y las tablas de valores unitarios de suelo y contribuciones, las cuales serán equiparables a los valores de mercado, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 CAPITULO IX
 SECCION I
 DE LOS TITULARES DEL GOBIERNO MUNICIPAL
@@ -915,9 +927,8 @@ Todo cargo o empleo público de la entidad es incompatible con cualquier otro de
 165.- Todos los profesionistas que sean funcionarios y empleados del Estado, no pueden ejercer su profesión sino cuando se lo permitan las leyes orgánicas aplicables de las dependencias en que trabajen. La infracción de este artículo será causa de responsabilidad.
 TITULO UNDECIMO
 DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
-(REFORMADO, B.O. 10 DE JUNIO DE 2000)
-166.- Esta Constitución Política puede ser adicionada o reformada.
-Las preposiciones que tengan este objeto, deberán estar suscritas por tres Diputados, Fracción Parlamentaria o iniciadas por el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos o los ciudadanos sudcalifornianos. Estas Iniciativas se sujetarán a los términos establecidos para la expedición de las Leyes en los Artículos 57 al 63, pero requieren de la aprobación de cuando menos, los dos tercios del número total de Diputados que integran la Legislatura.
+(REFORMADO, B.O. 10 DE MAYO DE 2003)
+166.- La presente Constitución puede ser adicionada y reformada. Las Iniciativas que tengan ese objeto, se sujetarán a las disposiciones establecidas en los artículos 57 al 63, pero requerirán de la aprobación de cuando menos, las dos terceras partes del total de diputados que integran la Legislatura.
 167.- Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, tanto los que hubieren figurado en el gobierno de la rebelión como los que hubieren cooperado a ésta.
 ARTICULOS TRANSITORIOS
 1o.- Esta Constitución será promulgada por el Gobernador Provisional, publicada con la solemnidad debida en todas las poblaciones del Estado, y entrará desde luego en vigor.
