@@ -155,8 +155,8 @@ III.- Tener residencia efectiva no menor de un año anterior al día de la elecc
 (REFORMADO PRIMER PARRAFO, B.O. 20 DE MAYO DE 1987)
 45.- No podrá ser Diputado:
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
-(REFORMADA, B.O. 20 DE MAYO DE 1987)
-II.- El Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Oficial Mayor, Procurador General de Justicia, Contralor General, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo 60 días antes de la fecha de las elecciones.
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)
+II.- El Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo; Oficial Mayor, Procurador General de Justicia, Contralor General, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo 60 días antes de la fecha de las elecciones.
 III.- Los Presidentes Municipales o quienes ocupen cualquier cargo municipal, a menos que se separen de su cargo sesenta días antes de la elección;
 IV.- Los funcionarios y empleados federales en el Estado, a menos que se separen de su cargo sesenta días antes de la elección;
 V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y
@@ -295,8 +295,8 @@ II.- Tener 30 años cumplidos el día de la elección;
 III.- No pertenecer al Estado eclesiástico ni ser ministro de algún culto religioso;
 IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de seguridad pública, dentro de los noventa días anteriores a la fecha de la elección;
 V.- No ser funcionario o empleado federal noventa días anteriores a la fecha de la elección;
-(REFORMADA, B.O. 20 DE MAYO DE 1987)
-VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Oficial Mayor, Procurador General de Justicia, Contralor General, Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local, Presidente Municipal y cualquier otra persona que desempeñe cargo público estatal o municipal, 90 días anteriores a la fecha de la elección; y
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)
+VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Oficial Mayor, Procurador General de Justicia, Contralor General, Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local, Presidente Municipal y cualquier otra persona que desempeñe cargo público estatal o municipal, 90 días anteriores a la fecha de la elección, y
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
 70.- El Gobernador del Estado durará en su encargo seis años; iniciará el ejercicio de sus funciones el día 5 de abril.
 71.- Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:
@@ -319,8 +319,8 @@ DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 79.- Son facultades y obligaciones del Gobernador:
 I.- Publicar, cumplir y hacer cumplir las leyes federales;
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
-(REFORMADA, B.O. 20 DE MAYO DE 1987)
-III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Oficial Mayor, Procurador General de Justicia, Contralor General y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)
+III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Oficial Mayor, Procurador General de Justicia, Contralor General y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
 IV.- Nombrar a los Magistrados del Tribunal Superior de Justicia, con la aprobación del Congreso del Estado o la Diputación Permanente, en su caso;
 V.- Nombrar a los miembros del Consejo tutelar para menores, en los términos que disponga la ley de la materia;
 VI.- Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia y turnarlas, en su caso, al Congreso del Estado o a la Comisión Permanente;
@@ -370,15 +370,19 @@ XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tec
 XLIII.- Las demás que señalen esta Constitución y sus leyes.
 SECCION III
 DE LAS DEPENDENCIAS DEL EJECUTIVO
-(REFORMADO, B.O. 20 DE MAYO DE 1987)
-80.- La administración pública de Baja California Sur, será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Bienestar Social, un Oficial Mayor, un Procurador General de Justicia y un Contralor General y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Estatal en su operación.
-Las Leyes determinarán las relaciones entre las Entidades paraestatales y el Gobernador o entre éstas y las dependencias del Ejecutivo.
+(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)
+80.- La Administración Pública de Baja California Sur, será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Bienestar Social, un Secretario de Turismo, un Oficial Mayor, un Procurador General de Justicia y un Contralor General, y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Estatal en su operación.
+Las Leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador o entre éstas y las dependencias del Ejecutivo.
 81.- Toda ley o decreto será refrendada por el Secretario General de Gobierno y por el funcionario del ramo relativo.
-(REFORMADO, B.O. 20 DE MAYO DE 1987)
-82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Oficial Mayor, Contralor General se requiere:
+(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1987)
+82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Bienestar Social, Secretario de Turismo, Oficial Mayor, Contralor General se requiere:
+(REFORMADA, B.O. 20 DE MAYO DE 1987)
 I.- Ser Ciudadano Sudcaliforniano.
+(REFORMADA, B.O. 20 DE MAYO DE 1987)
 II.- Tener 25 años de edad como mínimo.
+(REFORMADA, B.O. 20 DE MAYO DE 1987)
 III.- Tener modo honesto de vivir. Y
+(REFORMADA, B.O. 20 DE MAYO DE 1987)
 IV.- No haber sido condenado por delitos intencionales y oficiales.
 83.- Son facultades y obligaciones del Secretario General de Gobierno y del Oficial Mayor:
 a).- Del Secretario:
