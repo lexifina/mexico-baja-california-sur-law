@@ -119,18 +119,26 @@ DEL CONGRESO
 40.- El poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Baja California Sur".
 SECCION II
 DE LA ELECCION E INSTALACION DEL CONGRESO
-41.- El Congreso del Estado de Baja California Sur se integra con siete diputados electos en su totalidad cada tres años por votación directa, secreta, complementada con diputados de partido, apegándose, en ambos casos, a lo dispuesto por la Ley Electoral del Estado. En cuando (sic) a los diputados de partido regirán, además, las siguientes reglas:
-I.- Todo partido político registrado, conforme a lo dispuesto en la Ley Electoral, al obtener el 6% de la votación total en la elección respectiva, tendrá derecho a que se acredite, de sus candidatos, a un diputado;
-II.- Si logra mayoría en uno o más distritos electorales, no tendrá derecho a diputado de partido; y
-III.- Será acreditado diputado de partido, aquél que obtenga el mayor número de sufragios, en relación a los demás candidatos del mismo partido en la entidad.
-42.- Los diputados de mayoría y de partido, son representantes del pueblo sudcaliforniano, tienen la misma categoría e iguales derechos y obligaciones.
-Por cada diputado propietario se elegirá un suplente. La elección se hará por fórmula.
-(REFORMADO, B.O. 20 DE ABRIL DE 1977)
-43.- El Congreso del Estado que se instale cada tres años calificará las elecciones de sus miembros y de Gobernador, en su caso, y resolverá las dudas, que hubiere sobre ellas. Sus resoluciones serán definitivas e inapelables.
+(REFORMADO, B.O. 10 DE JULIO DE 1978)
+41.- El Congreso del Estado de Baja California Sur se integrará con ocho diputados de mayoría relativa electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales uninominales y hasta con dos diputados electos mediante el principio de representación proporcional, apegándose, en ambos casos, a las reglas siguientes:
+I.- La base para realizar la demarcación territorial de los ocho Distritos Electorales, será la resultante de dividir la población total del Estado conforme al último censo general de población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socio-económico.
+II.- La elección de diputados por el principio de representación proporcional se efectuará mediante el sistema de listas de candidatos que presenten los partidos políticos y se sujetará a las siguientes bases:
+a).- Se constituirá una sola circunscripción plurinominal, que comprenderá todo el Estado.
+b).- Los partidos políticos tendrán derecho a postular candidatos por el principio de representación proporcional, siempre y cuando hayan registrado candidatos por lo menos en tres Distritos Electorales uninominales.
+c).- Para que un partido político tenga derecho a que le sean acreditados, de entre sus candidatos, diputados de representación proporcional, deberán alcanzar por lo menos el tres por ciento del total de la votación emitida en el Estado para todas las listas y siempre que no haya logrado ningún diputado de mayoría relativa; se tomará en cuenta para las asignaciones, el orden que tuviesen los candidatos en las listas correspondientes.
+La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación.
+III.- Si un partido político logra mayoría relativa en la elección directa, en uno o más Distritos Electorales mediante el sistema electoral uninominal, no tendrá derecho a diputado de representación proporcional.
+(REFORMADO, B.O. 10 DE JULIO DE 1978)
+42.- Los diputados de mayoría relativa y de representación proporcional, son representantes del pueblo sudcaliforniano, tienen la misma categoría e igualdad de derechos y obligaciones. Por cada diputado propietario se elegirá un suplente y la elección será por fórmula.
+(REFORMADO, B.O. 10 DE JULIO DE 1978)
+43.- El Congreso del Estado que se instale cada tres años en los términos de la Ley Electoral del Estado, calificará las elecciones de sus miembros y la de Gobernador, en su caso, resolverá las dudas que hubiere sobre ellas.
+Asimismo se constituirá en Colegio Electoral, compuesto de cinco presuntos diputados de mayoría relativa, de acuerdo con las constancias que registre la Comisión Estatal Electoral que hayan obtenido el mayor número de votos en su Distrito y un presunto diputado de representación proporcional del partido que haya obtenido el porcentaje más alto de votación en la Entidad. El Colegio Electoral efectuará las Juntas Preparatorias para el examen y calificación de sus respectivas elecciones.
+Ambas resoluciones serán definitivas e inapelables.
 44.- Para ser diputado al Congreso del Estado se requiere:
 I.- Ser sudcaliforniano y ciudadano del Estado en ejercicio de sus derechos;
 II.- Tener 21 años cumplidos el día de la elección; y
-III.- Tener residencia efectiva no menor de un año anterior al día de la elección, en el distrito correspondiente.
+(REFORMADA, B.O. 10 DE JULIO DE 1978)
+III.- Tener residencia efectiva no menor de un año anterior al día de la elección, en el Distrito o en la circunscripción del Estado.
 45.- No podrá ser diputado:
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
 II.- El Secretario de Gobierno, Oficial Mayor, Tesorero General, Procurador General, Los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquiera otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días antes de la fecha de las elecciones;
@@ -507,8 +515,15 @@ CAPITULO V
 DEL GOBIERNO MUNICIPAL
 CONCEPTO E INTEGRACION
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
-(ADICIONADO [N. DE E. REFORMADO], B.O. 21 DE DICIEMBRE DE 1976)
-135.- Los Ayuntamientos se integran con un Presidente, un Síndico, cinco Regidores y los Suplentes de éstos, electos por sufragio directo, libre y secreto de los ciudadanos sudcalifornianos en ejercicio de sus derechos. Los miembros de los Ayuntamientos durarán en su encargo tres años, a partir de la fecha en que tomen posesión del mismo.
+(REFORMADO, B.O. 10 DE JULIO DE 1978)
+135.- Los Ayuntamientos se integran con un Presidente, un Síndico y cinco Regidores, electos por sufragio universal directo, libre y secreto mediante el sistema de mayoría relativa, con excepción de el de la Capital del Estado, donde los Ayuntamientos se complementarán con dos Regidores electos por el principio de representación proporcional en los términos que señala la Ley Electoral del Estado. Por cada miembro del Ayuntamiento habrá un suplente.
+El partido político que alcance el mayor porcentaje de votación minoritaria, tendrá derecho a que se le adjudique un Regidor, siempre y cuando satisfaga los siguientes requisitos:
+a).- Que hubiere registrado candidatos propietarios y suplentes, en la elección municipal respectiva.
+b).- Que no haya alcanzado el triunfo por mayoría relativa en la misma elección.
+c).- Que alcance, por lo menos, el tres por ciento del total de la votación emitida en el Municipio respectivo.
+Un segundo Regidor podrá ser adjudicado al partido que habiendo obtenido el segundo porcentaje en la votación minoritaria, tenga por lo menos la mitad de los sufragios que el partido triunfador minoritario haya alcanzado. De no darse este mínimo de proporción, se le adjudicará este segundo Regidor al partido triunfador minoritario.
+La Ley Reglamentaria determinará los procedimientos que se observarán en dicha asignación.
+Los miembros de los Ayuntamientos durarán en su encargo tres años a partir de la fecha en que tomen posesión del mismo.
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
 CAPITULO VI
 DE LA ELECCION DEL AYUNTAMIENTO
