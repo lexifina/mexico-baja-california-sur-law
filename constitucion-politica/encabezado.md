@@ -444,9 +444,9 @@ IV.- Los Jueces de Paz;
 V.- Los Arbitros;
 VI.- El Jurado Popular; y
 VII.- Los demás funcionarios y auxiliares de la Administración de Justicia.
-(REFORMADO, B.O. 20 DE OCTUBRE DE 1984)
-90.- El Tribunal Superior de Justicia del Estado se integra por cinco Magistrados Numerarios, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
-Para el trámite de las renuncias de los Magistrados del Tribunal se seguirá el mismo procedimiento que para su nombramiento.
+(REFORMADO, B.O. 10 DE MARZO DE 1990)
+90.- El Tribunal Superior de Justicia del Estado, se integra por siete Magistrados Numerarios, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
+Para el trámite de las renuncias de los Magistrados, se seguirá el mismo procedimiento que para su nombramiento.
 (REFORMADO, B.O. 20 DE FEBRERO DE 1988)
 91.- Para ser Magistrado se requiere:
 I.- Ser ciudadano sudcaliforniano, en pleno ejercicio de sus derechos políticos y civiles.
@@ -717,7 +717,7 @@ Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 El procedimiento a que se refiere el presente Artículo solo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se impondrán en un período no mayor de un año a partir de iniciado el procedimiento.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 159.- Para proceder penalmente contra los servidores públicos, a que se refiere el párrafo primero del Artículo 158 por la comisión de delitos cometidos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría de votos de sus miembros presentes en Sesión, si ha lugar o no a proceder contra el inculpado, con las siguientes prevenciones:
-I.- Si la resolución del Congreso fuese negativa, se suspenderá todo el procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el acusado haya concluido el ejercicio de su encargo, pues dicha resolución no prejuzga los fundamentos de la imputación.
+I.- Si la resolución del Congreso fuere negativa, se suspenderá todo el procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el acusado haya concluido el ejercicio de su encargo, pues dicha resolución no prejuzga los fundamentos de la imputación.
 II.- Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes para que actúen conforme a la Ley, separándolo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función.
 III.- Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación respectiva y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberá graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
