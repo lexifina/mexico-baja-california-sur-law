@@ -414,13 +414,17 @@ II.- Tener 30 años de edad como mínimo;
 III.- Ser licenciado en Derecho, y acreditar un ejercicio profesional de cinco años, cuando menos;
 IV.- Tener modo honesto de vivir; y
 V.- No haber sido condenado por delitos del fuero común intencionales, u oficiales.
-(REFORMADO PRIMER PARRAFO, B.O. 30 DE ABRIL DE 1981)
-85.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Judicial, en los términos de su Ley Orgánica.
+85.-
+(ADICIONADO [N. DE E. ANTES PRIMER PARRAFO], B.O. 10 DE ABRIL DE 1992)
+A.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Judicial, en los términos de su ley orgánica.
 Son atribuciones del Ministerio Público:
 I.- Ejercitar ante los Tribunales del Estado, las acciones que correspondan contra las personas que violen las leyes de interés público;
 II.- Intervenir en la forma y términos que la ley disponga, en los juicios que afecten a personas a quienes la ley otorga especial protección; y
 (REFORMADA, B.O. 30 DE ABRIL DE 1981)
 III.- Defender los intereses del Estado ante los Tribunales, excepto en lo relativo a la Hacienda Pública.
+(ADICIONADO, B.O. 10 DE ABRIL DE 1992)
+B.- El Congreso del Estado, establecerá un organismo de protección de los derechos humanos que otorga el orden jurídico mexicano, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público local, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+Este organismo que establezca el Congreso de la Unión conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones del organismo que en su caso cree el Congreso del Estado, el cual asimismo, podrá comunicarse con el organismo federal que conozca de la defensa y protección de los derechos humanos, para actuar coordinadamente en sus respectivos ámbitos de competencia.
 N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMA DE 30 DE ABRIL DE 1981 SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO DE NUEVE FRACCIONES A SEIS.
 (REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 1981)
 86.- Son facultades y obligaciones del Secretario de Finanzas:
