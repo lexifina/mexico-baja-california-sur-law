@@ -278,8 +278,8 @@ III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 IV.- Expedir la ley que regule su organización, su estructura y su funcionamiento interno, la cual no necesitará ser promulgada por el Gobernador del Estado para tener vigencia, así como expedir la Ley de la Contaduría Mayor de Hacienda.
 (REFORMADA, B.O. 18 DE JUNIO DE 1998)
 V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
-(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE MAYO DE 2003)
-VI.- Nombrar al Presidente y a los Consejeros de la Comisión Estatal de Derechos Humanos, de conformidad con la ley de la materia.
+(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2004)
+VI.- Legislar en materia de Coordinación Fiscal entre el Estado y los Municipios.
 (ADICIONADA, B.O. 14 DE FEBRERO DE 1997)
 VII.- Elegir a los Magistrados del Tribunal Estatal Electoral, en los términos del artículo 99 de esta Constitución;
 VIII.- Convocar a elecciones para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los dos primeros años del período constitucional, conforme a lo establecido en este ordenamiento;
@@ -316,11 +316,15 @@ XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o e
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 XXIX.- Nombrar y remover libremente a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda;
 XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones;
-(REFORMADA, B.O. 10 DE MAYO DE 2003)
-XXXI.- Aprobar el presupuesto de egresos del Estado a más tardar el 31 de Diciembre del año anterior al de su entrada en vigor, así como fijar las contribuciones para cubrirlo.
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)
+XXXI.- Aprobar, y en su caso modificar, el Presupuesto de Egresos del Estado y fijar las contribuciones para cubrirlo.
+Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos del Estado, se aplicara la que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+Asimismo, cuando también por cualquier circunstancia no se aprobare el presupuesto de Egresos del Estado, se aplicara el que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de emergencia en caso de desastre;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 XXXIII.- Aprobar y decretar las Leyes de Hacienda y de Ingresos Municipales, tomando en consideración su independencia económica, revisar y fiscalizar sus cuentas públicas
+(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)
+Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos de alguno o algunos de los Municipios del Estado, se aplicaran respectivamente las que se hayan aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 Aprobar la contratación de empréstitos a los Ayuntamientos del Estado en los términos de la Ley de deuda Pública para el Estado de Baja California Sur y sus Municipios.
 XXXIV.- Decretar la Ley Orgánica Municipal;
 XXXV.- Crear o suprimir municipios y reformar la división política del Estado mediante el voto de las dos terceras partes de la totalidad de los diputados;
@@ -419,7 +423,11 @@ XI.- Ejercer el derecho de veto en los términos de esta Constitución;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 XII.- Coordinar los cuerpos de Seguridad Pública del Estado y dar ordenes a la Policía Preventiva Municipal en los casos que este juzgue como de fuerza mayor o alteración grave del orden público;
 XIII.- Ejercer las facultades que le otorga la Constitución Federal en relación a la Guardia Nacional;
-XIV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2001)
+(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)
+XIV.- Publicar el Decreto de creación del Comité de Contribuyentes que prevé el Código Fiscal del Estado de Baja California Sur, y en términos del mismo.
+El Titular del Poder Ejecutivo podrá celebrar con los Municipios que así lo decidan, convenios en materia de coordinación fiscal.
+Asimismo, el Gobernador del Estado publicará el Decreto de creación de un organismo, que de común acuerdo con los Municipios, tenga la finalidad de revisar permanentemente los aspectos que atañen a la recaudación y distribución de las diversas contribuciones que en vía de ingresos conforman las Haciendas Públicas Municipales, y con la finalidad de crear un grupo de asesoría, capacitación y planeación hacendaria, en el ámbito de coordinación fiscal que determine la Ley de la materia.
+Para los efectos señalados el Gobernador del Estado, como integrante del organismo a que se refiere el párrafo anterior, ordenará al Secretario de Finanzas del Estado y al personal que el mismo determine para que se reúnan trimestralmente con las autoridades fiscales Municipales.
 XV.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales;
 XVI.- Ejercer actos de dominio del patrimonio del Estado en los términos de esta Constitución;
 XVII.- Ejercer el presupuesto de egresos;
@@ -519,16 +527,15 @@ DEL PODER JUDICIAL
 88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en auxilio a los del orden federal, en los casos que expresamente se la concedan las Leyes: (sic)
 (REFORMADO, B.O. 6 DE FEBRERO DE 2002)
 89.- El desempeño de la función jurisdiccional, corresponde a:
-I.- El Tribunal Superior de Justicia.
-II.- El Tribunal Estatal Electoral.
-III.- Los Jueces de Primera Instancia
-IV.- Los Jueces Menores.
-V.- Los Jueces de Paz.
-VI.- Los árbitros.
-(DEROGADA, B.O. 6 DE FEBRERO DE 2002)
-VII.- Se deroga; y
-VIII.- Los demás funcionarios y auxiliares de la administración de justicia.
-La Ley establecerá las bases para la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la Carrera Judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+I.- El Tribunal Superior de Justicia;
+II.- Tribunal Estatal Electoral;
+III.- Los Jueces de Primera Instancia;
+IV.- Los Jueces Menores;
+V.- Los Jueces de Paz;
+VI.- Los árbitros;
+VII.- (DEROGADA, B.O. 6 DE FEBRERO DE 2002)
+VIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
+La Ley establecerá las bases para la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 (REFORMADO, B.O. 6 DE ABRIL DE 1999)
 90.- El Tribunal Superior de Justicia del Estado se integrará por siete Magistrados nombrados por el Poder Legislativo, de entre las ternas propuestas por el Gobernador del Estado.
 Para el trámite de las renuncias, licencias y remociones de los Magistrados se seguirá el procedimiento que esta Constitución y las Leyes de la Materia establecen.
@@ -657,7 +664,7 @@ DE LA EXTENSION, LIMITES Y CABECERAS
 (REFORMADO, B.O. 10 DE ABRIL DE 1980)
 a).- Municipio de La Paz: al Norte, colinda con el Municipio de Comondú, línea descrita en la colindancia Sur de la municipalidad citada; por el Sur, con la colindancia Norte del Municipio de Los Cabos; por el Este y el Oeste, lo rodean aguas litorales del Golfo de California y el Océano Pacífico, respectivamente.
 (REFORMADO, B.O. 20 DE AGOSTO DE 1992)
-b).- MUNICIPIO DE COMONDU: al norte, colinda con el municipio de Mulegé en una línea que inicia en el cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como la Bocana del Rancho Nuevo; al sur, colinda con el Municipio de La Paz, en una línea que inicia en el sitio conocido como Los Dolores del Municipio de La Paz, con un rumbo suroeste y cruzando la península hasta un lugar conocido como el Cayuco, rada que se ubica en la Costa de Bahía Almejas, en el litoral del pacífico; al este, con la colindancia oeste del Municipio de Loreto y el Golfo de California, y al oeste, colinda con el océano pacífico.
+b).- MUNICIPIO DE COMONDU: al norte, colinda con el municipio de Mulegé en una línea que inicia en el cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como la Bocana del Rancho Nuevo; al sur, colinda con el Municipio de La Paz, en una línea que inicia en el sitio conocido como Los Dolores del Municipio de La Paz, con un rumbo suroeste y cruzando la península hasta un lugar conocido como el Cayuco, rada que se ubica en la Costa de Bahía Almejas, en el Litoral del Pacífico; al este, con la colindancia oeste del Municipio de Loreto y el Golfo de California, y al oeste, colinda con el océano pacífico.
 (REFORMADO, B.O. 20 DE AGOSTO DE 1992)
 c).- MUNICIPIO DE MULEGE: al norte, colinda con el Estado de Baja California, siendo una línea limítrofe el paralelo 28 de latitud norte; al sur, colinda con los Municipios de Loreto y Comondú, con el primero en una línea que partiendo de la punta de San Idelfonso conocida también como Punta el Pulpito, situada en el extremo sur de La Bahía de San Nicolás, sigue con rumbo noroeste hasta el punto conocido como el Cerrito de la Pitahaya o del Pilón, situada al sureste del rancho de Santa Rosalillita, de aquí con rumbo oeste hasta llegar al cruce de la carretera transpeninsular y el Arroyo Cadeje, punto que sirve de límite para los municipios de Loreto, Comondú y Mulegé, siguiendo esta línea con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como La Bocana de Rancho Nuevo, colindando en toda esta extensión con el Municipio de Comondú; al este, colinda con el Golfo de California; y al oeste, colinda con el océano pacífico.
 (REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE ABRIL DE 1980)
@@ -768,8 +775,8 @@ DE LA INSTALACION DEL AYUNTAMIENTO
 Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio definitivo.
 CAPITULO VIII
 DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE MAYO DE 2003)
-148.- Son facultades y obligaciones de los Ayuntamientos:
+(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)
+148.- Son facultades y obligaciones del Ayuntamiento:
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 II.- Aprobar y expedir en el ámbito de su competencia los bandos de Policía y buen Gobierno; los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la Administración Pública Municipal, regulen las materias, procedimientos, funciones y Servicios Públicos de su competencia que procuren la participación ciudadana y vecinal.
@@ -820,8 +827,12 @@ XXIII.- Intervenir en la formulación y aplicación de programas de transporte p
 XXIV.- Celebrar convenios para la administración y custodia de las zonas federales;
 (REFORMADA B.O. 10 DE MAYO DE 2003)
 XXV.- Aprobar con el voto de las dos terceras partes de sus integrantes la afectación del patrimonio inmobiliario municipal; así como la celebración de actos o convenios que comprometan al Ayuntamiento por un plazo mayor al periodo de su administración; y
-(REFORMADA B.O. 10 DE MAYO DE 2003)
-XXVI.- Proponer al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos y contribuciones de mejoras y las tablas de valores unitarios de suelo y contribuciones, las cuales serán equiparables a los valores de mercado, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2004)
+XXVI.- Podrá participar en la elaboración de la iniciativa de Ley de Coordinación Fiscal para el Estado y Municipios, que el Gobernador proponga al Congreso del Estado.
+Igualmente, podrá celebrar convenios con el Gobierno del Estado, en materia de coordinación fiscal.
+Asimismo, podrá concurrir a la creación del Comité de Contribuyentes a que se refiere el Código Fiscal del Estado de Baja California Sur, en términos del propio ordenamiento, y formar parte de dicho Comité nombrando para tal efecto un representante.
+De igual manera, los Ayuntamientos podrán concurrir con el Gobernador del Estado a la creación de un organismo que tenga la finalidad de revisar permanentemente los aspectos que atañen a la recaudación y distribución de las diversas contribuciones que en vía de ingresos conforman las Haciendas Públicas Municipales, y con la finalidad de crear un grupo de asesoría, capacitación y planeación hacendaria, en el ámbito de coordinación fiscal que determine la Ley de la materia.
+Para los efectos señalados, las autoridades fiscales Municipales, como integrantes del organismo a que se refiere el párrafo anterior, se reunirán trimestralmente con las autoridades fiscales del Gobierno del Estado.
 CAPITULO IX
 SECCION I
 DE LOS TITULARES DEL GOBIERNO MUNICIPAL
