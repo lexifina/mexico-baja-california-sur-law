@@ -616,8 +616,10 @@ CONCEPTO E INTEGRACION
 (REFORMADO, B.O. 11 DE JUNIO DE 1992)
 135.- Los Ayuntamientos se integrarán de la siguiente manera:
 El Ayuntamiento de La Paz, se integrará con un Presidente, un Síndico y catorce Regidores electos por sufragio universal directo, libre y secreto mediante el sistema de mayoría relativa y hasta con cinco Regidores por el principio de representación proporcional.
-El Ayuntamiento de Comondú, se integrará con un Presidente, un Síndico y doce Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con cuatro Regidores electos por el principio de representación proporcional.
-Los Ayuntamientos de Mulegé y Los Cabos, se integrarán con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con tres Regidores electos por el principio de representación proporcional.
+(REFORMADO, B.O. 26 DE AGOSTO DE 1992)
+El Ayuntamiento de Comondú, se integrará con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con cuatro Regidores electos por el principio de representación proporcional.
+(REFORMADO, B.O. 26 DE AGOSTO DE 1992)
+El Ayuntamiento de Mulegé y Los Cabos, se integrarán con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con tres Regidores electos por el principio de representación proporcional.
 (ADICIONADO, B.O. 20 DE AGOSTO DE 1992)
 El Ayuntamiento de Loreto, se integrará con un Presidente, un Síndico y cinco Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con un Regidor electo por el principio de representación proporcional.
 Por cada miembro de los Ayuntamientos, habrá un suplente.
