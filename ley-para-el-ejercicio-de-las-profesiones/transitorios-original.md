@@ -15,3 +15,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR.
 C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 SECRETARIO GENERAL DE GOBIERNO
 C. LIC. VÍCTOR MANUEL GULUARTE CASTRO
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+B.O. 31 ENERO DE 2004.
+ARTICULO PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+ARTICULO SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+(F. DE E., B.O. 17 DE MARZO DE 2004)
+ARTICULO TERCERO.- El Ejecutivo del Estado, deberá instalar el Consejo Consultivo a que se refiere el Artículo 52 de la Ley para el Ejercicio de las Profesiones del Estado de Baja California Sur, así como a través de la Secretaría de Educación Pública, emitir el reglamento a que se refiere el Artículo 41 de la misma ley, en un plazo no mayor de noventa días.
