@@ -133,10 +133,10 @@ DEL CONGRESO
 40.- El poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Baja California Sur".
 SECCION II
 DE LA ELECCION E INSTALACION DEL CONGRESO
-(REFORMADO PRIMER PARRAFO, B.O. 13 DE MAYO DE 1986)
-41.- El Congreso del Estado de Baja California Sur, se integrará con doce Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cuatro Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
-(REFORMADA, B.O. 13 DE MAYO DE 1986)
-I.- La base para realizar la demarcación territorial de los doce Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último Censo General de Población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico.
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 1989)
+41.- El Congreso del Estado de Baja California Sur se integrará con 15 Diputados de Mayoría Relativa electos en su totalidad cada tres años, por votación directa y secreta, mediante el sistema de Distritos Electorales Uninominales y hasta con 5 Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las reglas siguientes:
+(REFORMADA, B.O. 10 DE JULIO DE 1989)
+I.- La base para realizar la demarcación territorial de los 15 Distritos Electorales, será el resultante de dividir la población total del Estado conforme al último censo general de población entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico;
 (REFORMADA, B.O. 25 DE ABRIL DE 1983)
 II.- La elección de Diputados por el principio de Representación Proporcional se efectuará mediante el sistema de listas de candidatos que presenten los Partidos Políticos y se sujetará a las siguientes bases:
 a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado.
@@ -636,12 +636,12 @@ III.- Conceder licencia a sus miembros hasta por treinta días y llamar a quiene
 IV.- Designar al Regidor que deba sustituir al Presidente Municipal en caso de falta absoluta de éste y su suplente, y llamar a los suplentes del Síndico o Regidores en los casos de falta absoluta de éstos;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 V.- Mantener los servicios de seguridad pública y tránsito municipal.
-VI.- Establecer en el territorio del municipio las delegaciones y subdelegaciones que sean necesarias;
+VI.- Establecer en el territorio del municipio, las delegaciones y subdelegaciones que sean necesarias;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 VII.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, participando con las Autoridades Federales y Estatales, en el ámbito de su competencia, en la creación y administración de sus reservas territoriales y ecológicas, así como controlar y vigilar la utilización del suelo dentro de su jurisdicción e intervenir en la regularización de la tenencia de la tierra urbana.
 VIII.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, con auxilio del Instituto correspondiente, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos, y que se ejecuten sin la autorización o permiso correspondiente;
 IX.- Promover el mejoramiento de los servicios y el acrecentamiento del patrimonio municipa (sic);
-X.- Formular anualmente su proyecto de ley de ingresos que será sometido a aprobación del Congreso del Estado;
+X.- Formular anualmente su proyecto de ley de ingresos, que será sometido a la aprobación del Congreso del Estado;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 XI.- Formular anualmente, conforme a la Ley, su Presupuesto de Egresos, con base en sus ingresos disponibles.
 XII.- Rendir al Congreso del Estado, por conducto de la Comisión Permanente, dentro de los dos primeros meses, la cuenta del gasto público del año anterior;
