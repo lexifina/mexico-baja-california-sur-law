@@ -307,7 +307,8 @@ XXXVII.- Nombrar representantes fuera del Estado para la gestión de los negocio
 XXXVIII.- Actuar como árbitro en los conflictos que se susciten entre los municipios y miembros del ayuntamiento;
 XXXIX.- Otorgar patentes de notario, con sujeción a la ley respectiva;
 XL.- Tomar las medidas necesarias en casos de desastres y situaciones económicas difíciles o urgentes;
-XLI.- Nombrar oficiales del Registro Civil;
+(REFORMADA, B.O. 26 DE AGOSTO DE 1975)
+XLI.- Cuidar que el funcionamiento del servicio público de Registro Civil en todo el Estado sea uniforme en cuanto a formalidades y axpedición (sic) de documentos, y, en su caso, exigir y obtener del ayuntamiento respectivo la inmediata eliminación de cualquier deficiencia o anomalía que se advierta en los procedimientos o en el desempeño de las labores de los funcionarios del ramo.
 XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y
 XLIII.- Las demás que señalen esta Constitución y sus leyes.
 SECCION III
@@ -554,7 +555,8 @@ VIII.- Tener bajo su mando los cuerpos de seguridad para la conservación del or
 IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días;
 X.- Vigilar que los delegados y subdelegados cumplan las funciones de su encargo e informar de ello al ayuntamiento;
 XI.- Remitir ejemplares a las autoridades del municipio y estatales, de las leyes, decretos y demás disposiciones, autorizados con su firma y la del Secretario, con la fecha de su publicación;
-XII.- Ejercer las funciones de Oficial del Registro Civil, donde no hubiere empleado especial nombrado o se encuentre ausente.
+(REFORMADA, B.O. 26 DE AGOSTO DE 1975)
+XII.- Nombrar oficiales del Registro Civil y autorizar a otros empleados o funcionarios municipales técnicamente preparados, a efecto de que desempeñen temporalmente las funciones de aquellos, ya sea cuando por cualquier causa falte el titular o en los lugares en que el interés social requiera en un momento dado la prestación de dichos servicios registrales, y personalmente no pueda realizarlos el oficial del Registro Civil de la jurisdicción.
 SECCION III
 DEL SINDICO
 152.- El Síndico tiene a su cargo la vigilancia de la hacienda pública municipal, y además:
