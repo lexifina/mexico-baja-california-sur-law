@@ -752,8 +752,8 @@ DE LA INSTALACION DEL AYUNTAMIENTO
 Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio definitivo.
 CAPITULO VIII
 DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
-(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2001)
-148.- Son Facultades y obligaciones de los Ayuntamientos:
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)
+148.- Son facultades y obligaciones del ayuntamiento:
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 II.- Aprobar y expedir en el ámbito de su competencia los bandos de Policía y buen Gobierno; los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la Administración Pública Municipal, regulen las materias, procedimientos, funciones y Servicios Públicos de su competencia que procuren la participación ciudadana y vecinal.
@@ -786,8 +786,8 @@ XIV.- Acordar lo conveniente para la formación del censo y estadística del mun
 XV.- Decretar las obras de utilidad pública u ornato del municipio.
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 XVI.- Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los Servicios Públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la Asociación de Municipios de dos o más Estados deberán contar con la aprobación de las Legislaturas de los Estados respectivos. Así mismo cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que este, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien ejerzan coordinadamente por el Estado y por el propio Municipio.
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
-XVII.- Aprobar el procedimiento y condiciones para que el gobierno estatal asuma temporalmente una función o servicio municipal; en caso de no existir convenio correspondiente el Ayuntamiento con la aprobación de las dos terceras partes de sus integrantes solicitará al Congreso del Estado su aprobación, si el Ayuntamiento considera que el Municipio está imposibilitado para ejercer o prestar las funciones o servicios de que se trate.
+(REFORMADA, B.O. 10 DE JULIO DE 2002)
+XVII.- Con la aprobación de las dos terceras partes de sus integrantes, solicitar al Congreso del Estado su aprobación para celebrar convenio para que el Gobierno del Estado, asuma una función o servicio público municipal por el tiempo que se requiera, y en su caso, establecer una prorroga.
 (ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
 XVIII.- Ejercer las atribuciones que señalan el Código Civil, el de Comercio y demás Leyes y Reglamentos en materia de Registro Público de la Propiedad y del Comercio.
 (ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
