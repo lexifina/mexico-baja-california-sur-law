@@ -495,7 +495,8 @@ CAPITULO V
 DEL GOBIERNO MUNICIPAL
 CONCEPTO E INTEGRACION
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
-135.- Los ayuntamientos se integran con un Presidente un Síndico, cinco Regidores y los suplentes de éstos, electos por sufragio directo, libre y secreto de los ciudadanos sudcalifornianos en ejercicio de sus derechos.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 21 DE DICIEMBRE DE 1976)
+135.- Los Ayuntamientos se integran con un Presidente, un Síndico, cinco Regidores y los Suplentes de éstos, electos por sufragio directo, libre y secreto de los ciudadanos sudcalifornianos en ejercicio de sus derechos. Los miembros de los Ayuntamientos durarán en su encargo tres años, a partir de la fecha en que tomen posesión del mismo.
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
 CAPITULO VI
 DE LA ELECCION DEL AYUNTAMIENTO
