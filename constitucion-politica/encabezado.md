@@ -255,8 +255,8 @@ XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servi
 (REFORMADA, B.O. 30 DE ABRIL DE 1981)
 XXVI.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que se destinen a inversiones públicas productivas, salvo los que se contraten en caso de emergencia por causa de desastre, señalando en cada caso los recursos con que deben cubrirse.
 Autorizar al Gobernador del Estado para avalar los empréstitos o financiamientos que obtengan los Ayuntamientos del Estado, siempre y cuando de los estudios que se practiquen al efecto aparezca demostrada la necesidad y utilidad de la obra para la cual los haya gestionado la autoridad municipal. En el convenio que celebre el Gobierno local con el Ayuntamiento correspondiente, se estipulará la recuperación de lo que aquél pague como avalista, garantizándolo en base de las participaciones de los impuestos que reciba el Ayuntamiento, ya sean éstos Federales o locales.
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre bienes muebles e inmuebles pertenecientes al Estado, cuando el valor sea mayor de $500,000.00 (QUINIENTOS MIL PESOS 00/100 M.N.), previo avalúo practicado por la Dirección de Catastro. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
+(REFORMADA, B.O. 5 DE MARZO DE 1993)
+XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre los bienes muebles e inmuebles pertenecientes al Estado, cuando el valor sea mayor de N$150,000.00 (Ciento cincuenta mil nuevos pesos 00/100 m.n.), previo avalúo practicado por la Dirección de Catastro. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 XXIX.- Nombrar y remover libremente a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda;
 XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones;
@@ -277,7 +277,7 @@ XL.- Expedir leyes para fijar la extensión máxima de la propiedad rural, en lo
 XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, sobre la base de su naturaleza inalienable, ingravable e inembargable;
 XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la superación del nivel de vida de la población, mejoramiento de su salud y el saneamiento del medio ambiente; y (sic)
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
-XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos.
+XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos;
 (ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
 XLIV.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
 SECCION VI
