@@ -279,8 +279,12 @@ XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, s
 XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la superación del nivel de vida de la población, mejoramiento de su salud y el saneamiento del medio ambiente; y (sic)
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos.
-(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
-XLIV.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
+(REFORMADA, B.O. 20 DE MAYO DE 1994)
+XLIV.- Expedir la ley que instituya el Tribunal Unitario de lo Contencioso Administrativo del Estado, dotado de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal o Municipal y los particulares y establezca las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones;
+(ADICIONADA, B.O. 20 DE MAYO DE 1994)
+XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativo, de una terna de candidatos propuesta por el Ejecutivo Estatal, de los que será electo por mayoría simple de votos de los Diputados que integran la Legislatura, en un término improrrogable de diez días hábiles, y el que deberá reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia, y solo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de la Carta Fundamental del Estado; y
+(ADICIONADA, B.O. 20 DE MAYO DE 1994)
+XLVI.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
 SECCION VI
 DE LA DIPUTACION PERMANENTE
 65.- El día de clausura del período de sesiones ordinarias, el Congreso del Estado elegirá por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de tres miembros que durarán en su cargo el tiempo intermedio entre los períodos de sesiones ordinarias. El primero de los nombrados será el Presidente, y los otros dos, Secretarios.
@@ -384,8 +388,10 @@ XLI.- Cuidar que el funcionamiento de los servicios públicos en todo el Estado,
 XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y (sic)
 (ADICIONADA [N. DE E. REFORMADA], B.O. 20 DE ABRIL DE 1991)
 XLIII.- Promover y vigilar el saneamiento al medio ambiente y realizar las acciones necesarias para lograr la preservación del equilibrio ecológico en el territorio del estado, en los términos de la ley de la materia.
-(ADICIONADA, B.O. 20 DE ABRIL DE 1991)
-XLIV.- Las demás que señalen esta Constitución y sus leyes.
+(REFORMADA, B.O. 20 DE MAYO DE 1994)
+XLIV.- Proponer al Congreso del Estado, una terna de aspirantes al puesto de Magistrado del Tribunal Unitario de lo Contencioso Administrativo dentro de los diez días siguientes a que por renuncia, muerte o remoción se desocupe el cargo, y una vez elegido éste expedir el nombramiento respectivo; y
+(ADICIONADA, B.O. 20 DE MAYO DE 1994)
+XLV.- Las demás que señalen esta Constitución y sus leyes.
 SECCION III
 DE LAS DEPENDENCIAS DEL EJECUTIVO
 (REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
