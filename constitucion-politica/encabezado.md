@@ -126,8 +126,8 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 35.- La ciudad de La Paz es la Capital del Estado y la Sede Oficial de los Poderes Públicos de la entidad.
 TITULO QUINTO
 DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)
-36.- La soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien lo ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
+(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2003)
+36.- La Soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 (REFORMADA, B.O. 14 DE FEBRERO DE 1997)
 I.- Los partidos políticos son entidades de interés público; la Ley determinará las formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 Los partidos políticos nacionales y estatales tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir en la integración de la representación del Estado y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público en las esferas estatal y municipal y de acuerdo a los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
@@ -140,13 +140,17 @@ El financiamiento público para los partidos políticos que mantengan su registr
 La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecunarias (sic) de sus simpatizantes y los procedimientos para el control y vigilancia del origen y el uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 (REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)
 IV.- La organización de los procesos electorales es una función que corresponde realizar al poder público a través de un organismo público autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propios, que se denominará Instituto Estatal Electoral y en cuya integración concurren el Poder Legislativo del Estado, los partidos políticos y los ciudadanos en los términos que disponga la Ley. En el ejercicio de las funciones del organismo electoral, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
-El Instituto Estatal Electoral residirá en la ciudad capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por un consejero Presidente y cuatro consejeros electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones; un representante de cada una de las fracciones parlamentarias del Congreso del Estado; el Director del Registro Estatal de Electores y un Secretario General que se designará a propuesta del consejero Presidente con la aprobación de la mayoría de los consejeros electorales. Los Comités Distritales y Municipales Electorales y el Registro Estatal de Electores formarán parte de su estructura orgánica. Las mesas directivas de casilla estarán integradas por ciudadanos.
+(REFORMADO, B.O. 27 DE OCTUBRE DE 2003)
+El Instituto Estatal Electoral residirá en la Capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por un Consejero Presidente y cuatro Consejeros Electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones; un representante de cada una de las fracciones parlamentarias del Congreso del Estado y un Secretario General que se designará a propuesta del Consejero Presidente con la aprobación de la mayoría de los Consejeros Electorales. Los Comités Distritales y Municipales Electorales formarán parte de su estructura orgánica. Las mesas directivas de casilla estarán integradas por ciudadanos.
 El consejero Presidente y los consejeros electorales del Instituto Estatal Electoral, serán electos sucesivamente, por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado de entre los propuestos por las fracciones parlamentarias del propio Congreso del Estado. Conforme al mismo procedimiento, se designarán un consejero presidente y cuatro consejeros electorales suplentes, en orden de prelación. El consejero Presidente y los consejeros electorales durarán en su encargo 6 años.
 La Ley señalará los requisitos que deben reunir el consejero Presidente y los consejeros Electorales del Instituto Estatal Electoral y determinarán las reglas y procedimientos correspondientes a su elección.
 (REFORMADO, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación electoral y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la Ley, declaración de validez y otorgamiento de constancias en las elecciones de Diputados Locales y Ayuntamientos, cómputo de la elección de Gobernador del Estado de Baja California Sur en cada uno de los distritos Electorales Uninominales, así como la regulación de la observancia electoral y de las encuestas o sondeos de opinión con fines electorales. Lo relativo al Catálogo General de Electores, padrón Electoral, Listado Nominal y credencial para votar con fotografía, se sujetará a los convenios que celebre el Instituto Estatal Electoral con el Instituto Federal Electoral, preparar, desarrollar y vigilar los procesos de plebiscito y referéndum en el Estado y los Municipios. Las sesiones de todos los órganos electorales de dirección serán públicos (sic) en los términos que señale la Ley.
-(REFORMADA, B.O. 14 DE FEBRERO DE 1997)
-V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación.
+(ADICIONADO, B.O. 27 DE OCTUBRE DE 2003)
+El Consejo General del Instituto Estatal Electoral podrá invitar, durante del (sic) proceso electoral, al Vocal del Registro Federal de Electores en el Estado, a las sesiones de dicho Instituto, a las cuales acudirá con voz pero sin voto, conforme a lo convenido con el Instituto Federal Electoral.
+(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
+V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación.
+(REFORMADO, B.O. 14 DE FEBRERO DE 1997)
 En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado.
 (REFORMADA, B.O. 14 DE FEBRERO DE 1997)
 VI.- La Ley correspondiente tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
@@ -163,24 +167,27 @@ DEL CONGRESO
 40.- El poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Baja California Sur".
 SECCION II
 DE LA ELECCION E INSTALACION DEL CONGRESO
-(REFORMADO PRIMER PARRAFO, B.O. 11 DE JUNIO DE 1992)
-41.- El Congreso del Estado de Baja California Sur, se integrará con quince diputados de mayoría relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de distritos electorales uninominales y hasta con seis diputados electos mediante el principio de representación proporcional, apegándose en ambos casos, a las siguientes reglas:
-(REFORMADA, B.O. 10 DE JULIO DE 1989)
-I.- La base para realizar la demarcación territorial de los 15 Distritos Electorales, será el resultante de dividir la población total del Estado conforme al último censo general de población entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico;
-(REFORMADO PRIMER PARRAFO, B.O. 14 DE JULIO DE 1995)
-II.- La elección de diputados por el principio de representación proporcional se efectuará conforme al sistema de listas de candidatos que presenten los partidos políticos y a los resultados electorales y se sujetarán a las siguientes bases:
+(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
+41.- El Congreso del Estado de Baja California Sur se integrará por dieciséis Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cinco Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
+(REFORMADA, B.O. 27 DE OCTUBRE DE 2003)
+I.- La base para realizar la demarcación territorial de los dieciséis Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último Censo General de Población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y socioeconómico.
+(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
+II.- La asignación de Diputados por el principio de Representación Proporcional, se hará de acuerdo con el procedimiento que se establezca en la ley, y se sujetara a las siguientes bases:
 (REFORMADO, B.O. 25 DE ABRIL DE 1983)
 a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado.
-(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)
-b).- Los Partidos Políticos tendrán derecho a postular Candidatos por el Principio de Representación Proporcional, siempre y cuando hayan registrado Candidatos por lo menos en ocho Distritos Electorales Uninominales.
-(REFORMADO, B.O. 18 DE JUNIO DE 1998)
-c).- Para que un partido político tenga derecho a que le sean acreditados de entre sus candidatos, diputados de representación proporcional, deberá alcanzar, por lo menos, el dos por ciento del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de cinco diputaciones de mayoría relativa, en los términos que establezca la Ley.
-(REFORMADA, B.O. 14 DE JULIO DE 1995)
-III.- La Comisión Estatal Electoral asignará las diputaciones por el principio de representación proporcional a los partidos políticos o coaliciones con derecho a ello, conforme a las bases siguientes:
+(REFORMADO, B.O. 27 DE OCTUBRE DE 2003)
+b).- Los partidos políticos tendrán derecho a que se les asignen diputados por el principio de representación proporcional siempre y cuando hayan registrado candidatos, por lo menos, en ocho distritos electorales uninominales.
+(REFORMADO, B.O. 27 DE OCTUBRE DE 2003)
+c).- Para que un partido político tenga derecho a que le sean acreditados, de entre sus candidatos, diputados de representación proporcional, deberá alcanzar por lo menos el dos por ciento del total de la votación emitida para diputados de Mayoría Relativa, y siempre que no hayan logrado mas de cinco diputaciones de mayoría relativa, en los términos que establezca la ley.
+(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
+III.- El Consejo General del Instituto Estatal Electoral asignará las diputaciones por el principio de Representación Proporcional a los partidos políticos o coaliciones con derecho a ello, en los términos siguientes:
+(REFORMADO, B.O. 14 DE JULIO DE 1995)
 a).- En primer término asignará una diputación a todo aquel partido político o coalición que tenga derecho a ello y no haya obtenido constancia de mayoría en ningún distrito electoral, conforme lo disponga la ley de la materia.
+(REFORMADO, B.O. 14 DE JULIO DE 1995)
 b).- Sí después de hechas las asignaciones que se señalan en el inciso anterior aún quedaren diputaciones por distribuir, éstas se otorgarán a los partidos políticos o coaliciones que hayan logrado hasta cinco diputaciones de mayoría relativa, sin que en ningún caso logren más de seis diputaciones por ambos principios.
+(REFORMADO, B.O. 14 DE JULIO DE 1995)
 c).- No podrán asignarse más de cuatro diputaciones por el principio de representación proporcional a los partidos políticos o coaliciones, que no hayan obtenido diputación de mayoría relativa.
-La ley determinará las fórmulas electorales y el procedimiento que se observará en las asignaciones.
+(DEROGADO ULTIMO PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
 (REFORMADO, B.O. 10 DE JULIO DE 1978)
 42.- Los diputados de mayoría relativa y de representación proporcional, son representantes del pueblo sudcaliforniano, tienen la misma categoría e igualdad de derechos y obligaciones. Por cada diputado propietario se elegirá un suplente y la elección será por fórmula.
 (REFORMADO, B.O. 14 DE JULIO DE 1995)
@@ -719,20 +726,16 @@ CONCEPTO E INTEGRACION
 Estarán exentos de pagar las contribuciones a que se refieren los incisos a) y c) del artículo 115 fracción IV de la Constitución General de la República los bienes de dominio público de la Federación, del (sic) los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los del objeto público.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
 134.- El Ayuntamiento es el órgano municipal de Gobierno a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
-(REFORMADO, B.O. 11 DE JUNIO DE 1992)
+(REFORMADO, B.O. 27 DE OCTUBRE DE 2003)
 135.- Los Ayuntamientos se integrarán de la siguiente manera:
-(REFORMADO, B.O. 18 DE JUNIO DE 1998)
-El Ayuntamiento de La Paz, se integrará con un Presidente, un Síndico y doce Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con siete Regidores por el Principio de Representación Proporcional.
-(REFORMADO, B.O. 18 DE JUNIO DE 1998)
-Los Ayuntamientos de Comondú y Los Cabos se integrarán con un Presidente, un Síndico y ocho Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con seis Regidores por el Principio de Representación Proporcional.
-(REFORMADO, B.O. 18 DE JUNIO DE 1998)
-El Ayuntamiento de Mulegé se integrará con un Presidente, un Síndico y ocho Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con cinco Regidores por el Principio de Representación Proporcional.
-(REFORMADO, B.O. 18 DE JUNIO DE 1998)
-El Ayuntamiento de Loreto se integrará con un Presidente, un Síndico y cuatro Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con dos Regidores por el Principio de Representación Proporcional.
+El Ayuntamiento de La Paz se integrará por un Presidente, un Síndico y ocho Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de Mayoría Relativa y con cinco Regidores por el principio de Representación Proporcional.
+El Ayuntamiento de Comondú se integrará por un Presidente, un Síndico y seis Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa y con tres Regidores por el principio de Representación Proporcional.
+El Ayuntamiento de Los Cabos se integrará por un Presidente, un Síndico y siete Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa y con cuatro Regidores por el principio de Representación Proporcional.
+El Ayuntamiento de Mulegé se integrará por un Presidente, un Síndico y seis Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa y con tres Regidores por el Principio de Representación Proporcional.
+El Ayuntamiento de Loreto se integrará por un Presidente, un Síndico y cuatro Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa y con dos Regidores por el principio de Representación Proporciona (sic).
 Por cada miembro de los Ayuntamientos, habrá un suplente.
-(REFORMADO, B.O. 18 DE JUNIO DE 1998)
-La ley de la materia determinará la fórmula y el procedimiento de asignación de las Regidurías por el Principio de Representación Proporcional.
-Los miembros de los Ayuntamientos durarán en su cargo tres años a partir de la fecha en que tomen posesión del mismo.
+La Ley de la materia determinará la fórmula y el procedimiento de asignación de las Regidurias por el Principio de Representación Proporcional.
+Los miembros de los Ayuntamientos duraran en su cargo tres años a partir de la fecha en que tomen posesión del mismo
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
 CAPITULO VI
 DE LA ELECCION DEL AYUNTAMIENTO
