@@ -125,7 +125,8 @@ II.- Si logra mayoría en uno o más distritos electorales, no tendrá derecho a
 III.- Será acreditado diputado de partido, aquél que obtenga el mayor número de sufragios, en relación a los demás candidatos del mismo partido en la entidad.
 42.- Los diputados de mayoría y de partido, son representantes del pueblo sudcaliforniano, tienen la misma categoría e iguales derechos y obligaciones.
 Por cada diputado propietario se elegirá un suplente. La elección se hará por fórmula.
-43.- El Congreso del Estado calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e inapelable.
+(REFORMADO, B.O. 20 DE ABRIL DE 1977)
+43.- El Congreso del Estado que se instale cada tres años calificará las elecciones de sus miembros y de Gobernador, en su caso, y resolverá las dudas, que hubiere sobre ellas. Sus resoluciones serán definitivas e inapelables.
 44.- Para ser diputado al Congreso del Estado se requiere:
 I.- Ser sudcaliforniano y ciudadano del Estado en ejercicio de sus derechos;
 II.- Tener 21 años cumplidos el día de la elección; y
@@ -181,7 +182,7 @@ I.- Legislar en todo lo relativo al Gobierno del Estado;
 II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
-V.- En las elecciones de Gobernador y Diputados, erigirse en Colegio Electoral para calificarlas y declarar electos a los ciudadanos que hayan obtenido la mayoría de votos;
+V.- (DEROGADA, B.O. 20 DE ABRIL DE 1977)
 VI.- Declarar electos a los senadores de la República;
 VII.- Calificar las elecciones de los Ayuntamientos del Estado, declarando electos a los ciudadanos que hayan obtenido la mayoría de votos;
 VIII.- Convocar a elecciones para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los dos primeros años del período constitucional, conforme a lo establecido en este ordenamiento;
