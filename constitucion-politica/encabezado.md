@@ -160,8 +160,8 @@ II.- La elección de diputados por el principio de representación proporcional 
 a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado.
 (REFORMADO, B.O. 31 DE OCTUBRE DE 1989)
 b).- Los Partidos Políticos tendrán derecho a postular Candidatos por el Principio de Representación Proporcional, siempre y cuando hayan registrado Candidatos por lo menos en ocho Distritos Electorales Uninominales.
-(REFORMADO, B.O. 14 DE JULIO DE 1995)
-c).- Para que un partido político tenga derecho a que le sean acreditados de entre sus candidatos, diputados de representación proporcional, deberá alcanzar por lo menos el uno punto cinco por ciento del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de cinco diputaciones de mayoría relativa, en los términos que establezca la ley.
+(REFORMADO, B.O. 18 DE JUNIO DE 1998)
+c).- Para que un partido político tenga derecho a que le sean acreditados de entre sus candidatos, diputados de representación proporcional, deberá alcanzar, por lo menos, el dos por ciento del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de cinco diputaciones de mayoría relativa, en los términos que establezca la Ley.
 (REFORMADA, B.O. 14 DE JULIO DE 1995)
 III.- La Comisión Estatal Electoral asignará las diputaciones por el principio de representación proporcional a los partidos políticos o coaliciones con derecho a ello, conforme a las bases siguientes:
 a).- En primer término asignará una diputación a todo aquel partido político o coalición que tenga derecho a ello y no haya obtenido constancia de mayoría en ningún distrito electoral, conforme lo disponga la ley de la materia.
@@ -172,8 +172,9 @@ La ley determinará las fórmulas electorales y el procedimiento que se observar
 42.- Los diputados de mayoría relativa y de representación proporcional, son representantes del pueblo sudcaliforniano, tienen la misma categoría e igualdad de derechos y obligaciones. Por cada diputado propietario se elegirá un suplente y la elección será por fórmula.
 (REFORMADO, B.O. 14 DE JULIO DE 1995)
 43.- Las elecciones de diputados por el principio de mayoría relativa serán computadas y declaradas válidas por los órganos electorales en cuyo territorio se haya llevado a cabo el proceso electoral correspondiente, el que otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos, en los términos de la ley de la materia.
-El cómputo de las elecciones de diputados de representación proporcional, así como la asignación de éstos, será efectuada por la Comisión Estatal Electoral.
-Por lo que hace a la elección de Gobernador del Estado, el Congreso del Estado que se instale en el año de dicha elección habrá de constituirse en Colegio Electoral en los términos de la Ley Electoral del Estado, para su calificación y en su momento la Comisión respectiva emitirá el dictamen que corresponda. La resolución será definitiva e inapelable.
+(REFORMADO, B.O. 18 DE JUNIO DE 1998)
+El cómputo de las elecciones de Diputados por el principio de representación proporcional, así como la asignación de éstos, será efectuada por el Instituto Estatal Electoral.
+(DEROGADO TERCER PARRAFO, B.O. 18 DE JUNIO DE 1998)
 44.- Para ser diputado al Congreso del Estado se requiere:
 I.- Ser sudcaliforniano y ciudadano del Estado en ejercicio de sus derechos;
 II.- Tener 21 años cumplidos el día de la elección; y
@@ -239,8 +240,8 @@ I.- Legislar en todo lo relativo al Gobierno del Estado;
 II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
-(REFORMADA, B.O. 14 DE JULIO DE 1995)
-V.- Erigirse en Colegio Electoral para ejercer las atribuciones que la ley le señale respecto a la elección de Gobernador del Estado;
+(REFORMADA, B.O. 18 DE JUNIO DE 1998)
+V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 VI.- (DEROGADA, B.O. 14 DE JULIO DE 1995)
 (ADICIONADA, B.O. 14 DE FEBRERO DE 1997)
 VII.- Elegir a los Magistrados del Tribunal Estatal Electoral, en los términos del artículo 99 de esta Constitución;
@@ -306,8 +307,8 @@ DE LA DIPUTACION PERMANENTE
 66.- Son facultades de la Diputación Permanente:
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 I.- Acordar por sí o a propuesta del Gobernador, la Convocatoria a Período Extraordinario de Sesiones.
-(REFORMADA, B.O. 14 DE JULIO DE 1995)
-II.- Recibir en su caso, el expediente relativo a la elección de Gobernador del Estado, convocando al Congreso del Estado para los efectos conducentes;
+(REFORMADA, B.O. 18 DE JUNIO DE 1998)
+II.- Expedir, en su caso, el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 III.- Instalar y presidir la primera Junta Preparatoria del nuevo Congreso del Estado;
 IV.- Nombrar interinamente a los empleados de la Contaduría Mayor de Hacienda;
 V.- Resolver los asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de Ley y proposiciones que le dirijan, turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones;
@@ -473,7 +474,8 @@ Para el trámite de las renuncias de los Magistrados, se seguirá el mismo proce
 91.- Para ser Magistrado se requiere:
 I.- Ser ciudadano sudcaliforniano, en pleno ejercicio de sus derechos políticos y civiles.
 II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección, pero si al concluir el ejercicio sexenal excediere esta edad, podrán ser nombrados para el próximo periodo hasta alcanzar los setenta años en que serán sustituidos.
-III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado, expedido por la autoridad o corporación legalmente facultada para ello.
+(REFORMADA, B.O. 18 DE JUNIO DE 1998)
+III.- Poseer al día de su elección, con una antigüedad mínima de diez años, Título y Cédula Profesional de Licenciado en Derecho, expedidos por la autoridad o institución legalmente facultada para ello;
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 V.- Los Magistrados del Tribunal Superior de Justicia serán nombrados preferentemente de entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 92.- Los nombramientos de Magistrados del Tribunal Superior de Justicia que el Gobernador del Estado someta al Congreso del Estado o a la Comisión Permanente, en su caso, deberán ser aprobados o desechados dentro del improrrogable término de diez días.
@@ -514,7 +516,8 @@ Los Magistrados del Tribunal Estatal Electoral, serán electos por el voto de la
 Para ser Magistrado del Tribunal Estatal Electoral, se deberán cumplir los siguientes requisitos:
 I.- Ser ciudadano sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, y con residencia en el Estado por tres años;
 II.- No tener más de 65 años de edad, ni menos de 35 en la fecha de su elección;
-III.- Poseer al día de su elección, con una antigüedad mínima de cinco años, título profesional de Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello;
+(REFORMADA, B.O. 18 DE JUNIO DE 1998)
+III.- Poseer al día de su elección, con una antigüedad mínima de diez años, Título y Cédula Profesional de Licenciado en Derecho, expedidos por la autoridad o institución legalmente facultada para ello;
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión en sentencia ejecutoria; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 V.- No haber sido ministro de algún culto religioso; a menos que se haya separado formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de su elección;
 VI.- No tener ni haber tenido cargo alguno de elección popular cinco años anteriores al de su elección;
@@ -638,15 +641,17 @@ CONCEPTO E INTEGRACION
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 (REFORMADO, B.O. 11 DE JUNIO DE 1992)
 135.- Los Ayuntamientos se integrarán de la siguiente manera:
-El Ayuntamiento de La Paz, se integrará con un Presidente, un Síndico y catorce Regidores electos por sufragio universal directo, libre y secreto mediante el sistema de mayoría relativa y hasta con cinco Regidores por el principio de representación proporcional.
-(REFORMADO, B.O. 26 DE AGOSTO DE 1992)
-El Ayuntamiento de Comondú, se integrará con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con cuatro Regidores electos por el principio de representación proporcional.
-(REFORMADO, B.O. 26 DE AGOSTO DE 1992)
-El Ayuntamiento de Mulegé y Los Cabos, se integrarán con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con tres Regidores electos por el principio de representación proporcional.
-(ADICIONADO, B.O. 20 DE AGOSTO DE 1992)
-El Ayuntamiento de Loreto, se integrará con un Presidente, un Síndico y cinco Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con un Regidor electo por el principio de representación proporcional.
+(REFORMADO, B.O. 18 DE JUNIO DE 1998)
+El Ayuntamiento de La Paz, se integrará con un Presidente, un Síndico y doce Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con siete Regidores por el Principio de Representación Proporcional.
+(REFORMADO, B.O. 18 DE JUNIO DE 1998)
+Los Ayuntamientos de Comondú y Los Cabos se integrarán con un Presidente, un Síndico y ocho Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con seis Regidores por el Principio de Representación Proporcional.
+(REFORMADO, B.O. 18 DE JUNIO DE 1998)
+El Ayuntamiento de Mulegé se integrará con un Presidente, un Síndico y ocho Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con cinco Regidores por el Principio de Representación Proporcional.
+(REFORMADO, B.O. 18 DE JUNIO DE 1998)
+El Ayuntamiento de Loreto se integrará con un Presidente, un Síndico y cuatro Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con dos Regidores por el Principio de Representación Proporcional.
 Por cada miembro de los Ayuntamientos, habrá un suplente.
-La Ley Reglamentaria determinará los procedimientos que se observarán para las asignaciones que correspondan.
+(REFORMADO, B.O. 18 DE JUNIO DE 1998)
+La ley de la materia determinará la fórmula y el procedimiento de asignación de las Regidurías por el Principio de Representación Proporcional.
 Los miembros de los Ayuntamientos durarán en su cargo tres años a partir de la fecha en que tomen posesión del mismo.
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
 CAPITULO VI
@@ -769,8 +774,8 @@ III.- Se aplicarán sanciones administrativas a los servidores públicos por los
 Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 Las leyes determinarán las causas y circunstancias por las que se deba sancionar penalmente a los servidores públicos, por enriquecimiento ilícito, cuando aumente sustancialmente su patrimonio durante el tiempo de su encargo o por motivo del mismo, mediante la adquisición de bienes por sí o por interpósita persona, o que se conduzcan como dueños de ellos y cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de propiedad de dichos bienes, además de las otras penas que correspondan.
 Cualquier ciudadano, mediante la presentación de elementos de prueba y bajo su más estricta responsabilidad, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente Artículo.
-(REFORMADO PRIMER PARRAFO, B.O. 14 DE FEBRERO DE 1997)
-158.- Podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de fuero común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocurador General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
+(REFORMADO PRIMER PARRAFO, B.O. 18 DE JUNIO DE 1998)
+158.- Podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocuradores de la Procuraduría General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
