@@ -231,7 +231,7 @@ XVIII.- Erigirse en Jurado de Sentencia en los juicios a que se refiere el Artí
 XIX.- Declarar si ha lugar o no al proceso a que se refiere el Artículo 159 de esta Constitución.
 XX.- Elegir la Diputación Permanente;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
-XXI.- Otorgar o negar su aprobación a los nombramientos, renuncias y remociones de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado;
+XXI.- Otorgar o negar su aprobación a los nombramientos, renuncias y remociones de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado.
 XXII.- Legislar en todo lo relativo a la administración pública;
 XXIII.- Autorizar la participación del Gobernador en comisiones interestatales de desarrollo regional;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
@@ -294,8 +294,8 @@ II.- Tener 30 años cumplidos el día de la elección;
 III.- No pertenecer al Estado eclesiástico ni ser ministro de algún culto religioso;
 IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de seguridad pública, dentro de los noventa días anteriores a la fecha de la elección;
 V.- No ser funcionario o empleado federal noventa días anteriores a la fecha de la elección;
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Oficial Mayor, Procurador General o Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local o Presidente Municipal, 90 días anteriores a la fecha de la elección; y
+(REFORMADA, B.O. 10 DE JULIO DE 1985)
+VI.- No ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Salud, Contralor, Oficial Mayor, Procurador General, Magistrados del Tribunal Superior de Justicia del Estado, Diputado Local o Presidente Municipal, noventa días anteriores a la fecha de elección. Y
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
 70.- El Gobernador del Estado durará en su encargo seis años; iniciará el ejercicio de sus funciones el día 5 de abril.
 71.- Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:
@@ -318,8 +318,8 @@ DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 79.- Son facultades y obligaciones del Gobernador:
 I.- Publicar, cumplir y hacer cumplir las leyes federales;
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Oficial Mayor, Procurador General de Justicia y demás Funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
+(REFORMADA, B.O. 10 DE JULIO DE 1985)
+III.- Nombrar y remover libremente al Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Salud, Oficial Mayor, Procurador General de Justicia, Contralor General y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
 IV.- Nombrar a los Magistrados del Tribunal Superior de Justicia, con la aprobación del Congreso del Estado o la Diputación Permanente, en su caso;
 V.- Nombrar a los miembros del Consejo tutelar para menores, en los términos que disponga la ley de la materia;
 VI.- Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia y turnarlas, en su caso, al Congreso del Estado o a la Comisión Permanente;
@@ -369,11 +369,11 @@ XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tec
 XLIII.- Las demás que señalen esta Constitución y sus leyes.
 SECCION III
 DE LAS DEPENDENCIAS DEL EJECUTIVO
-(REFORMADO, B.O. 30 DE ABRIL DE 1981)
-80.- Para el despacho de los asuntos del orden administrativo, habrá: un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Públicas, un Oficial Mayor, un Procurador General de Justicia y los demás funcionarios que establezca la Ley Orgánica del Poder Ejecutivo.
+(REFORMADO, B.O. 10 DE JULIO DE 1985)
+80.- Para el despacho de los asuntos del orden administrativo, habrá: Un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Desarrollo, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Salud, un Oficial Mayor, un Procurador General de Justicia, un Contralor y los demás funcionarios que establezca la Ley Orgánica del Poder Ejecutivo.
 81.- Toda ley o decreto será refrendada por el Secretario General de Gobierno y por el funcionario del ramo relativo.
-(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 1981)
-82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo y Oficial Mayor se requiere:
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 1985)
+82.- Para ser Secretario General de Gobierno, Secretario de Finanzas, Secretario de Desarrollo, Secretario de Asentamientos Humanos y Obras Públicas, Secretario de Salud, Contralor, Oficial Mayor se requiere:
 (REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
 I.- Ser ciudadano sudcaliforniano;
 (REFORMADA, B.O. 25 DE MARZO DE 1981)
