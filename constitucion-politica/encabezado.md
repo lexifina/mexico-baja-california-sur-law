@@ -658,7 +658,8 @@ DEL PRESIDENTE MUNICIPAL
 I.- Cumplir y proveer a la observancia de las leyes federales y estatales;
 II.- Ejecutar los acuerdos y reglamentos expedidos por el ayuntamiento y darle cuenta de ello;
 III.- Presidir las sesiones y participar en las deliberaciones;
-IV.- Rendir anualmente al ayuntamiento, en la última sesión ordinaria del año, un informe detallado sobre el estado que guarde la administración pública municipal;
+(REFORMADA, B.O. 20 DE FEBRERO DE 1988)
+IV.- Rendir anualmente al Ayuntamiento, un informe detallado sobre el estado que guarde la Administración Pública Municipal.
 V.- Proponer al ayuntamiento la asignación de comisiones de gobierno y administración entre los regidores;
 (ADICIONADA [N. DE E. REFORMADA], B.O. 26 DE AGOSTO DE 1975)
 VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal de policia y administrativo de acuerdo con las disposiciones aplicables.
