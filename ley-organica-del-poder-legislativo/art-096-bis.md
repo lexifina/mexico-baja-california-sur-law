@@ -1,0 +1,5 @@
+(ADICIONADO, B.O. 31 DE JULIO DE 2026)
+Artículo 96 Bis
+Para el caso de proposiciones con punto de acuerdo, iniciativas con proyecto de decreto, dictámenes o cualquier otro asunto parlamentario sometido a consideración del Pleno, las diputadas y los diputados podrán auxiliarse de herramientas tecnológicas, audiovisuales o ilustrativas para fortalecer la exposición de sus planteamientos.
+Cuando se pretenda utilizar material multimedia o audiovisual durante la sesión, éste deberá remitirse previamente junto con el documento parlamentario correspondiente, en formatos digitales compatibles para su reproducción institucional, incluyendo archivos PDF, JPG, PNG, MP4, AVI, PPT o PPTX, o aquellos que determine la Dirección de Informática.
+El material que sea proyectado o difundido durante las sesiones deberá guardar respeto a la dignidad de las personas, a la institucionalidad parlamentaria y al adecuado desarrollo de la sesión, por lo que no podrá contener imágenes explícitamente violentas, degradantes, discriminatorias, ofensivas o ajenas al asunto parlamentario en discusión.
