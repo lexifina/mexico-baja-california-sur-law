@@ -295,7 +295,7 @@ XXV.- Promover el desarrollo económico del Estado buscando siempre que sea comp
 XXVI.- Fomentar la creación de industrias y empresas rurales, buscando la participación armónica de todos los factores de la producción;
 XXVII.- Planificar el crecimiento de los centros urbanos, dotándolos de los servicios necesarios, a fin de propiciar el espíritu de solidaridad en la convivencia social y el desarrollo pleno y armónico de la población;
 XXVIII.- Mejorar las condiciones económicas y sociales de vida de los campesinos, fomentando en ellos el arraigo a sus lugares de residencia;
-XXIX.- Nombrar y remover libremente el personal de policía del municipio donde resida;
+XXIX.- (DEROGADA, B.O. 26 DE AGOSTO DE 1975)
 XXX.- Conocer de las designaciones que haga el Procurador y el Presidente del Tribunal Superior de Justicia;
 XXXI.- Promover el desarrollo integral de todos los recursos naturales, entre otros la minería, la pesca; y además las actividades agropecuarias y el turismo;
 XXXII.- Prestar y vigilar el eficaz cumplimiento de los servicios sociales que desarrolle el Estado;
@@ -547,7 +547,8 @@ II.- Ejecutar los acuerdos y reglamentos expedidos por el ayuntamiento y darle c
 III.- Presidir las sesiones y participar en las deliberaciones;
 IV.- Rendir anualmente al ayuntamiento, en la última sesión ordinaria del año, un informe detallado sobre el estado que guarde la administración pública municipal;
 V.- Proponer al ayuntamiento la asignación de comisiones de gobierno y administración entre los regidores;
-VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal administrativo, de acuerdo con las disposiciones aplicables;
+(ADICIONADA [N. DE E. REFORMADA], B.O. 26 DE AGOSTO DE 1975)
+VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal de policia y administrativo de acuerdo con las disposiciones aplicables.
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo que establezca el reglamento interior;
 VIII.- Tener bajo su mando los cuerpos de seguridad para la conservación del orden público, con excepción de las facultades que se reservan al Gobernador;
 IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días;
