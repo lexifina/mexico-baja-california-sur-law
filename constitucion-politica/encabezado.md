@@ -431,7 +431,8 @@ IV.- Los Jueces de Paz;
 V.- Los Arbitros;
 VI.- El Jurado Popular; y
 VII.- Los demás funcionarios y auxiliares de la Administración de Justicia.
-90.- El Tribunal Superior de Justicia del Estado se integra con tres Magistrados Numerarios y los Supernumerarios que señale la ley orgánica respectiva, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
+(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)
+90.- El Tribunal Superior de Justicia del Estado se integra por cuatro Magistrados Numerarios, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Diputación Permanente, en su caso, en los términos de esta Constitución.
 Para el trámite de las renuncias de los Magistrados del Tribunal, se seguirá el mismo procedimiento que para su nombramiento.
 91.- Para ser Magistrado se requiere:
 I.- Ser ciudadano en ejercicio de sus derechos;
