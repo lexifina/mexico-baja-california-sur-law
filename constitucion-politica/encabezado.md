@@ -33,10 +33,11 @@ Igual protección asume respecto de los derechos fundamentales que, en ejercicio
 8o.- Los habitantes del Estado, tienen todos los derechos y libertades consagrados en esta Constitución, sin distinción alguna de su origen, raza, color, sexo, idioma, religión y opinión política, condición o actividad social.
 9o.- Todo hombre y mujer serán sujetos de iguales derechos y obligaciones ante la ley.
 10.- Todos los habitantes del Estado, tienen derecho a casarse y fundar una familia. Disfrutarán de iguales derechos y obligaciones en cuanto al matrimonio, durante el matrimonio y en caso de disolución del mismo.
+(REFORMADO, B.O. 20 DE MAYO DE 1985)
 11.- El matrimonio y la familia constituyen la base fundamental de la comunidad; consecuentemente, el hogar, la maternidad y la infancia serán objeto de especial protección por parte de las autoridades.
-Todos los niños nacidos de matrimonio o fuera de él, tienen derecho a igual protección.
+Todos los niños nacidos de matrimonio o fuera de él, tienen derecho a igual protección y a ser inscritos en el Registro Civil.
 Es derecho correlativo a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos y su educación, como deber supremo ante la sociedad.
-Toda medida o disposición protectoras de la familia y la niñez se considerarán de orden público.
+Toda medida o disposición protectoras de las familias y la niñez se consideran de orden público.
 12.- La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación descansará en los principios señalados en dicho precepto y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado.
 13.- En el Estado la educación primaria y la media básica serán obligatorias. Además, toda la educación que imparta el Estado será gratuita.
 14.- La propiedad privada se respetará y garantizará en el Estado, con las modalidades que para su ejercicio, como función social, le impone el artículo 27 de la Constitución General de la República, buscando el aprovechamiento racional de los recursos naturales susceptibles de apropiación, para propiciar la distribución equitativa de la riqueza pública, preservar su conservación y coadyuvar al progreso social.
@@ -60,9 +61,14 @@ DE LOS HABITANTES
 22.- Son obligaciones de los habitantes del Estado:
 I.- Cumplir con los preceptos de esta Constitución, los de las leyes, reglamentos y disposiciones que de ella emanen, y respetar a las autoridades;
 II.- Contribuir a los gastos públicos del Estado y del Municipio en que residan, en la forma proporcional y equitativa que dispongan las leyes;
-III.- Tener un modo honesto de vivir;
-IV.- Dar auxilio a las autoridades en los casos de urgencia; y
-V.- Si son extranjeros, contribuir para los gastos públicos de la manera que dispongan las leyes, obedecer y respetar las instituciones, leyes y autoridades del Estado; sujetarse a los fallos y sentencias de los tribunales, sin poder invocar o intentar otros recursos que los que se conceden a todos los mexicanos.
+(REFORMADA, B.O. 20 DE MAYO DE 1985)
+III.- Inscribir en el Registro Civil, los actos constitutivos o modificativos del estado civil;
+(REFORMADA, B.O. 20 DE MAYO DE 1985)
+IV.- Tener un modo honesto de vivir;
+(REFORMADA, B.O. 20 DE MAYO DE 1985)
+V.- Dar auxilio a las autoridades en los casos de urgencia, y
+(ADICIONADA, B.O. 20 DE MAYO DE 1985)
+VI.- Si son Extranjeros, contribuir para los gastos públicos de la manera que dispongan las Leyes, obedecer y respetar las Instituciones, Leyes y Autoridades del Estado, sujetarse a los fallos y sentencias de los Tribunales sin poder invocar o intentar otros recursos, que los que se conceden a todos los mexicanos.
 CAPITULO II
 DE LOS SUDCALIFORNIANOS
 23.- Son sudcalifornianos:
@@ -225,7 +231,7 @@ XVIII.- Erigirse en Jurado de Sentencia en los juicios a que se refiere el Artí
 XIX.- Declarar si ha lugar o no al proceso a que se refiere el Artículo 159 de esta Constitución.
 XX.- Elegir la Diputación Permanente;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
-XXI.- Otorgar o negar su aprobación a los nombramientos, renuncias y remociones de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado.
+XXI.- Otorgar o negar su aprobación a los nombramientos, renuncias y remociones de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado;
 XXII.- Legislar en todo lo relativo a la administración pública;
 XXIII.- Autorizar la participación del Gobernador en comisiones interestatales de desarrollo regional;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
