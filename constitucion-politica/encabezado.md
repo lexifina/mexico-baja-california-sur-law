@@ -562,16 +562,20 @@ III.- Subdelegaciones.
 La extensión y límites de las delegaciones y subdelegaciones serán determinadas por el ayuntamiento respectivo.
 CAPITULO III
 DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
-(REFORMADO PRIMER PARRAFO, B.O. 7 DE ABRIL DE 1980)
-122.- Para la creación de Municipios en el Estado se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
+(REFORMADO PRIMER PARRAFO, B.O. 11 DE JUNIO DE 1992)
+122.- Para la creación de municipios en el Estado se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
 I.- Que sea conveniente para satisfacer las necesidades de sus habitantes;
 II.- Que la superficie del territorio del Estado en que se pretenda erigir, sea suficiente para cubrir sus necesidades y atender a sus posibilidades y de desarrollo futuro;
-III.- Que sus recursos de desarrollo potencial le garanticen posibilidades de autosuficiencia económica, para cubrir un presupuesto mínimo anual de $30'000,000.00 (treinta millones de pesos);
-(REFORMADA, B.O. 7 DE ABRIL DE 1980)
-IV.- Que su población no sea inferior a veinte mil habitantes.
-V.- Que la comunidad en que se establezca su cabecera cuente con más de cinco mil habitantes;
-VI.- Que la ciudad señalada en la fracción anterior, tenga servicios públicos adecuados para su población; y
-VII.- Que previamente se escuche la opinión de los ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo.
+(REFORMADA, B.O. 11 DE JUNIO DE 1992)
+III.- Que se compruebe debidamente ante el Congreso, que tienen elementos suficientes para proveer a su existencia política.
+(REFORMADA, B.O. 11 DE JUNIO DE 1992)
+IV.- Que su población no sea inferior a cinco mil habitantes.
+(REFORMADA, B.O. 11 DE JUNIO DE 1992)
+V.- Que la comunidad en que se establezca su cabecera cuente con más de tres mil habitantes.
+VI.- Que la ciudad señalada en la fracción anterior, tenga servicios públicos adecuados para su población; y (sic)
+VII.- Que previamente se escuche la opinión de los ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo;
+(ADICIONADA, B.O. 11 DE JUNIO DE 1992)
+VIII.- Que cuando menos las dos terceras partes de los ciudadanos del territorio que se pretenda erigir en municipio, manifiesten su conformidad.
 123.- El Congreso del Estado podrá declarar la supresión de un municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridad (sic) para su creación.
 124.- El Gobierno del Estado, cuando lo considere conveniente, podrá promover de común acuerdo con los ayuntamientos respectivos, la fusión de comunidades para crear otras de mayor extensión que permitan integrar a los núcleos aislados de población con el objeto de ejecutar programas de desarrollo general.
 125.- Los conflictos de límites que se susciten entre las diversas circunscripciones municipales del Estado se podrán resolver mediante convenios amistosos que al efecto celebren con aprobación del Congreso del Estado. Cuando dichas diferencias tengan carácter contencioso, conocerá de ellas el Tribunal Superior de Justicia.
