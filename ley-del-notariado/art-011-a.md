@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 10 DE JUNIO DE 1993)
+ARTICULO 11 A. El que pretenda examen de aspirante de notario, presentará solicitud al Gobernador del Estado, acreditando los requisitos que establece el artículo 11 de esta ley; asimismo enviará una copia de la solicitud y documentos al Consejo de la Asociación de Notarios, quien opinará ante el Ejecutivo del Estado, en un plazo que no excederá de diez días hábiles contados a la fecha de su recepción, si se reúnen los requisitos mencionados.

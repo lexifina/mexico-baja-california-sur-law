@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 10 DE JUNIO DE 1993)
+ARTICULO 12 A. Cuando se declare vacante una Notaría o se cree una nueva, el Ejecutivo del Estado convocará, mediante una sola publicación en el periódico de mayor circulación en la Entidad y en el Boletín Oficial del Gobierno del Estado, al examen de oposición, a quienes tengan patente de aspirante de notario, para que en el término de diez días hábiles manifiesten su interés en presentar dicho examen, acreditando llenar los requisitos de ley, ante el Gobernador del Estado y el Consejo de Notarios.

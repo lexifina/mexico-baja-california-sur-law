@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 10 DE JUNIO DE 1993)
+ARTICULO 11 C. El jurado, de tres miembros, se integrará por el presidente del Consejo de Notarios o por el secretario si aquél tiene impedimento y los restantes serán insaculados por el solicitante, entre los notarios titulares del Estado, una vez que haya sido fijada la fecha del examen, ante el secretario del Consejo de Notarios, no pudiendo formar parte del jurado los notarios en cuya Notaría hubiese hecho su práctica el sustentante.

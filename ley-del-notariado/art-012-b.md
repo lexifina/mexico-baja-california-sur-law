@@ -1,0 +1,3 @@
+(ADICIONADO, B.O. 10 DE JUNIO DE 1993)
+ARTICULO 12 B. El Gobernador del Estado, dentro de los diez días hábiles siguientes a la conclusión del término que se menciona en el artículo anterior, fijará día, hora y lugar para la realización del examen de oposición, que deberá ser dentro de un plazo de treinta días hábiles, determinando además si los solicitantes reúnen los requisitos de ley, y lo hará del conocimiento de los interesados y del Consejo de Notarios. El jurado se integrará de la manera prevista en el artículo 11 C de esta Ley.
+El Consejo de Notarios, si considera que alguno de los solicitantes no reúne los requisitos legales, lo hará del conocimiento del Ejecutivo, para que éste resuelva lo conducente.
