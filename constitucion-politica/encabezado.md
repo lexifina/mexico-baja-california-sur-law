@@ -50,8 +50,12 @@ Las autoridades estatales, asumirán el ejercicio de todas las atribuciones que 
 18.- Todos los habitantes del Estado tienen derecho a la protección de la salud y seguridad sociales teniendo como objetivo la permanente superación del nivel de vida de la población y el saneamiento del medio ambiente.
 La Ley definirá las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado.
 19.- Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística y científica de la comunidad y en los beneficios que de ello resulten.
-20.- Queda prohibida la pena de muerte, y cualesquiera otras penas inusitadas y trascendentales.
-Toda persona reducida a prisión tiene derecho a la readaptación social, y los beneficios que de él resulten, sobre las bases del trabajo, la capacitación para el mismo, la educación y la reestructuración de su personalidad, inspirados en un criterio de defensa social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad.
+(REFORMADO, B.O. 20 DE FEBRERO DE 1988)
+20.- Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
+Queda prohibida la pena de muerte y cualquiera otras penas inusitadas y trascendentales.
+Toda persona reducida a prisión tiene derecho a la readaptación social, y los beneficios que de ella resulten, sobre las bases del trabajo, la capacitación para el mismo, la educación y la reestructuración de su personalidad, inspirados en un criterio de defensa social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad.
 El Gobierno del Estado establecerá instituciones especiales para el tratamiento de menores infractores.
 TITULO TERCERO
 DE LA POBLACION
@@ -442,20 +446,24 @@ VII.- Los demás funcionarios y auxiliares de la Administración de Justicia.
 (REFORMADO, B.O. 20 DE OCTUBRE DE 1984)
 90.- El Tribunal Superior de Justicia del Estado se integra por cinco Magistrados Numerarios, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
 Para el trámite de las renuncias de los Magistrados del Tribunal se seguirá el mismo procedimiento que para su nombramiento.
+(REFORMADO, B.O. 20 DE FEBRERO DE 1988)
 91.- Para ser Magistrado se requiere:
-I.- Ser ciudadano en ejercicio de sus derechos;
-II.- No tener menos de treinta años de edad, ni más de sesenta y cinco al día de la designación; pero si al concluir el ejercicio sexenal excediere de esta edad, podrán ser nombrados para el próximo período hasta alcanzar los setenta años en que serán sustituidos;
-III.- Ser licenciado en Derecho, con título debidamente registrado y acreditar cuando menos cinco años de ejercicio profesional;
-IV.- Gozar de buena reputación; y
-V.- No haber sido condenado por delito intencional.
+I.- Ser ciudadano sudcaliforniano, en pleno ejercicio de sus derechos políticos y civiles.
+II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección, pero si al concluir el ejercicio sexenal excediere esta edad, podrán ser nombrados para el próximo periodo hasta alcanzar los setenta años en que serán sustituidos.
+III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado, expedido por la autoridad o corporación legalmente facultada para ello.
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
+V.- Los Magistrados del Tribunal Superior de Justicia serán nombrados preferentemente de entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 92.- Los nombramientos de Magistrados del Tribunal Superior de Justicia que el Gobernador del Estado someta al Congreso del Estado o a la Comisión Permanente, en su caso, deberán ser aprobados o desechados dentro del improrrogable término de diez días.
 Si el Congreso del Estado o la Comisión Permanente, en su caso, nada resolviere dentro del plazo anterior, se tendrán por aprobados los nombramiencos (sic) y los designados entrarán a desempeñar sus funciones.
 En caso de que no se aprueben dos nombramientos sucesivos respecto a una misma vacante, el Gobernador del Estado hará un tercero que surtirá efectos desde luego como provisional y que será sometido a la aprobación de la Comisión Permanente. Cuando los nombramientos hayan sido sometidos a la Comisión Permanente, el tercero se someterá al Congreso del Estado en el siguiente período de sesiones.
 Dentro de los primeros diez días de sesiones del Congreso del Estado o de la Comisión Permanente, se deberá aprobar o rechazar el nombramiento; si nada se resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo y el Gobernador hará la declaratoria correspondiente.
 Si el Congreso o la Comisión Permanente desecha el nombramiento, cesará desde luego en sus funciones el Magistrado Provisional y el Gobernador someterá nuevo nombramiento en los términos que se indican en este precepto.
-93.- Los Magistrados del Tribunal Superior de Justicia durarán en su encargo seis años y sólo podrán ser privados de sus puestos por responsabilidad oficial, en los términos de esta Constitución y de la ley respectiva.
-94.- Los Magistrados del Tribunal Superior de Justicia, ya sean definitivos o provisionales, deberán otorgar la protesta de ley ante el Congreso del Estado y en los recesos de ésta ante la Comisión Permanente.
-Los jueces protestarán ante el Tribunal Superior de Justicia. Los demás funcionarios y empleados de la administración de justicia rendirán la protesta ante la autoridad de quien dependan.
+(REFORMADO, B.O. 20 DE FEBRERO DE 1988)
+93.- Los Magistrados del Tribunal Superior de Justicia durarán en su encargo seis años, pudiendo ser reelectos y si lo fueren, solo podrán ser privados de sus puestos en los términos que determine esta Constitución y las Leyes respectivas.
+(REFORMADO, B.O. 20 DE FEBRERO DE 1988)
+94.- Los Magistrados del Tribunal Superior de Justicia ya sean definitivos o provisionales, deberán otorgar la protesta de Ley ante el Congreso del Estado y en los recesos de éste ante la Diputación Permanente.
+Los jueces protestarán ante el Tribunal Superior de Justicia, los demás funcionarios y empleados de la Administración de Justicia rendirán su protesta ante la autoridad de quien dependan.
+Los Magistrados del Tribunal Superior de Justicia y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 95.- El Tribunal Superior de Justicia funcionará en los términos que lo determine la Ley Orgánica. El Tribunal, en escrutinio secreto, en la primera sesión que se celebre durante el mes de abril del año en que se haga la designación, nombrará de entre los Magistrados al que será Presidente del Tribunal Superior de Justicia. Este durará tres años en su cargo.
 96.- El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la ley orgánica respectiva.
 97.- Son facultades del Tribunal Superior de Justicia:
@@ -463,7 +471,8 @@ Los jueces protestarán ante el Tribunal Superior de Justicia. Los demás funcio
 I.- Conocer de las controversias en que el Estado fuere parte como sujeto de derecho privado.
 II.- Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las leyes comunes;
 III.- Conocer de las competencias de jurisdicción que se susciten entre los jueces del Estado;
-IV.- Nombrar, remover y adscribir a los jueces de los partidos judiciales y demás funcionarios y empleados del Poder Judicial del Estado;
+(REFORMADA, B.O. 20 DE FEBRERO DE 1988)
+IV.- Nombrar a los jueces preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, así como remover y adscribir a los jueces de partidos judiciales y demás funcionarios y empleados del Poder Judicial del Estado.
 V.- Discutir y aprobar o modificar, en su caso, los presupuestos de egresos que para el ejercicio anual proponga el Presidente del Tribunal, los que, por los conductos debidos, se someterán a la aprobación del Congreso del Estado;
 VI.- Acordar el aumento de juzgados y de la planta de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario;
 VII.- Ordenar, por conducto del Presidente del Tribunal, que se haga la consignación que corresponda al Ministerio Público en los casos de la comisión de delitos oficiales que deban ser sancionados por las autoridades competentes;
