@@ -190,7 +190,8 @@ V.- A los ciudadanos por conducto de los diputados de su distrito.
 I.- Todo proyecto de ley o decreto desechado en todo o en parte por el Gobernador será devuelto con sus observaciones al Congreso del Estado, quien lo discutirá nuevamente en la parte conducente;
 II.- De ser confirmado el proyecto original, por las dos terceras partes de los miembros del Congreso del Estado, éste será ley o decreto y devuelto al Gobernador para su publicación; y
 III.- Si el Congreso del Estado aprobase, por la misma mayoría calificada, en parte o todas las observaciones hechas por el Gobernador, se lo devolverá para los efectos de la fracción anterior.
-61.- El Gobernador no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en Gran Jurado o Colegio Electoral, las referentes a la responsabilidad de los funcionarios por delitos oficiales, ni al decreto de convocatoria a sesiones extraordinarias expedido por la Diputación Permanente.
+(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
+61.- El Gobernador no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en Jurado de Sentencia o Colegio Electoral, las referentes a la responsabilidad de los Servidores Públicos, ni al Decreto de Convocatoria a Período Extraordinario de Sesiones, expedido por la Diputación Permanente.
 62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
 63.- Toda resolución del Congreso del Estado tendrá carácter de ley o decreto y se comunicarán al Gobernador por el Presidente y el Secretario de la misma, con la formalidad: "El Congreso del Estado de Baja California Sur decreta: (texto de la ley o decreto).
 (REFORMADA SU DENOMINACION, B.O. 30 DE ABRIL DE 1981)
@@ -216,13 +217,17 @@ XIV.- Cambiar la sede de los Poderes del Estado;
 XV.- Ejercer las facultades que le otorga la Constitución General de la República en relación a la Guardia Nacional;
 XVI.- Determinar las características y el uso del Escudo Estatal;
 XVII.- Solicitar la comparecencia de funcionarios públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia;
-XVIII.- Erigirse en Gran Jurado para calificar las causas de responsabilidad de sus miembros por delitos cometidos en el desempeño de sus funciones;
-XIX.- Declarar si ha lugar o no a formación de causas de que habla el artículo 159 de esta Constitución;
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XVIII.- Erigirse en Jurado de Sentencia en los juicios a que se refiere el Artículo 158 de esta Constitución.
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XIX.- Declarar si ha lugar o no al proceso a que se refiere el Artículo 159 de esta Constitución.
 XX.- Elegir la Diputación Permanente;
-XXI.- Otorgar o negar su aprobación a los nombramientos y renuncias de Magistrados del Tribunal Superior de Justicia que le someta el Gobernador del Estado;
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XXI.- Otorgar o negar su aprobación a los nombramientos, renuncias y remociones de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado.
 XXII.- Legislar en todo lo relativo a la administración pública;
 XXIII.- Autorizar la participación del Gobernador en comisiones interestatales de desarrollo regional;
-XXIV.- Autorizar al Gobernador para celebrar convenios con la Federación;
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XXIV.- Autorizar al Gobernador para celebrar convenios con la Federación y con los Ayuntamientos del Estado.
 XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad;
 (REFORMADA, B.O. 30 DE ABRIL DE 1981)
 XXVI.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que se destinen a inversiones públicas productivas, salvo los que se contraten en caso de emergencia por causa de desastre, señalando en cada caso los recursos con que deben cubrirse.
@@ -234,24 +239,31 @@ XXIX.- Nombrar y remover libremente a los empleados de su Secretaría y a los de
 XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones;
 XXXI.- Aprobar el Presupuesto de Egresos y fijar las contribuciones para cubrirlo;
 XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de emergencia en caso de desastre;
-XXXIII.- Aprobar y decretar las leyes de Hacienda y de ingresos municipales, en atención a todas sus necesidades y funciones, tomando en consideración su independencia económica;
-(REFORMADO, B.O. 30 DE ABRIL DE 1981)
-Autorizar a los Ayuntamientos del Estado para contratar empréstitos o financiamientos destinados a la ejecución de las obras que sean necesarias para la prestación de los servicios públicos que corresponda.
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XXXIII.- Aprobar y decretar las Leyes de Hacienda y de Ingresos Municipales, tomando en consideración su independencia económica y revisar sus Cuentas Públicas.
+Autorizar a los Ayuntamientos del Estado para contratar empréstitos o financiamientos, destinados a la ejecución de obras que sean necesarias para la prestación de los servidores públicos que correspondan.
 XXXIV.- Decretar la Ley Orgánica Municipal;
 XXXV.- Crear o suprimir municipios y reformar la división política del Estado mediante el voto de las dos terceras partes de la totalidad de los diputados;
 XXXVI.- Resolver los conflictos que surjan entre los ayuntamientos entre sí y entre éstos y los demás poderes del Estado;
-XXXVII.- Decidir sobre la desaparición de poderes municipales, en casos graves, con votación calificada de las dos terceras partes de la totalidad de los diputados;
-XXXVIII.- Designar, a propuesta del Gobernador, los integrantes de los Concejos Municipales;
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XXXVII.- Suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato de alguno de sus miembros por alguno de los casos previstos en la Ley, mediante el voto de las dos terceras partes de la totalidad de los integrantes del Congreso del Estado.
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XXXVIII.- Designar a propuesta del Gobernador, los integrantes de los Concejos Municipales, de entre los vecinos de los municipios.
 XXXIX.- Expedir la ley de expropiación por causa de utilidad pública;
 XL.- Expedir leyes para fijar la extensión máxima de la propiedad rural, en los términos del artículo 27 fracción XVII de la Constitución General de la República;
 XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, sobre la base de su naturaleza inalienable, ingravable e inembargable;
-XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la superación del nivel de vida de la población, mejoramiento de su salud y el saneamiento del medio ambiente; y
-XLIII.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
+XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la superación del nivel de vida de la población, mejoramiento de su salud y el saneamiento del medio ambiente; y (sic)
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos.
+(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
+XLIV.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
 SECCION VI
 DE LA DIPUTACION PERMANENTE
 65.- El día de clausura del período de sesiones ordinarias, el Congreso del Estado elegirá por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de tres miembros que durarán en su cargo el tiempo intermedio entre los períodos de sesiones ordinarias. El primero de los nombrados será el Presidente, y los otros dos, Secretarios.
-66.- Son facultades y obligaciones de la Diputación Permanente:
-I.- Acordar por sí o a propuesta del Gobernador la convocatoria a sesiones extraordinarias;
+(REFORMADO PRIMER PARRAFO, B.O. 16 DE DICIEMBRE DE 1983)
+66.- Son facultades de la Diputación Permanente:
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+I.- Acordar por sí o a propuesta del Gobernador, la Convocatoria a Período Extraordinario de Sesiones.
 II.- Recibir, en su caso, los expedientes relativos a las elecciones de Gobernador, diputados locales y ayuntamientos, convocando al Congreso del Estado para los efectos conducentes;
 III.- Instalar y presidir la primera Junta Preparatoria del nuevo Congreso del Estado;
 IV.- Nombrar interinamente a los empleados de la Contaduría Mayor de Hacienda;
@@ -259,7 +271,8 @@ V.- Resolver los asuntos de su competencia y recibir durante el receso del Congr
 VI.- Conceder licencia al Gobernador del Estado, cuando no sea por período mayor de un mes y a los diputados y Magistrados del Tribunal Superior de Justicia cuando no sea mayor de tres meses;
 VII.- Nombrar Gobernador Provisional en los casos previstos en esta Constitución;
 VIII.- Designar, a propuesta del Gobernador, a los miembros de los Concejos Municipales;
-IX.- Dar o negar su aprobación a los nombramientos y remociones de Magistrados que le someta el Gobernador; y
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+IX.- Dar o negar su aprobación a los nombramientos, remociones y renuncias de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado.
 X.- Las demás que le confiera expresamente esta Constitución.
 CAPITULO II
 DEL PODER EJECUTIVO
@@ -307,7 +320,8 @@ VIII.- Conceder indulto a reos sentenciados por delitos del orden común;
 IX.- Conceder amnistías, siempre que se trate de delitos de la competencia de los Tribunales del Estado;
 X.- Solicitar la protección de los Poderes de la Unión, de conformidad con el artículo 122 de la Constitución General de la República;
 XI.- Ejercer el derecho de veto en los términos de esta Constitución;
-XII.- Tener bajo su mando la fuerza pública en los municipios donde resida habitual o transitoriamente;
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XII.- Coordinar los cuerpos de seguridad pública en el Estado y tener bajo su mando la fuerza pública de los Municipios donde resida habitual o transitoriamente.
 XIII.- Ejercer las facultades que le otorga la Constitución Federal en relación a la Guardia Nacional;
 XIV.- Proponer al Congreso del Estado o a la Diputación Permanente, en su caso, la integración de los Concejos Municipales, en los casos que señala esta Constitución;
 XV.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales;
@@ -320,14 +334,16 @@ XIX.- Presentar al Congreso del Estado, durante la primera quincena del mes de n
 XX.- Rendir al Congreso un informe anual del Estado que guarde la administración pública de la entidad;
 XXI.- Presentar al Congreso, al término de su período constitucional, una memoria sobre el estado que guarden los asuntos públicos;
 XXII.- Facilitar al Poder Judicial el auxilio que requiera para el ejercicio de sus funciones;
-XXIII.- Mantener a la administración pública en constante perfeccionamiento, adecuándola a las necesidades técnicas y humanas de la entidad;
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XXIII.- Mantener la administración pública en constante perfeccionamiento, adecuándola a las necesidades técnicas y humanas de la Entidad, expidiendo los decretos, reglamentos y acuerdos necesarios en el ámbito de su competencia.
 XXIV.- Gestionar todo lo necesario ante las dependencias federales a efecto de que se cumplan totalmente en el Estado las leyes, impuestos o derechos que emanen de la Constitución General de la República;
 XXV.- Promover el desarrollo económico del Estado buscando siempre que sea compartido y equilibrado entre los centros urbanos y los rurales;
 XXVI.- Fomentar la creación de industrias y empresas rurales, buscando la participación armónica de todos los factores de la producción;
-XXVII.- Planificar el crecimiento de los centros urbanos, dotándolos de los servicios necesarios, a fin de propiciar el espíritu de solidaridad en la convivencia social y el desarrollo pleno y armónico de la población;
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XXVII.- Participar con los ayuntamientos en la planificación del crecimiento de centros urbanos y de fraccionamientos, a fin de propiciar el desarrollo armónico y la convivencia social de la población.
 XXVIII.- Mejorar las condiciones económicas y sociales de vida de los campesinos, fomentando en ellos el arraigo a sus lugares de residencia;
-(ADICIONADA, B.O. 30 DE ABRIL DE 1981)
-XXIX.- Celebrar convenios con el Gobierno Federal o con los Ayuntamientos, para coordinar sus atribuciones en materias concurrentes, satisfaciendo las formalidades exigidas por la Constitución y por las Leyes.
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XXIX.- Celebrar convenios con el Gobierno Federal y con los Ayuntamientos del Estado, para coordinar sus atribuciones en materias concurrentes, así como para la prestación eficaz de servicios públicos y asumir la prestación de los mismos, cuando el bienestar común así lo exija, satisfaciendo las formalidades exigidas por esta Constitución y las Leyes que de ella emanen.
 XXX.- Conocer de las designaciones que haga el Procurador y el Presidente del Tribunal Superior de Justicia;
 XXXI.- Promover el desarrollo integral de todos los recursos naturales, entre otros la minería, la pesca; y además las actividades agropecuarias y el turismo;
 XXXII.- Prestar y vigilar el eficaz cumplimiento de los servicios sociales que desarrolle el Estado;
@@ -339,8 +355,8 @@ XXXVII.- Nombrar representantes fuera del Estado para la gestión de los negocio
 XXXVIII.- Actuar como árbitro en los conflictos que se susciten entre los municipios y miembros del ayuntamiento;
 XXXIX.- Otorgar patentes de notario, con sujeción a la ley respectiva;
 XL.- Tomar las medidas necesarias en casos de desastres y situaciones económicas difíciles o urgentes;
-(REFORMADA, B.O. 26 DE AGOSTO DE 1975)
-XLI.- Cuidar que el funcionamiento del servicio público de Registro Civil en todo el Estado sea uniforme en cuanto a formalidades y axpedición (sic) de documentos, y, en su caso, exigir y obtener del ayuntamiento respectivo la inmediata eliminación de cualquier deficiencia o anomalía que se advierta en los procedimientos o en el desempeño de las labores de los funcionarios del ramo.
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XLI.- Cuidar que el funcionamiento de los servicios públicos en todo el Estado, sea uniforme en cuanto a formalidades y expedición de documentos, y en su caso, exigir y obtener del ayuntamiento respectivo, la inmediata eliminación de cualquier deficiencia o anomalía que se advierta en los procedimientos o en el desempeño de las labores de los servidores públicos.
 XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y
 XLIII.- Las demás que señalen esta Constitución y sus leyes.
 SECCION III
@@ -441,7 +457,8 @@ V.- Discutir y aprobar o modificar, en su caso, los presupuestos de egresos que 
 VI.- Acordar el aumento de juzgados y de la planta de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario;
 VII.- Ordenar, por conducto del Presidente del Tribunal, que se haga la consignación que corresponda al Ministerio Público en los casos de la comisión de delitos oficiales que deban ser sancionados por las autoridades competentes;
 VIII.- Informar al Gobernador o al Congreso del Estado acerca de los casos de indulto necesario, rehabilitación y demás que las leyes determinen, previos los trámites y con los requisitos que ellos establezcan;
-IX.- Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal y Magistrados, así como de los empleados de la Presidencia y del propio Tribunal, haciendo la substanciación correspondiente, de acuerdo al procedimiento que señale esta Constitución y la ley respectiva.
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+IX.- Conocer de las faltas administrativas de los integrantes del Poder Judicial del Estado, haciendo la substanciación correspondiente de acuerdo con el procedimiento que señale esta Constitución y la Ley respectiva.
 X.- Conocer de la recusación conjunta de los Magistrados; y
 XI.- Las demás que le confiera esta Constitución y las leyes.
 98.- La ley orgánica del Poder Judicial regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia y de los juzgados dependientes de éste y determinará los requisitos necesarios para ser juez.
@@ -522,13 +539,17 @@ VII.- Que previamente se escuche la opinión de los ayuntamientos de los municip
 123.- El Congreso del Estado podrá declarar la supresión de un municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridad (sic) para su creación.
 124.- El Gobierno del Estado, cuando lo considere conveniente, podrá promover de común acuerdo con los ayuntamientos respectivos, la fusión de comunidades para crear otras de mayor extensión que permitan integrar a los núcleos aislados de población con el objeto de ejecutar programas de desarrollo general.
 125.- Los conflictos de límites que se susciten entre las diversas circunscripciones municipales del Estado se podrán resolver mediante convenios amistosos que al efecto celebren con aprobación del Congreso del Estado. Cuando dichas diferencias tengan carácter contencioso, conocerá de ellas el Tribunal Superior de Justicia.
-126.- Los municipios del Estado podrán asociarse para constituir corporaciones de desarrollo regional que tengan por objeto:
+(REFORMADO PRIMER PARRAFO, B.O. 16 DE DICIEMBRE DE 1983)
+126.- Los Municipios del Estado podrán asociarse entre sí o con el Gobierno del Estado, para constituir corporaciones que tengan por objeto:
 I.- El estudio de los problemas locales;
 II.- La realización de programas de desarrollo común;
 III.- El establecimiento de cuerpos de asesoramiento técnico;
 IV.- La capacitación de sus funcionarios y empleados;
-V.- La instrumentación de programas de urbanismo y planeación del crecimiento de sus ciudades; y
-VI.- Las demás que tiendan a promover el bienestar y progreso de sus respectivas comunidades.
+V.- La instrumentación de programas de urbanismo y planeación del crecimiento de sus ciudades; y (sic)
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+VI.- La realización y construcción de obras y la prestación de servicios públicos.
+(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
+VII.- Las demás que tiendan a promover el bienestar y progreso de sus respectivas comunidades.
 127.- Si en los programas a que se refiere el artículo anterior, se requieren créditos o inversión de recursos del Estado, se requerirá la aprobación del Congreso, y el Gobernador coordinará y vigilará su realización.
 CAPITULO IV
 DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
@@ -584,22 +605,35 @@ DE LA INSTALACION DEL AYUNTAMIENTO
 Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio definitivo.
 CAPITULO VIII
 DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
-148.- Son facultades y obligaciones de los ayuntamientos:
+(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1983)
+148.- Son facultades y obligaciones del Ayuntamiento:
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales;
-II.- Expedir sus reglamentos de policía y buen gobierno sobre los ramos y materias de administración municipal, entendiéndose por tales aquéllas que no estén reservadas a la Federación o al Estado;
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+II.- Expedir en el ámbito de su competencia, sus Bandos de Policía y Buen Gobierno, así como de los reglamentos, circulares y disposiciones administrativas de observancia general, dentro de sus jurisdicciones, conforme a la Ley de la materia.
 III.- Conceder licencia a sus miembros hasta por treinta días y llamar a quienes deban suplirlos;
 IV.- Designar al Regidor que deba sustituir al Presidente Municipal en caso de falta absoluta de éste y su suplente, y llamar a los suplentes del Síndico o Regidores en los casos de falta absoluta de éstos;
-V.- Mantener los servicios de seguridad pública municipal;
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+V.- Mantener los servicios de seguridad pública y tránsito municipal.
 VI.- Establecer en el territorio del municipio las delegaciones y subdelegaciones que sean necesarias;
-VII.- Cooperar con las autoridades federales y estatales en las funciones de su competencia y planes de desarrollo dentro del municipio;
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+VII.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, participando con las Autoridades Federales y Estatales, en el ámbito de su competencia, en la creación y administración de sus reservas territoriales y ecológicas, así como controlar y vigilar la utilización del suelo dentro de su jurisdicción e intervenir en la regularización de la tenencia de la tierra urbana.
 VIII.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, con auxilio del Instituto correspondiente, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos, y que se ejecuten sin la autorización o permiso correspondiente;
 IX.- Promover el mejoramiento de los servicios y el acrecentamiento del patrimonio municipa (sic);
 X.- Formular anualmente su proyecto de ley de ingresos que será sometido a aprobación del Congreso del Estado;
-XI.- Formular anualmente su presupuesto de egresos;
+(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
+XI.- Formular anualmente, conforme a la Ley, su Presupuesto de Egresos, con base en sus ingresos disponibles.
 XII.- Rendir al Congreso del Estado, por conducto de la Comisión Permanente, dentro de los dos primeros meses, la cuenta del gasto público del año anterior;
 XIII.- Promover el desenvolvimiento social, cultural, artístico, deportivo, científico y tecnológico de la comunidad;
 XIV.- Acordar lo conveniente para la formación del censo y estadística del municipio, con sujeción a la ley;
 XV.- Decretar las obras de utilidad pública u ornato del municipio.
+(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
+XVI.- Celebrar convenios con el Estado y la Federación, para que en ejercicio de sus funciones, éstos asuman la ejecución, operación de obras y la prestación de servicios públicos municipales y de las contribuciones derivadas de la propiedad inmobiliaria, cuando el bienestar social así lo requiera.
+(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
+XVII.- Celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución, operación y prestación de servicios públicos municipales y la administración de las contribuciones derivadas de la propiedad inmobiliaria, cuando el bienestar social así lo requiera.
+(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
+XVIII.- Ejercer las atribuciones que señalan el Código Civil, el de Comercio y demás Leyes y Reglamentos en materia de Registro Público de la Propiedad y del Comercio.
+(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
+XIX.- Celebrar convenios para que instituciones Federales o Estatales, presten los servicios de seguridad social a sus trabajadores.
 CAPITULO IX
 SECCION I
 DE LOS TITULARES DEL GOBIERNO MUNICIPAL
@@ -646,16 +680,39 @@ IV.- De seguridad pública;
 V.- De readaptación social; y
 VI.- Técnicas convenientes a sus necesidades y funciones.
 155.- La ley orgánica determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
+(REFORMADA SU DENOMINACION, B.O. 16 DE DICIEMBRE DE 1983)
 TITULO NOVENO
-DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS
-156.- Los funcionarios y empleados del gobierno del Estado y de los ayuntamientos son responsables de los delitos y faltas oficiales que cometan en el desempeño de sus cargos. El Congreso del Estado expedirá una Ley de Responsabilidades de los Funcionarios y Empleados del Estado y de los Municipios.
-157.- La responsabilidad oficial sólo podrá exigirse durante el tiempo que el funcionario o empleado desempeñe el encargo y hasta un año después.
-158.- El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado por delitos de traición a la Patria, violación a la Constitución General de la República y del Estado y delitos graves de orden común.
-(REFORMADO, B.O. 30 DE ABRIL DE 1981)
-159.- Siempre que se impute a los altos Funcionarios del Gobierno del Estado y Municipales, como son el Gobernador del Estado, los Secretarios: General de Gobierno, de Finanzas, de Desarrollo, de Asentamientos Humanos y Obras Públicas, el Oficial Mayor, el Procurador General de Justicia, los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Presidentes Municipales, un delito del orden común, el Congreso del Estado, erigido en Gran Jurado, declarará si hay lugar o nó a proceder contra el acusado.
-En caso afirmativo por esta sola declaración quedará el acusado separado de su encargo y sujeto a la autoridad judicial correspondiente. Los demás Funcionarios y Empleados del Estado y Municipios serán consignados a las autoridades judiciales, sin la intervención del Gran Jurado y el procedimiento se regirá por las Leyes del orden común.
-(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)
-160.- De los delitos oficiales cometidos por los mismos altos funcionarios a que se refiere el artículo anterior, conocerán también el Congreso del Estado y el Tribunal Superior de Justicia con sujeción a lo previsto en las leyes de la materia.
+DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS
+(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
+156.- Para los efectos de las responsabilidades a que alude este Título, se reputarán como Servidores Públicos a los Representantes de Elección Popular, a los Miembros del Poder Judicial y a los funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus funciones.
+(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
+157.- El Congreso del Estado, dentro del ámbito de su competencia, expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes teniendo este carácter, incurran en responsabilidad, de acuerdo con las siguientes prevenciones:
+I.- Se impondrá mediante el juicio político, las sanciones indicadas en el Artículo 158 a los Servidores Públicos señaladas en el mismo precepto, cuando en el ejercicio de sus funciones, incurran en actos y omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
+II.- Los delitos cometidos por cualquier servidor público serán perseguidos y sancionados en los términos de la Legislación Penal.
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad, economía y eficiencia que deben observar en el desempeño de sus empleos, cargos o comisiones.
+Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+Las leyes determinarán las causas y circunstancias por las que se deba sancionar penalmente a los servidores públicos, por enriquecimiento ilícito, cuando aumente sustancialmente su patrimonio durante el tiempo de su encargo o por motivo del mismo, mediante la adquisición de bienes por sí o por interpósita persona, o que se conduzcan como dueños de ellos y cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de propiedad de dichos bienes, además de las otras penas que correspondan.
+Cualquier ciudadano, mediante la presentación de elementos de prueba y bajo su más estricta responsabilidad, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente Artículo.
+(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
+158.- Podrán ser sujeto (sic) a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces del Fuero Común, los Secretarios y Subsecretarios de Despacho, el Oficial Mayor, el Procurador General y el Subprocurador General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores y los Directores del Poder Ejecutivo, los Directores de los organismos descentralizados, empresas de participación estatal, sociedades y asociaciones asimiladas y los Presidentes de Juntas y del Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal.
+Recibida la denuncia por el Congreso del Estado, éste se erigirá en Jurado de Sentencia y substanciará el procedimiento respectivo, con audiencia del inculpado, aplicará la sanción correspondiente mediante resolución de las dos terceras partes de los miembros presentes en Sesión.
+Las declaraciones y resoluciones del Congreso del Estado son inatacables.
+El procedimiento a que se refiere el presente Artículo solo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se impondrán en un período no mayor de un año a partir de iniciado el procedimiento.
+(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
+159.- Para proceder penalmente contra los servidores públicos, a que se refiere el párrafo primero del Artículo 158 por la comisión de delitos cometidos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría de votos de sus miembros presentes en Sesión, si ha lugar o no a proceder contra el inculpado, con las siguientes prevenciones:
+I.- Si la resolución del Congreso fuese negativa, se suspenderá todo el procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el acusado haya concluido el ejercicio de su encargo, pues dicha resolución no prejuzga los fundamentos de la imputación.
+II.- Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes para que actúen conforme a la Ley, separándolo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función.
+III.- Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación respectiva y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberá graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+IV.- En demanda del orden civil que se entable en contra de cualquier servidor, no se requerirá declaración de procedencia.
+V.- No se requerirá declaración de procedencia cuando alguno de los servidores públicos a que se refiere el presente artículo, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 158, se procederá en los términos del presente artículo.
+VI.- La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años y ésta se interrumpe en tanto el servidor público desempeñe alguno de los encargos a que se refiere el Artículo 158.
+VII.- El Gobernador del Estado, durante el período de su encargo solo podrá ser acusado de acuerdo a lo establecido en la Constitución General de la República y por delitos graves del orden común.
+(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
+160.- Las leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones, a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, economía y eficiencia en el desempeño de sus funciones, empleos o comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas.
+Dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones a que se refiere el Artículo 157, Fracción III, pero no podrá exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 TITULO DECIMO
 PREVENCIONES GENERALES
 161.- Todos los contratos y concesiones que el Gobierno del Estado y los municipios tengan que celebrar para ejecución de obras públicas y servicios, con el objeto de garantizar precios, calidad y responsabilidad de contratistas y concesionarios, serán adjudicados en subasta, mediante convocatoria, para que se presenten proposiciones en sobres cerrados que serán abiertos en junta pública.
