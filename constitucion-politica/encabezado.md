@@ -373,24 +373,15 @@ CAPITULO III
 DEL PODER JUDICIAL
 87.- Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del fuero común en los términos de esta Constitución.
 88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en los de orden federal, en los casos que expresamente se la concedan las leyes.
+(REFORMADO, B.O. 20 DE MAYO DE 1977)
 89.- El desempeño de la función jurisdiccional corresponde a:
 I.- El Tribunal Superior de Justicia;
-(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
-II.- Los jueces de Primera Instancia en el Ramo Penal;
-(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
-III.- Los jueces de Primera Instancia en el Ramo Civil;
-(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
-IV.- Los jueces Menores;
-(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
-V.- Los jueces de lo Familiar;
-(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
-VI.- Los jueces Mixtos de Paz;
-(ADICIONADA, B.O. 21 DE DICIEMBRE DE 1976)
-VII.- Los Arbitros;
-(ADICIONADA, B.O. 21 DE DICIEMBRE DE 1976)
-VIII.- El Jurado Popular;
-(ADICIONADA, B.O. 21 DE DICIEMBRE DE 1976)
-IX.- Los demás funcionarios y auxiliares de la administración de justicia.
+II.- Los Jueces de Primera Instancia;
+III.- Los Jueces Menores;
+IV.- Los Jueces de Paz;
+V.- Los Arbitros;
+VI.- El Jurado Popular; y
+VII.- Los demás funcionarios y auxiliares de la Administración de Justicia.
 90.- El Tribunal Superior de Justicia del Estado se integra con tres Magistrados Numerarios y los Supernumerarios que señale la ley orgánica respectiva, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
 Para el trámite de las renuncias de los Magistrados del Tribunal, se seguirá el mismo procedimiento que para su nombramiento.
 91.- Para ser Magistrado se requiere:
