@@ -203,6 +203,8 @@ XXIII.- Autorizar la participación del Gobernador en comisiones interestatales 
 XXIV.- Autorizar al Gobernador para celebrar convenios con la Federación;
 XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad;
 XXVI.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que sean para la ejecución de obras que directamente produzcan un incremento económico, salvo los que se contraten en caso de emergencia por causa de desastre, señalando en todo caso los recursos con que deben cubrirse;
+(ADICIONADO, B.O. 26 DE AGOSTO DE 1975)
+Autorizar al Gobernador del Estado para avalar los empréstitos o financiamientos que obtengan los ayuntamientos del Estado, siempre y cuando de los estudios que se practiquen al efecto aparezca demostrada la necesidad y utilidad de la obra para la cual los haya gestionado la autoridad municipal. En el convenio que celebre el Gobierno local con el ayuntamiento correspondiente se estipulará la recuperación de lo que aquel pague como avalista, garantizándolo en base de las participaciones de los impuestos que reciba el ayuntamiento, ya sean éstos federales o locales
 XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre los bienes muebles e inmuebles pertenecientes al Estado, fijando para cada caso especial, las condiciones a que debe sujetarse, de acuerdo con las leyes respectivas. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 XXIX.- Nombrar y remover libremente a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda;
@@ -210,6 +212,8 @@ XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que s
 XXXI.- Aprobar el Presupuesto de Egresos y fijar las contribuciones para cubrirlo;
 XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de emergencia en caso de desastre;
 XXXIII.- Aprobar y decretar las leyes de Hacienda y de ingresos municipales, en atención a todas sus necesidades y funciones, tomando en consideración su independencia económica;
+(ADICIONADO, B.O. 26 DE AGOSTO DE 1975)
+Autorizar a los ayuntamientos del Estado para contratar empréstitos o financiamientos destinados a la ejecución de las obras que sean necesarias para la prestación de los servicios públicos que corresponda, previa la opinión favorable del Gobernador del Estado respecto a la utilidad pública que emane de esas obras en beneficio de la comunidad.
 XXXIV.- Decretar la Ley Orgánica Municipal;
 XXXV.- Crear o suprimir municipios y reformar la división política del Estado mediante el voto de las dos terceras partes de la totalidad de los diputados;
 XXXVI.- Resolver los conflictos que surjan entre los ayuntamientos entre sí y entre éstos y los demás poderes del Estado;
