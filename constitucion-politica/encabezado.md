@@ -422,9 +422,9 @@ XLIV.- Proponer al Congreso del Estado, una terna de aspirantes al puesto de Mag
 XLV.- Las demás que señalen esta Constitución y sus leyes.
 SECCION III
 DE LAS DEPENDENCIAS DEL EJECUTIVO
-(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
-80.- La Administración Pública de Baja California Sur será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas y Administración, un Secretario de Desarrollo y Fomento Económico, un Secretario de Planeación Urbana e Infraestructura, un Secretario de Educación Pública, un Procurador General de Justicia, las Unidades Administrativas de Turismo y de la Contraloría General y definirá las bases para la creación de las entidades paraestatales y la intervención del Ejecutivo Estatal en su operación.
-Las Leyes determinarán las relaciones entre las entidades paraestatales y el Gobernador y por el funcionario del ramo relativo.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 22 DE OCTUBRE DE 1996)
+80.- La administración pública de Baja California Sur, será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas y Administración, un Secretario de Desarrollo y Fomento Económico, un Secretario de Planeación Urbana e Infraestructura, un Secretario de Salud, un Secretario de Educación Pública, un Procurador General de Justicia, las Unidades Administrativas de Turismo y de la Contraloría General y definirá las bases para la creación de las Entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación.
+Las leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador y por el funcionario del ramo relativo.
 (REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
 81.- Toda Ley o Decreto será refrendada por el Secretario General de Gobierno y por el Secretario del ramo.
 (REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1993)
