@@ -120,6 +120,14 @@ DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
 36.- La soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituídos en los términos de esta ley fundamental.
 (ADICIONADO, B.O. 10 DE JULIO DE 1978)
 Los Partidos Políticos Nacionales y Estatales tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir a la integración de la representación del Estado y como organizaciones de ciudadanos, hacer posible el acceso de éstas al ejercicio del Poder Público en las esferas Estatal y Municipal y de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+(ADICIONADO, B.O. 11 DE JUNIO DE 1992)
+En los procesos electorales estatales los partidos políticos deberán contar en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
+(ADICIONADO, B.O. 11 DE JUNIO DE 1992)
+La ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal de lo Contencioso Electoral, dotado de plena autonomía, que será órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+(ADICIONADO, B.O. 11 DE JUNIO DE 1992)
+El Tribunal Estatal de lo Contencioso Electoral, tendrá la competencia y organización que determine la ley; funcionará en pleno y resolverá en una sola instancia y sus sesiones serán públicas, a excepción de las que determine el propio tribunal. Los poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquéllas que se dicten con posterioridad a la jornada electoral se estará a los términos del artículo 43 de esta Constitución. Para el ejercicio de sus funciones el Tribunal Estatal de lo Contencioso Electoral, estará integrado con tres magistrados numerarios y dos supernumerarios, los cuales responderán sólo al mandato de la ley.
+(ADICIONADO, B.O. 11 DE JUNIO DE 1992)
+Los magistrados del Tribunal Estatal de lo Contencioso Electoral, deberán satisfacer los requisitos que señala la ley, que no podrán ser menores a los que dispone esta Constitución para ser magistrado del Tribunal Superior de Justicia. Serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por el Ejecutivo del Estado. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de magistrados. La ley señalará las reglas y procedimientos correspondientes.
 37.- El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, teniendo como base de su división territorial, de su organización política y administrativa, el Municipio Libre.
 38.- Baja California Sur es un Estado democrático, considerando a la democracia, no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
 39.- El poder público del Estado se considera dividido, para el ejercicio de sus funciones, en Legislativo, Ejecutivo y Judicial.
@@ -133,8 +141,8 @@ DEL CONGRESO
 40.- El poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Baja California Sur".
 SECCION II
 DE LA ELECCION E INSTALACION DEL CONGRESO
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 1989)
-41.- El Congreso del Estado de Baja California Sur se integrará con 15 Diputados de Mayoría Relativa electos en su totalidad cada tres años, por votación directa y secreta, mediante el sistema de Distritos Electorales Uninominales y hasta con 5 Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las reglas siguientes:
+(REFORMADO PRIMER PARRAFO, B.O. 11 DE JUNIO DE 1992)
+41.- El Congreso del Estado de Baja California Sur, se integrará con quince diputados de mayoría relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de distritos electorales uninominales y hasta con seis diputados electos mediante el principio de representación proporcional, apegándose en ambos casos, a las siguientes reglas:
 (REFORMADA, B.O. 10 DE JULIO DE 1989)
 I.- La base para realizar la demarcación territorial de los 15 Distritos Electorales, será el resultante de dividir la población total del Estado conforme al último censo general de población entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico;
 (REFORMADA, B.O. 25 DE ABRIL DE 1983)
@@ -142,9 +150,9 @@ II.- La elección de Diputados por el principio de Representación Proporcional 
 a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado.
 (REFORMADO, B.O. 31 DE OCTUBRE DE 1989)
 b).- Los Partidos Políticos tendrán derecho a postular Candidatos por el Principio de Representación Proporcional, siempre y cuando hayan registrado Candidatos por lo menos en ocho Distritos Electorales Uninominales.
-(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)
-c).- Para que un Partido Político tenga derecho a que les sean acreditados de entre sus Candidatos, Diputados de Representación Proporcional, deberá alcanzar por lo menos el tres por ciento del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de una Diputación de Mayoría Relativa; se tomarán en cuenta para las asignaciones, el orden que tuviesen los Candidatos en las listas correspondientes.
-La Ley determinará las fórmulas electorales y los procedimientos que se observen en dicha asignación.
+(REFORMADO, B.O. 11 DE JUNIO DE 1992)
+c).- Para que un partido político tenga derecho a que les sean acreditados de entre sus candidatos, diputados de representación proporcional, deberá alcanzar por lo menos el 2% del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de una diputación de mayoría relativa; se tomarán en cuenta para las asignaciones, el orden que tuviesen los candidatos en las listas correspondientes.
+La ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación.
 (REFORMADA, B.O. 31 DE OCTUBRE DE 1989)
 III.- El Partido Político que logre mayoría relativa en la elección directa, en dos o más Distritos Electorales, mediante el Sistema Electoral Uninominal, no tendrá derecho a que se les asigne Diputado por el Principio de Representación Proporcional.
 (REFORMADO, B.O. 10 DE JULIO DE 1978)
@@ -216,7 +224,8 @@ I.- Legislar en todo lo relativo al Gobierno del Estado;
 II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
-V.- (DEROGADA, B.O. 20 DE ABRIL DE 1977)
+(ADICIONADA, B.O. 11 DE JUNIO DE 1992)
+V.- Erigirse en Colegio Electoral para ejercer las atribuciones que la Ley le señale respecto a las elecciones de gobernador y diputados.
 (REFORMADA, B.O. 30 DE ABRIL DE 1981)
 VI.- Declarar electos a los Senadores de la República que hubieren obtenido mayoría de votos en la Entidad;
 VII.- Calificar las elecciones de los Ayuntamientos del Estado, declarando electos a los ciudadanos que hayan obtenido la mayoría de votos;
@@ -372,7 +381,7 @@ XL.- Tomar las medidas necesarias en casos de desastres y situaciones económica
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 XLI.- Cuidar que el funcionamiento de los servicios públicos en todo el Estado, sea uniforme en cuanto a formalidades y expedición de documentos, y en su caso, exigir y obtener del ayuntamiento respectivo, la inmediata eliminación de cualquier deficiencia o anomalía que se advierta en los procedimientos o en el desempeño de las labores de los servidores públicos.
 XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y (sic)
-(ADICIONADA [N. DE E REFORMADA], B.O. 20 DE ABRIL DE 1991)
+(ADICIONADA [N. DE E. REFORMADA], B.O. 20 DE ABRIL DE 1991)
 XLIII.- Promover y vigilar el saneamiento al medio ambiente y realizar las acciones necesarias para lograr la preservación del equilibrio ecológico en el territorio del estado, en los términos de la ley de la materia.
 (ADICIONADA, B.O. 20 DE ABRIL DE 1991)
 XLIV.- Las demás que señalen esta Constitución y sus leyes.
@@ -595,10 +604,14 @@ CAPITULO V
 DEL GOBIERNO MUNICIPAL
 CONCEPTO E INTEGRACION
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
-(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)
-135.- Los Ayuntamientos se integrarán por un Presidente, un Síndico y diez Regidores electos por sufragio universal directo libre y secreto, mediante el sistema de mayoría relativa y hasta con dos Regidores electos por el Principio de Representación Proporcional, con las siguientes excepciones: el Ayuntamiento de Comondú, que se integrará con un Presidente, un Síndico y doce Regidores electos por el Sistema de Mayoría Relativa y hasta con tres Regidores electos por el Principio de Representación Proporcional y el Ayuntamiento de la Capital del Estado que se integrará con un Presidente, un Síndico y catorce Regidores electos por el Sistema de Mayoría Relativa y hasta con cuatro por el Principio de Representación Proporcional, en los términos que señala la Ley Electoral del Estado, por cada miembro del Ayuntamiento, habrá un Suplente.
+(REFORMADO, B.O. 11 DE JUNIO DE 1992)
+135.- Los Ayuntamientos se integrarán de la siguiente manera:
+El Ayuntamiento de La Paz, se integrará con un Presidente, un Síndico y catorce Regidores electos por sufragio universal directo, libre y secreto mediante el sistema de mayoría relativa y hasta con cinco Regidores por el principio de representación proporcional.
+El Ayuntamiento de Comondú, se integrará con un Presidente, un Síndico y doce Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con cuatro Regidores electos por el principio de representación proporcional.
+Los Ayuntamientos de Mulegé y Los Cabos, se integrarán con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con tres Regidores electos por el principio de representación proporcional.
+Por cada miembro de los Ayuntamientos, habrá un suplente.
 La Ley Reglamentaria determinará los procedimientos que se observarán para las asignaciones que correspondan.
-Los miembros de los Ayuntamientos duraran en su cargo tres años a partir de la fecha en que tomen posesión del mismo.
+Los miembros de los Ayuntamientos durarán en su cargo tres años a partir de la fecha en que tomen posesión del mismo.
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
 CAPITULO VI
 DE LA ELECCION DEL AYUNTAMIENTO
