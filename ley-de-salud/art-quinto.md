@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Las autorizaciones sanitarias que se hubieren expedido con anterioridad a la fecha de entrada en vigor de la presente Ley, serán válidas hasta su vencimiento. Las autorizaciones sanitarias que se expidan a partir de la vigencia de esta Ley, se otorgarán de acuerdo a sus disposiciones.

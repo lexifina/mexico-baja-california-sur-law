@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- Continuarán en vigor, el Acuerdo de Coordinación para la Descentralización Integral de los Servicios de Salud en el Estado y el Acuerdo de Coordinación con el propósito de descentralizar el ejercicio de las funciones de Fomento, Control y Regulación Sanitaria en la Entidad, en lo que no se opongan a lo dispuesto por la Ley General de Salud y la presente Ley.

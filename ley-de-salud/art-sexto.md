@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Las autorizaciones sanitarias expedidas con anterioridad a la vigencia de la presente Ley se considerarán otorgadas por tiempo indeterminado, con las excepciones que establezca esta Ley.

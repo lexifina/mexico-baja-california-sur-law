@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de la misma que se abroga, se tramitarán y resolverán conforme a las disposiciones de la citada Ley.

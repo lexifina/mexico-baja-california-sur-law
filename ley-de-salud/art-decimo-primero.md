@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO PRIMERO.- Se concede un plazo de 120 días naturales, a partir de la fecha en que entre en vigor el presente decreto, para que la Secretaría de Salud, adecue el reglamento correspondiente.

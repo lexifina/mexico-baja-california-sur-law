@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO SEGUNDO.- Se concede un plazo de 120 días naturales, a partir de la fecha en que entre en vigor el presente decreto, para que este Poder Legislativo, emita la Ley que crea la Comisión Estatal de Arbitraje Médico.

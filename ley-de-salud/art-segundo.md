@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Salud del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de fecha 31 de diciembre de 1999, mediante decreto número 1255, a partir de que entre en vigencia el presente decreto.

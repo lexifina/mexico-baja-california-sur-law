@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO TERCERO.- Se concede un plazo de 120 días naturales, a partir de la fecha en que entre en vigor la presente ley, para que (sic) Ejecutivo del Estado emita el reglamento del Régimen Estatal de Protección Social en Salud en los términos de la Ley General de Salud y de la presente.
