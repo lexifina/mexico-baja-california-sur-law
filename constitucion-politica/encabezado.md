@@ -129,10 +129,10 @@ DEL CONGRESO
 40.- El poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Baja California Sur".
 SECCION II
 DE LA ELECCION E INSTALACION DEL CONGRESO
-(REFORMADO PRIMER PARRAFO, B.O. 25 DE ABRIL DE 1983)
-41.- El Congreso del Estado de Baja California Sur se integrará con diez Diputados de Mayoría Relativa electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales uninominales y hasta con tres Diputados electos mediante el principio de Representación Proporcional, apegándose, en ambos casos, a las reglas siguientes:
-(REFORMADA, B.O. 25 DE ABRIL DE 1983)
-I.- La base para realizar la demarcación territorial de los diez Distritos Electorales, será el resultante de dividir la población total del Estado conforme al último censo general de población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico.
+(REFORMADO PRIMER PARRAFO, B.O. 13 DE MAYO DE 1986)
+41.- El Congreso del Estado de Baja California Sur, se integrará con doce Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cuatro Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
+(REFORMADA, B.O. 13 DE MAYO DE 1986)
+I.- La base para realizar la demarcación territorial de los doce Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último Censo General de Población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico.
 (REFORMADA, B.O. 25 DE ABRIL DE 1983)
 II.- La elección de Diputados por el principio de Representación Proporcional se efectuará mediante el sistema de listas de candidatos que presenten los Partidos Políticos y se sujetará a las siguientes bases:
 a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado.
@@ -262,7 +262,7 @@ XL.- Expedir leyes para fijar la extensión máxima de la propiedad rural, en lo
 XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, sobre la base de su naturaleza inalienable, ingravable e inembargable;
 XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la superación del nivel de vida de la población, mejoramiento de su salud y el saneamiento del medio ambiente; y (sic)
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
-XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos.
+XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos;
 (ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
 XLIV.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
 SECCION VI
