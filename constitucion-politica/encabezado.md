@@ -175,9 +175,11 @@ La ley determinará las fórmulas electorales y el procedimiento que se observar
 (REFORMADO, B.O. 18 DE JUNIO DE 1998)
 El cómputo de las elecciones de Diputados por el principio de representación proporcional, así como la asignación de éstos, será efectuada por el Instituto Estatal Electoral.
 (DEROGADO TERCER PARRAFO, B.O. 18 DE JUNIO DE 1998)
-44.- Para ser diputado al Congreso del Estado se requiere:
+(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 1999)
+44.- Para ser Diputado al Congreso del Estado se requiere:
 I.- Ser sudcaliforniano y ciudadano del Estado en ejercicio de sus derechos;
-II.- Tener 21 años cumplidos el día de la elección; y
+(REFORMADA, B.O. 14 DE JUNIO DE 1999)
+II.- Tener 18 años cumplidos al día de la elección.
 (REFORMADA, B.O. 10 DE JULIO DE 1978)
 III.- Tener residencia efectiva no menor de un año anterior al día de la elección, en el Distrito o en la circunscripción del Estado.
 (REFORMADO PRIMER PARRAFO, B.O. 20 DE MAYO DE 1987)
@@ -672,7 +674,8 @@ DE LA ELECCION DEL AYUNTAMIENTO
 138.- Para ser miembro de un Ayuntamiento se requiere:
 I.- Ser ciudadano sudcaliforniano en ejercicio de sus derechos políticos;
 II.- Haber residido en el municipio por un período no menos de un año inmediato anterior al día de la elección;
-III.- Tener 21 años de edad al día de la elección;
+(REFORMADA, B.O. 14 DE JUNIO DE 1999)
+III.- Tener 21 años cumplidos al día de la elección, excepto para ser Síndico o Regidor, en cuyo caso se requerirán 18 años de edad al día de la elección.
 IV.- Ser persona de reconocida buena conducta;
 V.- No desempeñar, con excepción de los docentes, cargos o comisión del gobierno federal o estatal, a menos que se separe con dos meses de anticipación al día de la elección; y
 (REFORMADA, B.O. 14 DE JULIO DE 1995)
