@@ -286,7 +286,8 @@ XX.- Elegir la Diputación Permanente;
 (REFORMADA, B.O. 6 DE ABRIL DE 1999)
 XXI.- Nombrar a los Magistrados del Tribunal Superior de Justicia del Estado, de la terna que el Gobernador someta a la consideración, el cual, previa comparecencia de las personas propuestas, designará al Magistrado que deba cubrir la vacante. La designación de los Magistrados se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de diez días naturales. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
 En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
-Asimismo, otorgar o negar su aprobación a las licencias, renuncias o remociones de Magistrados del Tribunal Superior de Justicia que le someta el Gobernador del Estado;
+(REFORMADO, B.O. 6 DE FEBRERO DE 2002)
+Asimismo, otorgar o negar su aprobación a las licencias por más de un mes y conocer de las renuncias de los Magistrados del Tribunal Superior de Justicia que le someta el Gobernador del Estado.
 XXII.- Legislar en todo lo relativo a la administración pública;
 XXIII.- Autorizar la participación del Gobernador en comisiones interestatales de desarrollo regional;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
@@ -341,8 +342,8 @@ II.- Expedir, en su caso, el Bando Solemne para dar a conocer en todo el Estado 
 III.- Instalar y presidir la primera Junta Preparatoria del nuevo Congreso del Estado;
 IV.- Nombrar interinamente a los empleados de la Contaduría Mayor de Hacienda;
 V.- Resolver los asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de Ley y proposiciones que le dirijan, turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones;
-(REFORMADA, B.O. 6 DE ABRIL DE 1999)
-VI.- Conceder licencia al Gobernador del Estado cuando no sea por periodo mayor de un mes, y a los Diputados cuando no sea mayor de tres meses.
+(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
+VI.- Conceder licencia al Gobernador del Estado cuando no sea por un período mayor de un mes; a los Diputados cuando no se (sic) mayor de tres meses y a los magistrados del Tribunal Superior de Justicia cuando sea mayor de un mes.
 VII.- Nombrar Gobernador Provisional en los casos previstos en esta Constitución;
 VIII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2001)
 IX.- (DEROGADA, B.O. 6 DE ABRIL DE 1999)
@@ -381,14 +382,14 @@ Asimismo, no podrá ser electo para el período inmediato el Gobernador Substitu
 Tampoco podrá ocupar el cargo, para el período inmediato, el Gobernador Interino, el Provisional o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en forma ininterrumpida los dos últimos años del período.
 SECCION II
 DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
-(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)
-79.- Son Facultades y Obligaciones del Gobernador:
+(REFORMADO PRIMER PARRAFO, B.O. 6 DE FEBRERO DE 2002)
+79.- Son facultades y obligaciones del Gobernador:
 I.- Publicar, cumplir y hacer cumplir las leyes federales;
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 (REFORMADA, B.O. 6 DE ABRIL DE 1999)
 III.- Nombrar y remover libremente a los Secretarios del Despacho y demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes;
-(REFORMADA, B.O. 6 DE ABRIL DE 1999)
-IV.- Presentar a consideración del Congreso del Estado, las ternas para la designación de los Magistrados que integrarán el Tribunal Superior de Justicia del Estado y someter sus licencias, renuncias o remociones a la aprobación del propio Congreso;
+(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
+IV.- Presentar a consideración del Congreso del Estado, las ternas para la designación de los Magistrados que integrarán el Tribunal Superior de Justicia del Estado y someter sus licencias por mas de un mes o sus renuncias o remociones a la aprobación del propio Congreso.
 (ADICIONADA, B.O. 6 DE ABRIL DE 1999)
 V.- Presentar a consideración del Congreso del Estado, la terna para la designación del Procurador General de Justicia y una vez elegido, expedir el nombramiento respectivo, pudiéndolo remover libremente por causa justificada.
 (REFORMADA, B.O. 6 DE ABRIL DE 1999)
@@ -495,28 +496,36 @@ CAPITULO III
 DEL PODER JUDICIAL
 (REFORMADO, B.O. 14 DE FEBRERO DE 1997)
 87.- Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia; en un Tribunal Estatal Electoral y Jueces del fuero común en los términos de esta Constitución.
-88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en los de orden federal, en los casos que expresamente se la concedan las leyes.
-(REFORMADO, B.O. 14 DE FEBRERO DE 1997)
-89.- El desempeño de la función jurisdiccional corresponde a:
-I.- El Tribunal Superior de Justicia;
-II.- Tribunal Estatal Electoral;
-III.- Los Jueces de Primera Instancia;
-IV.- Los Jueces Menores;
-V.- Los Jueces de Paz;
-VI.- Los Árbitros;
-VII.- El Jurado Popular; y
-VIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
+(REFORMADO, B.O. 6 DE FEBRERO DE 2002)
+88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en auxilio a los del orden federal, en los casos que expresamente se la concedan las Leyes: (sic)
+(REFORMADO, B.O. 6 DE FEBRERO DE 2002)
+89.- El desempeño de la función jurisdiccional, corresponde a:
+I.- El Tribunal Superior de Justicia.
+II.- El Tribunal Estatal Electoral.
+III.- Los Jueces de Primera Instancia
+IV.- Los Jueces Menores.
+V.- Los Jueces de Paz.
+VI.- Los árbitros.
+(DEROGADA, B.O. 6 DE FEBRERO DE 2002)
+VII.- Se deroga; y
+VIII.- Los demás funcionarios y auxiliares de la administración de justicia.
+La Ley establecerá las bases para la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la Carrera Judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 (REFORMADO, B.O. 6 DE ABRIL DE 1999)
 90.- El Tribunal Superior de Justicia del Estado se integrará por siete Magistrados nombrados por el Poder Legislativo, de entre las ternas propuestas por el Gobernador del Estado.
 Para el trámite de las renuncias, licencias y remociones de los Magistrados se seguirá el procedimiento que esta Constitución y las Leyes de la Materia establecen.
 (REFORMADO, B.O. 20 DE FEBRERO DE 1988)
 91.- Para ser Magistrado se requiere:
-I.- Ser ciudadano sudcaliforniano, en pleno ejercicio de sus derechos políticos y civiles.
-II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección, pero si al concluir el ejercicio sexenal excediere esta edad, podrán ser nombrados para el próximo periodo hasta alcanzar los setenta años en que serán sustituidos.
+(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
+I.- Ser ciudadano Sudcaliforniano, en pleno ejercicio de sus derechos políticos y civiles y haber residido en el Estado durante los dos años anteriores al día de la designación.
+(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
+II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 (REFORMADA, B.O. 18 DE JUNIO DE 1998)
 III.- Poseer al día de su elección, con una antigüedad mínima de diez años, Título y Cédula Profesional de Licenciado en Derecho, expedidos por la autoridad o institución legalmente facultada para ello;
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
-V.- Los Magistrados del Tribunal Superior de Justicia serán nombrados preferentemente de entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
+V.- No haber sido Secretario de Despacho del Poder Ejecutivo o su equivalente, Procurador General de Justicia o Diputado Local durante el año previo el día de la designación;
+[N. DE E. ANTES FRACCIÓN V, B.O. 6 DE FEBRERO DE 2002]
+Los Magistrados del Tribunal Superior de Justicia serán designados preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 92.- (DEROGADO, B.O. 6 DE ABRIL DE 1999)
 (REFORMADO, B.O. 6 DE ABRIL DE 1999)
 93.- Los Magistrados del Tribunal Superior de Justicia durarán en su encargo seis años. El ciudadano que haya desempeñado el cargo de Magistrado, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo en el periodo inmediato.
@@ -528,24 +537,33 @@ Los jueces protestarán ante el Tribunal Superior de Justicia, los demás funcio
 Los Magistrados del Tribunal Superior de Justicia y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 95.- El Tribunal Superior de Justicia funcionará en los términos que lo determine la Ley Orgánica. El Tribunal, en escrutinio secreto, en la primera sesión que se celebre durante el mes de abril del año en que se haga la designación, nombrará de entre los Magistrados al que será Presidente del Tribunal Superior de Justicia. Este durará tres años en su cargo.
 96.- El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la ley orgánica respectiva.
-97.- Son facultades del Tribunal Superior de Justicia:
+(REFORMADO PRIMER PARRAFO, B.O. 6 DE FEBRERO DE 2002)
+97.- Son facultades del Pleno del Tribunal Superior de Justicia:
 (REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
 I.- Conocer de las controversias en que el Estado fuere parte como sujeto de derecho privado.
 II.- Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las leyes comunes;
 III.- Conocer de las competencias de jurisdicción que se susciten entre los jueces del Estado;
 (REFORMADA, B.O. 20 DE FEBRERO DE 1988)
 IV.- Nombrar a los jueces preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, así como remover y adscribir a los jueces de partidos judiciales y demás funcionarios y empleados del Poder Judicial del Estado.
-V.- Discutir y aprobar o modificar, en su caso, los presupuestos de egresos que para el ejercicio anual proponga el Presidente del Tribunal, los que, por los conductos debidos, se someterán a la aprobación del Congreso del Estado;
+(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
+V.- Discutir modificar y aprobar en su caso, y ejercer de manera autónoma el presupuesto de egresos que para el ejercicio anual proponga el Presidente del Tribunal, el que a través del Ejecutivo se someterá a la aprobación del Congreso del Estado.
 VI.- Acordar el aumento de juzgados y de la planta de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario;
 VII.- Ordenar, por conducto del Presidente del Tribunal, que se haga la consignación que corresponda al Ministerio Público en los casos de la comisión de delitos oficiales que deban ser sancionados por las autoridades competentes;
 VIII.- Informar al Gobernador o al Congreso del Estado acerca de los casos de indulto necesario, rehabilitación y demás que las leyes determinen, previos los trámites y con los requisitos que ellos establezcan;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 IX.- Conocer de las faltas administrativas de los integrantes del Poder Judicial del Estado, haciendo la substanciación correspondiente de acuerdo con el procedimiento que señale esta Constitución y la Ley respectiva.
 X.- Conocer de la recusación conjunta de los Magistrados; y
-XI.- Las demás que le confiera esta Constitución y las leyes.
+(ADICIONADA, B.O. 6 DE FEBRERO DE 2002)
+XI.- Conceder licencia a los Magistrados cuando no sean mayores de un mes en los términos que establezca la Ley.
+(ADICIONADA, B.O. 6 DE FEBRERO DE 2002)
+XII.- Emitir la opinión que solicite el Congreso del Estado sobre las iniciativas de Leyes o Decretos relacionados con la administración de Justicia;
+(ADICIONADA, B.O. 6 DE FEBRERO DE 2002)
+XIII.- Recibir anualmente en sesión solemne el informe que rendirá el Presidente del Tribunal Superior de Justicia sobre el estado que guarda la Administración de Justicia y del ejercicio presupuestal. A este acto asistirán los Poderes Legislativo y Ejecutivo.
+(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
+XIV.- Las demás que le confiera esta Constitución y las Leyes.
 (REFORMADO, B.O. 14 DE FEBRERO DE 1997)
 98.- La Ley Orgánica del Poder Judicial regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia y de los Juzgados dependientes de éste y determinará los requisitos para ser Juez.
-La misma Ley normará la integración, organización y funcionamiento de los Jurados.
+(DEROGADO SEGUNDO PARRAFO, B.O. 6 DE FEBRERO DE 2002)
 (REFORMADO, B.O. 6 DE ABRIL DE 1999)
 El Tribunal Superior de Justicia determinará el número de Jueces que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
 (REFORMADO, B.O. 14 DE FEBRERO DE 1997)

@@ -1,2 +1,7 @@
-(ADICIONADO, B.O. 10 DE JUNIO DE 1993)
-ARTICULO 11 A. El que pretenda examen de aspirante de notario, presentará solicitud al Gobernador del Estado, acreditando los requisitos que establece el artículo 11 de esta ley; asimismo enviará una copia de la solicitud y documentos al Consejo de la Asociación de Notarios, quien opinará ante el Ejecutivo del Estado, en un plazo que no excederá de diez días hábiles contados a la fecha de su recepción, si se reúnen los requisitos mencionados.
+(REFORMADO, B.O. 6 DE FEBRERO DE 2002)
+ARTICULO 11 A. Los requisitos al que se refiere el artículo anterior se acreditarán en los siguientes términos.
+I. Con copia certificada del Acta de Nacimiento.
+II. Con copia certificada del título profesional y cédula correspondiente.
+III. El requisito señalado en la Fracción Tercera con certificado médico de autoridad o Institución legalmente autorizada para expedirlo.
+IV. La residencia que se refiere la fracción IV, se acreditará con copia de su inscripción en el Registro Federal de Contribuyentes, Carta de Residencia expedida por el Ayuntamiento respectivo o cualquier otro documento idóneo.
+V. El requisito señalado en la fracción V, con certificado de no antecedentes penales.

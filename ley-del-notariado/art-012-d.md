@@ -1,2 +1,1 @@
-(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)
-ARTICULO 12 D. El Presidente del Consejo de Notarios comunicará al Gobernador del Estado el resultado del examen, adjuntando el dictamen del Jurado a efecto de que, en su caso, otorgue la Patente a quien corresponda y respecto a la cual se convocó para la oposición, misma que deberá ser publicada en el Boletín Oficial del Gobierno del Estado, o si se declaró desierto el resultado, se proceda a convocar de nuevo.
+ARTICULO 12 D. (DEROGADO, B.O. 6 DE FEBRERO DE 2002)
