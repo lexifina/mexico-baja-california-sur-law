@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Tránsito y Transporte del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado número 26, de fecha 30 de noviembre de 1990 y se derogan todas las disposiciones que se opongan a la presente Ley.

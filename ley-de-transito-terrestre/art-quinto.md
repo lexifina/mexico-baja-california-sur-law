@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Las autoridades municipales deberán establecer la infraestructura vial y los dispositivos de control necesario en sus respectivas jurisdicciones a más tardar dentro de los 90 días contados a partir de la entrada en vigor del Reglamento de Tránsito Municipal señalado en el Artículo Cuarto Transitorio de la presente Ley.
