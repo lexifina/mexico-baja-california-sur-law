@@ -881,9 +881,9 @@ XI.- Registro Público de la Propiedad y del Comercio.
 XII.- Desarrollo Municipal
 XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur.
 155.- La ley orgánica determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
-(REFORMADA SU DENOMINACION, B.O. 16 DE DICIEMBRE DE 1983)
+(REFORMADA SU DENOMINACION, B.O. 20 DE JUNIO DE 2004)
 TITULO NOVENO
-DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS
+DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 156.- Para los efectos de las responsabilidades a que alude este Título, se reputarán como Servidores Públicos a los Representantes de Elección Popular, a los Miembros del Poder Judicial y a los funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus funciones.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
@@ -918,6 +918,8 @@ VII.- El Gobernador del Estado, durante el período de su encargo solo podrá se
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 160.- Las leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones, a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, economía y eficiencia en el desempeño de sus funciones, empleos o comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas.
 Dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones a que se refiere el Artículo 157, Fracción III, pero no podrá exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+(ADICIONADO, B.O. 20 DE JUNIO DE 2004)
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 TITULO DECIMO
 PREVENCIONES GENERALES
 (REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)
@@ -983,6 +985,6 @@ Por tanto, mando se imprima, publique y circule para su debida observancia y cum
 EL GOBERNADOR PROVISIONAL DEL ESTADO
 Ing. Félix Agramont Cota.
 EL SECRETARIO GENERAL DE GOBIERNO
-Lic. Angel Cesar Mendoza Arámburo.
+Lic. Angel César Mendoza Arámburo.
 P.M.L. EL OFICIAL MAYOR
 Lic. Antonio Alvarez Rico.
