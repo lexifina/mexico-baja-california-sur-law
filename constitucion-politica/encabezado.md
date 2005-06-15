@@ -222,8 +222,9 @@ III.- Visitar los distritos en los que fueren electos e informar a los habitante
 IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso del Estado un informe de sus actividades desarrolladas dentro y fuera de sus distritos correspondientes.
 SECCION III
 DE LAS SESIONES
+(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 2005)
+50.- El Congreso del Estado tendrá, durante el año, dos Periodos Ordinarios de Sesiones; el primero, del 15 de Marzo al 30 de Junio; y el segundo, del 01 de Septiembre al 15 de Diciembre, el cual podrá prolongarse hasta el 31 de Diciembre del mismo año.
 (REFORMADO, B.O. 30 DE NOVIEMBRE DE 1987)
-50.- El Congreso del Estado tendrá durante el año, dos Periodos Ordinarios de Sesiones; el primero, del 15 de Marzo, al 15 de Junio; y el segundo, del 15 de septiembre, al 15 de Diciembre, el cual podrá prolongarse hasta el 31 de diciembre del mismo año.
 A convocatoria del Gobernador o de la Diputación Permanente, los Periodos de Sesiones del Congreso del Estado, podrán iniciarse hasta 15 días antes de la fecha establecida en el párrafo que precede.
 (REFORMADO, B.O. 30 DE ABRIL DE 1981)
 51.- El Congreso del Estado celebrará Período Extraordinario de Sesiones, a convocatoria del Gobernador o la Diputación Permanente. En la convocatoria correspondiente se señalarán el motivo y la finalidad de los Períodos Extraordinarios.
@@ -527,15 +528,16 @@ DEL PODER JUDICIAL
 88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en auxilio a los del orden federal, en los casos que expresamente se la concedan las Leyes: (sic)
 (REFORMADO, B.O. 6 DE FEBRERO DE 2002)
 89.- El desempeño de la función jurisdiccional, corresponde a:
-I.- El Tribunal Superior de Justicia;
-II.- Tribunal Estatal Electoral;
-III.- Los Jueces de Primera Instancia;
-IV.- Los Jueces Menores;
-V.- Los Jueces de Paz;
-VI.- Los árbitros;
-VII.- (DEROGADA, B.O. 6 DE FEBRERO DE 2002)
-VIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
-La Ley establecerá las bases para la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+I.- El Tribunal Superior de Justicia.
+II.- El Tribunal Estatal Electoral.
+III.- Los Jueces de Primera Instancia
+IV.- Los Jueces Menores.
+V.- Los Jueces de Paz.
+VI.- Los árbitros.
+(DEROGADA, B.O. 6 DE FEBRERO DE 2002)
+VII.- Se deroga; y
+VIII.- Los demás funcionarios y auxiliares de la administración de justicia.
+La Ley establecerá las bases para la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la Carrera Judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 (REFORMADO, B.O. 6 DE ABRIL DE 1999)
 90.- El Tribunal Superior de Justicia del Estado se integrará por siete Magistrados nombrados por el Poder Legislativo, de entre las ternas propuestas por el Gobernador del Estado.
 Para el trámite de las renuncias, licencias y remociones de los Magistrados se seguirá el procedimiento que esta Constitución y las Leyes de la Materia establecen.
@@ -664,7 +666,7 @@ DE LA EXTENSION, LIMITES Y CABECERAS
 (REFORMADO, B.O. 10 DE ABRIL DE 1980)
 a).- Municipio de La Paz: al Norte, colinda con el Municipio de Comondú, línea descrita en la colindancia Sur de la municipalidad citada; por el Sur, con la colindancia Norte del Municipio de Los Cabos; por el Este y el Oeste, lo rodean aguas litorales del Golfo de California y el Océano Pacífico, respectivamente.
 (REFORMADO, B.O. 20 DE AGOSTO DE 1992)
-b).- MUNICIPIO DE COMONDU: al norte, colinda con el municipio de Mulegé en una línea que inicia en el cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como la Bocana del Rancho Nuevo; al sur, colinda con el Municipio de La Paz, en una línea que inicia en el sitio conocido como Los Dolores del Municipio de La Paz, con un rumbo suroeste y cruzando la península hasta un lugar conocido como el Cayuco, rada que se ubica en la Costa de Bahía Almejas, en el Litoral del Pacífico; al este, con la colindancia oeste del Municipio de Loreto y el Golfo de California, y al oeste, colinda con el océano pacífico.
+b).- MUNICIPIO DE COMONDU: al norte, colinda con el municipio de Mulegé en una línea que inicia en el cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como la Bocana del Rancho Nuevo; al sur, colinda con el Municipio de La Paz, en una línea que inicia en el sitio conocido como Los Dolores del Municipio de La Paz, con un rumbo suroeste y cruzando la península hasta un lugar conocido como el Cayuco, rada que se ubica en la Costa de Bahía Almejas, en el litoral del pacífico; al este, con la colindancia oeste del Municipio de Loreto y el Golfo de California, y al oeste, colinda con el océano pacífico.
 (REFORMADO, B.O. 20 DE AGOSTO DE 1992)
 c).- MUNICIPIO DE MULEGE: al norte, colinda con el Estado de Baja California, siendo una línea limítrofe el paralelo 28 de latitud norte; al sur, colinda con los Municipios de Loreto y Comondú, con el primero en una línea que partiendo de la punta de San Idelfonso conocida también como Punta el Pulpito, situada en el extremo sur de La Bahía de San Nicolás, sigue con rumbo noroeste hasta el punto conocido como el Cerrito de la Pitahaya o del Pilón, situada al sureste del rancho de Santa Rosalillita, de aquí con rumbo oeste hasta llegar al cruce de la carretera transpeninsular y el Arroyo Cadeje, punto que sirve de límite para los municipios de Loreto, Comondú y Mulegé, siguiendo esta línea con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como La Bocana de Rancho Nuevo, colindando en toda esta extensión con el Municipio de Comondú; al este, colinda con el Golfo de California; y al oeste, colinda con el océano pacífico.
 (REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE ABRIL DE 1980)
