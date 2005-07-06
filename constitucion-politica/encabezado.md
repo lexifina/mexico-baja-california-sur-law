@@ -126,7 +126,7 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 35.- La ciudad de La Paz es la Capital del Estado y la Sede Oficial de los Poderes Públicos de la entidad.
 TITULO QUINTO
 DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
-(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2003)
+(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
 36.- La Soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 (REFORMADA, B.O. 14 DE FEBRERO DE 1997)
 I.- Los partidos políticos son entidades de interés público; la Ley determinará las formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
@@ -478,9 +478,8 @@ XLVII.- Solicitar al Consejo Estatal Electoral someta a plebiscito, en los térm
 XLVIII.- Las demás que señalen esta Constitución y sus leyes.
 SECCION III
 DE LAS DEPENDENCIAS DEL EJECUTIVO
-(REFORMADO, B.O. 31 DE DICIEMBRE DE 1999)
-80.- La Administración Pública Estatal será Centralizada y Paraestatal conforme a la Ley Orgánica que expida el Congreso de Baja California Sur, que distribuirá los negocios del orden administrativo de la entidad que estará a cargo de la Secretaría General de Gobierno, la Procuraduría General de Justicia, la Oficialía Mayor, la Secretaría de Finanzas, la Secretaría de Promoción y Desarrollo Económico, la Secretaría de Planeación Urbana, Infraestructura y Ecología, la Secretaría de Salud, la Secretaría de Educación Pública, la Coordinación de Programas de Bienestar Social, la Coordinación Estatal de Promoción al Turismo y la Unidad de Desarrollo Administrativo y Control Gubernamental, y definirá las bases para la creación de las entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación.
-Las Leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador y por el funcionario del ramo relativo.
+(REFORMADO, B.O. 5 DE JULIO DE 2005)
+80.- La Administración Pública de Baja California Sur, será Centralizada y Paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos de orden administrativo que estarán a cargo de las Secretarías del Despacho, Dependencias y demás organismos, y definirá las bases para la creación de las Entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación.
 (REFORMADO, B.O. 10 DE OCTUBRE DE 2002)
 81.- Los reglamentos, Decretos, Acuerdos y órdenes expedidos por el Gobernador del Estado, deberán, para su validez y observancia, ser refrendados por el Secretario General de Gobierno y por el Secretario del Ramo respectivo; cuando se refieran (sic) asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
 Tratándose de Decretos de publicación de la (sic) Leyes o Decretos expedidos por el Congreso del Estado, solo se requerirá el refrendo del Secretario General.
@@ -683,7 +682,7 @@ III.- Subdelegaciones.
 La extensión y límites de las delegaciones y subdelegaciones serán determinadas por el ayuntamiento respectivo.
 CAPITULO III
 DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
-(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2000)
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)
 122.- Para la creación de Municipios en el Estado, se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
 I.- Que sea conveniente para satisfacer las necesidades de sus habitantes;
 II.- Que la superficie del territorio del Estado en que se pretenda erigir, sea suficiente para cubrir sus necesidades y atender a sus posibilidades y de desarrollo futuro;
