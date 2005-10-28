@@ -1,0 +1,4 @@
+B.O. 27 DE OCTUBRE DE 2005.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+ARTÍCULO SEGUNDO.- Se deroga el Artículo Tercero Transitorio del Decreto 1490, mediante el cual se expide la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado y Municipios de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 71, de fecha 31 de diciembre del 2004.
+ARTÍCULO TERCERO.- El Titular del Poder Ejecutivo del Estado, expedirá el Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado y Municipios de Baja California Sur, en un plazo que no exceda de 90 días naturales posteriores a la entrada en vigor del presente Decreto.
