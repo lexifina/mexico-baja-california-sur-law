@@ -245,7 +245,8 @@ I.- El Gobernador del Estado
 II.- Los Diputados al Congreso del Estado
 III.- Los Ayuntamientos
 IV.- El Tribunal Superior de Justicia
-V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.5% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas, así como por conducto del Diputado de su distrito.
+(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2005)
+V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.1% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas, así como por conducto del Diputado de su distrito.
 (REFORMADO, B.O. 10 DE MAYO DE 2003)
 58.- Las iniciativas se sujetarán al trámite que señale la Ley Reglamentaria del Poder Legislativo. Una vez aprobadas, se remitirán al Gobernador del Estado para que proceda a su promulgación y publicación, a no ser que formule, si las hubiere, las observaciones pertinentes en un plazo no mayor de diez días hábiles.
 (REFORMADO, B.O. 10 DE MAYO DE 2003)
@@ -772,7 +773,7 @@ CAPITULO VII
 DE LA INSTALACION DEL AYUNTAMIENTO
 145.- Los ayuntamientos electos se instalarán en ceremonia pública y solemne. El Presidente entrante rendirá la protesta de ley y a continuación la tomará a los demás integrantes del ayuntamiento que estuvieren presentes.
 146.- Si en el acto de instalación no estuviere presente el Presidente Municipal, el ayuntamiento se instalará con el Primer Regidor, quien rendirá la protesta y a continuación la tomará a los demás miembros que estén presentes.
-147.- Concluída la sesión de instalación, el Presidente, o quien haga sus veces, notificará de inmediato a los miembros propietarios ausentes para que asuman su cargo en un plazo no mayor de quince días.
+147.- Concluida la sesión de instalación, el Presidente, o quien haga sus veces, notificará de inmediato a los miembros propietarios ausentes para que asuman su cargo en un plazo no mayor de quince días.
 Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio definitivo.
 CAPITULO VIII
 DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
