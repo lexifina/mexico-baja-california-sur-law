@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga el Código Fiscal del Estado y Municipios de Baja California Sur, aprobado por este Poder Legislativo con fecha diez de diciembre de dos mil cuatro publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur en fecha 31 de diciembre del 2004.

@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los recursos administrativos y los juicios de nulidad que se hubieren interpuesto durante la vigencia del Código que se abroga, se tramitarán y se resolverán de conformidad con lo dispuesto por el mismo, a menos que el interesado manifieste su voluntad de acogerse al presente Código por estimarlo más favorable.
