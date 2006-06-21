@@ -435,9 +435,8 @@ XVI.- Ejercer actos de dominio del patrimonio del Estado en los términos de est
 XVII.- Ejercer el presupuesto de egresos;
 (REFORMADA, B.O. 30 DE ABRIL DE 1981)
 XVIII.- Contratar empréstitos con la aprobación del Congreso del Estado destinado a inversiones públicas productivas.
-(REFORMADA, B.O. 10 DE MAYO DE 2003)
-XIX.- Presentar al Congreso del Estado durante la primera quincena del mes de Noviembre de cada año, la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos que deberán regir durante el año siguiente.
-El Gobernador del Estado, podrá solicitar la ampliación del plazo para hacer entrega al Congreso del Estado de los mencionados documentos.
+(REFORMADA, B.O. 20 DE JUNIO DE 2006)
+XIX.- Presentar al Congreso del Estado durante la segunda quincena del mes de octubre de cada año, la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos, que deberán regir durante el año siguiente;
 XX.- Rendir al Congreso un informe anual del Estado que guarde la administración pública de la entidad;
 XXI.- Presentar al Congreso, al término de su período constitucional, una memoria sobre el estado que guarden los asuntos públicos;
 XXII.- Facilitar al Poder Judicial el auxilio que requiera para el ejercicio de sus funciones;
