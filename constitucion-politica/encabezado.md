@@ -1,3 +1,4 @@
+N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2006 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 FELIX AGRAMONT COTA
@@ -272,6 +273,7 @@ La ley establecerá el procedimiento a que se sujetará la organización de refe
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 SECCION V
 DE LAS FACULTADES DEL CONGRESO
+N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2006 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 64.- Son facultades del Congreso del Estado:
 I.- Legislar en todo lo relativo al Gobierno del Estado;
 II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
@@ -310,9 +312,11 @@ XXIII.- Autorizar la participación del Gobernador en comisiones interestatales 
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 XXIV.- Autorizar al Gobernador para celebrar convenios con la Federación y con los Ayuntamientos del Estado.
 XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad;
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-XXVI.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que se destinen a inversiones públicas productivas, salvo los que se contraten en caso de emergencia por causa de desastre, señalando en cada caso los recursos con que deben cubrirse.
-Autorizar al Gobernador del Estado para avalar los empréstitos o financiamientos que obtengan los Ayuntamientos del Estado, siempre y cuando de los estudios que se practiquen al efecto aparezca demostrada la necesidad y utilidad de la obra para la cual los haya gestionado la autoridad municipal. En el convenio que celebre el Gobierno local con el Ayuntamiento correspondiente, se estipulará la recuperación de lo que aquél pague como avalista, garantizándolo en base de las participaciones de los impuestos que reciba el Ayuntamiento, ya sean éstos Federales o locales.
+(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)
+XXVI.- Autorizar al Titular del Poder Ejecutivo para contratar empréstitos a nombre del Estado y a los Ayuntamientos para contratarlos a nombre de los Municipios, así como a los Organismos Descentralizados Estatales, Municipales o Intermunicipales, a las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y a los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal, siempre que se destinen a inversiones públicas productivas, conforme a las bases que se establezcan en la Ley correspondiente, y por los conceptos y hasta por los montos aprobados.
+Autorizar al Gobernador para que, en representación del Estado, se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de los Organismos Descentralizados Estatales, Municipales o Intermunicipales, de las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y de los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal.
+(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
+XXVI Bis.- Autorizar al Titular del Poder Ejecutivo, así como a los Municipios del Estado, la celebración de Contratos de Servicios de Largo Plazo, que tengan por objeto prestar diversos servicios que la ley prevea, con la participación del sector privado. Asimismo, aprobar en el Presupuesto de Egresos del Estado correspondiente, las partidas necesarias para cumplir con las obligaciones contraídas con motivo de dichos contratos, durante la vigencia de los mismos.
 (REFORMADA, B.O. 5 DE MARZO DE 1993)
 XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre los bienes muebles e inmuebles pertenecientes al Estado, cuando el valor sea mayor de N$150,000.00 (Ciento cincuenta mil nuevos pesos 00/100 m.n.), previo avalúo practicado por la Dirección de Catastro. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
@@ -327,7 +331,7 @@ XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de
 XXXIII.- Aprobar y decretar las Leyes de Hacienda y de Ingresos Municipales, tomando en consideración su independencia económica, revisar y fiscalizar sus cuentas públicas
 (ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos de alguno o algunos de los Municipios del Estado, se aplicaran respectivamente las que se hayan aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
-Aprobar la contratación de empréstitos a los Ayuntamientos del Estado en los términos de la Ley de deuda Pública para el Estado de Baja California Sur y sus Municipios.
+(DEROGADO TERCER PARRAFO, B.O. 25 DE NOVIEMBRE DE 2006)
 XXXIV.- Decretar la Ley Orgánica Municipal;
 XXXV.- Crear o suprimir municipios y reformar la división política del Estado mediante el voto de las dos terceras partes de la totalidad de los diputados;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
@@ -351,7 +355,7 @@ XLVI.- Elegir al Procurador General de Justicia, de una terna de aspirantes prop
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
 (REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)
-XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de conformidad con el procedimiento establecido para ello en la ley respectiva.
+XLVIII.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
 XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores.
 SECCION VI
@@ -434,6 +438,8 @@ Asimismo, el Gobernador del Estado publicará el Decreto de creación de un orga
 Para los efectos señalados el Gobernador del Estado, como integrante del organismo a que se refiere el párrafo anterior, ordenará al Secretario de Finanzas del Estado y al personal que el mismo determine para que se reúnan trimestralmente con las autoridades fiscales Municipales.
 XV.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales;
 XVI.- Ejercer actos de dominio del patrimonio del Estado en los términos de esta Constitución;
+(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
+XVI Bis.- Celebrar Contratos de Servicios de Largo Plazo, previa autorización del Congreso del Estado.
 XVII.- Ejercer el presupuesto de egresos;
 (REFORMADA, B.O. 30 DE ABRIL DE 1981)
 XVIII.- Contratar empréstitos con la aprobación del Congreso del Estado destinado a inversiones públicas productivas.
@@ -641,6 +647,8 @@ II.- Los ingresos que adquiera por concepto de convenios, participaciones legale
 107.- La Ley determinará la organización y funcionamiento de las oficinas de Hacienda en el Estado.
 (REFORMADO, B.O. 30 DE ABRIL DE 1981)
 108.- Anualmente, durante la primera quincena del mes de noviembre, el Gobernador presentará al Congreso del Estado el proyecto de presupuesto.
+(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)
+En el proyecto de Presupuesto de Egresos correspondiente se incluirán las partidas necesarias, para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de largo plazo, durante la vigencia de los mismos.
 109.- El año fiscal comprenderá del primero de enero al treinta y uno de diciembre, inclusive.
 110.- Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, en tanto se expide éste, continuará vigente el del año inmediato anterior.
 111.- Las cuentas de los caudales públicos deberán glosarse sin excepción por una Contaduría Mayor de Hacienda, que dependerá exclusivamente del Congreso del Estado.
@@ -806,8 +814,8 @@ g) Rastros;
 h) Calles, parques, jardines y su equipamiento;
 i) Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de los Municipios, así como de su capacidad administrativa y financiera
 X.- Formular anualmente su proyecto de ley de ingresos que será sometido a aprobación del Congreso del Estado;
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
-XI.- Formular, aprobar y publicar anualmente conforme a la Ley su Presupuesto de Egresos con base en sus ingresos disponibles.
+(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)
+XI.- Formular, aprobar, y publicar anualmente conforme a la Ley su Presupuesto de Egresos conforme a sus ingresos, debiendo preverse las partidas necesarias para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de Largo Plazo.
 XII.- Rendir al Congreso del Estado, por conducto de la Comisión Permanente, dentro de los dos primeros meses, la cuenta del gasto público del año anterior;
 XIII.- Promover el desenvolvimiento social, cultural, artístico, deportivo, científico y tecnológico de la comunidad;
 XIV.- Acordar lo conveniente para la formación del censo y estadística del municipio, con sujeción a la ley;
@@ -838,6 +846,12 @@ Igualmente, podrá celebrar convenios con el Gobierno del Estado, en materia de 
 Asimismo, podrá concurrir a la creación del Comité de Contribuyentes a que se refiere el Código Fiscal del Estado de Baja California Sur, en términos del propio ordenamiento, y formar parte de dicho Comité nombrando para tal efecto un representante.
 De igual manera, los Ayuntamientos podrán concurrir con el Gobernador del Estado a la creación de un organismo que tenga la finalidad de revisar permanentemente los aspectos que atañen a la recaudación y distribución de las diversas contribuciones que en vía de ingresos conforman las Haciendas Públicas Municipales, y con la finalidad de crear un grupo de asesoría, capacitación y planeación hacendaria, en el ámbito de coordinación fiscal que determine la Ley de la materia.
 Para los efectos señalados, las autoridades fiscales Municipales, como integrantes del organismo a que se refiere el párrafo anterior, se reunirán trimestralmente con las autoridades fiscales del Gobierno del Estado.
+(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
+XXVII.- Contratar empréstitos a nombre del Municipio, con la aprobación previa del Congreso del Estado, siempre que se destinen a inversiones públicas productivas, conforme a las bases establecidas en la Ley correspondiente y por los conceptos y hasta por los montos aprobados.
+(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
+XXVIII.- Celebrar Contratos de Servicios de Largo Plazo, previa autorización del Congreso del Estado.
+(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
+XXIX.- Las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 CAPITULO IX
 SECCION I
 DE LOS TITULARES DEL GOBIERNO MUNICIPAL
