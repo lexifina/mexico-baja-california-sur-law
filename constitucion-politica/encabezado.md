@@ -350,8 +350,10 @@ XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativ
 XLVI.- Elegir al Procurador General de Justicia, de una terna de aspirantes propuesta por el Gobernador del Estado, el cual, previa comparecencia de las personas propuestas, elegirá a quien ocupará el cargo. La elección del Procurador se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de 10 días naturales para hacerlo; y en el caso de que, vencido ese plazo, aún no se haya realizado la elección, el Titular del Ejecutivo procederá a hacer la designación de entre los propuestos.
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
-(REFORMADA, B.O. 10 DE JUNIO DE 2000)
-XLVIII.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
+(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)
+XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de conformidad con el procedimiento establecido para ello en la ley respectiva.
+(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
+XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores.
 SECCION VI
 DE LA DIPUTACION PERMANENTE
 65.- El día de clausura del período de sesiones ordinarias, el Congreso del Estado elegirá por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de tres miembros que durarán en su cargo el tiempo intermedio entre los períodos de sesiones ordinarias. El primero de los nombrados será el Presidente, y los otros dos, Secretarios.
