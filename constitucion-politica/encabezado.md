@@ -1,5 +1,5 @@
-N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2006 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
+N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETIN OFICIAL EL 31 DE DICIEMBRE DE 2006.
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 FELIX AGRAMONT COTA
 Gobernador Provisional del Estado Libre y Soberano de Baja California Sur, a sus habitantes hace saber:
@@ -273,7 +273,6 @@ La ley establecerá el procedimiento a que se sujetará la organización de refe
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 SECCION V
 DE LAS FACULTADES DEL CONGRESO
-N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2006 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 64.- Son facultades del Congreso del Estado:
 I.- Legislar en todo lo relativo al Gobierno del Estado;
 II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
@@ -354,10 +353,10 @@ XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativ
 XLVI.- Elegir al Procurador General de Justicia, de una terna de aspirantes propuesta por el Gobernador del Estado, el cual, previa comparecencia de las personas propuestas, elegirá a quien ocupará el cargo. La elección del Procurador se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de 10 días naturales para hacerlo; y en el caso de que, vencido ese plazo, aún no se haya realizado la elección, el Titular del Ejecutivo procederá a hacer la designación de entre los propuestos.
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
-(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)
-XLVIII.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
-(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
-XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores.
+(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
+XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de conformidad con el procedimiento establecido para ello en la ley respectiva.
+(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
+XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 SECCION VI
 DE LA DIPUTACION PERMANENTE
 65.- El día de clausura del período de sesiones ordinarias, el Congreso del Estado elegirá por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de tres miembros que durarán en su cargo el tiempo intermedio entre los períodos de sesiones ordinarias. El primero de los nombrados será el Presidente, y los otros dos, Secretarios.
