@@ -1,5 +1,4 @@
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETIN OFICIAL EL 31 DE DICIEMBRE DE 2006.
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 FELIX AGRAMONT COTA
 Gobernador Provisional del Estado Libre y Soberano de Baja California Sur, a sus habitantes hace saber:
@@ -565,6 +564,8 @@ Los Magistrados del Tribunal Superior de Justicia serán designados preferenteme
 92.- (DEROGADO, B.O. 6 DE ABRIL DE 1999)
 (REFORMADO, B.O. 6 DE ABRIL DE 1999)
 93.- Los Magistrados del Tribunal Superior de Justicia durarán en su encargo seis años. El ciudadano que haya desempeñado el cargo de Magistrado, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo en el periodo inmediato.
+(ADICIONADO, B.O. 10 DE JUNIO DE 2007)
+Los Magistrados y Jueces de Primera Instancia del Tribunal Superior de Justicia del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado o Regidor de Ayuntamiento durante los próximos dos años siguientes al término de su encargo.
 (REFORMADO PRIMER PARRAFO, B.O. 6 DE ABRIL DE 1999)
 94.- Los Magistrados del Tribunal Superior de Justicia deberán otorgar la protesta de Ley ante el Congreso del Estado.
 (REFORMADO, B.O. 20 DE FEBRERO DE 1988)
@@ -605,6 +606,8 @@ El Tribunal Superior de Justicia determinará el número de Jueces que deberán 
 (REFORMADO, B.O. 14 DE FEBRERO DE 1997)
 99.- El Tribunal Estatal Electoral, tendrá la competencia y organización que determine la Ley, funcionará en pleno y resolverá en una sola instancia y sus sesiones serán públicas, a excepción de las que determine el propio Tribunal. Los Poderes Legislativo y Judicial garantizarán su debida integración. Para el ejercicio de sus funciones el Tribunal Estatal Electoral, estará integrado con tres Magistrados numerarios y dos supernumerarios, los cuales ejercerán el cargo por seis años y responderán sólo al mandato de la Ley. El Presidente del mismo será elegido de entre sus miembros, para ejercer la función por seis años.
 Los Magistrados del Tribunal Estatal Electoral, serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por el Tribunal Superior de Justicia del Estado. Si dicha mayoría no se logra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de Magistrados. La Ley señalará las reglas y procedimientos correspondientes.
+(ADICIONADO, B.O. 10 DE JUNIO DE 2007)
+Los Magistrados del Tribunal Estatal Electoral no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado o Regidor de Ayuntamiento durante los próximos dos años siguientes al término de su encargo.
 Para ser Magistrado del Tribunal Estatal Electoral, se deberán cumplir los siguientes requisitos:
 I.- Ser ciudadano sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, y con residencia en el Estado por tres años;
 II.- No tener más de 65 años de edad, ni menos de 35 en la fecha de su elección;
