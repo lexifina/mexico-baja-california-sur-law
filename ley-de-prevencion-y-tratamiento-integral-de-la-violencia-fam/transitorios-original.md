@@ -1,7 +1,7 @@
 TRANSITORIOS
 Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
-Artículo Segundo.- El Consejo a que se refiere la presente ley, deberá integrarse e iniciar funciones a más tardar en treinta días naturales después de la entrada en vigor de la misma.
-Artículo Tercero.- El Reglamento del Consejo deberá expedirse en un lapso no mayor a 90 días naturales a la entrada en vigor de la presente ley.
+Artículo Segundo.- (DEROGADO, B.O. 31 DE MARZO DE 2008)
+Artículo Tercero.- (DEROGADO, B.O. 31 DE MARZO DE 2008)
 Artículo Cuarto.- Para los efectos de la presente ley en el presupuesto de egresos del Gobierno del Estado, así como de los Ayuntamientos de la Entidad, para el ejercicio fiscal del año 2006, se deberá contemplar una partida presupuestal a efecto de hacer efectivo lo estipulado en el artículo 30 y 31 de la presente ley.
 Artículo Quinto.- En tanto no se cree la Contraloría Social del Instituto Sudcaliforniano de la Mujer, será este propio instituto a través del Consejo Consultivo quien desempeñe las funciones y facultades de dicho órgano supervisor.
 Artículo Sexto.- Se derogan todas las disposiciones que se opongan a la presente ley.
