@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- El Ejecutivo del Estado expedirá el Reglamento interior de la Procuraduría General de Justicia del Estado, dentro del plazo de 30 días hábiles contados a partir de la entrada en vigor de este Decreto; en tanto continuará aplicándose el vigente siempre y cuando no se oponga a las disposiciones del mismo.

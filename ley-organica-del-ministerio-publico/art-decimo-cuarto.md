@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO CUARTO.- El Ejecutivo del Estado de Baja California Sur, contará con 60 días hábiles posteriores a la publicación de este Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur, para reformar o en su caso expedir un nuevo Reglamento Interno de la Secretaría de Seguridad Pública.

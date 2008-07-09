@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO TERCERO.- Se abroga el Decreto Número 509 del H. Congreso del Estado de Baja California Sur, mediante el cual se crea la Academia de Policía del Estado de Baja California Sur, publicado en el Boletín Oficial de Gobierno del Estado número 16, de fecha 20 de mayo de 1985.

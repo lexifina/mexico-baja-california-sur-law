@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO SEGUNDO.- Se abroga el Decreto Número 1089 del H. Congreso del Estado de Baja California Sur, mediante el cual se expide la Ley de Seguridad Pública para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de fecha 06 de Junio de 1996.

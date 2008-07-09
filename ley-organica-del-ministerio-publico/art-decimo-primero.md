@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO PRIMERO.- Los servidores públicos que ocupen los cargos de nuevo creación establecidos en la Ley Orgánica del Ministerio Publico del Estado de Baja California Sur, serán nombrados en los términos de la misma por la autoridad que corresponda, dentro del término de 30 días siguientes al de su publicación en el Boletín Oficial del Gobierno del Estado.

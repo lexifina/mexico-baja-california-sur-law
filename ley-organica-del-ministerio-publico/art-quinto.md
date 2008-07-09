@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Las unidades o puestos de nueva creación y denominación distinta que aparecen en la Ley Orgánica del Ministerio Público del Estado de Baja California Sur y que tienen competencia en asuntos que correspondían a otras áreas, se harán cargo de las mismas, determinarán su substanciación y dictarán las resoluciones correspondientes.

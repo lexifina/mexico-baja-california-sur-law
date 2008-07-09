@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Se abroga la Ley Orgánica del Ministerio Público del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado número 48 con fecha 31 de diciembre de 1976, asimismo se derogan todas las disposiciones que se opongan al presente Decreto.

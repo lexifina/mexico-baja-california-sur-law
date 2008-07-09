@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- Se abroga el decreto expedido por el Ejecutivo del Estado, el día 15 de Enero de 1998, publicado en el Boletín Oficial del Gobierno, del Estado, No. 2 el día 20 de Enero de 1998, mediante el que se crea el Órgano Administrativo desconcentrado denominado Instituto Interdisciplinario de Ciencias Penales.

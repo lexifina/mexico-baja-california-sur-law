@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO.- Los acuerdos, circulares, y demás disposiciones administrativas dictadas por el Procurador General de Justicia del Estado, con fundamento en la Ley Orgánica que se abroga mediante el presente Decreto, continuarán en vigor en lo que no se oponga a la Ley que entro en vigor, hasta que aquel dicte las normas administrativas que correspondan.
