@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Ejecutivo del Estado deberá expedir los Reglamentos de las Cartas Estatales de Pesca y Acuacultura respectivamente, así como el que corresponda al de la pesca y acuacultura en cuerpos de agua dulce, en un término no mayor de noventa días naturales contado a partir de la entrada en vigor de la presente Ley.

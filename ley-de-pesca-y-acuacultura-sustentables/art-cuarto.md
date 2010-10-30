@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Para los efectos de aplicación de la presente Ley, deberán tomarse las previsiones presupuestales necesarias en los Decretos de Presupuesto de Egresos del Estado para los subsecuentes ejercicios fiscales.
