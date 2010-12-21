@@ -1,0 +1,6 @@
+ARTÍCULO ÚNICO.- Se crea la Ley de Turismo para el Estado de Baja California Sur:
+LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
+TÍTULO PRIMERO
+DE LAS DISPOSICIONES GENERALES
+CAPÍTULO ÚNICO
+Disposiciones Generales
