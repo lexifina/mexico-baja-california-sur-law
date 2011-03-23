@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- A partir de la entrada en vigor de la ley, el Catálogo General de Puestos del Gobierno del Estado y Municipios deberá elaborarse anualmente tomando en consideración los tabuladores de remuneraciones de servidores públicos y los Manuales de Administración de Remuneraciones respectivos.
