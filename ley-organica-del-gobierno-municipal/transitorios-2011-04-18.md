@@ -1,0 +1,6 @@
+B.O. 18 DE ABRIL DE 2011.
+DECRETO NUMERO 1909, POR EL QUE SE REFORMAN LOS ARTICULOS 51 FRACCION I INCISO F) Y ARTICULO 84 DE LA LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR.
+PRIMERO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- Por única ocasión los Delegados Municipales electos en el mes de junio del año 2011, durarán en su encargo el mismo periodo que durarán en su encargo los Ayuntamientos electos el día 06 de febrero de 2011, salvo los casos previstos por la ley en que estos servidores públicos sean removidos de sus cargos.
+TERCERO.- Por única ocasión los Subdelegados Municipales designados en términos del artículo 85 de la Ley Orgánica del Gobierno Municipal del Estado de Baja California Sur, durarán en su encargo el mismo periodo que durarán en su encargo los Ayuntamientos electos el día 06 de febrero de 2011, salvo los casos previstos por la ley en que estos servidores públicos sean removidos de sus cargos.
+CUARTO.- Se deroga en todos sus términos el decreto número 1906 emitido por este Congreso del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado, de fecha 20 de marzo de 2011.
