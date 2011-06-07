@@ -1,0 +1,4 @@
+B.O. 6 DE JUNIO DE 2011.
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- La Secretaría de Finanzas y Oficialía Mayor de Gobierno, deberán hacer los ajustes necesarios para que los recursos humanos, materiales y financieros asignados a las Direcciones de Política Hacendaría y Administrativa y Dirección Jurídica de la Secretaría de Finanzas del Gobierno del Estado, pasen a ser de la Subsecretaría de Finanzas y de la Procuraduría Fiscal del Estado de la Secretaría de Finanzas.
+TERCERO.- En un plazo que no excederá de quince días hábiles, el Titular del Poder Ejecutivo del Estado realizará las adecuaciones conducentes al Reglamento Interior de la Secretaría de Finanzas o para la emisión de un nuevo reglamento, en su caso.
