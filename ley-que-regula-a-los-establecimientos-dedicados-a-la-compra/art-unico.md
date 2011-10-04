@@ -1,0 +1,1 @@
+ARTICULO UNICO.- Se crea la ley que regula a los establecimientos dedicados a la compra-venta de cobre, aluminio, bronce, fierro y demás metales de desecho en el Estado de Baja California Sur, para quedar como sigue:
