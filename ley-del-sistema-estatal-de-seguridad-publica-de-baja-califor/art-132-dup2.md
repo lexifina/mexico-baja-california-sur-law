@@ -1,0 +1,12 @@
+Artículo 132 (sic).- El Fondo será administrado por el Comité del Fondo de Aportaciones de Seguridad Pública, el cual está integrado de la siguiente manera:
+I. Por el Secretario General de Gobierno, quien lo Presidirá;
+II. Por el Secretario de Seguridad Pública, que será el Secretario Técnico;
+III. Por el Secretario de Finanzas;
+IV. Por el Secretario de Planeación Urbana, Infraestructura y Ecología;
+V. Por el Procurador General de Justicia del Estado;
+VI. Por un Representante del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública; y
+VII. Por el Contralor General del Estado, en calidad de Comisario.
+Por cada integrante titular, habrá un suplente, quien acudirá a las sesiones del Comité con voz y voto.
+El Comisario llevará a cabo funciones de inspección y vigilancia; y acudirá a las sesiones del Comité con voz pero sin voto. Asimismo, nombrará un suplente en caso de ausencias.
+El Comité podrá invitar a sus sesiones a otros servidores públicos de conformidad con sus respectivas necesidades o consideraciones en el tema.
+La administración se regulará en el Reglamento del Consejo Estatal de Seguridad Pública.

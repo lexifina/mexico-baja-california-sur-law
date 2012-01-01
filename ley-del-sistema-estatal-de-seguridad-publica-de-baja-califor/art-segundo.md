@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga el Decreto 1752, mediante el cual se expidió la Ley de Seguridad Pública para el Estado de Baja California Sur, Publicada en el Boletín Oficial del Gobierno del Estado número 36, de fecha 8 de julio del año 2008.

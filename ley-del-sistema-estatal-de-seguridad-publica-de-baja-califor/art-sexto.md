@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Las obligaciones señaladas a. los Ministerios Públicos, señaladas en la presente Ley, serán vigentes hasta que se expidan y se aplique el Sistema de Justicia Penal Acusatorio, adversarial y oral.

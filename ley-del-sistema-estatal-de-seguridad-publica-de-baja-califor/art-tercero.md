@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Se expedirán las autoridades correspondientes, los reglamentos y disposiciones municipales derivadas del contenido de la presente Ley dentro de un plazo de ciento ochenta días, contados a partir del día siguiente a su entrada en vigor.
