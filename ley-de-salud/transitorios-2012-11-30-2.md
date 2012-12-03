@@ -1,0 +1,6 @@
+B.O. 30 DE NOVIEMBRE DE 2012.
+DECRETO No. 2016 POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, APARTADO A, FRACCIÓN X; 32, FRACCIÓN X; 109, FRACCIÓN II; 110, FRACCIÓN III; 111, PÁRRAFO PRIMERO; LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SÉPTIMO DE LA LEY; 113, FRACCIONES I, II, IV Y V; 333, PÁRRAFO PRIMERO: Y SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 10; EL PÁRRAFO TERCERO AL ARTÍCULO 112; LAS FRACCIONES VII, VIII Y IX AL ARTÍCULO 113; EL ARTÍCULOS (SIC) 275 BIS; TODOS DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+PRIMERO: El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO: Los ayuntamientos del Estado, modificaran sus bandos y reglamentos en un plazo de 60 días después de publicado el presente Decreto a fin de hacer efectivas las disposiciones establecidas en la presente Ley.
+TERCERO: La Secretaria de Salud, la Secretaria de Educación y el Sistema Estatal para el Desarrollo Integral de la Familia en un plazo de 60 días después de publicado el presente Decreto, dictaran las medidas reglamentarias conducentes a fin de hacer efectivas las disposiciones establecidas en el presente decreto.
+CUARTO: Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
