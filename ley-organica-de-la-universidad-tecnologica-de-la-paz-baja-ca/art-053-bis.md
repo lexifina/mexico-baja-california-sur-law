@@ -1,0 +1,2 @@
+(REFORMADO, P.O. 20 DE AGOSTO DE 2018)
+ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los Jueces de Primera Instancia, los Jueces Especializados en Justicia Penal para Adolescentes, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, y a aquellas que en el momento de la comisión de la conducta atribuida hayan sido adolescentes en términos de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.

@@ -1,0 +1,4 @@
+P.O. 15 DE JULIO DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO 0364.- SE REFORMAN LOS ARTÍCULOS 4° EN SU FRACCIÓN III, 51 EN SU FRACCIÓN VIII Y 53 EN SU FRACCIÓN VII; Y ADICIONA A LOS ARTÍCULOS 4° EN SU FRACCIÓN III EL INCISO J), EL ARTÍCULO 50 BIS, 51 UNA FRACCIÓN, ÉSTA COMO IX Y 53 UNA FRACCIÓN, ÉSTA COMO VIII, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.

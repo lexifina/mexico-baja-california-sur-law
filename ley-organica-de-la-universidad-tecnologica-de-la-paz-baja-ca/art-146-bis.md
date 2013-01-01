@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)
+ARTICULO 146 BIS. El Centro Estatal de Mediación y Conciliación es un órgano del Poder Judicial del Estado, encargado de la administración, vigilancia, desarrollo, capacitación y promoción de los procedimientos de mediación y conciliación, así como de la certificación, autorización de la creación y vigilancia de los Centros Públicos y Privados en el Estado, conforme a la Ley de Mediación y a su reglamento.
