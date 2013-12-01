@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO.- El personal directivo, docente y de apoyo de la Escuela Superior de Cultura Física del Estado de Baja California Sur, por esta única ocasión será ratificado por el titular del Poder Ejecutivo del Estado.
