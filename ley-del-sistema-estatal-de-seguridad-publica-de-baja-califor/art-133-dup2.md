@@ -1,7 +1,0 @@
-Artículo 133.- El Secretario de Finanzas, tendrá las siguientes funciones:
-l. Administrar y resguardar los recursos del Fondo de Aportaciones para la Seguridad Pública. Para lo cual, los integrará en una cuenta bancaria productiva específica y una subcuenta para la aportación estatal que corresponda. Debiendo ejercerse en el ejercicio fiscal para el cual fueron aprobados;
-II. Identificar por separado los recursos federales, de los aportados por el Gobierno del Estado, incluyendo los productos financieros que deriven de ambos. Y presentará en las sesiones del Comité los informes correspondientes, así como del Consejo cuando este último se los solicite;
-III. Entregar antes de cada sesión del Comité los saldos existentes por programa, respecto de la disponibilidad del patrimonio, así como, la aplicación o salida que tuvo;
-IV. Llevar el control de los números de operación con que fueron depositados cada uno de los montos transferidos de manera directa o por vía electrónica a los beneficiarios, con objeto de anexarlos a las órdenes de instrucción;
-V. Revisar la información financiera mensual que envíe la institución bancaria, conciliar las inversiones realizadas; así como verificar la ministración de los recursos estatales y federales; y
-VI. Las demás que le asigne el Comité conforme a sus atribuciones.
