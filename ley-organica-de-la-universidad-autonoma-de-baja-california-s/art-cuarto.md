@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Los integrantes de los órganos colegiados y los personales que hayan sido electos o designados conforme a la Ley que se abroga, continuarán en sus cargos hasta la conclusión del periodo para el que fueron designados o electos.

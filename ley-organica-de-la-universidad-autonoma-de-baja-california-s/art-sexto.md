@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los cambios y modificaciones en la organización académica y administrativa de la Universidad, que deriven de las disposiciones de la presente Ley, se realizarán de forma gradual a partir de la fecha en que entre en vigor la presente Ley.

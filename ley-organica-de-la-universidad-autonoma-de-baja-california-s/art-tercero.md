@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El H. Consejo General Universitario deberá realizar las modificaciones que sean procedentes a la Legislación Universitaria, en un plazo que no excederá de un año, contado a partir de la fecha en que entre en vigor la presente Ley.

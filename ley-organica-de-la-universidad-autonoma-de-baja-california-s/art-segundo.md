@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley Orgánica de la Universidad Autónoma de Baja California Sur publicada en el Boletín Oficial del Gobierno del Estado, mediante decreto numero 117, el día 06 de octubre de 1978, así como sus correspondientes reformas contenidas en los decretos 1685, 1903 y 1960.
