@@ -184,10 +184,12 @@ CAPITULO III
 DE LOS CIUDADANOS SUDCALIFORNIANOS
 26.- Son ciudadanos del Estado los hombres y las mujeres que siendo sudcalifornianos, hayan cumplido 18 años y tengan un modo honesto de vivir.
 27.- Adquieren la calidad de ciudadanos, los mexicanos que habiendo cumplido 18 años, tengan un modo honesto de vivir y hayan residido en el Estado durante 3 años efectivos.
-28.- Son prerrogativas del ciudadano sudcaliforniano:
+(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2013)
+28.- Son derechos de las ciudadanas y ciudadanos sudcalifornianos:
 (REFORMADA, B.O. 14 DE FEBRERO DE 1997)
 I.- Votar en las elecciones populares en los términos que señale la Ley;
-II.- Poder ser votado para todo cargo de elección popular, teniendo las calidades que establezca la ley;
+(REFORMADA, B.O. 20 DE JULIO DE 2013)
+II.- Poder ser votado para todo cargo de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 (REFORMADA, B.O. 14 DE FEBRERO DE 1997)
 III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado;
 IV.- Ejercer en toda clase de negocios el derecho de petición; y
@@ -197,11 +199,13 @@ V.- Presentar Iniciativas ante el Congreso del Estado de acuerdo con los requisi
 VI.- Participar en las consultas ciudadanas plebiscitarias y de referéndum; y
 (REFORMADA, B.O. 10 DE JUNIO DE 2000)
 VII.- Las demás que le confieran esta Constitución y las Leyes que de ella emanan.
-29.- Son deberes del ciudadano sudcaliforniano:
+(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2013)
+29.- Son deberes de las ciudadanas y ciudadanos sudcalifornianos:
 I.- Inscribirse en el catastro de la municipalidad, manifestando sus propiedades, industria, profesión u ocupación;
 II.- Inscribirse en los padrones electorales, en los términos que determinen las leyes;
 III.- Alistarse en la Guardia Nacional;
-IV.- Votar en las elecciones;
+(REFORMADA, B.O. 20 DE JULIO DE 2013)
+IV.- Votar en las elecciones, consultas ciudadanas plebiscitarias y de referéndum;
 V.- Ejercer los cargos de elección popular para los que fuere electo; y
 VI.- Desempeñar las funciones electorales, censales, las de jurado y las de concejo del municipio en que resida.
 30.- Los sudcalifornianos serán preferidos para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano.
@@ -223,17 +227,8 @@ TITULO QUINTO
 DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
 (REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)
 36.- La Soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
-(REFORMADA, B.O. 24 DE ABRIL DE 2009)
-I.- Los partidos políticos son entidades de interés público y tienen el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular. La Ley determinará las normas y requisitos para su registro legal y formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
-Los partidos políticos nacionales y estatales tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir en la integración de la representación del Estado, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público en las esferas estatal y municipal, de acuerdo a los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos, por tanto quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
-La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, las reglas para las precampañas y las campañas electorales, así como los límites a las erogaciones para tales efectos.
-Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta constitución y la ley.
-(ADICIONADO, B.O. 12 DE MARZO DE 2010)
-Para que una organización política pueda constituirse como partido político estatal, es necesario que además de los requisitos que la ley señale cuente con más del 0.5% del padrón electoral municipal vigente a la última elección como afiliados, cuando menos en tres de los Municipios que componen el Estado, siempre que el número total de sus miembros en la entidad no sea menor del 2.5% del total del padrón electoral.
-(ADICIONADO, B.O. 12 DE MARZO DE 2010)
-Un partido político estatal perderá a su registro por no haber obtenido cuando menos el 2.5% de la votación total estatal en algunas de las elecciones para Gobernador del Estado o Diputados de Mayoría Relativa al Congreso del Estado ya sea que haya participado solo o coaligado de acuerdo a lo establecido en la ley de la materia, además de las otras causas de pérdida del registro que la ley señale.
-(ADICIONADO, B.O. 12 DE MARZO DE 2010)
-La negativa del registro como candidato o la cancelación del mismo, serán una de las sanciones que se aplicarán a los precandidatos que rebasen los topes de precampañas que establezca el Instituto Estatal Electoral. En el caso de las campañas electorales cuando se sobrepasen los topes de gastos establecidos será una de las causales de nulidad de la elección del candidato que corresponda.
+(REFORMADA, B.O. 20 DE JULIO DE 2013)
+l.- Los partidos políticos son entidades de interés público, la Ley determinará las normas y requisitos para su registro legal y formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 (REFORMADA, B.O. 14 DE FEBRERO DE 1997)
 II.- La Ley garantizará que en los procesos electorales estatales y municipales los partidos políticos cuenten de manera equitativa con los recursos para llevar a cabo sus actividades político electorales.
 (ADICIONADO, B.O. 12 DE MARZO DE 2010)
@@ -271,8 +266,10 @@ El Consejo General del Instituto Estatal Electoral podrá convenir con el Instit
 V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación.
 (REFORMADO, B.O. 14 DE FEBRERO DE 1997)
 En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado.
-(REFORMADA, B.O. 14 DE FEBRERO DE 1997)
-VI.- La Ley correspondiente tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
+(REFORMADA, B.O. 20 DE JULIO DE 2013)
+VI.- La ley correspondiente tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse; y
+(ADICIONADA, B.O. 20 DE JULIO DE 2013)
+VII.- La ley de la materia señalará las reglas a las que se sujetarán las candidaturas independientes a cargos de elección popular.
 37.- El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, teniendo como base de su división territorial, de su organización política y administrativa, el Municipio Libre.
 38.- Baja California Sur es un Estado democrático, considerando a la democracia, no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
 39.- El poder público del Estado se considera dividido, para el ejercicio de sus funciones, en Legislativo, Ejecutivo y Judicial.
@@ -372,8 +369,12 @@ II.- Los Diputados al Congreso del Estado
 III.- Los Ayuntamientos
 (REFORMADA, B.O. 10 DE MAYO DE 2003)
 IV.- El Tribunal Superior de Justicia
-(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2005)
-V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.1% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas, así como por conducto del Diputado de su distrito.
+(REFORMADA, B.O. 20 DE JULIO DE 2013)
+V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.1 % del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas.
+Asimismo se podrá hacer la propuesta a través del diputado de su distrito.
+(ADICIONADA, B.O. 20 DE JULIO DE 2013)
+VI. Al inicio de cada periodo ordinario de sesiones, el Gobernador del Estado tiene derecho de presentar dos iniciativas para trámite preferente, o bien señalar con tal carácter hasta dos que se hubieren presentado en periodos anteriores y se encuentren pendientes de dictamen. Lo anterior en los términos que prescriba la legislación de la materia.
+El Congreso del Estado deberá discutir y votar las iniciativas de trámite preferente en un plazo no mayor a treinta días naturales. No podrán tener el carácter de preferente las iniciativas de adición o reforma a esta Constitución.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
 58.- Las iniciativas se sujetarán al trámite que señale la Ley Orgánica del Poder Legislativo. Una vez aprobadas, se remitirán al Gobernador del Estado para que proceda a su promulgación y publicación, a no ser que formule, si las hubiere, las observaciones pertinentes en un plazo no mayor de diez días hábiles.
 (REFORMADO, B.O. 10 DE MAYO DE 2003)
