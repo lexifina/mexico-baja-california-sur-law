@@ -93,6 +93,16 @@ V. Beneficiarse de descuentos y exenciones fiscales.
 VI. Acceso a educación, que desarrolle sus habilidades, potencie su integración y participación en la sociedad.
 VII. Que en los planes y programas de desarrollo urbano se incluyan soluciones a sus requerimientos específicos.
 VIII. Acceder a programas especiales de otorgamiento de vivienda exclusivos para personas con discapacidad que permitan su pleno desarrollo.
+(ADICIONADO, B.O. 31 DE ENERO DE 2014)
+Toda persona tiene derecho a la información pública, el cual será garantizado por el Estado en los términos de la Constitución General de la Republica, esta Constitución y la ley respectiva. Para el ejercicio de este derecho se regirá por los siguientes principios y bases:
+I.- El acceso a la información pública de las entidades gubernamentales y aquellas consideradas como de interés público en los términos de la ley de transparencia y acceso a la información pública del Estado de Baja California Sur, solo podrá ser reservada de manera temporal, en los términos que fije la ley, debiendo prevalecer el principio de máxima publicidad.
+II.- Las personas físicas o jurídicas de derecho privado que reciban, usen, administren y ejerzan recursos públicos, están obligados a proporcionar la información relativa a éstos.
+III.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley.
+IV.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, en sus datos personales o a la rectificación de éstos, en términos de la ley.
+V.- Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante un órgano especializado, imparcial y autónomo.
+VI.- Los sujetos obligados deberán preservan los documentos en archivos administrativos, en términos de la ley, y publicaran a través de los medios electrónicos disponibles, la información completa actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
+VII.- Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+VIII.- La inobservancia de las disposiciones en materia de acceso a la información pública, será sancionada en los términos que dispongan las leyes.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 14.- A nadie se le podrá aplicar una ley retroactivamente en su perjuicio.
 Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las Leyes expedidas con anterioridad al hecho.
