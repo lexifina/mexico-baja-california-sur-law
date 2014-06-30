@@ -566,8 +566,7 @@ III.- Poseer al día de su elección, con una antigüedad mínima de diez años,
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 (REFORMADA, B.O. 6 DE FEBRERO DE 2002)
 V.- No haber sido Secretario de Despacho del Poder Ejecutivo o su equivalente, Procurador General de Justicia o Diputado Local durante el año previo el día de la designación;
-(ADICIONADA, B.O. 11 DE JULIO DE 2006)
-VI.- Acreditar examen de evaluación profesional en los términos que establezca la ley de la materia.
+VI.- (DEROGADA, B.O. 24 DE DICIEMBRE DE 2008)
 [N. DE E. ANTES FRACCIÓN V, B.O. 6 DE FEBRERO DE 2002]
 Los Magistrados del Tribunal Superior de Justicia serán designados preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 92.- (DEROGADO, B.O. 6 DE ABRIL DE 1999)
