@@ -675,6 +675,8 @@ I.- Ejercitar ante los Tribunales del Estado, las acciones que correspondan cont
 II.- Intervenir en la forma y términos que la ley disponga, en los juicios que afecten a personas a quienes la ley otorga especial protección; y
 (REFORMADA, B.O. 30 DE ABRIL DE 1981)
 III.- Defender los intereses del Estado ante los Tribunales, excepto en lo relativo a la Hacienda Pública.
+(ADICIONADO, B.O. 13 DE SEPTIEMBRE DE 2013)
+Es facultad del Procurador General de Justicia del Estado proponer al Consejo Estatal de Seguridad Pública del Estado, los criterios de política criminal necesarios para el mejoramiento de la seguridad pública, procuración e impartición de justicia en el Estado Libre y Soberano de Baja California Sur.
 (REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2012)
 B. El Congreso del Estado establecerá un organismo de protección de los Derechos Humanos que otorga el orden jurídico mexicano, con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público local, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias, y denuncias y quejas ante las autoridades respectivas.
 (ADICIONADO, B.O. 10 DE ABRIL DE 1992)
