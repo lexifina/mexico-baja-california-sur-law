@@ -59,7 +59,9 @@ Las autoridades estatales, asumirán el ejercicio de todas las atribuciones que 
 (REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)
 18.- Todos los habitantes del Estado tienen derecho a la protección de la salud y seguridad sociales teniendo como objetivo la permanente superación del nivel de vida de la población y el saneamiento del medio ambiente.
 La Ley definirá las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado.
-19.- Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística y científica de la comunidad y en los beneficios que de ello resulten.
+(REFORMADO, B.O. 20 DE DICIEMBRE DE 2012)
+19.- Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística, científica y tecnológica de la comunidad y en los beneficios que de ello resulten.
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades Estatales y Municipales su estímulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes de la materia.
 (REFORMADO, B.O. 20 DE FEBRERO DE 1988)
 20.- Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
@@ -395,7 +397,7 @@ XLVI.- Elegir al Procurador General de Justicia, de una terna de aspirantes prop
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
 (REFORMADA, B.O. 20 DE DICIEMBRE DE 2012)
-XLVIII. - Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; así como a los Consejeros del Instituto de Transparencia y Acceso a la Información Pública, de conformidad con los procedimiento (sic) establecidos para ello en las leyes respectivas.
+XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; así como a los Consejeros del Instituto de Transparencia y Acceso a la Información Pública, de conformidad con los procedimiento (sic) establecidos para ello en las leyes respectivas.
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
 XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 SECCION VI
