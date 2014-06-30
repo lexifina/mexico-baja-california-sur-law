@@ -167,8 +167,9 @@ DEL CONGRESO
 40.- El poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Baja California Sur".
 SECCION II
 DE LA ELECCION E INSTALACION DEL CONGRESO
-(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
-41.- El Congreso del Estado de Baja California Sur se integrará por dieciséis Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cinco Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2008)
+41.- El Congreso del Estado de Baja California Sur se integrará con dieciséis Diputados de Mayoría Relativa, electos en su totalidad el primer domingo de julio de cada tres años, por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cinco Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
 (REFORMADA, B.O. 27 DE OCTUBRE DE 2003)
 I.- La base para realizar la demarcación territorial de los dieciséis Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último Censo General de Población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y socioeconómico.
 (REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
@@ -222,8 +223,9 @@ III.- Visitar los distritos en los que fueren electos e informar a los habitante
 IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso del Estado un informe de sus actividades desarrolladas dentro y fuera de sus distritos correspondientes.
 SECCION III
 DE LAS SESIONES
-(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 2005)
-50.- El Congreso del Estado tendrá, durante el año, dos Periodos Ordinarios de Sesiones; el primero, del 15 de Marzo al 30 de Junio; y el segundo, del 01 de Septiembre al 15 de Diciembre, el cual podrá prolongarse hasta el 31 de Diciembre del mismo año.
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2008)
+50.- El Congreso del Estado tendrá, durante el año, dos Períodos Ordinarios de Sesiones; el primero, del primero de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 30 de diciembre del mismo año; y el segundo, del 15 de marzo al 30 de junio del año siguiente.
 (REFORMADO, B.O. 30 DE NOVIEMBRE DE 1987)
 A convocatoria del Gobernador o de la Diputación Permanente, los Periodos de Sesiones del Congreso del Estado, podrán iniciarse hasta 15 días antes de la fecha establecida en el párrafo que precede.
 (REFORMADO, B.O. 30 DE ABRIL DE 1981)
@@ -390,7 +392,9 @@ V.- No ser funcionario o empleado federal noventa días anteriores a la fecha de
 (REFORMADA, B.O. 10 DE DICIEMBRE DE 1993)
 VI.- No ser Secretario del Despacho del Poder Ejecutivo, Procurador General de Justicia, Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local, Presidente Municipal y cualquier otra persona que desempeñe cargo público estatal o municipal, noventa días naturales anteriores a la fecha de la elección; y
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
-70.- El Gobernador del Estado durará en su encargo seis años; iniciará el ejercicio de sus funciones el día 5 de abril.
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.
+(REFORMADO, B.O. 10 DE MARZO DE 2008)
+70.- El Gobernador del Estado será electo el primer domingo de julio de cada seis años, e iniciará el ejercicio de sus funciones el día 10 de septiembre.
 71.- Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Baja California Sur y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador del Estado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Baja California Sur. Si así no lo hiciere, que el pueblo me lo demande".
 72.- En caso de falta absoluta del Gobernador del Estado ocurrida en los dos primeros años del período respectivo, si el Congreso del Estado estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo las dos terceras partes del número total de sus miembros, designará por votación secreta y por mayoría absoluta de votos, un Gobernador Interino, expidiendo el propio Congreso del Estado, dentro de los diez días siguientes al de la designación del Gobernador Interino, la convocatoria para la elección del Gobernador que habrá de concluir el período correspondiente. Entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones deberá haber un plazo no menor de seis meses, ni mayor de doce.
@@ -668,8 +672,9 @@ CONCEPTOS Y FINES
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
 117.- El Municipio es la entidad local básica de la organización territorial del Estado; es la institución jurídica, política y social, de carácter autónomo, con autoridades propias, atribuciones específicas y libre en la administración de su hacienda. Su finalidad consiste en organizar a la comunidad asentada en su territorio en la gestión de sus intereses y la satisfacción de sus necesidades colectivas, tendientes a lograr su desarrollo integral y sustentable; proteger y fomentar los valores de la convivencia local y ejercer las funciones en la prestación de los Servicios Públicos de su competencia.
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para normar directa y libremente las materias de su competencia, así como para establecer sus órganos de gobierno interior.
-(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
-118.- Cada Municipio será gobernado por un ayuntamiento de elección popular directa, en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.
+(REFORMADO, B.O. 10 DE MARZO DE 2008)
+118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo del mes de julio de cada tres años en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 (REFORMADO, B.O. 30 DE ABRIL DE 1981)
 119.- Los Municipios podrán tener representación en los Organismos Federales y Estatales que actúen dentro de su jurisdicción.
 CAPITULO II
