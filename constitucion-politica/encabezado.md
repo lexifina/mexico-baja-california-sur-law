@@ -461,8 +461,8 @@ DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 (REFORMADA, B.O. 10 DE MAYO DE 2003)
 I.- Promulgar, cumplir y hacer cumplir las leyes federales
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
-(REFORMADA, B.O. 6 DE ABRIL DE 1999)
-III.- Nombrar y remover libremente a los Secretarios del Despacho y demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
+III.- Nombrar y remover libremente a los Secretarios del Despacho, y demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes, garantizando el principio de igualdad de género.
 (REFORMADA, B.O. 6 DE FEBRERO DE 2002)
 IV.- Presentar a consideración del Congreso del Estado, las ternas para la designación de los Magistrados que integrarán el Tribunal Superior de Justicia del Estado y someter sus licencias por mas de un mes o sus renuncias o remociones a la aprobación del propio Congreso.
 (ADICIONADA, B.O. 6 DE ABRIL DE 1999)
