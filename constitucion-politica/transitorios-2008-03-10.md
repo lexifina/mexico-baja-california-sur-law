@@ -12,6 +12,6 @@ El municipio de Loreto iniciará su período el día 25 de abril de 2011 y concl
 El municipio de Comondú iniciará su período el día 26 de abril de 2011 y concluirá el 26 de septiembre de 2015.
 El municipio de La Paz iniciará su período el día 27 de abril de 2011 y concluirá el 27 de septiembre de 2015.
 El municipio de Los Cabos iniciará su período el día 28 de abril de 2011 y concluirá el 28 de septiembre de 2015.
-QUINTO.- Para efectos de lo dispuesto por los artículos 41 y 50 a que hace referencia esta reforma, el presente decreto entrará en vigor el 30 de junio del año 2014.
-SEXTO.- Para los efectos del artículo 70 y 118 de la presente reforma, el presente decreto entrará en vigor el día 30 de junio del año 2014.
+QUINTO.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
+SEXTO.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
 SÉPTIMO.- Las reformas a las disposiciones legales del Estado de Baja California Sur, que sean necesarias para cumplir con la presente reforma constitucional, deberán ser realizadas dentro del plazo de un año establecido por el artículo sexto transitorio de la reforma constitucional federal, publicada en el Diario Oficial de la Federación el día 13 de noviembre de 2007.
