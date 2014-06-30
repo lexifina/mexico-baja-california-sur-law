@@ -72,6 +72,10 @@ El trabajo es un derecho del individuo y un deber del individuo para con la soci
 Las leyes aplicables definirán las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado.
 Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística, científica y tecnológica de la comunidad y en los beneficios que de ello resulten.
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades Estatales y Municipales su estimulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes de la materia.
+(ADICIONADO, B.O. 20 DE AGOSTO DE 2013)
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
+(ADICIONADO, B.O. 20 DE AGOSTO DE 2013)
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, el Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 14.- A nadie se le podrá aplicar una ley retroactivamente en su perjuicio.
 Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las Leyes expedidas con anterioridad al hecho.
