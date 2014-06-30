@@ -27,10 +27,16 @@ PRINCIPIOS CONSTITUCIONALES
 5o.- Es finalidad del Estado promover la participación de todos los ciudadanos en los procesos que norman la vida pública y económica de la comunidad. Fomentar la conciencia de la solidaridad estatal, nacional e internacional.
 (REFORMADO, B.O. 30 DE JUNIO DE 2012)
 6o.- Es función del Estado promover el desarrollo económico y social garantizando que este sea sustentable e integral y regular el proceso demográfico, para procurar el progreso social compartido y la distribución equitativa de la riqueza, buscando garantizar la justicia social.
+(REFORMADA SU DENOMINACIÓN, B.O. 10 DE NOVIEMBRE DE 2012)
 TITULO SEGUNDO
-DE LAS GARANTIAS INDIVIDUALES Y SOCIALES
-7o.- En el Estado de Baja California Sur, todo individuo gozará de las garantías que otorga la Constitución General de la República, las cuales no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que ella misma establece.
+DE LOS DERECHOS HUMANOS Y SUS GARANTIAS
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2012)
+7o.- En el Estado de Baja California Sur todas las personas gozarán de los derechos humanos que reconoce la Constitución General de la República, los tratados internacionales de los que el Estado Mexicano sea parte y esta Constitución, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y con las condiciones que ella misma establece.
 Igual protección asume respecto de los derechos fundamentales que, en ejercicio de su soberanía, consagra en este Cuerpo Constitucional.
+(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2012)
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales de la materia y esta Constitución favoreciendo en todo tiempo a las personas la protección más amplia.
+(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2012)
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 (REFORMADO, B.O. 10 DE OCTUBRE DE 2011)
 8o.- Los habitantes del Estado tienen todos los derechos y libertades consagrados en esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que nuestro País es parte, sin distinción alguna.
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos o libertad de las personas.
@@ -564,9 +570,14 @@ I.- Ejercitar ante los Tribunales del Estado, las acciones que correspondan cont
 II.- Intervenir en la forma y términos que la ley disponga, en los juicios que afecten a personas a quienes la ley otorga especial protección; y
 (REFORMADA, B.O. 30 DE ABRIL DE 1981)
 III.- Defender los intereses del Estado ante los Tribunales, excepto en lo relativo a la Hacienda Pública.
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2012)
+B. El Congreso del Estado establecerá un organismo de protección de los Derechos Humanos que otorga el orden jurídico mexicano, con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público local, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias, y denuncias y quejas ante las autoridades respectivas.
 (ADICIONADO, B.O. 10 DE ABRIL DE 1992)
-B.- El Congreso del Estado, establecerá un organismo de protección de los derechos humanos que otorga el orden jurídico mexicano, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público local, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
 Este organismo que establezca el Congreso de la Unión conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones del organismo que en su caso cree el Congreso del Estado, el cual asimismo, podrá comunicarse con el organismo federal que conozca de la defensa y protección de los derechos humanos, para actuar coordinadamente en sus respectivos ámbitos de competencia.
+(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2012)
+Todo servidor público está obligado a responder las recomendaciones que les presente este organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos locales, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o la Diputación Permanente, según corresponda, podrán llamar, a solicitud de este organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
+(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2012)
+La elección del Presidente de la Comisión Estatal de los Derechos Humanos, así como de los integrantes del Consejo Consultivo, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente e informado, en los términos y condiciones que determine la ley.
 86.- (DEROGADO, B.O. 10 DE DICIEMBRE DE 1993)
 CAPITULO III
 DEL PODER JUDICIAL
