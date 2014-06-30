@@ -269,8 +269,8 @@ V.- Si las observaciones con veto total son aprobadas al menos por las dos terce
 (REFORMADO, B.O. 10 DE MAYO DE 2003)
 61.- El Gobernador no podrá hace (sic) observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia, o Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al Decreto de convocatoria a periodo extraordinario de sesiones, expedido por la Diputación Permanente, ni a la Ley Reglamentaria del Poder Legislativo.
 62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE MAYO DE 2003)
-63.- Toda resolución del Congreso del Estado tendrá el carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2003)
+63.- Toda resolución del Congreso del Estado tendrá carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
 (REFORMADO [N. DE E. REUBICADO ANTES ÚLTIMA PARTE DEL PRIMER PÁRRAFO], B.O. 10 DE JUNIO DE 2000)
 "El Congreso del Estado de Baja California Sur decreta: (texto de la ley o decreto)".
 (ADICIONADO, B.O. 10 DE JUNIO DE 2000)
@@ -330,9 +330,9 @@ XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o e
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 (REFORMADA, B.O. 10 DE MARZO DE 2008)
 XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a los del Órgano de Fiscalización Superior.
-(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE MARZO DE 2008)
-XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, de los entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
-La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
+(REFORMADA, B.O. 12 DE MARZO DE 2010)
+XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que deberá ser presentada dentro de los dos primeros meses, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, de los entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
+La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad, el cual tendrá autonomía técnica y de gestión para el ejercicio de sus atribuciones y para decidir sobre su organización interna, recursos, funcionamiento y resoluciones.
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)
 XXXI.- Aprobar, y en su caso modificar, el Presupuesto de Egresos del Estado y fijar las contribuciones para cubrirlo.
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos del Estado, se aplicara la que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
