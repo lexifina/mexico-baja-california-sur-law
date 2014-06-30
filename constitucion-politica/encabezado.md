@@ -278,8 +278,8 @@ DE LAS FACULTADES DEL CONGRESO
 I.- Legislar en todo lo relativo al Gobierno del Estado;
 II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
-(REFORMADA B.O. 10 DE MAYO DE 2003)
-IV.- Expedir la ley que regule su organización, su estructura y su funcionamiento interno, la cual no necesitará ser promulgada por el Gobernador del Estado para tener vigencia, así como expedir la Ley de la Contaduría Mayor de Hacienda.
+(REFORMADA, B.O. 10 DE MARZO DE 2008)
+IV.- Formular su Ley Reglamentaria, así como la Ley del Órgano de Fiscalización Superior del Estado de Baja California Sur.
 (REFORMADA, B.O. 18 DE JUNIO DE 1998)
 V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 (ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2004)
@@ -320,8 +320,11 @@ XXVI Bis.- Autorizar al Titular del Poder Ejecutivo, así como a los Municipios 
 (REFORMADA, B.O. 5 DE MARZO DE 1993)
 XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre los bienes muebles e inmuebles pertenecientes al Estado, cuando el valor sea mayor de N$150,000.00 (Ciento cincuenta mil nuevos pesos 00/100 m.n.), previo avalúo practicado por la Dirección de Catastro. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
-XXIX.- Nombrar y remover libremente a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda;
-XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones;
+(REFORMADA, B.O. 10 DE MARZO DE 2008)
+XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a los del Órgano de Fiscalización Superior.
+(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE MARZO DE 2008)
+XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, de los entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
+La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)
 XXXI.- Aprobar, y en su caso modificar, el Presupuesto de Egresos del Estado y fijar las contribuciones para cubrirlo.
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos del Estado, se aplicara la que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
