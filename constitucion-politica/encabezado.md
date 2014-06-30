@@ -544,12 +544,16 @@ III.- Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás dispos
 IV.- Firmar los acuerdos dictados por el Gobernador del Estado, así como los contratos que celebre. Sin este requisito no surtirán efectos legales.
 V.- Representar al Gobernador del Estado cuand0 (sic) éste lo estime conveniente, ante las Autoridades de la Federación, de las Entidades Federativas y de los Municipios del Estado; y
 VI.- Las demás que les confieran las Leyes.
-84.- Para ser Procurador General de Justicia se requiere:
-I.- Ser ciudadano sudcaliforniano;
-II.- Tener 30 años de edad como mínimo;
-III.- Ser licenciado en Derecho, y acreditar un ejercicio profesional de cinco años, cuando menos;
-IV.- Tener modo honesto de vivir; y
-V.- No haber sido condenado por delitos del fuero común intencionales, u oficiales.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)
+84.- Para ser Procurador General de Justicia del Estado, se requiere:
+I.- Ser Ciudadano Sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, o contar con una residencia efectiva en el Estado no menor de tres años anteriores al día de la designación.
+II.- Tener 35 años cumplidos el día de la designación;
+III.- Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+IV.- Tener Titulo de Licenciado en Derecho, expedido por Institución legalmente facultada para ello; con Cedula Profesional, y tener como mínimo 10 años de ejercicio profesional;
+V.- No estar suspendido, inhabilitado o hubiese sido destituido por resolución firme como servidor público en esta o en cualquier otra entidad federativa o de la Administración Pública Federal;
+VI.- Haber cumplido con el servicio militar nacional;
+VII.- Gozar de buena salud; y
+VIII.- Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
 85.-
 (REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2002)
 A.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Ministerial, en los términos de su ley orgánica.
