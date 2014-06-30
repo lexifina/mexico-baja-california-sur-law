@@ -269,8 +269,8 @@ V.- Si las observaciones con veto total son aprobadas al menos por las dos terce
 (REFORMADO, B.O. 10 DE MAYO DE 2003)
 61.- El Gobernador no podrá hace (sic) observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia, o Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al Decreto de convocatoria a periodo extraordinario de sesiones, expedido por la Diputación Permanente, ni a la Ley Reglamentaria del Poder Legislativo.
 62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
-(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2003)
-63.- Toda resolución del Congreso del Estado tendrá carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
+(REFORMADO PRIMER PARRAFO, B.O. 10 DE MAYO DE 2003)
+63.- Toda resolución del Congreso del Estado tendrá el carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
 (REFORMADO [N. DE E. REUBICADO ANTES ÚLTIMA PARTE DEL PRIMER PÁRRAFO], B.O. 10 DE JUNIO DE 2000)
 "El Congreso del Estado de Baja California Sur decreta: (texto de la ley o decreto)".
 (ADICIONADO, B.O. 10 DE JUNIO DE 2000)
@@ -472,7 +472,8 @@ XXVIII.- Mejorar las condiciones económicas y sociales de vida de los campesino
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 XXIX.- Celebrar convenios con el Gobierno Federal y con los Ayuntamientos del Estado para coordinar sus atribuciones en materias concurrentes, así como para la prestación eficaz de funciones y servicios públicos, y asumir la prestación temporal de los mismos, cuando los Ayuntamientos así lo soliciten, satisfaciendo las formalidades exigidas por esta Constitución y las Leyes que de ella emanen.
 XXX.- Conocer de las designaciones que haga el Procurador y el Presidente del Tribunal Superior de Justicia;
-XXXI.- Promover el desarrollo integral de todos los recursos naturales, entre otros la minería, la pesca; y además las actividades agropecuarias y el turismo;
+(REFORMADA, B.O. 18 DE JUNIO DE 2009)
+XXXI.- Fomentar y promover el aprovechamiento integral y sustentable de los recursos naturales del Estado, a través del impulso, entre otras actividades, de la minería, la pesca, la acuacultura, las agropecuarias y el turismo, ejerciendo las atribuciones que en estas materias le confieran las disposiciones legales aplicables.
 XXXII.- Prestar y vigilar el eficaz cumplimiento de los servicios sociales que desarrolle el Estado;
 XXXIII.- Conceder licencia hasta por tres meses a funcionarios y empleados;
 XXXIV.- Convocar a elecciones extraordinarias de diputados, cuando haya desaparecido el Poder Legislativo;
@@ -871,8 +872,10 @@ Asimismo, los Municipios directa o indirectamente e individual o conjuntamente c
 Igualmente, con autorización de sus Ayuntamientos y del Congreso del Estado, y sujeto a lo establecido en la legislación aplicable, los Municipios del Estado, podrán constituir garantías, otorgar avales, obligarse solidariamente, mancomunadamente o subsidiariamente o ser obligados sustitutos de otros Municipios del Estado, de sus organismos descentralizados municipales o intermunicipales, de las empresas de participación municipal y de los fideicomisos públicos municipales.
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
 XXVIII.- Celebrar Contratos de Servicios de Largo Plazo, previa autorización del Congreso del Estado.
-(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
-XXIX.- Las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
+(ADICIONADA, B.O. 18 DE JUNIO DE 2009)
+XXIX.- Promover el desarrollo sustentable de la pesca y la acuacultura y ejercer las atribuciones que en esta materia, las disposiciones legales aplicables, confieran a los Municipios; y
+(REFORMADA, B.O. 18 DE JUNIO DE 2009)
+XXX.- Las demás que señale esta Constitución, la General de la Republica y las leyes que de ellas emanen.
 CAPITULO IX
 SECCION I
 DE LOS TITULARES DEL GOBIERNO MUNICIPAL
