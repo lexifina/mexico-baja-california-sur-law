@@ -109,8 +109,8 @@ II.- Poder ser votado para todo cargo de elección popular, teniendo las calidad
 (REFORMADA, B.O. 14 DE FEBRERO DE 1997)
 III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado;
 IV.- Ejercer en toda clase de negocios el derecho de petición; y
-(ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
-V.- Presentar Iniciativas ante el Congreso del Estado de acuerdo con los requisitos y procedimientos establecidos en la Ley de la materia y en la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
+V.- Presentar Iniciativas ante el Congreso del Estado de acuerdo con los requisitos y procedimientos establecidos en la Ley de la materia y en la Ley Orgánica del Poder Legislativo del Estado de Baja California Sur;
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 VI.- Participar en las consultas ciudadanas plebiscitarias y de referéndum; y
 (REFORMADA, B.O. 10 DE JUNIO DE 2000)
@@ -275,19 +275,24 @@ También incurrirán en responsabilidad, que la misma ley sancionará, los parti
 55.- El Gobernador del Estado asistirá a la apertura del período ordinario de sesiones, en la que presentará un informe por escrito exponiendo la situación que guarde la administración pública del Estado.
 (REFORMADO, B.O. 30 DE ABRIL DE 1981)
 Podrá asistir también, por sí o por conducto de un Funcionario del Poder Ejecutivo para informar cuando se trate algún asunto o proyecto sobre la materia a cargo del que comparece, si así lo acuerda el Congreso del Estado.
-56.- El Congreso se reunirá en la capital del Estado, pero podrá cambiar provisionalmente su sede, si así lo acuerdan las dos terceras partes de la totalidad de los diputados, notificando a los otros dos poderes.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
+56.- La Sede del Congreso será la Ciudad de La Paz, Capital del Estado de Baja California Sur y podrá cambiarla provisionalmente, si así lo acuerdan las dos terceras partes de la totalidad de los Diputados, notificándolo a los otros dos poderes.
 SECCION IV
 DE LA INICIATIVA Y FORMACION DE LAS LEYES Y DECRETOS
-(REFORMADO, B.O. 10 DE MAYO DE 2003)
-57.- La facultad de iniciar Leyes o Decretos compete a:
-I.- El Gobernador del Estado
+(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)
+57.- La facultad de iniciar leyes, decretos, reformas y adiciones, compete a:
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
+I.- El Gobernador del Estado.
+(REFORMADA, B.O. 10 DE MAYO DE 2003)
 II.- Los Diputados al Congreso del Estado
+(REFORMADA, B.O. 10 DE MAYO DE 2003)
 III.- Los Ayuntamientos
+(REFORMADA, B.O. 10 DE MAYO DE 2003)
 IV.- El Tribunal Superior de Justicia
 (REFORMADA, B.O. 10 DE NOVIEMBRE DE 2005)
 V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.1% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas, así como por conducto del Diputado de su distrito.
-(REFORMADO, B.O. 10 DE MAYO DE 2003)
-58.- Las iniciativas se sujetarán al trámite que señale la Ley Reglamentaria del Poder Legislativo. Una vez aprobadas, se remitirán al Gobernador del Estado para que proceda a su promulgación y publicación, a no ser que formule, si las hubiere, las observaciones pertinentes en un plazo no mayor de diez días hábiles.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
+58.- Las iniciativas se sujetarán al trámite que señale la Ley Orgánica del Poder Legislativo. Una vez aprobadas, se remitirán al Gobernador del Estado para que proceda a su promulgación y publicación, a no ser que formule, si las hubiere, las observaciones pertinentes en un plazo no mayor de diez días hábiles.
 (REFORMADO, B.O. 10 DE MAYO DE 2003)
 59.- Se considera aprobado todo proyecto de Ley o Decreto que no sea devuelto por el Gobernador en el plazo previsto en el artículo anterior.
 (REFORMADO, B.O. 10 DE MAYO DE 2003)
@@ -297,11 +302,11 @@ II.- Una vez devuelto el Proyecto de Ley o Decreto por el Gobernador al Congreso
 III.- Si las observaciones son escuchadas al menos por las dos terceras partes de los miembros del Congreso, el Proyecto de Ley o Decreto se remitirá de nueva cuenta al Gobernador del Estado para su promulgación y publicación;
 IV.- Si las observaciones con veto parcial son aprobadas al menos por las dos terceras partes de los miembros del Congreso, se incorporarán en el proyecto de Ley o Decreto y se remitirá de nueva cuenta al Gobernador del Estado para su promulgación y publicación; y
 V.- Si las observaciones con veto total son aprobadas al menos por las dos terceras partes de los miembros del Congreso, el Proyecto de Ley o Decreto quedará sin efecto, debiendo publicarse esta decisión en el Boletín Oficial del Gobierno del Estado.
-(REFORMADO, B.O. 10 DE MAYO DE 2003)
-61.- El Gobernador no podrá hace (sic) observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia, o Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al Decreto de convocatoria a periodo extraordinario de sesiones, expedido por la Diputación Permanente, ni a la Ley Reglamentaria del Poder Legislativo.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
+61.- El Gobernador no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia o Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al Decreto de Convocatoria a período extraordinario de sesiones, expedido por la Diputación Permanente, ni a la Ley Orgánica del Poder Legislativo.
 62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
-(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2003)
-63.- Toda resolución del Congreso del Estado tendrá carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
+(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)
+63.- Toda resolución del Congreso del Estado tendrá el carácter de ley, decreto o acuerdo económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
 (REFORMADO [N. DE E. REUBICADO ANTES ÚLTIMA PARTE DEL PRIMER PÁRRAFO], B.O. 10 DE JUNIO DE 2000)
 "El Congreso del Estado de Baja California Sur decreta: (texto de la ley o decreto)".
 (ADICIONADO, B.O. 10 DE JUNIO DE 2000)
@@ -313,10 +318,11 @@ SECCION V
 DE LAS FACULTADES DEL CONGRESO
 64.- Son facultades del Congreso del Estado:
 I.- Legislar en todo lo relativo al Gobierno del Estado;
-II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
+II.- Expedir Leyes, así como ejercer las facultades que le otorga la Constitución General de la República.
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
-(REFORMADA, B.O. 10 DE MARZO DE 2008)
-IV.- Formular su Ley Reglamentaria, así como la Ley del Órgano de Fiscalización Superior del Estado de Baja California Sur.
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
+IV.- Expedir la Ley que organice su estructura y su funcionamiento interno, la cual no necesitará ser promulgada por el Gobernador del Estado para tener vigencia, así como expedir la Ley del Órgano de Fiscalización Superior del Estado de Baja California Sur.
 (REFORMADA, B.O. 18 DE JUNIO DE 1998)
 V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 (ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2004)
@@ -339,9 +345,8 @@ XVIII.- Erigirse en Jurado de Sentencia en los juicios a que se refiere el Artí
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 XIX.- Declarar si ha lugar o no al proceso a que se refiere el Artículo 159 de esta Constitución.
 XX.- Elegir la Diputación Permanente;
-(NOTA: EL 21 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 11/2011, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2010)
-XXI.- Resolver SOBERANA Y DISCRECIONALMENTE respecto a la elección y remoción de los Magistrados del Tribunal Superior de Justicia, así como resolver SOBERANAMENTE respecto a la reelección o no reelección de los mismos.
+(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)
+XXI.- Resolver respecto a la elección y remoción de los Magistrados del Tribunal Superior de Justicia, así como resolver respecto a la reelección o no reelección de los mismos.
 (REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)
 Dichas resoluciones serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
 (REFORMADO, B.O. 6 DE FEBRERO DE 2002)
@@ -404,22 +409,28 @@ XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos H
 XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 SECCION VI
 DE LA DIPUTACION PERMANENTE
-65.- El día de clausura del período de sesiones ordinarias, el Congreso del Estado elegirá por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de tres miembros que durarán en su cargo el tiempo intermedio entre los períodos de sesiones ordinarias. El primero de los nombrados será el Presidente, y los otros dos, Secretarios.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
+65.- El día de la clausura del período ordinario de sesiones, el Congreso del Estado elegirá mediante votación por cédula y por mayoría de votos, una diputación permanente compuesta de tres miembros, que funcionará durante el receso ocurrido entre los periodos ordinarios de sesiones. El primero de los nombrados será el Presidente, el segundo el Primer Secretario y el Tercero el Segundo Secretario.
+Asimismo, se elegirán cinco suplentes, los cuales cubrirán las ausencias de los propietarios, conforme sean requeridos en el orden en que fueron electos.
 (REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 1983)
 66.- Son facultades de la Diputación Permanente:
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 I.- Acordar por sí o a propuesta del Gobernador, la Convocatoria a Período Extraordinario de Sesiones.
 (REFORMADA, B.O. 18 DE JUNIO DE 1998)
 II.- Expedir, en su caso, el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
-III.- Instalar y presidir la primera Junta Preparatoria del nuevo Congreso del Estado;
-IV.- Nombrar interinamente a los empleados de la Contaduría Mayor de Hacienda;
-V.- Resolver los asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de Ley y proposiciones que le dirijan, turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
+III.- Constituirse en Comisión Instaladora de la nueva Legislatura e instalar y presidir la primera junta preparatoria del nuevo Congreso del Estado.
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
+IV.- Nombrar interinamente a los empleados del Órgano de Fiscalización Superior.
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
+V.- Resolver los asuntos de su competencia y recibir durante el periodo de receso, las iniciativas de ley o de decreto, así como los acuerdos económicos que le dirijan, turnándolas para dictamen a la comisión o comisiones correspondientes, a fin de que se despachen en términos de ley.
 (REFORMADA, B.O. 6 DE FEBRERO DE 2002)
 VI.- Conceder licencia al Gobernador del Estado cuando no sea por un período mayor de un mes; a los Diputados cuando no se (sic) mayor de tres meses y a los magistrados del Tribunal Superior de Justicia cuando sea mayor de un mes.
 VII.- Nombrar Gobernador Provisional en los casos previstos en esta Constitución;
 VIII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2001)
 IX.- (DEROGADA, B.O. 6 DE ABRIL DE 1999)
-X.- Las demás que le confiera expresamente esta Constitución.
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
+X.- Las demás que le confieran expresamente esta Constitución y las leyes.
 CAPITULO II
 DEL PODER EJECUTIVO
 SECCION I
@@ -442,8 +453,10 @@ N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRAN
 71.- Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Baja California Sur y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador del Estado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Baja California Sur. Si así no lo hiciere, que el pueblo me lo demande".
 72.- En caso de falta absoluta del Gobernador del Estado ocurrida en los dos primeros años del período respectivo, si el Congreso del Estado estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo las dos terceras partes del número total de sus miembros, designará por votación secreta y por mayoría absoluta de votos, un Gobernador Interino, expidiendo el propio Congreso del Estado, dentro de los diez días siguientes al de la designación del Gobernador Interino, la convocatoria para la elección del Gobernador que habrá de concluir el período correspondiente. Entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones deberá haber un plazo no menor de seis meses, ni mayor de doce.
-Si el Congreso del Estado no estuviere en sesiones, la Comisión Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso del Estado para que éste, a su vez, designe al Gobernador Interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior.
-Cuando la falta absoluta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si el Congreso del Estado se encontrase en sesiones, designará al Gobernador Substituto que habrá de concluir el período. Si el Congreso del Estado no estuviere reunido, la Comisión Permanente nombrará un Gobernador Provisional y convocará al Congreso del Estado a sesiones extraordinarias para que, erigido en Colegio Electoral, haga la elección del Gobernador Substituto.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
+Si el Congreso del Estado no estuviere en sesiones, la Diputación Permanente nombrará, desde luego, un Gobernador Provisional, y convocará a sesiones extraordinarias al Congreso del Estado para que éste, a su vez, designe al Gobernador Interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
+Cuando la falta absoluta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si el Congreso del Estado se encontrase en sesiones, designará al Gobernador sustituto que habrá de concluir el periodo. Si el Congreso del Estado no estuviere reunido, la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso del Estado a sesiones extraordinarias para que, erigido en Colegio Electoral, haga la elección del Gobernador sustituto.
 73.- Si al inicio de un período constitucional no se presenta el Gobernador electo, o la elección no estuviere hecha y declarada, cesará sin embargo el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el que designe el Congreso del Estado, o en su falta, con el carácter de Provisional el que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en los párrafos primero y segundo del artículo anterior.
 74.- En las ausencias o faltas temporales del Gobernador del Estado se observarán las siguientes disposiciones:
 I.- Si la ausencia no excede de treinta días, será suplido por el Secretario General de Gobierno, dándose aviso al Congreso del Estado; y
@@ -738,7 +751,8 @@ II.- Los ingresos que adquiera por concepto de convenios, participaciones legale
 En el proyecto de Presupuesto de Egresos correspondiente se incluirán las partidas necesarias, para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de largo plazo, durante la vigencia de los mismos.
 109.- El año fiscal comprenderá del primero de enero al treinta y uno de diciembre, inclusive.
 110.- Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, en tanto se expide éste, continuará vigente el del año inmediato anterior.
-111.- Las cuentas de los caudales públicos deberán glosarse sin excepción por una Contaduría Mayor de Hacienda, que dependerá exclusivamente del Congreso del Estado.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
+111.- Las cuentas de los caudales públicos deberán glosarse sin excepción por el Órgano de Fiscalización Superior, que dependerá exclusivamente del Congreso del Estado.
 112.- No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por ley posterior.
 113.- Los pagos se harán previa autorización del Gobernador, y con absoluta igualdad y proporcionalidad entre los servidores y pensionistas del Estado.
 114.- Todo empleado de Hacienda que deba tener a su cargo manejo de fondos del Estado, otorgará previamente fianza suficiente para garantizar su manejo en los términos que la ley señale.
