@@ -48,8 +48,8 @@ Todos los niños nacidos de matrimonio o fuera de él, tienen derecho a igual pr
 Es derecho correlativo a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos y su educación, como deber supremo ante la sociedad.
 Toda medida o disposición protectoras de las familias y la niñez se consideran de orden público.
 12.- La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación descansará en los principios señalados en dicho precepto y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado.
-(ADICIONADO [N. DE E. REFORMADO], B.O. 10 DE JULIO DE 2002)
-13.- Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria y secundaria. La educación preescolar, primaria y secundaria conforman la educación básica obligatoria. Además, toda la educación que impartan el Estado y Municipios será gratuita.
+(REFORMADO, B.O. 20 DE DICIEMBRE DE 2012)
+13.- Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación que impartan el Estado y Municipios será gratuita.
 14.- La propiedad privada se respetará y garantizará en el Estado, con las modalidades que para su ejercicio, como función social, le impone el artículo 27 de la Constitución General de la República, buscando el aprovechamiento racional de los recursos naturales susceptibles de apropiación, para propiciar la distribución equitativa de la riqueza pública, preservar su conservación y coadyuvar al progreso social.
 Las expropiaciones sólo podrán hacerse por causa de utilidad pública y mediante indemnización.
 Las autoridades estatales, asumirán el ejercicio de todas las atribuciones que le confiere el artículo 27 de la Constitución General de la República y sus disposiciones reglamentarias, en favor de los núcleos de población interesados.
@@ -79,12 +79,14 @@ I.- Cumplir con los preceptos de esta Constitución, los de las leyes, reglament
 II.- Contribuir a los gastos públicos del Estado y del Municipio en que residan, en la forma proporcional y equitativa que dispongan las leyes;
 (REFORMADA, B.O. 20 DE MAYO DE 1985)
 III.- Inscribir en el Registro Civil, los actos constitutivos o modificativos del estado civil;
+(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2012)
+IV.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria y media superior y reciban la instrucción militar, en los términos que establezca la ley.
 (REFORMADA, B.O. 20 DE MAYO DE 1985)
-IV.- Tener un modo honesto de vivir;
+V.- Tener un modo honesto de vivir;
 (REFORMADA, B.O. 20 DE MAYO DE 1985)
-V.- Dar auxilio a las autoridades en los casos de urgencia, y
-(ADICIONADA, B.O. 20 DE MAYO DE 1985)
-VI.- Si son Extranjeros, contribuir para los gastos públicos de la manera que dispongan las Leyes, obedecer y respetar las Instituciones, Leyes y Autoridades del Estado, sujetarse a los fallos y sentencias de los Tribunales sin poder invocar o intentar otros recursos, que los que se conceden a todos los mexicanos.
+VI.- Dar auxilio a las autoridades en los casos de urgencia, y
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2012)
+VII.- Si son Extranjeros, contribuir para los gastos públicos de la manera que dispongan las Leyes; obedecer y respetar las Instituciones, Leyes y Autoridades del Estado; sujetarse a los fallos y sentencias de los Tribunales; sin poder invocar o intentar otros recursos que los que se conceden a todos los mexicanos.
 CAPITULO II
 DE LOS SUDCALIFORNIANOS
 23.- Son sudcalifornianos:
