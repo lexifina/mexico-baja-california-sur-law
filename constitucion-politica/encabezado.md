@@ -407,9 +407,10 @@ II.- Una vez devuelto el Proyecto de Ley o Decreto por el Gobernador al Congreso
 III.- Si las observaciones son escuchadas al menos por las dos terceras partes de los miembros del Congreso, el Proyecto de Ley o Decreto se remitirá de nueva cuenta al Gobernador del Estado para su promulgación y publicación;
 IV.- Si las observaciones con veto parcial son aprobadas al menos por las dos terceras partes de los miembros del Congreso, se incorporarán en el proyecto de Ley o Decreto y se remitirá de nueva cuenta al Gobernador del Estado para su promulgación y publicación; y
 V.- Si las observaciones con veto total son aprobadas al menos por las dos terceras partes de los miembros del Congreso, el Proyecto de Ley o Decreto quedará sin efecto, debiendo publicarse esta decisión en el Boletín Oficial del Gobierno del Estado.
-(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
-61.- El Gobernador no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia o Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al Decreto de Convocatoria a período extraordinario de sesiones, expedido por la Diputación Permanente, ni a la Ley Orgánica del Poder Legislativo.
-62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
+(REFORMADO, B.O. 20 DE DICIEMBRE DE 2013)
+61.- El Gobernador no podrá hacer observaciones sobre las resoluciones del Congreso respecto a las proposiciones con punto de acuerdo, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia o Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al Decreto de Convocatoria a periodo extraordinario de sesiones, expedido por la Diputación Permanente, ni a la Ley Orgánica del Poder Legislativo o Reglamentos del mismo.
+(REFORMADO, B.O. 20 DE DICIEMBRE DE 2013)
+62.- Las iniciativas de ley o decreto, así como las proposiciones con punto de acuerdo que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo periodo de sesiones.
 (REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)
 63.- Toda resolución del Congreso del Estado tendrá el carácter de ley, decreto o acuerdo económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
 (REFORMADO [N. DE E. REUBICADO ANTES ÚLTIMA PARTE DEL PRIMER PÁRRAFO], B.O. 10 DE JUNIO DE 2000)
@@ -527,8 +528,8 @@ II.- Expedir, en su caso, el Bando Solemne para dar a conocer en todo el Estado 
 III.- Constituirse en Comisión Instaladora de la nueva Legislatura e instalar y presidir la primera junta preparatoria del nuevo Congreso del Estado.
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
 IV.- Nombrar interinamente a los empleados del Órgano de Fiscalización Superior.
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
-V.- Resolver los asuntos de su competencia y recibir durante el periodo de receso, las iniciativas de ley o de decreto, así como los acuerdos económicos que le dirijan, turnándolas para dictamen a la comisión o comisiones correspondientes, a fin de que se despachen en términos de ley.
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)
+V.- Resolver los asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de ley o decreto, así como las proposiciones con punto de acuerdo y de Reglamentos del Poder Legislativo que le dirijan, turnándolas para dictamen a la comisión o comisiones correspondientes, a fin de que se despachen en términos de ley.
 (REFORMADA, B.O. 6 DE FEBRERO DE 2002)
 VI.- Conceder licencia al Gobernador del Estado cuando no sea por un período mayor de un mes; a los Diputados cuando no se (sic) mayor de tres meses y a los magistrados del Tribunal Superior de Justicia cuando sea mayor de un mes.
 VII.- Nombrar Gobernador Provisional en los casos previstos en esta Constitución;
