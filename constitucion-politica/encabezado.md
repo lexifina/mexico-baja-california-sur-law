@@ -67,15 +67,32 @@ Las Leyes locales organizarán el patrimonio familiar, determinando los bienes q
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 12.- Las Autoridades Estatales organizarán, coordinarán y fomentarán la vida económica de la entidad, para asegurar a todos los habitantes una existencia digna, tomando en consideración que los factores de la producción garantizan la justicia social.
 El trabajo es un derecho del individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado protegerá, en beneficio de los trabajadores, el cumplimiento de los derechos y prerrogativas establecidos en el Artículo 123 de la Constitución General de la República.
+(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)
+13.- Todos los habitantes del Estado tienen derecho a una alimentación nutritiva, suficiente y de calidad, a la protección de la salud, y en general, al bienestar y a la seguridad individual y social, como objetivos de la permanente superación del nivel de vida de la población. La ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
-13.- Todos los habitantes del Estado tienen derecho a la protección de la salud y seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población y el saneamiento del medio ambiente.
 Las leyes aplicables definirán las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado.
+(REFORMADO, B.O. 10 DE ABRIL DE 2013)
 Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística, científica y tecnológica de la comunidad y en los beneficios que de ello resulten.
+(REFORMADO, B.O. 10 DE ABRIL DE 2013)
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades Estatales y Municipales su estimulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes de la materia.
 (ADICIONADO, B.O. 20 DE AGOSTO DE 2013)
 Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
 (ADICIONADO, B.O. 20 DE AGOSTO DE 2013)
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, el Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
+(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)
+Todos los habitantes del Estado tienen derecho a disfrutar de una vivienda digna, de calidad y sustentable, que sea la base de su patrimonio familiar, como objetivo de la permanente superación del nivel de vida de la población. Para tal efecto el Gobierno del Estado y los Gobiernos Municipales, deberán implementar políticas y programas de acceso a la vivienda; desarrollaran planes de financiamiento para la construcción de viviendas de interés social, en colaboración con el Gobierno Federal; inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones aplicables; y deberán garantizar la dotación de servicios públicos, en coordinación con los Municipios.
+(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)
+El Estado desarrollará políticas para la prevención y atención de las personas con discapacidad. Promoverá la integración social y laboral, la equiparación de oportunidades y la igualdad de condiciones para las personas con discapacidad, a fin de alcanzar el máximo desarrollo de su personalidad.
+(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)
+El Estado en los términos que disponga la ley reconoce el derecho de las personas con discapacidad a:
+I. La atención sanitaria especializada acorde con sus necesidades, que incluirá la provisión de medicamentos y la atención psicológica, de forma gratuita.
+II. La rehabilitación integral y la asistencia permanente.
+III. Acceder al trabajo remunerado y socialmente útil en condiciones de igualdad.
+IV. Obtener descuentos en los servicios públicos y lugares adecuados en transporte colectivo y espectáculos.
+V. Beneficiarse de descuentos y exenciones fiscales.
+VI. Acceso a educación, que desarrolle sus habilidades, potencie su integración y participación en la sociedad.
+VII. Que en los planes y programas de desarrollo urbano se incluyan soluciones a sus requerimientos específicos.
+VIII. Acceder a programas especiales de otorgamiento de vivienda exclusivos para personas con discapacidad que permitan su pleno desarrollo.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 14.- A nadie se le podrá aplicar una ley retroactivamente en su perjuicio.
 Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las Leyes expedidas con anterioridad al hecho.
