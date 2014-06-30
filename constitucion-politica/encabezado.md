@@ -1,4 +1,4 @@
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 FELIX AGRAMONT COTA
 Gobernador Provisional del Estado Libre y Soberano de Baja California Sur, a sus habitantes hace saber:
@@ -30,7 +30,9 @@ TITULO SEGUNDO
 DE LAS GARANTIAS INDIVIDUALES Y SOCIALES
 7o.- En el Estado de Baja California Sur, todo individuo gozará de las garantías que otorga la Constitución General de la República, las cuales no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que ella misma establece.
 Igual protección asume respecto de los derechos fundamentales que, en ejercicio de su soberanía, consagra en este Cuerpo Constitucional.
-8o.- Los habitantes del Estado, tienen todos los derechos y libertades consagrados en esta Constitución, sin distinción alguna de su origen, raza, color, sexo, idioma, religión y opinión política, condición o actividad social.
+(REFORMADO, B.O. 10 DE OCTUBRE DE 2011)
+8o.- Los habitantes del Estado tienen todos los derechos y libertades consagrados en esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que nuestro País es parte, sin distinción alguna.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos o libertad de las personas.
 9o.- Todo hombre y mujer serán sujetos de iguales derechos y obligaciones ante la ley.
 10.- Todos los habitantes del Estado, tienen derecho a casarse y fundar una familia. Disfrutarán de iguales derechos y obligaciones en cuanto al matrimonio, durante el matrimonio y en caso de disolución del mismo.
 (REFORMADO, B.O. 20 DE MAYO DE 1985)
@@ -126,7 +128,7 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 35.- La ciudad de La Paz es la Capital del Estado y la Sede Oficial de los Poderes Públicos de la entidad.
 TITULO QUINTO
 DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
-(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
+(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)
 36.- La Soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 (REFORMADA, B.O. 24 DE ABRIL DE 2009)
 I.- Los partidos políticos son entidades de interés público y tienen el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular. La Ley determinará las normas y requisitos para su registro legal y formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
@@ -160,7 +162,7 @@ La ley fijará las causales de nulidad de las elecciones de gobernador, diputado
 Igualmente fijará los procedimientos para el control y vigilancia del origen y el uso de todos los recursos con que cuenten, y señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 La Comisión de Fiscalización del Financiamiento de los Partidos Políticos, está facultada para solicitar la intervención de la Unidad de Fiscalización de los Recursos de los Partidos Políticos del Instituto Federal Electoral, a efecto de obtener información bancaria, fiduciaria o fiscal relacionada con las finanzas de los Partidos Políticos.
 La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2000)
 IV.- La organización de los procesos electorales es una función que corresponde realizar al poder público a través de un organismo público autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propios, que se denominará Instituto Estatal Electoral y en cuya integración concurren el Poder Legislativo del Estado, los partidos políticos y los ciudadanos en los términos que disponga la Ley. En el ejercicio de las funciones del organismo electoral, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
 (REFORMADO, B.O. 27 DE OCTUBRE DE 2003)
 El Instituto Estatal Electoral residirá en la Capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por un Consejero Presidente y cuatro Consejeros Electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones; un representante de cada una de las fracciones parlamentarias del Congreso del Estado y un Secretario General que se designará a propuesta del Consejero Presidente con la aprobación de la mayoría de los Consejeros Electorales. Los Comités Distritales y Municipales Electorales formarán parte de su estructura orgánica. Las mesas directivas de casilla estarán integradas por ciudadanos.
@@ -172,7 +174,7 @@ El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, a
 El Consejo General del Instituto Estatal Electoral podrá invitar, durante del (sic) proceso electoral, al Vocal del Registro Federal de Electores en el Estado, a las sesiones de dicho Instituto, a las cuales acudirá con voz pero sin voto, conforme a lo convenido con el Instituto Federal Electoral.
 (ADICIONADO, B.O. 12 DE MARZO DE 2010)
 El Consejo General del Instituto Estatal Electoral podrá convenir con el Instituto Federal Electoral se haga cargo de la organización de los procesos electorales locales.
-(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
+(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)
 V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación.
 (REFORMADO, B.O. 14 DE FEBRERO DE 1997)
 En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado.
@@ -191,12 +193,12 @@ DEL CONGRESO
 40.- El poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Baja California Sur".
 SECCION II
 DE LA ELECCION E INSTALACION DEL CONGRESO
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2008)
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2008)
 41.- El Congreso del Estado de Baja California Sur se integrará con dieciséis Diputados de Mayoría Relativa, electos en su totalidad el primer domingo de julio de cada tres años, por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cinco Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
 (REFORMADA, B.O. 27 DE OCTUBRE DE 2003)
 I.- La base para realizar la demarcación territorial de los dieciséis Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último Censo General de Población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y socioeconómico.
-(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
+(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)
 II.- La asignación de Diputados por el principio de Representación Proporcional, se hará de acuerdo con el procedimiento que se establezca en la ley, y se sujetara a las siguientes bases:
 (REFORMADO, B.O. 25 DE ABRIL DE 1983)
 a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado.
@@ -204,7 +206,7 @@ a).- Se constituirá una sola circunscripción plurinominal que comprenderá tod
 b).- Los partidos políticos tendrán derecho a que se les asignen diputados por el principio de representación proporcional siempre y cuando hayan registrado candidatos, por lo menos, en ocho distritos electorales uninominales.
 (REFORMADO, B.O. 27 DE OCTUBRE DE 2003)
 c).- Para que un partido político tenga derecho a que le sean acreditados, de entre sus candidatos, diputados de representación proporcional, deberá alcanzar por lo menos el dos por ciento del total de la votación emitida para diputados de Mayoría Relativa, y siempre que no hayan logrado mas de cinco diputaciones de mayoría relativa, en los términos que establezca la ley.
-(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
+(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)
 III.- El Consejo General del Instituto Estatal Electoral asignará las diputaciones por el principio de Representación Proporcional a los partidos políticos o coaliciones con derecho a ello, en los términos siguientes:
 (REFORMADO, B.O. 14 DE JULIO DE 1995)
 a).- En primer término asignará una diputación a todo aquel partido político o coalición que tenga derecho a ello y no haya obtenido constancia de mayoría en ningún distrito electoral, conforme lo disponga la ley de la materia.
@@ -212,22 +214,22 @@ a).- En primer término asignará una diputación a todo aquel partido político
 b).- Sí después de hechas las asignaciones que se señalan en el inciso anterior aún quedaren diputaciones por distribuir, éstas se otorgarán a los partidos políticos o coaliciones que hayan logrado hasta cinco diputaciones de mayoría relativa, sin que en ningún caso logren más de seis diputaciones por ambos principios.
 (REFORMADO, B.O. 14 DE JULIO DE 1995)
 c).- No podrán asignarse más de cuatro diputaciones por el principio de representación proporcional a los partidos políticos o coaliciones, que no hayan obtenido diputación de mayoría relativa.
-(DEROGADO ULTIMO PARRAFO, B.O. 27 DE OCTUBRE DE 2003)
+(DEROGADO ÚLTIMO PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)
 (REFORMADO, B.O. 10 DE JULIO DE 1978)
 42.- Los diputados de mayoría relativa y de representación proporcional, son representantes del pueblo sudcaliforniano, tienen la misma categoría e igualdad de derechos y obligaciones. Por cada diputado propietario se elegirá un suplente y la elección será por fórmula.
 (REFORMADO, B.O. 14 DE JULIO DE 1995)
 43.- Las elecciones de diputados por el principio de mayoría relativa serán computadas y declaradas válidas por los órganos electorales en cuyo territorio se haya llevado a cabo el proceso electoral correspondiente, el que otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos, en los términos de la ley de la materia.
 (REFORMADO, B.O. 18 DE JUNIO DE 1998)
 El cómputo de las elecciones de Diputados por el principio de representación proporcional, así como la asignación de éstos, será efectuada por el Instituto Estatal Electoral.
-(DEROGADO TERCER PARRAFO, B.O. 18 DE JUNIO DE 1998)
-(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 1999)
+(DEROGADO TERCER PÁRRAFO, B.O. 18 DE JUNIO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 1999)
 44.- Para ser Diputado al Congreso del Estado se requiere:
 I.- Ser sudcaliforniano y ciudadano del Estado en ejercicio de sus derechos;
 (REFORMADA, B.O. 14 DE JUNIO DE 1999)
 II.- Tener 18 años cumplidos al día de la elección.
 (REFORMADA, B.O. 10 DE JULIO DE 1978)
 III.- Tener residencia efectiva no menor de un año anterior al día de la elección, en el Distrito o en la circunscripción del Estado.
-(REFORMADO PRIMER PARRAFO, B.O. 20 DE MAYO DE 1987)
+(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 1987)
 45.- No podrá ser Diputado:
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
 (REFORMADA, B.O. 10 DE DICIEMBRE DE 1993)
@@ -247,8 +249,8 @@ III.- Visitar los distritos en los que fueren electos e informar a los habitante
 IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso del Estado un informe de sus actividades desarrolladas dentro y fuera de sus distritos correspondientes.
 SECCION III
 DE LAS SESIONES
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2008)
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2008)
 50.- El Congreso del Estado tendrá, durante el año, dos Períodos Ordinarios de Sesiones; el primero, del primero de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 30 de diciembre del mismo año; y el segundo, del 15 de marzo al 30 de junio del año siguiente.
 (REFORMADO, B.O. 30 DE NOVIEMBRE DE 1987)
 A convocatoria del Gobernador o de la Diputación Permanente, los Periodos de Sesiones del Congreso del Estado, podrán iniciarse hasta 15 días antes de la fecha establecida en el párrafo que precede.
@@ -362,7 +364,7 @@ XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de
 XXXIII.- Aprobar y decretar las Leyes de Hacienda y de Ingresos Municipales, tomando en consideración su independencia económica, revisar y fiscalizar sus cuentas públicas
 (ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos de alguno o algunos de los Municipios del Estado, se aplicaran respectivamente las que se hayan aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
-(DEROGADO TERCER PARRAFO, B.O. 25 DE NOVIEMBRE DE 2006)
+(DEROGADO TERCER PÁRRAFO, B.O. 25 DE NOVIEMBRE DE 2006)
 XXXIV.- Decretar la Ley Orgánica Municipal;
 XXXV.- Crear o suprimir municipios y reformar la división política del Estado mediante el voto de las dos terceras partes de la totalidad de los diputados;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
@@ -392,7 +394,7 @@ XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades
 SECCION VI
 DE LA DIPUTACION PERMANENTE
 65.- El día de clausura del período de sesiones ordinarias, el Congreso del Estado elegirá por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de tres miembros que durarán en su cargo el tiempo intermedio entre los períodos de sesiones ordinarias. El primero de los nombrados será el Presidente, y los otros dos, Secretarios.
-(REFORMADO PRIMER PARRAFO, B.O. 16 DE DICIEMBRE DE 1983)
+(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 1983)
 66.- Son facultades de la Diputación Permanente:
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 I.- Acordar por sí o a propuesta del Gobernador, la Convocatoria a Período Extraordinario de Sesiones.
@@ -423,7 +425,7 @@ V.- No ser funcionario o empleado federal noventa días anteriores a la fecha de
 (REFORMADA, B.O. 10 DE DICIEMBRE DE 1993)
 VI.- No ser Secretario del Despacho del Poder Ejecutivo, Procurador General de Justicia, Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local, Presidente Municipal y cualquier otra persona que desempeñe cargo público estatal o municipal, noventa días naturales anteriores a la fecha de la elección; y
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.
 (REFORMADO, B.O. 10 DE MARZO DE 2008)
 70.- El Gobernador del Estado será electo el primer domingo de julio de cada seis años, e iniciará el ejercicio de sus funciones el día 10 de septiembre.
 71.- Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:
@@ -443,7 +445,7 @@ Asimismo, no podrá ser electo para el período inmediato el Gobernador Substitu
 Tampoco podrá ocupar el cargo, para el período inmediato, el Gobernador Interino, el Provisional o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en forma ininterrumpida los dos últimos años del período.
 SECCION II
 DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
-(REFORMADO PRIMER PARRAFO, B.O. 6 DE FEBRERO DE 2002)
+(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)
 79.- Son facultades y obligaciones del Gobernador:
 (REFORMADA, B.O. 10 DE MAYO DE 2003)
 I.- Promulgar, cumplir y hacer cumplir las leyes federales
@@ -525,7 +527,7 @@ DE LAS DEPENDENCIAS DEL EJECUTIVO
 (REFORMADO, B.O. 10 DE OCTUBRE DE 2002)
 81.- Los reglamentos, Decretos, Acuerdos y órdenes expedidos por el Gobernador del Estado, deberán, para su validez y observancia, ser refrendados por el Secretario General de Gobierno y por el Secretario del Ramo respectivo; cuando se refieran (sic) asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
 Tratándose de Decretos de publicación de la (sic) Leyes o Decretos expedidos por el Congreso del Estado, solo se requerirá el refrendo del Secretario General.
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1993)
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE DICIEMBRE DE 1993)
 82.- Para ser Secretario del Despacho se requiere:
 (REFORMADA, B.O. 20 DE MAYO DE 1987)
 I.- Ser Ciudadano Sudcaliforniano.
@@ -554,7 +556,7 @@ VI.- Haber cumplido con el servicio militar nacional;
 VII.- Gozar de buena salud; y
 VIII.- Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
 85.-
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2002)
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2002)
 A.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Ministerial, en los términos de su ley orgánica.
 Son atribuciones del Ministerio Público:
 I.- Ejercitar ante los Tribunales del Estado, las acciones que correspondan contra las personas que violen las leyes de interés público;
@@ -630,7 +632,7 @@ III.- Una vez reunida la documentación a que se refieren las fracciones I y II 
 IV.- El Congreso del Estado con base en lo anterior, resolverá en definitiva sobre su reelección o no reelección al menos quince días antes de que concluya el periodo para el que fue electo dicho funcionario judicial, con una votación de mayoría absoluta.
 Si el Congreso resuelve la no reelección, se procederá a realizar un nuevo nombramiento en los términos que establece esta Constitución y el Magistrado cesará en sus funciones a la conclusión del periodo para el que fue nombrado; y
 V.- La resolución del Congreso se hará del conocimiento del funcionario, mediante notificación personal, y de la sociedad en general, mediante su publicación en el Boletín oficial del Gobierno del Estado.
-(REFORMADO PRIMER PARRAFO, B.O. 6 DE ABRIL DE 1999)
+(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)
 94.- Los Magistrados del Tribunal Superior de Justicia deberán otorgar la protesta de Ley ante el Congreso del Estado.
 (REFORMADO, B.O. 20 DE FEBRERO DE 1988)
 Los jueces protestarán ante el Tribunal Superior de Justicia, los demás funcionarios y empleados de la Administración de Justicia rendirán su protesta ante la autoridad de quien dependan.
@@ -638,7 +640,7 @@ Los jueces protestarán ante el Tribunal Superior de Justicia, los demás funcio
 Los Magistrados del Tribunal Superior de Justicia y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 95.- El Tribunal Superior de Justicia funcionará en los términos que lo determine la Ley Orgánica. El Tribunal, en escrutinio secreto, en la primera sesión que se celebre durante el mes de abril del año en que se haga la designación, nombrará de entre los Magistrados al que será Presidente del Tribunal Superior de Justicia. Este durará tres años en su cargo.
 96.- El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la ley orgánica respectiva.
-(REFORMADO PRIMER PARRAFO, B.O. 6 DE FEBRERO DE 2002)
+(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)
 97.- Son facultades del Pleno del Tribunal Superior de Justicia:
 (REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
 I.- Conocer de las controversias en que el Estado fuere parte como sujeto de derecho privado.
@@ -664,7 +666,7 @@ XIII.- Recibir anualmente en sesión solemne el informe que rendirá el Presiden
 XIV.- Las demás que le confiera esta Constitución y las Leyes.
 (REFORMADO, B.O. 14 DE FEBRERO DE 1997)
 98.- La Ley Orgánica del Poder Judicial regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia y de los Juzgados dependientes de éste y determinará los requisitos para ser Juez.
-(DEROGADO SEGUNDO PARRAFO, B.O. 6 DE FEBRERO DE 2002)
+(DEROGADO SEGUNDO PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)
 (REFORMADO, B.O. 6 DE ABRIL DE 1999)
 El Tribunal Superior de Justicia determinará el número de Jueces que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
 (REFORMADO, B.O. 14 DE FEBRERO DE 1997)
@@ -687,7 +689,7 @@ IX.- Estar inscrito en el Padrón Electoral y poseer credencial para votar con f
 99 BIS.- Los Magistrados del Tribunal Estatal Electoral durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley, al término de los cuales podrán ser reelectos y, si lo fueren, sólo podrán ser privados de su cargo en cualquiera de los supuestos previstos por el artículo 93 de esta Constitución.
 Para el procedimiento de reelección o no de los magistrados del Tribunal Estatal Electoral, se seguirá el procedimiento previsto por el artículo 93 BIS de esta Constitución.
 100.- Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
-(REFORMADO PRIMER PARRAFO, B.O. 6 DE ABRIL DE 1999)
+(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)
 101.- El Gobernador demandará ante el Congreso del Estado, la destitución de cualesquiera de los Magistrados del Tribunal Superior de Justicia, por delitos, faltas oficiales y omisiones en los que incurran, previstos en esta Constitución y en las Leyes de la Materia.
 (ADICIONADO, B.O. 6 DE ABRIL DE 1999)
 Si el Congreso del Estado, mediante el voto de las dos terceras partes de sus miembros presentes, declara justificada la petición, el Magistrado acusado quedará privado, desde luego, de su cargo, independientemente de cualquier responsabilidad legal en la que hubiere incurrido, procediéndose a la nueva designación para cubrir la vacante.
@@ -735,14 +737,14 @@ CONCEPTOS Y FINES
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
 117.- El Municipio es la entidad local básica de la organización territorial del Estado; es la institución jurídica, política y social, de carácter autónomo, con autoridades propias, atribuciones específicas y libre en la administración de su hacienda. Su finalidad consiste en organizar a la comunidad asentada en su territorio en la gestión de sus intereses y la satisfacción de sus necesidades colectivas, tendientes a lograr su desarrollo integral y sustentable; proteger y fomentar los valores de la convivencia local y ejercer las funciones en la prestación de los Servicios Públicos de su competencia.
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para normar directa y libremente las materias de su competencia, así como para establecer sus órganos de gobierno interior.
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.
 (REFORMADO, B.O. 10 DE MARZO DE 2008)
 118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo del mes de julio de cada tres años en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 (REFORMADO, B.O. 30 DE ABRIL DE 1981)
 119.- Los Municipios podrán tener representación en los Organismos Federales y Estatales que actúen dentro de su jurisdicción.
 CAPITULO II
 DE LA EXTENSION, LIMITES Y CABECERAS
-(REFORMADO PRIMER PARRAFO, B.O. 20 DE AGOSTO DE 1992)
+(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 1992)
 120.- El territorio del Estado de Baja California Sur, se divide en cinco municipios que son: La Paz, Comondú, Mulegé, Los Cabos y Loreto, quedando comprendidas las islas, islotes, cayos y arrecifes dentro de sus respectivas jurisdicciones; que tendrán los siguientes límites:
 (REFORMADO, B.O. 10 DE ABRIL DE 1980)
 a).- Municipio de La Paz: al Norte, colinda con el Municipio de Comondú, línea descrita en la colindancia Sur de la municipalidad citada; por el Sur, con la colindancia Norte del Municipio de Los Cabos; por el Este y el Oeste, lo rodean aguas litorales del Golfo de California y el Océano Pacífico, respectivamente.
@@ -764,7 +766,7 @@ III.- Subdelegaciones.
 La extensión y límites de las delegaciones y subdelegaciones serán determinadas por el ayuntamiento respectivo.
 CAPITULO III
 DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2000)
 122.- Para la creación de Municipios en el Estado, se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
 I.- Que sea conveniente para satisfacer las necesidades de sus habitantes;
 II.- Que la superficie del territorio del Estado en que se pretenda erigir, sea suficiente para cubrir sus necesidades y atender a sus posibilidades y de desarrollo futuro;
@@ -783,7 +785,7 @@ Cuando la solicitud provenga de los Ciudadanos, el procedimiento se sujetará a 
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
 124.- El Gobierno del Estado y los Ayuntamientos de la entidad conjuntamente o por separado podrán promover la fusión de comunidades para crear otras de mayor extensión que permitan integrar a los núcleos aislados de población con el objeto de ejecutar programas de desarrollo general, siempre y cuando pertenezcan al mismo municipio.
 125.- Los conflictos de límites que se susciten entre las diversas circunscripciones municipales del Estado se podrán resolver mediante convenios amistosos que al efecto celebren con aprobación del Congreso del Estado. Cuando dichas diferencias tengan carácter contencioso, conocerá de ellas el Tribunal Superior de Justicia.
-(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)
+(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2001)
 126.- Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de sus funciones que le corresponden, si se trata de Municipios de dos o más Estados, deberán de contar con la aprobación de las Legislaturas de los Estados, para constituir corporaciones que tengan por objeto:
 I.- El estudio de los problemas locales;
 II.- La realización de programas de desarrollo común;
@@ -810,7 +812,7 @@ III.- Los muebles normalmente insustituibles como son los expedientes de las ofi
 CAPITULO V
 DEL GOBIERNO MUNICIPAL
 CONCEPTO E INTEGRACION
-(REFORMADO PRIMER PARRAFO, B.O. 10 DE MAYO DE 2003)
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2003)
 133.- La Hacienda de los Municipios del Estado, se formará con los rendimientos de los bienes que les pertenezcan así como las contribuciones que establezca su Ley de Ingresos y demás disposiciones relativas, y las que adquieran por concepto de participación de impuestos federales y estatales, convenios, legados, donaciones o por cualquier otra causa. Los recursos que integran la Hacienda Municipal, serán ejercidos y administrados en forma libre y directa por los Ayuntamientos, o bien, por quienes ellos autoricen, conforme a la Ley.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
 Estarán exentos de pagar las contribuciones a que se refieren los incisos a) y c) del artículo 115 fracción IV de la Constitución General de la República los bienes de dominio público de la Federación, del (sic) los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los del objeto público.
@@ -830,7 +832,7 @@ Los miembros de los Ayuntamientos duraran en su cargo tres años a partir de la 
 CAPITULO VI
 DE LA ELECCION DEL AYUNTAMIENTO
 137.- Los miembros del ayuntamiento se elegirán por planillas en los términos de la Ley Electoral, las que comprenderán a los candidatos por cada uno de los cargos.
-(REFORMADO PRIMER PARRAFO, B.O. 14 DE JULIO DE 1995)
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JULIO DE 1995)
 138.- Para ser miembro de un Ayuntamiento se requiere:
 I.- Ser ciudadano sudcaliforniano en ejercicio de sus derechos políticos;
 II.- Haber residido en el municipio por un período no menos de un año inmediato anterior al día de la elección;
@@ -858,7 +860,7 @@ DE LA INSTALACION DEL AYUNTAMIENTO
 Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio definitivo.
 CAPITULO VIII
 DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
-(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)
+(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)
 148.- Son facultades y obligaciones del Ayuntamiento:
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
@@ -933,7 +935,7 @@ SECCION I
 DE LOS TITULARES DEL GOBIERNO MUNICIPAL
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
 149.- Corresponde al Presidente, Síndico y Regidores el ejercicio del Gobierno Municipal y a la representación de los intereses de la comunidad. Y en los casos que señala el Artículo 144 de esta Constitución, a los Concejos Municipales.
-(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2001)
+(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2001)
 SECCION II
 PRESIDENTE MUNICIPAL
 150.- El Presidente Municipal tendrá a su cargo la representación del gobierno del municipio y la ejecución de las resoluciones del ayuntamiento.
@@ -987,7 +989,7 @@ XI.- Registro Público de la Propiedad y del Comercio.
 XII.- Desarrollo Municipal
 XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur.
 155.- La ley orgánica determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
-(REFORMADA SU DENOMINACION, B.O. 20 DE JUNIO DE 2004)
+(REFORMADA SU DENOMINACIÓN, B.O. 20 DE JUNIO DE 2004)
 TITULO NOVENO
 DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
@@ -1000,7 +1002,7 @@ III.- Se aplicarán sanciones administrativas a los servidores públicos por los
 Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 Las leyes determinarán las causas y circunstancias por las que se deba sancionar penalmente a los servidores públicos, por enriquecimiento ilícito, cuando aumente sustancialmente su patrimonio durante el tiempo de su encargo o por motivo del mismo, mediante la adquisición de bienes por sí o por interpósita persona, o que se conduzcan como dueños de ellos y cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de propiedad de dichos bienes, además de las otras penas que correspondan.
 Cualquier ciudadano, mediante la presentación de elementos de prueba y bajo su más estricta responsabilidad, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente Artículo.
-(REFORMADO PRIMER PARRAFO, B.O. 18 DE JUNIO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE JUNIO DE 1998)
 158.- Podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocuradores de la Procuraduría General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal.
