@@ -315,6 +315,8 @@ XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servi
 (REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)
 XXVI.- Autorizar al Titular del Poder Ejecutivo para contratar empréstitos a nombre del Estado y a los Ayuntamientos para contratarlos a nombre de los Municipios, así como a los Organismos Descentralizados Estatales, Municipales o Intermunicipales, a las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y a los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal, siempre que se destinen a inversiones públicas productivas, conforme a las bases que se establezcan en la Ley correspondiente, y por los conceptos y hasta por los montos aprobados.
 Autorizar al Gobernador para que, en representación del Estado, se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de los Organismos Descentralizados Estatales, Municipales o Intermunicipales, de las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y de los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal.
+(ADICIONADO, B.O. 11 DE MARZO DE 2008)
+Autorizar la emisión de valores ya sea de manera directa o indirecta por el Estado y los Municipios, siempre que los recursos derivados de la misma se destinen a inversiones públicas productivas.
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
 XXVI Bis.- Autorizar al Titular del Poder Ejecutivo, así como a los Municipios del Estado, la celebración de Contratos de Servicios de Largo Plazo, que tengan por objeto prestar diversos servicios que la ley prevea, con la participación del sector privado. Asimismo, aprobar en el Presupuesto de Egresos del Estado correspondiente, las partidas necesarias para cumplir con las obligaciones contraídas con motivo de dichos contratos, durante la vigencia de los mismos.
 (REFORMADA, B.O. 5 DE MARZO DE 1993)
@@ -858,6 +860,10 @@ De igual manera, los Ayuntamientos podrán concurrir con el Gobernador del Estad
 Para los efectos señalados, las autoridades fiscales Municipales, como integrantes del organismo a que se refiere el párrafo anterior, se reunirán trimestralmente con las autoridades fiscales del Gobierno del Estado.
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
 XXVII.- Contratar empréstitos a nombre del Municipio, con la aprobación previa del Congreso del Estado, siempre que se destinen a inversiones públicas productivas, conforme a las bases establecidas en la Ley correspondiente y por los conceptos y hasta por los montos aprobados.
+(ADICIONADO, B.O. 11 DE MARZO DE 2008)
+Asimismo, los Municipios directa o indirectamente e individual o conjuntamente con otros Municipios del Estado, podrán llevar a cabo emisiones de valores previa afectación que hagan de sus ingresos, con la aprobación de sus Ayuntamientos y del Congreso del Estado, obteniendo recursos que se destinen a inversiones públicas productivas e incluyendo en sus presupuestos de egresos, las partidas correspondientes para el cumplimiento de sus obligaciones.
+(ADICIONADO, B.O. 11 DE MARZO DE 2008)
+Igualmente, con autorización de sus Ayuntamientos y del Congreso del Estado, y sujeto a lo establecido en la legislación aplicable, los Municipios del Estado, podrán constituir garantías, otorgar avales, obligarse solidariamente, mancomunadamente o subsidiariamente o ser obligados sustitutos de otros Municipios del Estado, de sus organismos descentralizados municipales o intermunicipales, de las empresas de participación municipal y de los fideicomisos públicos municipales.
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
 XXVIII.- Celebrar Contratos de Servicios de Largo Plazo, previa autorización del Congreso del Estado.
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
