@@ -25,7 +25,8 @@ PRINCIPIOS CONSTITUCIONALES
 3o.- Las autoridades y funcionarios del Estado, no tienen más facultades que las que expresamente les concede esta Constitución, la General de la República y las leyes que de ellas emanen.
 4o.- Es función del Estado proveer el desenvolvimiento de todas las facultades de sus habitantes y promover en todo a que disfruten sin excepción de igualdad de oportunidades, dentro de la justicia social.
 5o.- Es finalidad del Estado promover la participación de todos los ciudadanos en los procesos que norman la vida pública y económica de la comunidad. Fomentar la conciencia de la solidaridad estatal, nacional e internacional.
-6o.- Es función del Estado promover el desarrollo económico y regular el proceso demográfico, para procurar el progreso social compartido y la distribución equitativa de la riqueza, buscando garantizar la justicia social.
+(REFORMADO, B.O. 30 DE JUNIO DE 2012)
+6o.- Es función del Estado promover el desarrollo económico y social garantizando que este sea sustentable e integral y regular el proceso demográfico, para procurar el progreso social compartido y la distribución equitativa de la riqueza, buscando garantizar la justicia social.
 TITULO SEGUNDO
 DE LAS GARANTIAS INDIVIDUALES Y SOCIALES
 7o.- En el Estado de Baja California Sur, todo individuo gozará de las garantías que otorga la Constitución General de la República, las cuales no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que ella misma establece.
