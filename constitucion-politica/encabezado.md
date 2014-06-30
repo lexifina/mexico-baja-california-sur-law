@@ -1,5 +1,4 @@
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
-N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 20 DE MARZO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 1883 PUBLICADO EN EL B.O. DE 20 DE DICIEMBRE DE 2010.
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 FELIX AGRAMONT COTA
 Gobernador Provisional del Estado Libre y Soberano de Baja California Sur, a sus habitantes hace saber:
@@ -287,6 +286,7 @@ IV.- Si las observaciones con veto parcial son aprobadas al menos por las dos te
 V.- Si las observaciones con veto total son aprobadas al menos por las dos terceras partes de los miembros del Congreso, el Proyecto de Ley o Decreto quedará sin efecto, debiendo publicarse esta decisión en el Boletín Oficial del Gobierno del Estado.
 (REFORMADO, B.O. 10 DE MAYO DE 2003)
 61.- El Gobernador no podrá hace (sic) observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia, o Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al Decreto de convocatoria a periodo extraordinario de sesiones, expedido por la Diputación Permanente, ni a la Ley Reglamentaria del Poder Legislativo.
+62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
 (REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2003)
 63.- Toda resolución del Congreso del Estado tendrá carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
 (REFORMADO [N. DE E. REUBICADO ANTES ÚLTIMA PARTE DEL PRIMER PÁRRAFO], B.O. 10 DE JUNIO DE 2000)
@@ -295,7 +295,6 @@ V.- Si las observaciones con veto total son aprobadas al menos por las dos terce
 Las Leyes expedidas por el Congreso del Estado, excepto las de carácter tributario o fiscal, podrán ser sometidas a referéndum, total o parcial, siempre que dentro de los sesenta días naturales posteriores a la fecha de su publicación cuando así se solicite, y se cumplan los requisitos que fije la ley.
 (ADICIONADO, B.O. 10 DE JUNIO DE 2000)
 La ley establecerá el procedimiento a que se sujetará la organización de referéndum.
-62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 SECCION V
 DE LAS FACULTADES DEL CONGRESO
@@ -327,7 +326,7 @@ XVIII.- Erigirse en Jurado de Sentencia en los juicios a que se refiere el Artí
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 XIX.- Declarar si ha lugar o no al proceso a que se refiere el Artículo 159 de esta Constitución.
 XX.- Elegir la Diputación Permanente;
-(NOTA: EL 21 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 11/2011, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA (http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 21 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 11/2011, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 (REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2010)
 XXI.- Resolver SOBERANA Y DISCRECIONALMENTE respecto a la elección y remoción de los Magistrados del Tribunal Superior de Justicia, así como resolver SOBERANAMENTE respecto a la reelección o no reelección de los mismos.
 (REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)
@@ -351,9 +350,9 @@ XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o e
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 (REFORMADA, B.O. 10 DE MARZO DE 2008)
 XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a los del Órgano de Fiscalización Superior.
-(REFORMADA, B.O. 12 DE MARZO DE 2010)
-XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que deberá ser presentada dentro de los dos primeros meses, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, de los entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
-La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad, el cual tendrá autonomía técnica y de gestión para el ejercicio de sus atribuciones y para decidir sobre su organización interna, recursos, funcionamiento y resoluciones.
+(REFORMADA, B.O. 10 DE OCTUBRE DE 2011)
+XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que será presentada dentro de los primeros quince días posteriores a la apertura del primer periodo ordinario de sesiones, con el objeto de evaluar los resultados de la gestión financiera, comprobar si han respetado los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
+La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad, el cual tendrá autonomía técnica y de gestión para el ejercicio de sus atribuciones y para decidir sobre so (sic) organización interna, recursos, funcionamiento y resoluciones.
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)
 XXXI.- Aprobar, y en su caso modificar, el Presupuesto de Egresos del Estado y fijar las contribuciones para cubrirlo.
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos del Estado, se aplicara la que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
