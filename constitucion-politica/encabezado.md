@@ -58,6 +58,8 @@ Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, B.O. 30 DE ABRIL DE 2013)
 Es derecho de los habitantes del Estado, acceder a la información y el conocimiento para lograr una comunidad totalmente intercomunicada. El Estado y Municipios, en apoyo de las labores escolares proporcionarán espacios públicos con acceso a internet gratuito en Bibliotecas Públicas y Escolares, para lo cual se coordinarán con sus dependencias, instituciones tecnológicas y educativas de todo el Estado.
+(ADICIONADO, B.O. 30 DE JUNIO DE 2014)
+El Estado y municipios dentro del ámbito de su competencia garantizarán la calidad en la educación obligatoria, con base en el mejoramiento constante, de manera que los materiales y métodos educativos, la organización escolar, y la infraestructura educativa garantice el máximo logro de aprendizaje de los educandos.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 11.- La propiedad privada se respetará y garantizará en el Estado, con las modalidades que para su ejercicio, como función social, le impone el Artículo 27 de la Constitución General de la República, buscando el aprovechamiento racional de los recursos naturales susceptibles de apropiación, para propiciar la distribución equitativa de la riqueza pública, preservar su conservación y coadyuvar al progreso social.
 Las expropiaciones sólo podrán hacerse por causa de utilidad pública y mediante indemnización.
