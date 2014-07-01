@@ -1,0 +1,7 @@
+(ADICIONADO, B.O. 30 DE JUNIO DE 2014)
+Artículo 186-Bis.- La Secretaría de Finanzas o las tesorerías municipales, podrán cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
+Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 200 unidades de inversión, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 20,000 unidades de inversión y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el segundo párrafo de este Artículo, se determinarán de conformidad con las disposiciones aplicables.
+La Secretaría de Finanzas dará a conocer las reglas de carácter general para la aplicación de este artículo.
+La cancelación de los créditos a que se refiere este artículo no libera de su pago.

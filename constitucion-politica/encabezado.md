@@ -42,8 +42,10 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 8o.- Todo hombre y mujer serán sujetos de iguales derechos y obligaciones ante la Ley.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 9o.- Todos los habitantes del Estado tienen derecho a casarse y fundar una familia. Disfrutarán de iguales derechos y obligaciones en cuanto al matrimonio, durante el matrimonio y en caso de disolución del mismo.
-El matrimonio y la familia constituyen la base fundamental de la comunidad; consecuentemente, el hogar, la maternidad y la infancia serán objeto de especial protección por parte de las autoridades.
-Todos los niños nacidos de matrimonio o fuera del mismo, tienen derecho a igual protección y a ser inscritos en el Registro Civil.
+(REFORMADO, B.O. 30 DE JUNIO DE 2014)
+El matrimonio y la familia constituyen la base fundamental de la sociedad; consecuentemente, el hogar, la maternidad y la infancia serán objeto de especial protección por parte de las autoridades. Todas las niñas, niños y adolescentes nacidos de matrimonio o fuera del mismo, tienen derecho a igual protección.
+(REFORMADO, B.O. 30 DE JUNIO DE 2014)
+Toda persona tiene derecho a la identidad y a ser registrado en el Registro Civil, las niñas y niños deben ser inscritos inmediatamente después de su nacimiento a fin de que el infante pueda preservar su identidad, contando con un nombre y apellido. El Estado garantizara el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 Es derecho correlativo a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos y su educación, como deber supremo ante la sociedad.
 Toda medida o disposición protectora de la familia y la niñez se considera de orden público.
 (ADICIONADO, B.O. 20 DE ABRIL DE 2013)
