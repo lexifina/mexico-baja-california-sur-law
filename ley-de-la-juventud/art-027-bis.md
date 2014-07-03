@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 30 DE JUNIO DE 2014)
+ARTÍCULO 27 BIS.- La Secretaría de Educación Pública del Estado, los ayuntamientos y las organizaciones de la sociedad civil, coadyuvarán en la promoción entre la juventud, a través de proyectos, programas y campañas, de los servicios médicos y las diferentes modalidades de afiliación a la seguridad médico-social a las que tienen derecho, así como los hábitos de vida saludable y de prevención de riesgos de salud a los que están expuestos.

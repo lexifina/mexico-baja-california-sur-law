@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 30 DE JUNIO DE 2014)
+ARTÍCULO 27 TER.- El personal que labora en los Poderes Legislativo, Ejecutivo Judicial del Estado de Baja California Sur, así como en sus diferentes dependencias está obligado a canalizar a través (sic) la Secretaría de Salud, los casos de jóvenes que demuestren afectación psicológica, mental, emocional o datos de violencia contra sí mismos o contra otras personas, para ser atendidos de manera gratuita e inmediata a través de los servicios que para ello existen dentro del sistema de salud vigente.
