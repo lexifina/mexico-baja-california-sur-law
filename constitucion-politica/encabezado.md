@@ -27,8 +27,14 @@ PRINCIPIOS CONSTITUCIONALES
 3o.- Las autoridades y funcionarios del Estado, no tienen más facultades que las que expresamente les concede esta Constitución, la General de la República y las leyes que de ellas emanen.
 4o.- Es función del Estado proveer el desenvolvimiento de todas las facultades de sus habitantes y promover en todo a que disfruten sin excepción de igualdad de oportunidades, dentro de la justicia social.
 5o.- Es finalidad del Estado promover la participación de todos los ciudadanos en los procesos que norman la vida pública y económica de la comunidad. Fomentar la conciencia de la solidaridad estatal, nacional e internacional.
-(REFORMADO, B.O. 30 DE JUNIO DE 2012)
-6o.- Es función del Estado promover el desarrollo económico y social garantizando que este sea sustentable e integral y regular el proceso demográfico, para procurar el progreso social compartido y la distribución equitativa de la riqueza, buscando garantizar la justicia social.
+(REFORMADO, B.O. 10 DE JULIO DE 2014)
+6o.- Es función del Estado promover el desarrollo económico y social garantizando que este sea sustentable e integral y regular el proceso demográfico, para procurar el progreso social compartido y que mediante la competitividad, el fomento del crecimiento económico y el empleo, y una más justa distribución del ingreso y la riqueza permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y generación de empleo.
+El Estado planeará, conducirá, coordinará y orientará la actividad económica estatal, y llevará a cabo la regulación y fomento de las actividades que demande el interés general en el marco de libertades que otorga esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
+Al desarrollo económico concurrirán con responsabilidad social, el sector público, el sector social y el sector privado, sin menoscabo de otras formas de actividad económica que contribuyan al desarrollo de la entidad.
+Bajo criterios de equidad social y productividad se apoyará e impulsará a las empresas de los sectores social y privado de la economía estatal, sujetándolos a las modalidades que dicte el interés público y al uso en beneficio general, de los recursos productivos, cuidando su conservación y el medio ambiente.
+La Ley alentará y protegerá la actividad económica que realicen los sectores social y privado, y proveerá las condiciones para que el desenvolvimiento de dichos sectores contribuya al desarrollo económico estatal, promoviendo la competitividad.
+El Estado organizará y operará con eficiencia y eficacia un sistema de planeación democrática del desarrollo estatal que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la entidad.
+La Ley facultará al Ejecutivo para que establezca y opere con participación social el sistema estatal de planeación democrática, y los criterios para la formulación, instrumentación, seguimiento y evaluación del Plan y los Programas de Desarrollo en el Estado.
 (REFORMADA SU DENOMINACIÓN, B.O. 10 DE NOVIEMBRE DE 2012)
 TITULO SEGUNDO
 DE LOS DERECHOS HUMANOS Y SUS GARANTIAS
