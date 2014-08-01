@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 31 DE MAYO DE 2017)
+ARTÍCULO 347 Bis. Desde el inicio de las campañas electorales, y hasta la conclusión de la jornada electoral, las autoridades estatales y municipales suspenderán las campañas publicitarias de todos aquellos programas, acciones gubernamentales, obras o logros de gobierno, así como la realización de eventos organizados y auspiciados con recursos públicos o privados en los que tenga intervención alguna entidad de gobierno, en el ámbito federal, estatal o municipal.
+Deberá suprimirse o retirarse toda propaganda gubernamental de publicidad exterior o circulación de cualquier medio impreso tanto de los poderes estatales y municipales, así como de los órganos de gobierno del Estado, y cualquier otro ente público.
