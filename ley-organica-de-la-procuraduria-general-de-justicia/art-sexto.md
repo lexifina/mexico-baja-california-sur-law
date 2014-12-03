@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO. El titular del Poder Ejecutivo del Estado dentro de los noventa días después a la publicación en el boletín oficial del Presente Decreto, deberán regular las disposiciones dentro de sus ordenamientos, para dar cumplimiento a las obligaciones que se imponen en el presente Decreto.

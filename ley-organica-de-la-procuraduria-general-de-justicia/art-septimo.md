@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO. Los Integrantes de la Procuraduría General de Justicia del Estado de Baja California Sur, tendrán un plazo máximo de hasta el 18 de junio de 2016 para cumplir con los procesos de capacitación para operar el sistema de justicia penal acusatorio y oral.

@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. Los acuerdos, circulares y demás disposiciones administrativas dictadas por el Procurador General de Justicia, con fundamento en la Ley Orgánica que se abroga mediante el presente decreto, continuarán en vigor en lo que no se oponga a la presente ley hasta que aquél dicte las normas administrativas que correspondan.

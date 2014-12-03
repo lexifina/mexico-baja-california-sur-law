@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se abroga la Ley Orgánica del Ministerio Público del Estado de Baja California Sur, expedida mediante Decreto 1752 publicado en el Boletín Oficial del Gobierno del Estado en fecha 08 de Julio de 2008, en los términos previstos en el artículo primero transitorio.
