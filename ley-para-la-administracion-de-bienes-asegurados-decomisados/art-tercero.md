@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- La Secretaria de Finanzas y la Oficialía Mayor de la Procuraduría General de Justicia del Estado, deberán llevar a cabo los trámites y ajustes administrativos y presupuestales, para dar debido cumplimiento a lo dispuesto por la presente ley.

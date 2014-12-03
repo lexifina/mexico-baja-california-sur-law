@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- El Ejecutivo del Estado deberá incluir dentro del Reglamento Interior de la Procuraduría General de Justicia del Estado las disposiciones reglamentarias conducentes para dar cumplimiento al presente Decreto.
