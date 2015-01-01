@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- El Director elaborará los Manuales de Organización, Procedimientos, Servicios y demás disposiciones que normen el desarrollo de LA ESCUELA, dentro de los 120 días hábiles posteriores a la entrada en vigor de la presente Ley, debiendo presentarlos al Titular de la Secretaría de Educación Pública para su formalización.

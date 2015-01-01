@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley Orgánica de la Escuela Normal Superior del Estado de Baja California Sur publicada en el Boletín Oficial del Gobierno del Estado, mediante decreto número 47, el día 27 de octubre de 1976, así como sus correspondientes reformas contenidas en los decretos número 366, del 3 de Diciembre de 1982 y el número 2159, del 15 de Mayo de 2014.
