@@ -371,6 +371,7 @@ III.- Visitar los distritos en los que fueren electos e informar a los habitante
 IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso del Estado un informe de sus actividades desarrolladas dentro y fuera de sus distritos correspondientes.
 SECCION III
 DE LAS SESIONES
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL P.O. DE 27 DE JUNIO Y SU REFORMA DE 31 DE DICIEMBRE AMBOS DE 2014.
 (REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2014)
 50.- El Congreso del Estado tendrá, durante el año, dos Períodos Ordinarios de Sesiones: el primero, del 01 de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 31 de diciembre del mismo año y el segundo, del 15 de marzo al 30 de junio.
 (REFORMADO, B.O. 30 DE NOVIEMBRE DE 1987)
@@ -483,6 +484,7 @@ XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o e
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 (REFORMADA, B.O. 10 DE MARZO DE 2008)
 XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a los del Órgano de Fiscalización Superior.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL P.O. DE 27 DE JUNIO Y SU REFORMA DE 31 DE DICIEMBRE AMBOS DE 2014.
 (REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2014)
 XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que será presentada dentro de los primeros quince días posteriores a la apertura del segundo periodo ordinario de sesiones, con el objeto de evaluar los resultados de la gestión financiera, comprobar si han respetado los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
 (REFORMADO, B.O. 10 DE OCTUBRE DE 2011)
