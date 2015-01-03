@@ -1,0 +1,3 @@
+B.O. 31 DE DICIEMBRE DE 2014.
+DECRETO 2234, POR EL QUE SE ADICIONA UN NUMERAL 7 BIS, SE ADICIONA UN PÁRRAFO SÉPTIMO AL NUMERAL 11° Y SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA SUR.
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
