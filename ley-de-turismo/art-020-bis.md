@@ -2,9 +2,5 @@
 CAPITULO IV
 ZONAS DE PRIORIDAD TURISTICA
 (ADICIONADO, B.O. 31 DE JULIO DE 2012)
-Artículo 20 BIS.- Para los efectos de este Capítulo, los Ayuntamientos contaran con un Comité Municipal de Zonas de Prioridad Turística, mismo que será presidido por el Titular de la Dirección de Turismo Municipal, quien fungirá como enlace con la Secretaría de Turismo del Estado y a su vez, enlace y coordinador con la iniciativa privada, que permita crear un plan de manejo profesional e institucional de las Zonas de Prioridad Turística.
+Artículo 20 Bis.- Para los efectos de este Capítulo, los Ayuntamientos contaran con un Comité Municipal de Zonas de Prioridad Turística, mismo que será presidido por el Titular de la Dirección de Turismo Municipal, quien fungirá como enlace con la Secretaría de Turismo del Estado y a su vez, enlace y coordinador con la iniciativa privada, que permita crear un plan de manejo profesional e institucional de las Zonas de Prioridad Turística.
 Sera objetivo fundamental del Comité, delimitar las Zonas de Prioridad Turística en los Municipios, así como la creación de un programa que contemple la conservación de los andadores, cruce de peatones seguros, limpios, libres y sin obstáculos que faciliten el tránsito de personas con discapacidad, baños públicos, así como establecer áreas libres de vehículos, vigilancia pública, mantener las vialidades en estado óptimo, guarniciones pintadas, jardinería bien cuidada, iluminación en calles siempre funcionando, contar con señalamientos necesarios para la adecuada orientación de los turistas, tanto en la vialidad vehicular como peatonal, módulos de información y suficientes depósitos de basura en diversos puntos de la zona de prioridad turística, estableciendo para ello un programa nocturno de recolección de basura, misma que podrá ser reforzada con campañas de limpieza, que pueden realizarse en coordinación con los diversos prestadores de servicios turísticos.
-TÍTULO CUARTO
-DE LA PROMOCIÓN, FOMENTO AL TURISMO Y RECONOCIMIENTOS
-CAPÍTULO I
-De la Promoción Turística
