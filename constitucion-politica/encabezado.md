@@ -529,8 +529,9 @@ XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí,
 XLIV.- Expedir leyes que instituyan el Tribunal Unitario de lo Contencioso Administrativo del Estado y de los Ayuntamientos de la Entidad, dotados de plena autonomía para dictar sus fallos, mismos que tendrán a su cargo dirimir las controversias que se susciten entre las administraciones públicas estatal y municipales y las particulares, y establezcan las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 (ADICIONADA, B.O. 20 DE MAYO DE 1994)
 XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativo, de una terna de candidatos propuesta por el Ejecutivo Estatal, de los que será electo por mayoría simple de votos de los Diputados que integran la Legislatura, en un término improrrogable de diez días hábiles, y el que deberá reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia, y solo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de la Carta Fundamental del Estado; y
-(ADICIONADA, B.O. 6 DE ABRIL DE 1999)
-XLVI.- Elegir al Procurador General de Justicia, de una terna de aspirantes propuesta por el Gobernador del Estado, el cual, previa comparecencia de las personas propuestas, elegirá a quien ocupará el cargo. La elección del Procurador se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de 10 días naturales para hacerlo; y en el caso de que, vencido ese plazo, aún no se haya realizado la elección, el Titular del Ejecutivo procederá a hacer la designación de entre los propuestos.
+(REFORMADA, B.O. 9 DE SEPTIEMBRE DE 2015)
+XLVI.- Ratificar, con el voto de las dos terceras partes de los miembros que concurran a la sesión, en un plazo de cinco días naturales a partir de que los reciba, los nombramientos que el Gobernador haga del Procurador General de Justicia y del Contralor General. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+El Congreso del estado podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente;
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
 (REFORMADA, B.O. 20 DE DICIEMBRE DE 2012)
@@ -612,8 +613,9 @@ II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del 
 III.- Nombrar y remover libremente a los Secretarios del Despacho, y demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes, garantizando el principio de igualdad de género.
 (REFORMADA, B.O. 6 DE FEBRERO DE 2002)
 IV.- Presentar a consideración del Congreso del Estado, las ternas para la designación de los Magistrados que integrarán el Tribunal Superior de Justicia del Estado y someter sus licencias por mas de un mes o sus renuncias o remociones a la aprobación del propio Congreso.
-(ADICIONADA, B.O. 6 DE ABRIL DE 1999)
-V.- Presentar a consideración del Congreso del Estado, la terna para la designación del Procurador General de Justicia y una vez elegido, expedir el nombramiento respectivo, pudiéndolo remover libremente por causa justificada.
+(REFORMADA, B.O. 9 DE SEPTIEMBRE DE 2015)
+V.- Presentar a consideración del Congreso del Estado, las propuestas para la designación del Procurador General de Justicia y Contralor General, y una vez ratificados, expedir los nombramientos respectivos, pudiéndolos remover libremente por causa justificada.
+En el caso de que el Congreso del Estado resuelva no ratificar las propuestas de nombramiento efectuadas en dos ocasiones, podrá designarlos libremente;
 (REFORMADA, B.O. 6 DE ABRIL DE 1999)
 VI.- Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia y turnarlas al Congreso del Estado.
 VII.- Pedir la destitución de los funcionarios judiciales, en los casos que proceda conforme a lo dispuesto en esta Constitución y las leyes de la materia;
