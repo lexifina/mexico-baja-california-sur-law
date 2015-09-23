@@ -687,10 +687,10 @@ DE LAS DEPENDENCIAS DEL EJECUTIVO
 (REFORMADO, B.O. 10 DE OCTUBRE DE 2002)
 81.- Los reglamentos, Decretos, Acuerdos y órdenes expedidos por el Gobernador del Estado, deberán, para su validez y observancia, ser refrendados por el Secretario General de Gobierno y por el Secretario del Ramo respectivo; cuando se refieran (sic) asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
 Tratándose de Decretos de publicación de la (sic) Leyes o Decretos expedidos por el Congreso del Estado, solo se requerirá el refrendo del Secretario General.
-(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE DICIEMBRE DE 1993)
-82.- Para ser Secretario del Despacho se requiere:
-(REFORMADA, B.O. 20 DE MAYO DE 1987)
-I.- Ser Ciudadano Sudcaliforniano.
+(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE SEPTIEMBRE DE 2015)
+82.- Para ser Secretario de Despacho, se requiere:
+(REFORMADA, B.O. 23 DE SEPTIEMBRE DE 2015)
+I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 (REFORMADA, B.O. 20 DE MAYO DE 1987)
 II.- Tener 25 años de edad como mínimo.
 (REFORMADA, B.O. 20 DE MAYO DE 1987)
@@ -707,7 +707,8 @@ V.- Representar al Gobernador del Estado cuand0 (sic) éste lo estime convenient
 VI.- Las demás que les confieran las Leyes.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)
 84.- Para ser Procurador General de Justicia del Estado, se requiere:
-I.- Ser Ciudadano Sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, o contar con una residencia efectiva en el Estado no menor de tres años anteriores al día de la designación.
+(REFORMADA, B.O. 23 DE SEPTIEMBRE DE 2015)
+I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 II.- Tener 35 años cumplidos el día de la designación;
 III.- Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
 IV.- Tener Titulo de Licenciado en Derecho, expedido por Institución legalmente facultada para ello; con Cedula Profesional, y tener como mínimo 10 años de ejercicio profesional;
