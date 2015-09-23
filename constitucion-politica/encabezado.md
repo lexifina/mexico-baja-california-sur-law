@@ -904,6 +904,13 @@ CONCEPTOS Y FINES
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para normar directa y libremente las materias de su competencia, así como para establecer sus órganos de gobierno interior.
 (REFORMADO, B.O. 27 DE JUNIO DE 2014)
 118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo de junio de cada tres años en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+(ADICIONADO, B.O. 23 DE SEPTIEMBRE DE 2015)
+Los ayuntamientos iniciarán el ejercicio de sus periodos de conformidad al siguiente calendario:
+I.- El ayuntamiento de Mulegé, iniciará su periodo el 25 de Septiembre del año de la elección.
+II.- El ayuntamiento de Loreto, iniciará su periodo el 26 de Septiembre del año de la elección.
+III.- El ayuntamiento de Comondú, iniciará su periodo el 27 de Septiembre del año de la elección.
+IV.- El ayuntamiento de La Paz, iniciará su periodo el 28 de Septiembre del año de la elección.
+V.- El ayuntamiento de Los Cabos, iniciará su periodo el 29 de Septiembre del año de la elección.
 (REFORMADO, B.O. 30 DE ABRIL DE 1981)
 119.- Los Municipios podrán tener representación en los Organismos Federales y Estatales que actúen dentro de su jurisdicción.
 CAPITULO II
@@ -1024,7 +1031,8 @@ En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absolu
 Cuando la desaparición de poderes se dé en el último año del período de gobierno municipal, el Congreso del Estado o la Comisión Permanente, en su caso, a propuesta del Gobernador nombrará una Junta de Gobierno Municipal, que concluirá el período de gobierno.
 CAPITULO VII
 DE LA INSTALACION DEL AYUNTAMIENTO
-145.- Los ayuntamientos electos se instalarán en ceremonia pública y solemne. El Presidente entrante rendirá la protesta de ley y a continuación la tomará a los demás integrantes del ayuntamiento que estuvieren presentes.
+(REFORMADO, B.O. 23 DE SEPTIEMBRE DE 2015)
+145.- El día anterior al inicio de su periodo constitucional, los Ayuntamientos electos se instalarán en ceremonia pública y solemne. El Presidente entrante rendirá la protesta de Ley y, a continuación, la tomará a los demás integrantes del Ayuntamiento, que estuvieren presentes.
 146.- Si en el acto de instalación no estuviere presente el Presidente Municipal, el ayuntamiento se instalará con el Primer Regidor, quien rendirá la protesta y a continuación la tomará a los demás miembros que estén presentes.
 147.- Concluida la sesión de instalación, el Presidente, o quien haga sus veces, notificará de inmediato a los miembros propietarios ausentes para que asuman su cargo en un plazo no mayor de quince días.
 Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio definitivo.
