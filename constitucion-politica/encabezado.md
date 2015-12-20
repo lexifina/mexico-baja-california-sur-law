@@ -1235,6 +1235,8 @@ TITULO UNDECIMO
 DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
 (REFORMADO, B.O. 10 DE MAYO DE 2003)
 166.- La presente Constitución puede ser adicionada y reformada. Las Iniciativas que tengan ese objeto, se sujetarán a las disposiciones establecidas en los artículos 57 al 63, pero requerirán de la aprobación de cuando menos, las dos terceras partes del total de diputados que integran la Legislatura.
+N. DE E. SE ADVIERTE QUE MEDIANTE DECRETO No. 1407, B.O. 10 DE MAYO DE 2003, SE REFORMÓ EL ARTÍCULO 166 Y POR DECRETO No. 2306, B.O. 20 DE DICIEMBRE DE 2015, SE DEROGA UN SEGUNDO PÁRRAFO, VÉASE PUBLICACIONES.
+(DEROGADO SEGUNDO PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2015)
 167.- Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, tanto los que hubieren figurado en el gobierno de la rebelión como los que hubieren cooperado a ésta.
 ARTICULOS TRANSITORIOS
 1o.- Esta Constitución será promulgada por el Gobernador Provisional, publicada con la solemnidad debida en todas las poblaciones del Estado, y entrará desde luego en vigor.
