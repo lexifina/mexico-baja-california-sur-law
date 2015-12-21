@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Dentro de un plazo de 60 días naturales contados a partir de la entrada en vigor de esta Ley, se deberá emitir el Reglamento para la Integración y Funcionamiento del Consejo de Prevención Social de la Violencia y la Delincuencia en el Estado de Baja California Sur.

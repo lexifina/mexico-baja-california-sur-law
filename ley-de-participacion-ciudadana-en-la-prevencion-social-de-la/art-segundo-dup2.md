@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Dentro de los 30 días naturales a la entrada en vigor de la presente Ley, el Gobernador del Estado, emitirá la convocatoria a los ciudadanos para recibir las propuestas de quienes habrán de integrar el Consejo Estatal a que hace referencia la presente Ley.

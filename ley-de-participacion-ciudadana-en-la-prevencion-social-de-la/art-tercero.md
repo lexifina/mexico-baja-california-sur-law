@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Consejo Estatal deberá de instalarse, dentro de los 90 días naturales posteriores a la entrada en vigor de la presente ley; y dentro de los 30 días naturales siguientes a la instalación del Consejo Estatal, deberán de instalarse los Consejos Municipales.
