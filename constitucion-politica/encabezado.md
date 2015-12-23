@@ -1,3 +1,4 @@
+N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2016 EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 FELIX AGRAMONT COTA
@@ -655,6 +656,9 @@ XXVII.- Participar con los ayuntamientos en la planificación del crecimiento de
 XXVIII.- Mejorar las condiciones económicas y sociales de vida de los campesinos, fomentando en ellos el arraigo a sus lugares de residencia;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 XXIX.- Celebrar convenios con el Gobierno Federal y con los Ayuntamientos del Estado para coordinar sus atribuciones en materias concurrentes, así como para la prestación eficaz de funciones y servicios públicos, y asumir la prestación temporal de los mismos, cuando los Ayuntamientos así lo soliciten, satisfaciendo las formalidades exigidas por esta Constitución y las Leyes que de ella emanen.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2015)
+XXIX BIS.- Ejercer a través de las Dependencias del Ejecutivo, las atribuciones que señalan el Código Civil, el de Comercio y demás Leyes y Reglamentos en materia de registro civil, registro público de la propiedad y del comercio y de control vehicular.
 XXX.- Conocer de las designaciones que haga el Procurador y el Presidente del Tribunal Superior de Justicia;
 (REFORMADA, B.O. 18 DE JUNIO DE 2009)
 XXXI.- Fomentar y promover el aprovechamiento integral y sustentable de los recursos naturales del Estado, a través del impulso, entre otras actividades, de la minería, la pesca, la acuacultura, las agropecuarias y el turismo, ejerciendo las atribuciones que en estas materias le confieran las disposiciones legales aplicables.
@@ -878,7 +882,9 @@ Estos bienes son inalienables, imprescriptibles e inembargables y no están suje
 CAPITULO II
 DE LA HACIENDA PUBLICA
 105.- La Hacienda Pública del Estado está constituída por:
-I.- Los ingresos que determine su Ley de Hacienda y demás normas aplicables; y
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)
+I.- Los ingresos que determinen su Ley de Hacienda, de Derechos y Productos y demás normas aplicables.
 II.- Los ingresos que adquiera por concepto de convenios, participaciones legales, legados, donaciones o cualesquiera otras causas.
 (REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
 106.- La Administración de la Hacienda Pública estará a cargo del Gobernador por conducto del Secretario de Finanzas y Administración, quien será responsable de su manejo.
@@ -1048,8 +1054,9 @@ I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estat
 II.- Aprobar y expedir en el ámbito de su competencia los bandos de Policía y buen Gobierno; los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la Administración Pública Municipal, regulen las materias, procedimientos, funciones y Servicios Públicos de su competencia que procuren la participación ciudadana y vecinal.
 III.- Conceder licencia a sus miembros hasta por treinta días y llamar a quienes deban suplirlos;
 IV.- Designar al Regidor que deba sustituir al Presidente Municipal en caso de falta absoluta de éste y su suplente, y llamar a los suplentes del Síndico o Regidores en los casos de falta absoluta de éstos;
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
-V.- Mantener los servicios de Seguridad Pública, Policía Preventiva y de Transitó Municipales.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)
+V.- Mantener los servicios de Seguridad Pública, Policía Preventiva y de Transito Municipales de acuerdo con la Ley en la materia.
 VI.- Establecer en el territorio del municipio las delegaciones y subdelegaciones que sean necesarias;
 (REFORMADA, B.O. 31 DE MARZO DE 2013)
 VII.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como de los Asentamientos Humanos, debiendo establecer la prohibición de usos de suelo y uso de edificación para que no se pueda establecer ni funcionar ninguna casa, o lugar abierto o cerrado, en que se practiquen juegos con apuestas ni sorteos, de ninguna clase y similares; en el ámbito de su competencia; proteger, preservar y restaurar el equilibrio ecológico conforme a lo dispuesto en la Fracción XXIX-G del Artículo 73 de la Constitución General de la República, así como su regularización de la tenencia de la tierra en el ámbito de su competencia.
@@ -1060,7 +1067,9 @@ IX.- Promover el mejoramiento de las funciones y Servicios Públicos, y el acrec
 Las funciones y servicios públicos que el Municipio tendrá a su cargo serán los siguientes:
 a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 b) Alumbrado Público;
-c) Seguridad Pública en los términos del Articulo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía preventiva y de Tránsito Municipales,
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)
+c) Seguridad Pública en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía preventiva y de Tránsito Municipales de acuerdo con la Ley en la materia;
 d) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 e) Mercados públicos y centrales de abastos;
 f) Panteones;
@@ -1078,8 +1087,8 @@ XV.- Decretar las obras de utilidad pública u ornato del municipio.
 XVI.- Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los Servicios Públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la Asociación de Municipios de dos o más Estados deberán contar con la aprobación de las Legislaturas de los Estados respectivos. Así mismo cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que este, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien ejerzan coordinadamente por el Estado y por el propio Municipio.
 (REFORMADA, B.O. 10 DE JULIO DE 2002)
 XVII.- Con la aprobación de las dos terceras partes de sus integrantes, solicitar al Congreso del Estado su aprobación para celebrar convenio para que el Gobierno del Estado, asuma una función o servicio público municipal por el tiempo que se requiera, y en su caso, establecer una prorroga.
-(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
-XVIII.- Ejercer las atribuciones que señalan el Código Civil, el de Comercio y demás Leyes y Reglamentos en materia de Registro Público de la Propiedad y del Comercio.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+XVIII.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 (ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
 XIX.- Celebrar convenios para que instituciones Federales o Estatales, presten los servicios de seguridad social a sus trabajadores.
 (ADICIONADA, B.O. 20 DE ABRIL DE 1991)
@@ -1131,14 +1140,15 @@ V.- Proponer al ayuntamiento la asignación de comisiones de gobierno y administ
 (ADICIONADA [N. DE E. REFORMADA], B.O. 26 DE AGOSTO DE 1975)
 VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal de policia y administrativo de acuerdo con las disposiciones aplicables.
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo que establezca el reglamento interior;
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
-VIII.- Tener bajo su mando los cuerpo (sic) de seguridad publica, policía preventiva y transito municipales, en los términos que establezca los (sic) el reglamento respectivo.
-La policía preventiva municipal deberá acatar las órdenes que el gobernador del estado le transmita, en casos en que el mismo juzgue como de fuerza mayor o alteración grave del orden público.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+N. DE E. VÉASE LITERALIDAD DEL DECRETO 2314 PUBLICADO EN EL B.O. DE 20 DE DICIEMBRE DE 2015, PÁGINA 74.
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)
+VII (SIC).- Tener bajo su mando los cuerpos de Seguridad Publica, Policía Preventiva y Transito Municipales, en los términos que establezca el Reglamento respectivo y la Ley en la materia.
 IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días;
 X.- Vigilar que los delegados y subdelegados cumplan las funciones de su encargo e informar de ello al ayuntamiento;
 XI.- Remitir ejemplares a las autoridades del municipio y estatales, de las leyes, decretos y demás disposiciones, autorizados con su firma y la del Secretario, con la fecha de su publicación;
-(REFORMADA, B.O. 26 DE AGOSTO DE 1975)
-XII.- Nombrar oficiales del Registro Civil y autorizar a otros empleados o funcionarios municipales técnicamente preparados, a efecto de que desempeñen temporalmente las funciones de aquellos, ya sea cuando por cualquier causa falte el titular o en los lugares en que el interés social requiera en un momento dado la prestación de dichos servicios registrales, y personalmente no pueda realizarlos el oficial del Registro Civil de la jurisdicción.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+XII.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 SECCION III
 DEL SINDICO
 152.- El Síndico tiene a su cargo la vigilancia de la hacienda pública municipal, y además:
@@ -1167,7 +1177,8 @@ VII.- Obras Públicas, Asentamientos Humanos y Ecología
 VIII.- El Organismo Operador de Agua Potable, Alcantarillado y Tratamiento de Aguas Residuales
 IX.- Delegaciones y Subdelegaciones Municipales
 X.- Catastro
-XI.- Registro Público de la Propiedad y del Comercio.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+XI.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 XII.- Desarrollo Municipal
 XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur.
 155.- La ley orgánica determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
