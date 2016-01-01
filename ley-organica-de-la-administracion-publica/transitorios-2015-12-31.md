@@ -1,0 +1,4 @@
+B.O. 31 DE DICIEMBRE DE 2015.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- Sin perjuicio de lo dispuesto en el presente decreto, toda la documentación que fue expedida bajo la denominación "secretaría de educación" tendrá plena validez y seguirá surtiendo los efectos legales para la cual fue expedida.
+TERCERO.- En el caso de formatos, formas, comprobantes, cedulas, certificados, licencias, boletas y toda aquellas (sic) documentación que utilice la secretaría para el cumplimento de sus fines que incluya la denominación "secretaria de educación" que se haya impreso previamente a la expedición del presente decreto se continuara usando hasta que se termine su vigencia o tiraje y tendrá plena validez oficial.
