@@ -1,5 +1,5 @@
-N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2016 EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL EL 14 DE ENERO DE 2016.
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 FELIX AGRAMONT COTA
 Gobernador Provisional del Estado Libre y Soberano de Baja California Sur, a sus habitantes hace saber:
@@ -885,6 +885,7 @@ DE LA HACIENDA PUBLICA
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)
 I.- Los ingresos que determinen su Ley de Hacienda, de Derechos y Productos y demás normas aplicables.
+(F. DE E., B.O. 14 DE ENERO DE 2016)
 II.- Los ingresos que adquiera por concepto de convenios, participaciones legales, legados, donaciones o cualesquiera otras causas.
 (REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)
 106.- La Administración de la Hacienda Pública estará a cargo del Gobernador por conducto del Secretario de Finanzas y Administración, quien será responsable de su manejo.
@@ -1064,6 +1065,7 @@ Asimismo, otorgar licencias y permisos para construcciones. No estarán permitid
 VIII.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, con auxilio del Instituto correspondiente, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos, y que se ejecuten sin la autorización o permiso correspondiente;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 IX.- Promover el mejoramiento de las funciones y Servicios Públicos, y el acrecentamiento del patrimonio Municipal.
+(F. DE E., B.O. 14 DE ENERO DE 2016)
 Las funciones y servicios públicos que el Municipio tendrá a su cargo serán los siguientes:
 a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 b) Alumbrado Público;
@@ -1140,10 +1142,11 @@ V.- Proponer al ayuntamiento la asignación de comisiones de gobierno y administ
 (ADICIONADA [N. DE E. REFORMADA], B.O. 26 DE AGOSTO DE 1975)
 VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal de policia y administrativo de acuerdo con las disposiciones aplicables.
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo que establezca el reglamento interior;
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-N. DE E. VÉASE LITERALIDAD DEL DECRETO 2314 PUBLICADO EN EL B.O. DE 20 DE DICIEMBRE DE 2015, PÁGINA 74.
-(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)
-VII (SIC).- Tener bajo su mando los cuerpos de Seguridad Publica, Policía Preventiva y Transito Municipales, en los términos que establezca el Reglamento respectivo y la Ley en la materia.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2015) (F. DE E., B.O. 14 DE ENERO DE 2016)
+VIII.- Tener bajo su mando los cuerpos de Seguridad Publica, Policía Preventiva y Transito Municipales, en los términos que establezca el Reglamento respectivo y la Ley en la materia.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
+La policía preventiva municipal deberá acatar las órdenes que el gobernador del estado le transmita, en casos en que el mismo juzgue como de fuerza mayor o alteración grave del orden público.
 IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días;
 X.- Vigilar que los delegados y subdelegados cumplan las funciones de su encargo e informar de ello al ayuntamiento;
 XI.- Remitir ejemplares a las autoridades del municipio y estatales, de las leyes, decretos y demás disposiciones, autorizados con su firma y la del Secretario, con la fecha de su publicación;
