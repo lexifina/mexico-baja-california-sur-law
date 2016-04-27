@@ -1,5 +1,4 @@
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL EL 14 DE ENERO DE 2016.
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 FELIX AGRAMONT COTA
 Gobernador Provisional del Estado Libre y Soberano de Baja California Sur, a sus habitantes hace saber:
@@ -105,8 +104,9 @@ Todos los habitantes del Estado tienen derecho a un medio ambiente sano para su 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, el Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 (ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)
 Todos los habitantes del Estado tienen derecho a disfrutar de una vivienda digna, de calidad y sustentable, que sea la base de su patrimonio familiar, como objetivo de la permanente superación del nivel de vida de la población. Para tal efecto el Gobierno del Estado y los Gobiernos Municipales, deberán implementar políticas y programas de acceso a la vivienda; desarrollaran planes de financiamiento para la construcción de viviendas de interés social, en colaboración con el Gobierno Federal; inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones aplicables; y deberán garantizar la dotación de servicios públicos, en coordinación con los Municipios.
+[N. DE E. POR DECRETO DE REFORMAS NÚMERO 2345 PUBLICADO EN EL B.O. DE 27 DE ABRIL DE 2016, LOS ANTERIORES PÁRRAFOS OCTAVO Y NOVENO CON SUS FRACCIONES PASAN A SER APARTADO "A".]
 (ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)
-El Estado desarrollará políticas para la prevención y atención de las personas con discapacidad. Promoverá la integración social y laboral, la equiparación de oportunidades y la igualdad de condiciones para las personas con discapacidad, a fin de alcanzar el máximo desarrollo de su personalidad.
+A. El Estado desarrollará políticas para la prevención y atención de las personas con discapacidad. Promoverá la integración social y laboral, la equiparación de oportunidades y la igualdad de condiciones para las personas con discapacidad, a fin de alcanzar el máximo desarrollo de su personalidad.
 (ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)
 El Estado en los términos que disponga la ley reconoce el derecho de las personas con discapacidad a:
 I. La atención sanitaria especializada acorde con sus necesidades, que incluirá la provisión de medicamentos y la atención psicológica, de forma gratuita.
@@ -117,16 +117,68 @@ V. Beneficiarse de descuentos y exenciones fiscales.
 VI. Acceso a educación, que desarrolle sus habilidades, potencie su integración y participación en la sociedad.
 VII. Que en los planes y programas de desarrollo urbano se incluyan soluciones a sus requerimientos específicos.
 VIII. Acceder a programas especiales de otorgamiento de vivienda exclusivos para personas con discapacidad que permitan su pleno desarrollo.
-(ADICIONADO, B.O. 31 DE ENERO DE 2014)
-Toda persona tiene derecho a la información pública, el cual será garantizado por el Estado en los términos de la Constitución General de la Republica, esta Constitución y la ley respectiva. Para el ejercicio de este derecho se regirá por los siguientes principios y bases:
-I.- El acceso a la información pública de las entidades gubernamentales y aquellas consideradas como de interés público en los términos de la ley de transparencia y acceso a la información pública del Estado de Baja California Sur, solo podrá ser reservada de manera temporal, en los términos que fije la ley, debiendo prevalecer el principio de máxima publicidad.
-II.- Las personas físicas o jurídicas de derecho privado que reciban, usen, administren y ejerzan recursos públicos, están obligados a proporcionar la información relativa a éstos.
-III.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley.
-IV.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, en sus datos personales o a la rectificación de éstos, en términos de la ley.
-V.- Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante un órgano especializado, imparcial y autónomo.
-VI.- Los sujetos obligados deberán preservan los documentos en archivos administrativos, en términos de la ley, y publicaran a través de los medios electrónicos disponibles, la información completa actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
+[N. DE E. POR DECRETO DE REFORMAS NÚMERO 2345 PUBLICADO EN EL B.O. DE 27 DE ABRIL DE 2016, EL ANTERIOR PÁRRAFO DÉCIMO CON SUS FRACCIONES Y LOS ADICIONADOS DÉCIMO PRIMERO AL VIGÉSIMO SÉPTIMO PASAN A SER APARTADO "B".]
+(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ABRIL DE 2016)
+B.- Toda persona tiene derecho de acceder a la información pública, así como al acceso, rectificación, cancelación u oposición y protección de sus datos personales, el cual será garantizado por el Estado en los términos de la Constitución General de la República, esta Constitución y la ley respectiva. Para proteger el derecho fundamental de acceso a la información, se establecen los siguientes criterios, principios y bases:
+(REFORMADA, B.O. 27 DE ABRIL DE 2016)
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad publica en los términos que fijen las leyes. En la interpretación y aplicación de este derecho deberá prevalecer el principio de máxima publicidad.
+Los Sujetos Obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinara los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
+Se presumirá que la información debe existir si se refiere a las facultades, competencias y funciones que los ordenamientos jurídicos aplicables otorgan a los sujetos obligados. En los casos en que ciertas facultades, competencias o funciones no se hayan ejercido, se deberá motivar la respuesta en función de las causas que motiven la inexistencia. Ante la negativa del acceso a la información o su inexistencia, el sujeto obligado deberá demostrar que la información solicitada está prevista en alguna de las excepciones contenidas en la Ley o, en su caso, demostrar que la información no se refiere a alguna de sus facultades, competencias o funciones.
+(REFORMADA, B.O. 27 DE ABRIL DE 2016)
+II. El ejercicio del derecho de acceso a la información, de acceso a datos personales, así como la rectificación, cancelación y oposición de estos, serán gratuitos, sin embargo, la reproducción de la información en elementos físicos o técnicos, tendrá un costo directamente relacionado con el material empleado, sin que lo anterior implique lucro a favor de la autoridad generadora de la información.
+(REFORMADA, B.O. 27 DE ABRIL DE 2016)
+III. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+(REFORMADA, B.O. 27 DE ABRIL DE 2016)
+IV. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales, la rectificación, cancelación y oposición de éstos, en los términos que las leyes dispongan.
+(REFORMADA, B.O. 27 DE ABRIL DE 2016)
+V. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Los procedimientos se sustanciarán ante el organismo garante de la transparencia en el Estado, cuyo funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Las resoluciones que emita el organismo garante podrán ser combatidas por los particulares en los términos que establezca la ley.
+(REFORMADA, B.O. 27 DE ABRIL DE 2016)
+VI. Los sujetos obligados deberán organizar el uso de la información pública y preservar sus documentos en archivos administrativos actualizados, publicando a través de los medios electrónicos disponibles, la información relativa completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
 VII.- Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
-VIII.- La inobservancia de las disposiciones en materia de acceso a la información pública, será sancionada en los términos que dispongan las leyes.
+(REFORMADA, B.O. 27 DE ABRIL DE 2016)
+VIII. La inobservancia de las disposiciones en materia de acceso a la información pública y protección de datos personales, será sancionada en los términos que dispongan las leyes.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+El Estado contará con un organismo autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propio, el cual se denominará Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, el cual gozará de plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar la transparencia y el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos establecido en las Leyes.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+El organismo autónomo previsto en el párrafo anterior, se regirá por la ley en materia de transparencia y acceso a la información pública que emita el Congreso del Estado, en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos y en la Ley General de Transparencia y Acceso a la Información Pública, así como de las bases, principios generales y procedimientos del ejercicio de este derecho. En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, profesionalismo, transparencia y máxima publicidad. Para dar cumplimiento a la transparencia, el organismo garante y los sujetos obligados deberán contar con un área de informática, misma que estará determinada en la Ley.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+El organismo garante tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, Autoridad Municipal, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, a excepción de los asuntos jurisdiccionales y administrativos no concluidos. También podrá interponer las acciones de inconstitucionalidad en contra de disposiciones legales en materia de transparencia acceso a la información pública y protección de datos personales.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+Las resoluciones del organismo garante son vinculatorias, definitivas e inatacables para los sujetos obligados. Los particulares podrán impugnar las resoluciones del órgano garante ante las autoridades jurisdiccionales que dispongan las leyes.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+El organismo garante se integrará por tres comisionados, garantizando la equidad de género. Para su nombramiento, el Congreso del Estado, a propuesta de las fracciones parlamentarias realizará una amplia consulta a la sociedad, siguiendo el procedimiento establecido en la Ley Reglamentaria del Poder Legislativo y la Ley de Transparencia Acceso a la Información Pública y Protección de Datos Personales.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+Para la elección del Comisionado que deba cubrir la vacante, se integrará de una terna compuesta por dos propuestas de la sociedad y una de las fracciones parlamentarias, se requerirá el voto de las dos terceras partes de los miembros del Congreso.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+Una vez electo, se le tomará la protesta ante el Pleno del Congreso, y se mandará publicar el decreto correspondiente.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+El Gobernador del Estado podrá objetar el comisionado electo en uso de su facultad de veto prevista en la Constitución, en estos casos el Congreso del Estado, procederá de nueva cuenta a realizar el procedimiento de elección.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+El cargo de Comisionado comenzará a correr a partir del día siguiente de la publicación del Decreto correspondiente en el Boletín Oficial del Gobierno del Estado.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+Los Comisionados durarán en su encargo siete años y deberán cumplir con los requisitos establecidos en este artículo.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+El Comisionado presidente será electo entre los comisionados por un periodo de dos años, y podrá ser reelegido para el periodo inmediato; estará obligado a rendir un informe anual ante el Congreso del Estado de Baja California Sur, en la fecha y en los términos que disponga la ley.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+Los comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones públicas como privadas ya sean docentes, científicas o de beneficencia, los cuales podrá desempeñar fuera de su horario de trabajo y solo podrán ser removidos de su cargo en los términos del Título Noveno de esta Constitución y podrán ser sujetos a Juicio Político.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+El Congreso del Estado resolverá sobre las renuncias que presenten los Comisionados. En esos casos, así como en los de fallecimiento, ausencia, remoción, inhabilitación o cualquier otra circunstancia que le impida a un Comisionado concluir su encargo, el Congreso del Estado designará a quien lo sustituya, conforme a lo establecido en los párrafos precedentes, únicamente para concluir el período respectivo.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+Para ser Comisionado del organismo garante, se requiere:
+I. Ser ciudadano mexicano y residente en el Estado, por lo menos cinco años antes al día de su elección;
+II. Tener cuando menos treinta años cumplidos el día de la designación;
+III. Poseer el día de la designación, título profesional en el área de las ciencias sociales y humanidades, expedido por autoridad o institución legalmente facultada para ello y tres años de experiencia en el ejercicio profesional;
+IV. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+VI. No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
+VII. No haber contendido para un cargo de elección popular o ejercido alguno, durante los cinco años anteriores al día de su nombramiento;
+VIII. No haber sido Magistrado del Tribunal Superior de Justicia del Estado, Magistrado del Tribunal Estatal Electoral, Juez del Fuero Común, Secretario y Subsecretario del Despacho, Procurador y Subprocurador de la Procuraduría General de Justicia, Contralor, Auditor Superior del Estado, Consejero Presidente o Consejero Electoral del Instituto Estatal Electoral, Presidente de la Comisión Estatal de Derechos Humanos, Oficial Mayor del Tribunal Superior de Justicia del Estado, Oficial Mayor del Congreso del Estado, Secretario General, Tesorero General, Oficial Mayor o Contralor de alguno de los Ayuntamientos de la Entidad, durante los cinco años anteriores al día de su nombramiento; y
+IX. No haber fungido como ministro de algún culto religioso cinco años antes al de su designación.
+(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+El organismo garante tendrá un Consejo Consultivo, integrado por cinco Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros del Congreso. La ley determinará los procedimientos a seguir para la presentación de las propuestas al Congreso del Estado.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 14.- A nadie se le podrá aplicar una ley retroactivamente en su perjuicio.
 Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las Leyes expedidas con anterioridad al hecho.
@@ -537,8 +589,8 @@ XLVI.- Ratificar, con el voto de las dos terceras partes de los miembros que con
 El Congreso del estado podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente;
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
-(REFORMADA, B.O. 20 DE DICIEMBRE DE 2012)
-XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; así como a los Consejeros del Instituto de Transparencia y Acceso a la Información Pública, de conformidad con los procedimiento (sic) establecidos para ello en las leyes respectivas.
+(REFORMADA, B.O. 27 DE ABRIL DE 2016)
+XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; así como a los Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitucion y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
 XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 SECCION VI
@@ -1188,8 +1240,8 @@ XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria 
 (REFORMADA SU DENOMINACIÓN, B.O. 20 DE JUNIO DE 2004)
 TITULO NOVENO
 DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO
-(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
-156.- Para los efectos de las responsabilidades a que alude este Título, se reputarán como Servidores Públicos a los Representantes de Elección Popular, a los Miembros del Poder Judicial y a los funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus funciones.
+(REFORMADO, B.O. 27 DE ABRIL DE 2016)
+156.- Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del poder Judicial y a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, en la administración pública estatal o municipal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en los que incurran en el desempeño de sus funciones.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 157.- El Congreso del Estado, dentro del ámbito de su competencia, expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes teniendo este carácter, incurran en responsabilidad, de acuerdo con las siguientes prevenciones:
 I.- Se impondrá mediante el juicio político, las sanciones indicadas en el Artículo 158 a los Servidores Públicos señaladas en el mismo precepto, cuando en el ejercicio de sus funciones, incurran en actos y omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
@@ -1198,8 +1250,8 @@ III.- Se aplicarán sanciones administrativas a los servidores públicos por los
 Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 Las leyes determinarán las causas y circunstancias por las que se deba sancionar penalmente a los servidores públicos, por enriquecimiento ilícito, cuando aumente sustancialmente su patrimonio durante el tiempo de su encargo o por motivo del mismo, mediante la adquisición de bienes por sí o por interpósita persona, o que se conduzcan como dueños de ellos y cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de propiedad de dichos bienes, además de las otras penas que correspondan.
 Cualquier ciudadano, mediante la presentación de elementos de prueba y bajo su más estricta responsabilidad, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente Artículo.
-(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE JUNIO DE 1998)
-158.- Podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocuradores de la Procuraduría General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
+(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ABRIL DE 2016)
+158.- Podrán ser sujetos a Juicio Político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, Los Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocuradores de la Procuraduría General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, el Presidente de la Comisión Estatal de los Derechos Humanos, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
