@@ -173,7 +173,7 @@ I. Ser ciudadano mexicano y residente en el Estado, por lo menos cinco años ant
 II. Tener cuando menos treinta años cumplidos el día de la designación;
 III. Poseer el día de la designación, título profesional en el área de las ciencias sociales y humanidades, expedido por autoridad o institución legalmente facultada para ello y tres años de experiencia en el ejercicio profesional;
 IV. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-VI. No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
+VI (SIC). No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
 VII. No haber contendido para un cargo de elección popular o ejercido alguno, durante los cinco años anteriores al día de su nombramiento;
 VIII. No haber sido Magistrado del Tribunal Superior de Justicia del Estado, Magistrado del Tribunal Estatal Electoral, Juez del Fuero Común, Secretario y Subsecretario del Despacho, Procurador y Subprocurador de la Procuraduría General de Justicia, Contralor, Auditor Superior del Estado, Consejero Presidente o Consejero Electoral del Instituto Estatal Electoral, Presidente de la Comisión Estatal de Derechos Humanos, Oficial Mayor del Tribunal Superior de Justicia del Estado, Oficial Mayor del Congreso del Estado, Secretario General, Tesorero General, Oficial Mayor o Contralor de alguno de los Ayuntamientos de la Entidad, durante los cinco años anteriores al día de su nombramiento; y
 IX. No haber fungido como ministro de algún culto religioso cinco años antes al de su designación.
@@ -678,8 +678,10 @@ VIII.- Conceder indulto a reos sentenciados por delitos del orden común;
 IX.- Conceder amnistías, siempre que se trate de delitos de la competencia de los Tribunales del Estado;
 X.- Solicitar la protección de los Poderes de la Unión, de conformidad con el artículo 122 de la Constitución General de la República;
 XI.- Ejercer el derecho de veto en los términos de esta Constitución;
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
-XII.- Coordinar los cuerpos de Seguridad Pública del Estado y dar ordenes a la Policía Preventiva Municipal en los casos que este juzgue como de fuerza mayor o alteración grave del orden público;
+(REFORMADA, B.O. 30 DE ABRIL DE 2016)
+XII.- Salvaguardar la seguridad ciudadana, la conservación del orden y la paz pública, así como coordinar los cuerpos de seguridad pública del Estado y dar órdenes a la policía preventiva municipal en los casos que este juzgue como de fuerza mayor o alteración grave del orden público.
+(ADICIONADA, B.O. 30 DE ABRIL DE 2016)
+XII BIS.- Coordinarse con la Federación, otras Entidades Federativas y los Municipios en materia de seguridad, según lo dispuesto en el Marco Legal correspondiente.
 XIII.- Ejercer las facultades que le otorga la Constitución Federal en relación a la Guardia Nacional;
 (ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)
 XIV.- Publicar el Decreto de creación del Comité de Contribuyentes que prevé el Código Fiscal del Estado de Baja California Sur, y en términos del mismo.
