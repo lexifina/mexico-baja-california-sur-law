@@ -1,0 +1,4 @@
+(ADICIONADO, B.O. 30 DE ABRIL DE 2016)
+ARTÍCULO 80 BIS.- La Unidad de Política Criminal y Estadística, estará a cargo de un titular, que será nombrado y removido libremente por el Procurador de quien dependerá directamente.
+Para efecto del desarrollo de las funciones propia (sic) de la Unidad de Política Criminal y Estadística, contará con el personal técnico y administrativo que disponga el Reglamento interior que determine el presupuesto.
+Corresponde a la Unidad de Política criminal y Estadística, la recopilación y análisis de la información estadística de los delitos del fuero común y de los factores económicos, sociales y normativos que permita el diseño de la Política Criminal del Estado. Así como proporcionar la información estadística al Centro Nacional de Información, y las demás atribuciones que se establezcan el en (sic) Reglamento interior y las que ordene el Procurador dentro del ámbito de su competencia.

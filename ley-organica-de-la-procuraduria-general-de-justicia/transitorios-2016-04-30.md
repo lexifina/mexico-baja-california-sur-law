@@ -1,0 +1,4 @@
+B.O. 30 DE ABRIL DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2341 SE REFORMAN LA FRACCIÓN XVI DEL ARTÍCULO 6, ARTÍCULO 19, ARTÍCULO 21 Y EL TÍTULO XVI; Y SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 6 RECORRIÉNDOSE ÉSTA A LA SIGUIENTE FRACCIÓN, ARTÍCULO 81 BIS Y FRACCIÓN III DEL ARTÍCULO 85 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
