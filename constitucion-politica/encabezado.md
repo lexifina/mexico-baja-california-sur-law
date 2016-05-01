@@ -587,6 +587,8 @@ XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativ
 (REFORMADA, B.O. 9 DE SEPTIEMBRE DE 2015)
 XLVI.- Ratificar, con el voto de las dos terceras partes de los miembros que concurran a la sesión, en un plazo de cinco días naturales a partir de que los reciba, los nombramientos que el Gobernador haga del Procurador General de Justicia y del Contralor General. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
 El Congreso del estado podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente;
+(ADICIONADO, B.O. 30 DE ABRIL DE 2016)
+Previamente a la ratificación o no ratificación por este Congreso del Estado, la persona nombrada por el Gobernador del Estado para ocupar el cargo de Procurador General de Justicia del Estado, deberá de comparecer ante el Pleno del Poder Legislativo.
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
 (REFORMADA, B.O. 27 DE ABRIL DE 2016)
@@ -776,6 +778,8 @@ V.- No estar suspendido, inhabilitado o hubiese sido destituido por resolución 
 VI.- Haber cumplido con el servicio militar nacional;
 VII.- Gozar de buena salud; y
 VIII.- Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
+(ADICIONADA, B.O. 30 DE ABRIL DE 2016)
+IX.- Previamente a su ratificación o no ratificación por el Congreso del Estado, presentar y aprobar las evaluaciones de control de confianza que se determinen en el marco del Sistema Nacional de Seguridad Pública.
 85.-
 (REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2002)
 A.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Ministerial, en los términos de su ley orgánica.

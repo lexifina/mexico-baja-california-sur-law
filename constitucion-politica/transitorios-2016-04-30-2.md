@@ -1,0 +1,3 @@
+B.O. 30 DE ABRIL DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2346 SE ADICIONAN UN PÁRRAFO TERCERO A LA FRACCIÓN XLVI DEL ARTÍCULO 64 Y UNA FRACCIÓN IX AL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
