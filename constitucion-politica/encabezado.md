@@ -464,9 +464,11 @@ A convocatoria del Gobernador o de la Diputación Permanente, los Periodos de Se
 Cuando algún diputado deje de asistir por más de cinco sesiones continuas del Congreso del Estado, se entenderá que renuncia a concurrir al período respectivo. En este caso, se llamará al suplente para que lo reemplace.
 54.- Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electos diputados no se presenten, sin causa justificada, a juicio del Congreso del Estado, a desempeñar el cargo dentro del plazo señalado en el artículo anterior.
 También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que habiendo postulado candidatos en una elección, acuerden que sus miembros que resultaren electos, no se presenten a desempeñar sus funciones.
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2016)
+55.- Durante el Primer Periodo Ordinario de Sesiones de cada año de ejercicio Constitucional del Congreso del Estado, el Gobernador del Estado presentará un informe por escrito, en el que exponga el estado que guarda la Administración Pública del Estado; sin exceder del 15 de noviembre del año que corresponda. En el último año de ejercicio constitucional del Gobernador enviará el informe antes del 10 de septiembre.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
-55.- En la apertura del Primer Periodo Ordinario de Sesiones de cada año de ejercicio Constitucional del Congreso del Estado, el Gobernador del Estado presentará un informe por escrito, en el que exponga el estado que guarda la Administración Pública del Estado.
 El Congreso realizará el análisis del informe y podrá solicitar por escrito al Gobernador del Estado ampliar la información respecto de algún asunto en particular, y citar a los Secretarios de Despacho o su equivalente, Procurador General de Justicia u otro funcionario de la Administración Pública Estatal Centralizada o Paraestatal, para dar cuenta al Congreso del Estado de dichos asuntos.
+(REFORMADO, B.O. 10 DE ABRIL DE 2013)
 Cuando se trate del estudio de algún asunto o proyecto sobre la materia a cargo de los Secretarios de Despacho, Procurador General o cualquier otro servidor público o titular de la Administración Pública Estatal, Paraestatal u Organismo Autónomo, el Congreso podrá citarlos a comparecer bajo protesta de decir verdad.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
 56.- La Sede del Congreso será la Ciudad de La Paz, Capital del Estado de Baja California Sur y podrá cambiarla provisionalmente, si así lo acuerdan las dos terceras partes de la totalidad de los Diputados, notificándolo a los otros dos poderes.
@@ -659,9 +661,12 @@ Si el Congreso del Estado no estuviere en sesiones, la Diputación Permanente no
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
 Cuando la falta absoluta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si el Congreso del Estado se encontrase en sesiones, designará al Gobernador sustituto que habrá de concluir el periodo. Si el Congreso del Estado no estuviere reunido, la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso del Estado a sesiones extraordinarias para que, erigido en Colegio Electoral, haga la elección del Gobernador sustituto.
 73.- Si al inicio de un período constitucional no se presenta el Gobernador electo, o la elección no estuviere hecha y declarada, cesará sin embargo el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el que designe el Congreso del Estado, o en su falta, con el carácter de Provisional el que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en los párrafos primero y segundo del artículo anterior.
-74.- En las ausencias o faltas temporales del Gobernador del Estado se observarán las siguientes disposiciones:
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2016)
+74.- En las ausencias o faltas temporales del Gobernador del Estado, atendiendo la naturaleza de cada caso, se observarán las siguientes disposiciones:
 I.- Si la ausencia no excede de treinta días, será suplido por el Secretario General de Gobierno, dándose aviso al Congreso del Estado; y
 II.- Si la falta temporal excede de treinta días, el Congreso del Estado o la Comisión Permanente, en su caso, designará un Gobernador Interino o Provisional, en los términos de esta Constitución.
+(ADICIONADO, B.O. 10 DE JULIO DE 2016)
+Para los efectos de la fracción I del presente artículo, no se computará como ausencia la salida del territorio estatal del Gobernador para realizar actos relacionados con sus derechos personales, de gestión o representación del gobierno.
 75.- Para ser Gobernador Substituto, Interino o Provisional, se requieren los mismos requisitos señalados por el artículo 69.
 76.- El ciudadano electo para suplir las faltas absolutas o temporales del Gobernador, rendirá la protesta constitucional ante el Congreso del Estado o ante la Diputación Permanente, en su caso.
 77.- El cargo de Gobernador del Estado solamente es renunciable por causa grave calificada por el Congreso del Estado, ante el que se presentará la renuncia.
