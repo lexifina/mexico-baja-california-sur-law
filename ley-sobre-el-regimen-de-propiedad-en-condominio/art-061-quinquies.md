@@ -1,0 +1,4 @@
+(ADICIONADO, B.O. 20 DE AGOSTO DE 2016)
+Artículo 61 Quinquies.- El Constituyente podrá optar por la modalidad de régimen de propiedad en condominio Turístico Residencial establecido en el Título Quinto, Capitulo II de esta Ley, únicamente en los siguientes supuestos:
+I.- En proyectos, desarrollos o cualesquier nominación otorgada por la legislación aplicable, con fines residenciales y/o comerciales en donde el monto de inversión en obra de construcción y costo del terreno en forma conjunta sea superior a 965,000 veces la Unidad de Medida y Actualización Diaria Vigente en el Estado de Baja California Sur, o
+II.- En proyectos, desarrollos o cualesquier nominación otorgada por la legislación aplicable, con fines preponderantemente turísticos, y que, a consideración de la autoridad municipal y estatal correspondiente, tengan un impacto económico importante para el Municipio que corresponda.
