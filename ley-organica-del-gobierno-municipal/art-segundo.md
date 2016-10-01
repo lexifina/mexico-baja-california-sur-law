@@ -1,1 +1,0 @@
-ARTICULO SEGUNDO.- Se abroga la Ley Orgánica Municipal Reglamentaria del Titulo Octavo de la Constitución Política del Estado de Baja California Sur, expedida con fecha 17 de diciembre de 1976 y entró en vigor el 1° de enero de 1977.
