@@ -1,0 +1,4 @@
+B.O. 20 DE MARZO DE 2011.
+PRIMERO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- Por única ocasión los Delegados municipales electos en el mes de junio del año 2011, duraran en su encargo el mismo lapso de tiempo que duraran en su encargo los Ayuntamientos electos el día 06 de febrero de 2011, salvo los casos previstos por la ley en que estos servidores públicos sean removidos de sus cargos.
+TERCERO.- Por única ocasión los Subdelegados municipales designados en términos del artículo 85 de la Ley Orgánica del Gobierno Municipal del Estado de Baja California Sur, duraran en su encargo el mismo lapso de tiempo que duraran en su encargo los Ayuntamientos electos el día 06 de febrero de 2011, salvo los casos previstos por la ley en que estos servidores públicos sean removidos de sus cargos.

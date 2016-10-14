@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 11 DE MARZO DE 2008)
+Artículo 181 Bis.- Los Ayuntamientos preverán en su correspondiente presupuesto de egresos, las partidas necesarias para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de Largo Plazo, así como aquellas partidas emanadas de los compromisos derivados de los ingresos y derechos previamente afectados o cedidos a los fideicomisos, a que se refiere el Capítulo Quinto de la Ley de Deuda Pública para el Estado, mientras dichos fideicomisos estén vigentes.
