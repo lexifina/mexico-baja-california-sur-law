@@ -1,6 +1,0 @@
-(ADICIONADO, P.O. 31 DE MAYO DE 2017)
-ARTÍCULO 347 Ter. Las únicas excepciones a lo señalado en el artículo anterior, serán las campañas de información que las autoridades electorales o administrativas, hagan en relación a los servicios de salud, y educación, así como las necesarias en materia de protección civil en casos de emergencia, y aquella intervención de servidores públicos en actos relacionados o con motivo de las funciones inherentes a su cargo, siempre y cuando no se difundan mensajes que impliquen la pretensión de ocupar un cargo de elección popular, la intención de obtener el voto, de favorecer o perjudicar a un partido político, candidato, o que de alguna manera los vincule a los procesos electorales.
-Para efectos de lo dispuesto en el párrafo anterior, los mensajes informativos dirigidos a la población durante el período de restricción deberán cumplir con los siguientes parámetros:
-I. No deberán incluir el nombre, ni la imagen de ningún servidor público, ni contener colores, emblemas, imágenes, símbolos, lemas, logos o frases que los vinculen con algún partido político;
-II. No deberán referir programas, acciones, obras o logros de gobierno, y
-III. El contenido de los mensajes deberá estar justificado en el contexto de los hechos particulares que motivan su difusión.

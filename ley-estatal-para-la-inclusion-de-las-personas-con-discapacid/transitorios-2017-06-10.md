@@ -1,5 +1,0 @@
-P.O. 10 DE JUNIO DE 2017.
-[N. DE E. TRANSITORIOS DEL "DECRETO 0658.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 31, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 102 BIS, Y 102 TER, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 30 EN SU PÁRRAFO SEGUNDO Y 44 EN SU FRACCIÓN IV EN INCISO H) DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
-PRIMERO. Este Decreto entrará en vigor a partir del día siguiente en que se declare la procedencia de la reforma Constitucional, que modifica el párrafo primero del artículo 31, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí. Previa publicación en el Periódico Oficial del Estado "Plan de San Luis"
-SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana deberá expedir o reformar los reglamentos o disposiciones administrativas respectivas.
-TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.

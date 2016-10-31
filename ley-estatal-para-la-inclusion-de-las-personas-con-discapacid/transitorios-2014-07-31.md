@@ -1,0 +1,3 @@
+B.O. 31 DE JULIO DE 2014.
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+SEGUNDO.- A fin de dar cumplimiento inmediato a la presente ley, el Titular del Poder Ejecutivo del Estado de Baja California Sur, designará previa la instalación del Consejo Estatal, por única ocasión al Director del Instituto, a efecto de que este último se encargue de la organización de la instalación del Consejo Estatal para la Inclusión de Personas con Discapacidad, además de ser el encargado de elaborar en coordinación con el Ejecutivo Estatal el proyecto de Reglamento de la institución.
