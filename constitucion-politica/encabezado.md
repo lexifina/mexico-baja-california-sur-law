@@ -935,18 +935,17 @@ Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatu
 96.- El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la ley orgánica respectiva.
 (REFORMADO PRIMER PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)
 97.- Son facultades del Pleno del Tribunal Superior de Justicia:
-(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)
-I.- Conocer de las controversias en que el Estado fuere parte como sujeto de derecho privado.
+I.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2016)
 II.- Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las leyes comunes;
-III.- Conocer de las competencias de jurisdicción que se susciten entre los jueces del Estado;
-(REFORMADA, B.O. 20 DE FEBRERO DE 1988)
-IV.- Nombrar a los jueces preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, así como remover y adscribir a los jueces de partidos judiciales y demás funcionarios y empleados del Poder Judicial del Estado.
+III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2016)
+IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2016)
 (REFORMADA, B.O. 31 DE JULIO DE 2016)
 V.- Discutir, modificar y aprobar en su caso y ejercer de manera autónoma el presupuesto de egresos del Tribunal, que para el ejercicio anual proponga su Presidente, el que se integrará al presupuesto del Poder Judicial para que a través del Ejecutivo se someta a la aprobación del Congreso del Estado.
 (REFORMADA, B.O. 31 DE JULIO DE 2016)
 VI.- Solicitar al Consejo de la Judicatura, el aumento de juzgados y de la planta de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario.
 VII.- Ordenar, por conducto del Presidente del Tribunal, que se haga la consignación que corresponda al Ministerio Público en los casos de la comisión de delitos oficiales que deban ser sancionados por las autoridades competentes;
-VIII.- Informar al Gobernador o al Congreso del Estado acerca de los casos de indulto necesario, rehabilitación y demás que las leyes determinen, previos los trámites y con los requisitos que ellos establezcan;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)
+VIII.- Informar al Gobernador o al Congreso del Estado acerca de los casos de indulto necesario, reconocimiento de inocencia, anulación de sentencia, rehabilitación y demás que las Leyes determinen, previos los trámites y con los requisitos que ellos establezcan.
 (REFORMADA, B.O. 31 DE JULIO DE 2016)
 IX.- Conocer de las resoluciones del Consejo de la Judicatura respecto de la sustanciación correspondiente, por las faltas administrativas de los integrantes del Poder Judicial del Estado, de acuerdo con el procedimiento que señale esta Constitución y la Ley respectiva.
 X.- Conocer de la recusación conjunta de los Magistrados; y
@@ -954,8 +953,8 @@ X.- Conocer de la recusación conjunta de los Magistrados; y
 XI.- Conceder licencia a los Magistrados cuando no sean mayores de un mes en los términos que establezca la Ley.
 (ADICIONADA, B.O. 6 DE FEBRERO DE 2002)
 XII.- Emitir la opinión que solicite el Congreso del Estado sobre las iniciativas de Leyes o Decretos relacionados con la administración de Justicia;
-(ADICIONADA, B.O. 6 DE FEBRERO DE 2002)
-XIII.- Recibir anualmente en sesión solemne el informe que rendirá el Presidente del Tribunal Superior de Justicia sobre el estado que guarda la Administración de Justicia y del ejercicio presupuestal. A este acto asistirán los Poderes Legislativo y Ejecutivo.
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)
+XIII.- Recibir anualmente en sesión solemne, conjuntamente con el Pleno del Consejo de la Judicatura el informe que rendirá el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura sobre el estado que guarda la Administración de Justicia y del ejercicio presupuestal. A este acto asistirán los Poderes Legislativo y Ejecutivo.
 (REFORMADA, B.O. 31 DE JULIO DE 2016)
 XIV.- Designar, en votación secreta por la mayoría de sus integrantes al Magistrado y Juez de Primera Instancia que, conforme al numeral 100 de ésta Constitución, será miembro del Consejo de la Judicatura; y
 (ADICIONADA, B.O. 31 DE JULIO DE 2016)
@@ -978,7 +977,8 @@ IV.- Un Representante Ciudadano electo por el Congreso del Estado, conforme lo e
 V.- Un Representante designado por el Gobernador del Estado, conforme lo establece esta Constitución.
 Los Consejeros rendirán la protesta de ley ante quien los designó, durarán cuatro años en el cargo, serán sustituidos conforme a la Ley y no podrán ser nombrados para un nuevo periodo.
 De igual forma, deberán reunir los requisitos señalados en las fracciones I, II, III, y IV del numeral 91 de esta Constitución, ser personas que se hayan distinguido por su capacidad profesional y administrativa, así como por su honestidad y honorabilidad en el ejercicio de sus actividades.
-Los Jueces que, por cualquier circunstancia dejen de serlo, no podrán seguir formando parte del Consejo de la Judicatura por lo que el Tribunal deberá designar a quien le sustituya para concluir el plazo por el que fue electo a quien se sustituye. El Juez que sea designado en sustitución podrá ser designado consejero en un periodo que no sea continuo a aquel en que haya cubierto la sustitución.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)
+Los Magistrados y Jueces que, por cualquier circunstancia dejen de serlo, no podrán seguir formando parte del Consejo de la Judicatura por lo que el Tribunal deberá designar a quienes les sustituyan, para concluir el plazo por el que fueron electos. Los Magistrados y Jueces que sean designados en sustitución, podrán ser designados consejeros en un periodo que no sea continuo a aquel en que hayan cubierto la sustitución.
 Los Consejeros en ejercicio de su función, deberán proceder con independencia e imparcialidad. Durante su encargo, los Consejeros solo podrán ser removidos en los términos del Título Noveno de esta Constitución.
 El Consejo de la Judicatura funcionará en Pleno o en comisiones y estará facultado en términos de la Ley Orgánica del Poder Judicial del Estado de Baja California Sur, para expedir acuerdos generales para el adecuado ejercicio de sus atribuciones y contará con una Secretaría ejecutiva, cuyo Titular será designado por el Pleno del Consejo a propuesta del Presidente; cargo que recaerá en la Secretaria del Pleno del Tribunal y ejercerá las atribuciones que le confiere la ley en mención.
 El Pleno del Tribunal podrá solicitar al Consejo de la Judicatura la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en la Entidad.
