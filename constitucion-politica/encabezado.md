@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 FELIX AGRAMONT COTA
@@ -35,11 +36,10 @@ El Estado planeará, conducirá, coordinará y orientará la actividad económic
 El Estado promoverá las condiciones para el desarrollo rural sustentable integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo estatal y municipal, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación, asistencia técnica y todas las acciones necesarias para el logro de este objeto. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, así como la coordinación interinstitucional considerándolas de interés público.
 Al desarrollo económico concurrirán con responsabilidad social, el sector público, el sector social y el sector privado, sin menoscabo de otras formas de actividad económica que contribuyan al desarrollo de la entidad.
 Bajo criterios de equidad social y productividad se apoyará e impulsará a las empresas de los sectores social y privado de la economía estatal, sujetándolos a las modalidades que dicte el interés público y al uso en beneficio general, de los recursos productivos, cuidando su conservación y el medio ambiente.
-[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 2380 PUBLICADO EN EL B.O. DE 31 DE OCTUBRE DE 2016, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL CONTENIDO DEL SIGUIENTE PÁRRAFO.]
 (REFORMADO, B.O. 31 DE OCTUBRE DE 2016)
 El Estado organizará y operará con eficiencia y eficacia un sistema de planeación democrática del desarrollo estatal que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la entidad. Asimismo, velará por la estabilidad de las finanzas públicas con el fin de coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El plan Estatal de Desarrollo deberá observar dicho principio.
-(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)
-El Estado organizará y operará con eficiencia y eficacia un sistema de planeación democrática del desarrollo estatal que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la entidad. Asimismo, velará por la estabilidad de las finanzas públicas con el fin de coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El plan Estatal de Desarrollo deberá observar dicho principio.
+(REFORMADO, B.O. 28 DE FEBRERO DE 2017)
+La Ley alentará y protegerá la actividad económica que realicen los sectores social y privado, y proveerá las condiciones para que el desenvolvimiento de dichos sectores contribuya al desarrollo económico estatal, promoviendo la competitividad.
 (REFORMADO, B.O. 22 DE JUNIO DE 2016)
 La Ley facultará al Ejecutivo para que establezca y opere con participación social el sistema estatal de planeación democrática. Los fines del proyecto estatal contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática y deliberativa. Mediante los mecanismos de participación que establezca la ley, recogerá las aspiraciones y demandas de la sociedad para incorporarlas al Plan y los Programas de Desarrollo. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal.
 (ADICIONADO, B.O. 22 DE JUNIO DE 2016)
@@ -179,21 +179,16 @@ El Comisionado presidente será electo entre los comisionados por un periodo de 
 Los comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones públicas como privadas ya sean docentes, científicas o de beneficencia, los cuales podrá desempeñar fuera de su horario de trabajo y solo podrán ser removidos de su cargo en los términos del Título Noveno de esta Constitución y podrán ser sujetos a Juicio Político.
 (ADICIONADO, B.O. 27 DE ABRIL DE 2016)
 El Congreso del Estado resolverá sobre las renuncias que presenten los Comisionados. En esos casos, así como en los de fallecimiento, ausencia, remoción, inhabilitación o cualquier otra circunstancia que le impida a un Comisionado concluir su encargo, el Congreso del Estado designará a quien lo sustituya, conforme a lo establecido en los párrafos precedentes, únicamente para concluir el período respectivo.
-(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
+(REFORMADO, B.O. 28 DE FEBRERO DE 2017)
 Para ser Comisionado del organismo garante, se requiere:
-I. Ser ciudadano mexicano y residente en el Estado, por lo menos cinco años antes al día de su elección;
-II. Tener cuando menos treinta años cumplidos el día de la designación;
-(REFORMADA, B.O. 26 DE MAYO DE 2016)
-III. Poseer el día de la designación, título profesional expedido por autoridad o institución legalmente facultad (sic) para ello y tres años de experiencia en el ejercicio profesional;
-IV. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-(REFORMADA, B.O. 26 DE MAYO DE 2016)
-V. No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
-(REFORMADA, B.O. 26 DE MAYO DE 2016)
-VI. No haber contendido para un cargo de elección popular o ejercido alguno, durante los cinco años anteriores al día de su nombramiento;
-(REFORMADA, B.O. 26 DE MAYO DE 2016)
-VII. No haber sido Magistrado del Tribunal Superior de Justicia del Estado, Magistrado del Tribunal Estatal Electoral, Juez del Fuero Común, Secretario y Subsecretario del Despacho, Procurador y Subprocurador de la Procuraduría General de Justicia, Contralor, Auditor Superior del Estado, Consejero Presidente o Consejero Electoral del Instituto Estatal Electoral, Presidente de la Comisión Estatal de Derechos Humanos, Oficial Mayor del Tribunal Superior de Justicia del Estado, Oficial Mayor del Congreso del Estado, Secretario General, Tesorero General, Oficial Mayor o Contralor de alguno de los Ayuntamientos de la Entidad, durante los cinco años anteriores al día de su nombramiento; y
-(REFORMADA, B.O. 26 DE MAYO DE 2016)
-VIII. No haber fungido como ministro de algún culto religioso cinco años antes al de su designación.
+a) Ser ciudadano mexicano y residente en el Estado, por lo menos cinco años antes al día de su elección;
+b) Tener cuando menos treinta años cumplidos el día de la designación;
+c) Poseer el día de la designación, título profesional, expedido por autoridad o institución legalmente facultad para ello y tres años de experiencia en el ejercicio profesional;
+d) No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+e) No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
+f) No haber contendido para un cargo de elección popular o ejercido alguno, durante los cinco años anteriores al día de su nombramiento;
+g) No haber sido Magistrado del Tribunal Superior de Justicia del Estado, Magistrado del Tribunal Estatal Electoral, Magistrados del Tribunal de Justicia Administrativa del Estado de Baja California Sur, Juez del Fuero Común, Secretario y Subsecretario del Despacho, Procurador y Subprocurador General de Justicia, Fiscales Especializados, Contralor General, Titular de la Auditoría Superior del Estado, Consejero Presidente o Consejero Electoral del Instituto Estatal Electoral, Presidente de la Comisión Estatal de Derechos Humanos, Oficial Mayor del Tribunal Superior de Justicia del Estado, Oficial Mayor del Congreso del Estado, Secretario General, Tesorero General, Oficial Mayor o Contralor de alguno de los Ayuntamientos de la Entidad, durante los cinco años anteriores al día de su nombramiento; y
+h) No haber fungido como ministro de algún culto religioso cinco años antes al de su designación.
 (ADICIONADO, B.O. 27 DE ABRIL DE 2016)
 El organismo garante tendrá un Consejo Consultivo, integrado por cinco Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros del Congreso. La ley determinará los procedimientos a seguir para la presentación de las propuestas al Congreso del Estado.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
@@ -436,8 +431,8 @@ III.- Estar en pleno goce de sus derechos y tener residencia efectiva no menor d
 (REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 1987)
 45.- No podrá ser Diputado:
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
-(REFORMADA, B.O. 31 DE JULIO DE 2016)
-II.- Los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Jueces y cualquiera otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días naturales antes de la fecha de las elecciones.
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+II.- Los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Fiscal Especializado en materia de Combate a la Corrupción, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa, los miembros del Consejo de la Judicatura, los Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días naturales antes de la fecha de las elecciones.
 III.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 IV.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y
@@ -523,8 +518,8 @@ I.- Legislar en todo lo relativo al Gobierno del Estado;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
 II.- Expedir Leyes, así como ejercer las facultades que le otorga la Constitución General de la República.
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
-IV.- Expedir la Ley que organice su estructura y su funcionamiento interno, la cual no necesitará ser promulgada por el Gobernador del Estado para tener vigencia, así como expedir la Ley del Órgano de Fiscalización Superior del Estado de Baja California Sur.
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+IV.- Expedir la Ley que organice su estructura y su funcionamiento interno, la cual no necesitará ser promulgada por el Gobernador del Estado para tener vigencia, la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur, así como para expedir la ley que establezca las bases de coordinación del Sistema Anticorrupción del Estado de Baja California Sur, a que se refiere el artículo 160 Bis de esta Constitución, así como las facultades y funciones de los diversos órganos que integren el Sistema Anticorrupción del Estado de Baja California Sur;
 (REFORMADA, B.O. 18 DE JUNIO DE 1998)
 V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 (ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2004)
@@ -536,8 +531,8 @@ IX.- Convocar a elecciones extraordinarias para cubrir las vacantes de sus miemb
 X.- Erigirse en Colegio Electoral para elegir Gobernador Substituto que concluya el período constitucional, en caso de falta absoluta de Gobernador ocurrida dentro de los cuatro últimos años de dicho período, de conformidad al artículo 72 de esta Constitución;
 XI.- Conceder a los diputados licencia temporal para separarse de sus cargos;
 XII.- Decidir sobre las solicitudes de renuncia que formulen los diputados y Gobernador del Estado para separarse definitivamente de sus cargos;
-(REFORMADA, B.O. 30 DE ABRIL DE 1981)
-XIII.- Declarar cuando alguna Ley o acto del Gobierno Federal invada la soberanía del Estado y solicitar al Procurador General de Justicia que haga la reclamación que corresponda;
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+XIII.- Declarar cuando alguna Ley o acto del Gobierno Federal invada la soberanía del Estado y solicitar al Titular del Poder Ejecutivo Estatal que haga la reclamación que corresponda.
 XIV.- Cambiar la sede de los Poderes del Estado;
 XV.- Ejercer las facultades que le otorga la Constitución General de la República en relación a la Guardia Nacional;
 XVI.- Determinar las características y el uso del Escudo Estatal;
@@ -584,13 +579,24 @@ Para tal efecto, se aplicará el factor de actualización que resulte de dividir
 No se requerirá autorización del Congreso del Estado para ejercer actos de dominio cuando se trate de bienes muebles adquiridos con recursos de naturaleza federal o convenidos con el propio Gobierno Federal, cuando se trate de recursos autorizados para ello en el Presupuesto de Egresos del Estado, o bien, cuando el destinatario sea algún ente público estatal o municipal.
 El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad.
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
-(REFORMADA, B.O. 10 DE MARZO DE 2008)
-XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a los del Órgano de Fiscalización Superior.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL P.O. DE 27 DE JUNIO Y SU REFORMA DE 31 DE DICIEMBRE AMBOS DE 2014.
-(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2014)
-XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que será presentada dentro de los primeros quince días posteriores a la apertura del segundo periodo ordinario de sesiones, con el objeto de evaluar los resultados de la gestión financiera, comprobar si han respetado los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
-(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)
-La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, el cual cuenta con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley de la materia. La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad. Asimismo, dicho ente fiscalizará las acciones de Estado y Municipios en materia de fondos, recursos locales y deuda pública.
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a los de la Auditoría Superior del Estado.
+(ADICIONADA, B.O. 28 DE FEBRERO DE 2017)
+XXIX Bis.- Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley de la materia;
+(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)
+XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, con el objeto de evaluar los resultados de la gestión financiera, comprobar si han respetado los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
+(REFORMADO, B.O. 28 DE FEBRERO DE 2017)
+La revisión y fiscalización de la cuenta pública será realizada a través de la Auditoría Superior del Estado, la cual cuenta con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley de la materia. La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad. Asimismo, dicho ente fiscalizará las acciones de (sic) Estado y Municipios en materia de fondos, recursos locales y deuda pública. Los informes de auditoría de dicho ente tendrán carácter público.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+Si del examen que realice la Auditoría Superior del Estado aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado a más tardar el 30 de abril del año siguiente. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio del propio Congreso del Estado; la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior del Estado contará con el mismo tiempo adicional para la presentación de los Informes del resultado de la Fiscalización Superior de la Cuenta Pública.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+En dichos informes, que tendrán carácter público, la Auditoría Superior del Estado incluirá los montos efectivamente resarcidos a la Hacienda Pública al patrimonio de los entes públicos estatales, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa del Estado de Baja California Sur.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+El Congreso del Estado concluirá la revisión de la Cuenta Pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas de los Informes del resultado de la Fiscalización Superior, a que se refiere el artículo 66 bis de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, seguirá su curso en términos de lo dispuesto en dicho artículo.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+El Congreso del Estado evaluará el desempeño de la Auditoría Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)
 XXXI.- Aprobar, y en su caso modificar, el Presupuesto de Egresos del Estado y fijar las contribuciones para cubrirlo.
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos del Estado, se aplicara la que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
@@ -615,15 +621,21 @@ XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, s
 XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la superación del nivel de vida de la población, mejoramiento de su salud y el saneamiento del medio ambiente; y
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí, con el Gobierno del Estado y con Ayuntamientos de otros Estados para ejecución de obras y prestación de Servicios Públicos, así como emitir el procedimiento y condiciones para que el Gobierno Estatal asuma temporalmente una función o servicio municipal, previa solicitud del Ayuntamiento respectivo, aprobado por cuando menos dos terceras partes de sus integrantes, cuando al no existir el convenio correspondiente, el Congreso del Estado, considere que el Ayuntamiento de que se trate esté imposibilitado para ejercerlas o prestarlas.
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
-XLIV.- Expedir leyes que instituyan el Tribunal Unitario de lo Contencioso Administrativo del Estado y de los Ayuntamientos de la Entidad, dotados de plena autonomía para dictar sus fallos, mismos que tendrán a su cargo dirimir las controversias que se susciten entre las administraciones públicas estatal y municipales y las particulares, y establezcan las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
-(ADICIONADA, B.O. 20 DE MAYO DE 1994)
-XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativo, de una terna de candidatos propuesta por el Ejecutivo Estatal, de los que será electo por mayoría simple de votos de los Diputados que integran la Legislatura, en un término improrrogable de diez días hábiles, y el que deberá reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia, y solo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de la Carta Fundamental del Estado; y
-(REFORMADA, B.O. 9 DE SEPTIEMBRE DE 2015)
-XLVI.- Ratificar, con el voto de las dos terceras partes de los miembros que concurran a la sesión, en un plazo de cinco días naturales a partir de que los reciba, los nombramientos que el Gobernador haga del Procurador General de Justicia y del Contralor General. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
-El Congreso del estado podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente;
-(ADICIONADO, B.O. 30 DE ABRIL DE 2016)
-Previamente a la ratificación o no ratificación por este Congreso del Estado, la persona nombrada por el Gobernador del Estado para ocupar el cargo de Procurador General de Justicia del Estado, deberá de comparecer ante el Pleno del Poder Legislativo.
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+XLIV.- Expedir las leyes que instituyan el Tribunal de Justicia Administrativa del Estado de Baja California Sur, su organización, funcionamiento, los procedimientos y los recursos contra sus resoluciones, dotado de plena autonomía para dictar sus fallos, mismo que tendrán a su cargo dirimir las controversias que se susciten entre las administraciones públicas estatal y municipales y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
+La ley que regule la creación y funcionamiento del Tribunal de Justicia Administrativa del Estado de Baja California Sur establecerá su composición y el número de Magistrados que lo integran, pudiendo funcionar en pleno o en salas atendiendo primordialmente al principio de especialización para conocer y resolver los asuntos enlistados en esta fracción.
+El o los Magistrados que integren el Tribunal de Justicia Administrativa del Estado de Baja California Sur durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de ley, pudiendo ser reelectos por una única vez, por un periodo igual de seis años. Dicho procedimiento se estipulará en la Ley Orgánica respectiva.
+El o los Magistrados que integren el Tribunal de Justicia Administrativa del Estado de Baja California Sur podrán ser removidos por las causas graves que establezca la ley y con la misma votación aplicable para su designación.
+El Tribunal de Justicia Administrativa del Estado de Baja California Sur tendrá un Presidente, que se elegirá de acuerdo a los procedimientos que la ley señale.
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+XLV.- Elegir a los Magistrados del Tribunal de Justicia Administrativa del Estado de Baja California Sur, de la terna que el Gobernador someta a su consideración, previa comparecencia de las personas propuestas, designando al Magistrado que deba cubrir la vacante.
+La designación de los Magistrados se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de diez días naturales. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
+En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
+Las propuestas presentadas deberán reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia; y sólo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de ésta Constitución.
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+XLVI.- Ratificar, con el voto de las dos terceras partes de los miembros que concurran a la sesión, en un plazo de cinco días naturales a partir de que los reciba, el nombramiento que el Gobernador haga del Procurador General de Justicia y del Contralor General, así como del Titular de la Fiscalía Especializada en materia de combate a la Corrupción de la Procuraduría General de Justicia del Estado. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+El Congreso del Estado podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente;
+Previamente a la ratificación o no ratificación por el Congreso del Estado, las personas nombradas por el Gobernador del Estado para ocupar los cargos de Procurador General de Justicia del Estado y de Fiscal Especializado en Materia de Combate a la Corrupción de la Procuraduría General de Justicia del Estado, deberán de comparecer ante el Pleno del Poder Legislativo
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
 (REFORMADA, B.O. 27 DE ABRIL DE 2016)
@@ -643,8 +655,8 @@ I.- Acordar por sí o a propuesta del Gobernador, la Convocatoria a Período Ext
 II.- Expedir, en su caso, el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
 III.- Constituirse en Comisión Instaladora de la nueva Legislatura e instalar y presidir la primera junta preparatoria del nuevo Congreso del Estado.
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
-IV.- Nombrar interinamente a los empleados del Órgano de Fiscalización Superior.
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+IV.- Nombrar interinamente a los empleados de la Auditoría Superior del Estado.
 (REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)
 V.- Resolver los asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de ley o decreto, así como las proposiciones con punto de acuerdo y de Reglamentos del Poder Legislativo que le dirijan, turnándolas para dictamen a la comisión o comisiones correspondientes, a fin de que se despachen en términos de ley.
 (REFORMADA, B.O. 6 DE FEBRERO DE 2002)
@@ -654,6 +666,40 @@ VIII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2001)
 IX.- (DEROGADA, B.O. 6 DE ABRIL DE 1999)
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
 X.- Las demás que le confieran expresamente esta Constitución y las leyes.
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2017)
+SECCIÓN VII
+DE LA AUDITORIA SUPERIOR DEL ESTADO
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+66 Bis.- La Auditoría Superior del Estado es un organismo público con personalidad jurídica propia, con autonomía técnica y de gestión para el ejercicio de sus atribuciones y para decidir sobre su organización interna, recursos, funcionamiento y resoluciones, mediante el cual se ejercerá la función de fiscalización, en los términos que establece la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur. La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
+Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior del Estado podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+66 Ter.- La Auditoría Superior del Estado tendrá a su cargo las siguientes funciones y facultades mínimas, sin perjuicio de lo que disponga la ley de la materia:
+I. Fiscalizar en forma posterior los ingresos, egresos y deuda; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de las Entidades Públicas, y en general, de cualquier persona física o moral que recaude, administre, maneje o ejerza recursos públicos; así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas gubernamentales, a través de los informes que se rendirán en los términos que disponga la Ley. Asimismo, fiscalizará directamente las acciones del Estado y los municipios, en materia de fondos, recursos locales y deuda pública.
+La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, la Auditoría Superior del Estado, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes;
+II. Realizar auditorías y revisiones respecto de la cuenta pública del ejercicio fiscal en curso o respecto de ejercicios anteriores, o sobre el manejo y custodia de los recursos públicos en las situaciones que determine la ley;
+III. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos, así como la posible comisión de faltas administrativas, en términos de las disposiciones que resulten aplicables;
+IV. Efectuar visitas domiciliarias, para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos y a los términos previstos en la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur;
+V. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Baja California Sur y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos estatales y municipales y a los particulares;
+VI. Determinar la existencia de daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, promoviendo ante las autoridades competentes la imposición de las sanciones correspondientes;
+VII. Entregar al Congreso del Estado, a más tardar el 31 de octubre, los informes de resultados de la Fiscalización Superior de la Cuenta Pública y el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, debiendo guardar reserva de sus actuaciones y observaciones hasta que se publiquen los informes de la misma.
+En dicho informe, el cual tendrá carácter público, la Auditoría Superior del Estado incluirá los montos efectivamente resarcidos a la Hacienda Pública o al patrimonio de los entes públicos fiscalizados, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa del Estado de Baja California Sur.
+VIII. Actuar como órgano técnico de la Legislatura para la revisión y fiscalización de las cuentas públicas de los municipios, en los términos que establezca la Ley.
+Los Poderes del Estado y las demás entidades fiscalizadas facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley. Asimismo, los servidores públicos locales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema Financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+66 Quater.- El Congreso del Estado designará al titular de la Auditoría Superior del Estado por el voto de las dos terceras partes de los integrantes de la Legislatura. La ley determinará el procedimiento para su designación. Dicho titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Noveno de esta Constitución.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+66 Quinquies.- Para ser titular de la Auditoría Superior del Estado se deben cumplir los siguientes requisitos:
+I. Ser ciudadano mexicano por nacimiento y estar en pleno ejercicio de sus derechos civiles y políticos;
+II. No tener más de sesenta y cinco años de edad, ni menos de treinta, el día de la designación;
+III. Contar, cuando menos, con título y cédula profesional de nivel licenciatura en las carreras de Contaduría Pública, Derecho, Economía o Administración;
+IV. Contar al momento de su designación, con una experiencia comprobada de cinco años, en el control, manejo y administración de recursos públicos;
+V. No haber sido sancionado por responsabilidad grave como Servidor Público y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+VI. No haber sido secretario de despacho, Procurador General de Justicia del Estado, Titular de Dependencias o entidades del Poder Ejecutivo, ni dirigente de algún partido político, ni haber formado parte de los órganos electorales con derecho a voto, ni haber sido Tesorero, ni Contralor Municipal, durante los tres años previos al de su designación;
+VII. No haber ejercido cargo de representación popular ya sea federal, estatal o municipal, durante los tres años previos al de su designación; y
+VIII. No ser ministro de culto religioso alguno.
+Durante el ejercicio de su encargo, el titular de la Auditoría Superior del Estado no podrá formar parte de ningún partido político, tampoco podrá desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 CAPITULO II
 DEL PODER EJECUTIVO
 SECCION I
@@ -694,8 +740,8 @@ Para los efectos de la fracción I del presente artículo, no se computará como
 Asimismo, no podrá ser electo para el período inmediato el Gobernador sustituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Constitucional, aun cuando tengan distinta denominación.
 Tampoco podrá ocupar el cargo para el período inmediato, el Gobernador interino, el provisional o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en forma ininterrumpida los dos últimos años del período.
 Por ningún motivo podrán ser Gobernador:
-(REFORMADA, B.O. 31 DE JULIO DE 2016)
-I.- Los Secretarios de Despacho o su equivalente del Poder Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura, los Jueces, los Magistrados del Tribunal Estatal Electoral, Diputados Locales, los Presidentes Municipales, funcionarios federales en el Estado, a menos que se separen de su cargo noventa días naturales antes de la fecha de las elecciones.
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+I.- Los Secretarios de Despacho del Poder Ejecutivo, el Contralor General, el Procurador General de Justicia, el Fiscal Especializado en materia de Combate a la Corrupción, y en general, a los Titulares de las Dependencias de la Administración Pública Centralizada del Estado, los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura, los Jueces, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal Estatal de Justicia Administrativa del Estado de Baja California Sur, Diputados Locales, los Presidentes Municipales, funcionarios Estatales o Federales en el Estado, a menos que se separen de su cargo noventa días naturales antes de la fecha de las elecciones.
 II.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos noventa días anteriores al de la elección; y
 III.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
 SECCION II
@@ -709,8 +755,8 @@ II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del 
 III.- Nombrar y remover libremente a los Secretarios del Despacho, y demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes, garantizando el principio de igualdad de género.
 (REFORMADA, B.O. 6 DE FEBRERO DE 2002)
 IV.- Presentar a consideración del Congreso del Estado, las ternas para la designación de los Magistrados que integrarán el Tribunal Superior de Justicia del Estado y someter sus licencias por mas de un mes o sus renuncias o remociones a la aprobación del propio Congreso.
-(REFORMADA, B.O. 9 DE SEPTIEMBRE DE 2015)
-V.- Presentar a consideración del Congreso del Estado, las propuestas para la designación del Procurador General de Justicia y Contralor General, y una vez ratificados, expedir los nombramientos respectivos, pudiéndolos remover libremente por causa justificada.
+(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)
+V.- Presentar a consideración del Congreso del Estado, la propuesta para la designación del Procurador General de Justicia, Fiscal Especializado en materia de Combate a la Corrupción, y Contralor General, y una vez ratificados, expedir los nombramientos respectivos, pudiéndolos remover libremente por causa justificada.
 En el caso de que el Congreso del Estado resuelva no ratificar las propuestas de nombramiento efectuadas en dos ocasiones, podrá designarlos libremente;
 (REFORMADA, B.O. 6 DE ABRIL DE 1999)
 VI.- Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia y turnarlas al Congreso del Estado.
@@ -756,7 +802,6 @@ XXVII.- Participar con los ayuntamientos en la planificación del crecimiento de
 XXVIII.- Mejorar las condiciones económicas y sociales de vida de los campesinos, fomentando en ellos el arraigo a sus lugares de residencia;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 XXIX.- Celebrar convenios con el Gobierno Federal y con los Ayuntamientos del Estado para coordinar sus atribuciones en materias concurrentes, así como para la prestación eficaz de funciones y servicios públicos, y asumir la prestación temporal de los mismos, cuando los Ayuntamientos así lo soliciten, satisfaciendo las formalidades exigidas por esta Constitución y las Leyes que de ella emanen.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADA, B.O. 20 DE DICIEMBRE DE 2015)
 XXIX BIS.- Ejercer a través de las Dependencias del Ejecutivo, las atribuciones que señalan el Código Civil, el de Comercio y demás Leyes y Reglamentos en materia de registro civil, registro público de la propiedad y del comercio y de control vehicular.
 XXX.- Conocer de las designaciones que haga el Procurador y el Presidente del Tribunal Superior de Justicia;
@@ -776,8 +821,8 @@ XLI.- Cuidar que el funcionamiento de los servicios públicos en todo el Estado,
 XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y
 (ADICIONADA [N. DE E. REFORMADA], B.O. 20 DE ABRIL DE 1991)
 XLIII.- Promover y vigilar el saneamiento al medio ambiente y realizar las acciones necesarias para lograr la preservación del equilibrio ecológico en el territorio del estado, en los términos de la ley de la materia.
-(REFORMADA, B.O. 20 DE MAYO DE 1994)
-XLIV.- Proponer al Congreso del Estado, una terna de aspirantes al puesto de Magistrado del Tribunal Unitario de lo Contencioso Administrativo dentro de los diez días siguientes a que por renuncia, muerte o remoción se desocupe el cargo, y una vez elegido éste expedir el nombramiento respectivo; y
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+XLIV.- Proponer al Congreso del Estado los aspirantes al puesto de Magistrado o Magistrados según se requiera en cada caso, del Tribunal Estatal de Justicia Administrativa, dentro de los diez días siguientes o previos, de acuerdo al caso, al que deba hacerse la designación, ya sea por primera vez o que por renuncia, muerte o remoción se desocupe el cargo, y una vez elegido éste, expedir el nombramiento respectivo;
 (REFORMADA, B.O. 6 DE ABRIL DE 1999)
 XLV.- Nombrar a los miembros del Consejo Tutelar para Menores en los términos que disponga la Ley de la materia
 (ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)
@@ -811,22 +856,29 @@ III.- Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás dispos
 IV.- Firmar los acuerdos dictados por el Gobernador del Estado, así como los contratos que celebre. Sin este requisito no surtirán efectos legales.
 V.- Representar al Gobernador del Estado cuand0 (sic) éste lo estime conveniente, ante las Autoridades de la Federación, de las Entidades Federativas y de los Municipios del Estado; y
 VI.- Las demás que les confieran las Leyes.
-(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)
-84.- Para ser Procurador General de Justicia del Estado, se requiere:
+(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)
+84.- Para ser Procurador General de Justicia de ésta Entidad Federativa, y Fiscal Especializado en materia de Combate a la Corrupción, se requiere:
 (REFORMADA, B.O. 23 DE SEPTIEMBRE DE 2015)
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)
 II.- Tener 35 años cumplidos el día de la designación;
-III.- Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+III.- Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar vinculado a proceso penal
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)
 IV.- Tener Titulo de Licenciado en Derecho, expedido por Institución legalmente facultada para ello; con Cedula Profesional, y tener como mínimo 10 años de ejercicio profesional;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)
 V.- No estar suspendido, inhabilitado o hubiese sido destituido por resolución firme como servidor público en esta o en cualquier otra entidad federativa o de la Administración Pública Federal;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)
 VI.- Haber cumplido con el servicio militar nacional;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)
 VII.- Gozar de buena salud; y
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)
 VIII.- Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
 (ADICIONADA, B.O. 30 DE ABRIL DE 2016)
 IX.- Previamente a su ratificación o no ratificación por el Congreso del Estado, presentar y aprobar las evaluaciones de control de confianza que se determinen en el marco del Sistema Nacional de Seguridad Pública.
 85.-
-(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2002)
-A.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Ministerial, en los términos de su ley orgánica.
+(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)
+A. El Ministerio Público estará a cargo del Procurador General de Justicia, Fiscal Especializado en materia de Combate a la Corrupción, de agentes del Ministerio Público y de la Policía Ministerial, en los términos de su Ley Orgánica.
 Son atribuciones del Ministerio Público:
 I.- Ejercitar ante los Tribunales del Estado, las acciones que correspondan contra las personas que violen las leyes de interés público;
 II.- Intervenir en la forma y términos que la ley disponga, en los juicios que afecten a personas a quienes la ley otorga especial protección; y
@@ -834,6 +886,20 @@ II.- Intervenir en la forma y términos que la ley disponga, en los juicios que 
 III.- Defender los intereses del Estado ante los Tribunales, excepto en lo relativo a la Hacienda Pública.
 (ADICIONADO, B.O. 13 DE SEPTIEMBRE DE 2013)
 Es facultad del Procurador General de Justicia del Estado proponer al Consejo Estatal de Seguridad Pública del Estado, los criterios de política criminal necesarios para el mejoramiento de la seguridad pública, procuración e impartición de justicia en el Estado Libre y Soberano de Baja California Sur.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+La Procuraduría General de Justicia contará con una Fiscalía Especializada en materia de Combate a la Corrupción de ésta Entidad Federativa con autonomía técnica y de gestión, basada en la facultad exclusiva de la Fiscalía para, de manera autónoma determinar los casos o personas a investigar, las acciones de investigación e indagación que considere necesarias llevar a cabo y el ejercicio exclusivo para ejercer acción penal ante las autoridades judiciales competentes en los casos que así lo concluya.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+El titular de la Fiscalía Especializada en materia de Combate a la Corrupción será nombrado y removido conforme al siguiente procedimiento:
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+A propuesta del Gobernador del Estado, se designará al titular de la Fiscalía Especializada en materia de Combate a la Corrupción de la Procuraduría General de Justicia del Estado, por el voto de las dos terceras partes de los miembros presentes en el Congreso del Estado dentro del plazo que señala esta Constitución.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+El Fiscal Especializado en materia de Combate a la Corrupción de la Procuraduría General de Justicia durará en su encargo cuatro años y únicamente podrá ser removido por las causas graves que establezca la ley.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+El Procurador General de Justicia presentará anualmente al Congreso del Estado y al Ejecutivo Estatal un informe de actividades, y comparecerá ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+El Procurador General, los Fiscales Especializados y/o Regionales y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 (REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2012)
 B. El Congreso del Estado establecerá un organismo de protección de los Derechos Humanos que otorga el orden jurídico mexicano, con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público local, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias, y denuncias y quejas ante las autoridades respectivas.
 (ADICIONADO, B.O. 10 DE ABRIL DE 1992)
@@ -889,8 +955,8 @@ II.- Tener cuando menos treinta y cinco años cumplidos el día de la designaci�
 (REFORMADA, B.O. 18 DE JUNIO DE 1998)
 III.- Poseer al día de su elección, con una antigüedad mínima de diez años, Título y Cédula Profesional de Licenciado en Derecho, expedidos por la autoridad o institución legalmente facultada para ello;
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
-(REFORMADA, B.O. 31 DE JULIO DE 2016)
-V.- No haber sido Secretario de Despacho del Poder Ejecutivo o su equivalente, Procurador General de Justicia, Diputado Local o Presidente Municipal, durante el año previo al día de la designación;
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+V.- No haber sido Secretario de Despacho del Poder Ejecutivo, Contralor General, Procurador General de Justicia, Fiscal Especializado en materia de Combate a la Corrupción, Diputado Local o Presidente Municipal, durante el año previo al día de la designación.
 VI.- (DEROGADA, B.O. 24 DE DICIEMBRE DE 2008)
 [N. DE E. ANTES FRACCIÓN V, B.O. 6 DE FEBRERO DE 2002]
 Los Magistrados del Tribunal Superior de Justicia serán designados preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
@@ -912,8 +978,8 @@ VIII. Desempeñen otro empleo o encargo de la Federación, del Estado, de algún
 IX. En los demás casos que establezca esta constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado; y
 X. No excusarse de conocer los asuntos de los que tenga conocimiento que está impedido conforme a la ley
 Tratándose de la fracción I, el Congreso del Estado, a través del Presidente de la Mesa Directiva en turno, notificará al Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. Para las demás hipótesis previstas en el presente artículo, el Congreso del Estado proveerá lo conducente a fin de iniciar procedimiento de privación del puesto de magistrado respetando en todo caso la garantía de audiencia.
-(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
-Los Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura del Estado no podrán desempeñar los cargos de secretarios de Despacho, Procurador General de Justicia del Estado, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
+(REFORMADO, B.O. 28 DE FEBRERO DE 2017)
+Los Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Fiscal Especializado en Materia de Combate a la Corrupción, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
 (ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)
 93 BIS.- Para la reelección de Magistrados, estos deberán demostrar poseer los atributos que se les reconocieron al habérseles designado, y que su trabajo cotidiano lo desempeñaron de manera pronta, completa e imparcial, como expresión de honorabilidad, diligencia, excelencia profesional y honestidad invulnerable, remitiendo al Congreso del Estado los escritos y documentos conducentes a tal efecto.
 Para la reelección o no de los magistrados, se seguirá el siguiente procedimiento:
@@ -1023,8 +1089,8 @@ Los recursos económicos de que disponga el Estado, se administrarán con eficie
 Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezca el Estado, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior.
 109.- El año fiscal comprenderá del primero de enero al treinta y uno de diciembre, inclusive.
 110.- Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, en tanto se expide éste, continuará vigente el del año inmediato anterior.
-(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
-111.- Las cuentas de los caudales públicos deberán glosarse sin excepción por el Órgano de Fiscalización Superior, que dependerá exclusivamente del Congreso del Estado.
+(REFORMADO, B.O. 28 DE FEBRERO DE 2017)
+111.- Las cuentas de los caudales públicos deberán glosarse sin excepción por la Auditoría Superior del Estado, que dependerá exclusivamente del Congreso del Estado.
 112.- No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por ley posterior.
 113.- Los pagos se harán previa autorización del Gobernador, y con absoluta igualdad y proporcionalidad entre los servidores y pensionistas del Estado.
 114.- Todo empleado de Hacienda que deba tener a su cargo manejo de fondos del Estado, otorgará previamente fianza suficiente para garantizar su manejo en los términos que la ley señale.
@@ -1152,7 +1218,8 @@ VI.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 (ADICIONADO, B.O. 27 DE JUNIO DE 2014)
 138 BIS.- No podrá ser miembro de un ayuntamiento:
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualquiera que sea su calidad, el origen y la forma de su designación
-II.- Quienes desempeñen, con excepción de los docentes, cargos o comisión del Gobierno Federal o Estatal, de Secretario de Despacho o su equivalente del Poder Ejecutivo, de Procurador General de Justicia, de Magistrado del Tribunal Superior de Justicia, de Juez, de Magistrado del Tribunal Estatal Electoral, de Presidente Municipal o miembro de Ayuntamiento a menos que se separe sesenta días naturales anteriores al día de la elección. Cuando se renueve el Titular del Poder Ejecutivo Estatal, Diputados y Ayuntamientos, la separación del cargo deberá ser al menos noventa días naturales antes de la fecha de las elecciones.
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+II.- Quienes desempeñen, con excepción de los docentes, cargos o comisión del Gobierno Federal o Estatal, de Secretario de Despacho o su equivalente del Poder Ejecutivo, de Procurador General de Justicia, Fiscal Especializado en Materia de Combate a la Corrupción, de Magistrado del Tribunal Superior de Justicia, de Juez, de Magistrado del Tribunal Estatal Electoral, de Magistrado del Tribunal de Justicia Administrativa del Estado de Baja California Sur, de Presidente Municipal o miembro de Ayuntamiento a menos que se separe sesenta días naturales anteriores al día de la elección. Cuando se renueve el Titular del Poder Ejecutivo Estatal, Diputados y Ayuntamientos, la separación del cargo deberá ser al menos noventa días naturales antes de la fecha de las elecciones.
 III.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y
 IV.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
 (REFORMADO, B.O. 14 DE JULIO DE 1995)(F. DE E., B.O. 18 DE AGOSTO DE 1995)
@@ -1316,21 +1383,42 @@ XI.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 XII.- Desarrollo Municipal
 XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur.
 155.- La ley orgánica determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
-(REFORMADA SU DENOMINACIÓN, B.O. 20 DE JUNIO DE 2004)
+(REFORMADA SU DENOMINACIÓN, B.O. 28 DE FEBRERO DE 2017)
 TITULO NOVENO
-DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO
+DE LAS RESPONSABILIDADES Y SISTEMA ANTICORRUPCIÓN
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+CAPITULO I
+DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS, PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES O HECHOS DE CORRUPCIÓN, Y PATRIMONIAL DEL ESTADO
 (REFORMADO, B.O. 31 DE OCTUBRE DE 2016)
 156.- Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Poder Legislativo del Estado o en la Administración Pública Estatal o Municipal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en los que incurran en el desempeño de sus funciones.
-(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
-157.- El Congreso del Estado, dentro del ámbito de su competencia, expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes teniendo este carácter, incurran en responsabilidad, de acuerdo con las siguientes prevenciones:
-I.- Se impondrá mediante el juicio político, las sanciones indicadas en el Artículo 158 a los Servidores Públicos señaladas en el mismo precepto, cuando en el ejercicio de sus funciones, incurran en actos y omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
-II.- Los delitos cometidos por cualquier servidor público serán perseguidos y sancionados en los términos de la Legislación Penal.
-III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad, economía y eficiencia que deben observar en el desempeño de sus empleos, cargos o comisiones.
-Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
-Las leyes determinarán las causas y circunstancias por las que se deba sancionar penalmente a los servidores públicos, por enriquecimiento ilícito, cuando aumente sustancialmente su patrimonio durante el tiempo de su encargo o por motivo del mismo, mediante la adquisición de bienes por sí o por interpósita persona, o que se conduzcan como dueños de ellos y cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de propiedad de dichos bienes, además de las otras penas que correspondan.
-Cualquier ciudadano, mediante la presentación de elementos de prueba y bajo su más estricta responsabilidad, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente Artículo.
-(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2016)
-158.- Podrán ser sujetos a Juicio Político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, Los Magistrados del Tribunal Estatal Electoral, los integrantes del Consejo de la Judicatura, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocuradores de la Procuraduría General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, el Presidente de la Comisión Estatal de los Derechos Humanos, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley.
+(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)
+157.- El Congreso del Estado, dentro del ámbito de su competencia, expedirá la Ley de Responsabilidades Administrativas para el Estado de Baja California Sur y las demás leyes y normas conducentes a sancionar a Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, quienes serán sancionados conforme a lo siguiente:
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+I.- Se impondrán mediante el juicio político, las sanciones indicadas en el Artículo 158 a los Servidores Públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones, incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
+(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)
+II.- La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+Las leyes y código penal determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito, enriquecimiento oculto, o cualesquiera de los delitos que se regulen en dichas leyes, a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar o bien oculten su verdadero patrimonio o parte de él, pretendiendo engañar a terceros sobre los bienes, derechos o recursos de los que son efectivamente sus titulares. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan;
+(REFORMADA, B.O. 28 DE FEBRERO DE 2017)
+III.- Se aplicarán sanciones administrativas a los Servidores Públicos por los actos u omisiones que afecten la legalidad, la honradez, la lealtad, la imparcialidad y la eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones. La ley establecerá los procedimientos de investigación y sanción de dichos actos u omisiones.
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado, la Contraloría General y los órganos internos de control, según corresponda y serán resueltas por el Tribunal de Justicia Administrativa del Estado de Baja California Sur. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por las citadas dependencias y los órganos internos de control.
+La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
+Los entes públicos del Estado y sus municipios contarán con órganos internos de control con las facultades que determine la Ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas de las que son competencia del Tribunal de Justicia Administrativa del Estado de Baja California Sur; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, así como presentar denuncias por hechos u omisiones que pudieran ser constitutivos de delitos ante la Fiscalía Especializada en combate a la Corrupción a que se refiere esta Constitución.
+(ADICIONADA, B.O. 28 DE FEBRERO DE 2017)
+IV. El Tribunal de Justicia Administrativa del Estado de Baja California Sur, impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella.
+También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. La ley establecerá los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+(ADICIONADA, B.O. 28 DE FEBRERO DE 2017)
+V.- Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia de juicio político ante el Congreso del Estado.
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
+La Auditoría Superior del Estado y la Contraloría General podrán recurrir las determinaciones de la Fiscalía Especializada en materia de Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado de Baja California Sur, de conformidad con lo previsto en esta Constitución y las leyes respectivas, respectivamente.
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en la presente Constitución y las demás leyes de la materia, sin perjuicio de las atribuciones de la Auditoría Superior del Estado sobre el manejo, la custodia y aplicación de recursos públicos.
+(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)
+158.- Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de Justicia Administrativa, los integrantes del Consejo de la Judicatura, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador General de Justicia, los subprocuradores, los Fiscales Especializados y/o Regionales de la Procuraduría General de Justicia, el Contralor General, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, el Presidente de la Comisión Estatal de los Derechos Humanos, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
@@ -1350,11 +1438,42 @@ V.- No se requerirá declaración de procedencia cuando alguno de los servidores
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 158, se procederá en los términos del presente artículo.
 VI.- La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años y ésta se interrumpe en tanto el servidor público desempeñe alguno de los encargos a que se refiere el Artículo 158.
 VII.- El Gobernador del Estado, durante el período de su encargo solo podrá ser acusado de acuerdo a lo establecido en la Constitución General de la República y por delitos graves del orden común.
+(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)
+160.- La Ley de Responsabilidades Administrativas para el Estado de Baja California Sur y las demás que resulten aplicables a los servidores públicos, determinarán sus obligaciones, a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, economía y eficiencia en el desempeño de sus funciones, empleos o comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas.
 (REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)
-160.- Las leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones, a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, economía y eficiencia en el desempeño de sus funciones, empleos o comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas.
 Dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones a que se refiere el Artículo 157, Fracción III, pero no podrá exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 (ADICIONADO, B.O. 20 DE JUNIO DE 2004)
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2017)
+CAPITULO II
+DEL SISTEMA ESTATAL ANTICORRUPCIÓN
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+160 Bis.- El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades estatales competentes en la prevención, detección, investigación y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.
+La integración, atribuciones y funcionamiento del Sistema se regirán por lo que dispongan las leyes. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas y estará conformado por:
+A. Un Comité Coordinador que será la instancia responsable de establecer mecanismos de coordinación entre los integrantes del Sistema y tendrá bajo su cargo el diseño, promoción y evaluación de políticas públicas de combate a la corrupción.
+I. El Comité Coordinador del Sistema Estatal estará integrado por:
+a) Un representante del Comité de Participación Ciudadana, quien presidirá el Comité.
+b) El titular de la Auditoría Superior del Estado;
+c) El titular de la Fiscalía Especializada en materia de Combate a la Corrupción;
+d) El titular de la Contraloría General;
+e) El Presidente del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur;
+f) Un representante del Consejo de la Judicatura del Poder Judicial del Estado de Baja California Sur.
+g) El Presidente del Tribunal de Justicia Administrativa del Estado de Baja California Sur.
+II. Corresponderá al Comité Coordinador del Sistema Estatal Anticorrupción, en los términos que determine la Ley, lo siguiente:
+a) El establecimiento de mecanismos de coordinación con el Sistema Nacional Anticorrupción y con los demás sistemas locales anticorrupción;
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes estatales;
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades estatales competentes en materia de fiscalización y control de los recursos públicos;
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité Coordinador sobre la atención que brinden a las mismas.
+B. El Comité de Participación Ciudadana del Sistema tiene como objetivo, coadyuvar al cumplimiento de los objetivos del Comité Coordinador, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal Anticorrupción.
+El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, así como actividades de procuración de justicia o de participación ciudadana y el procedimiento para su designación deberá establecerse en la Ley del Sistema Estatal Anticorrupción que expida el Congreso del Estado.
+I. Tendrá acceso a la información pública necesaria, adecuada y oportuna para el ejercicio de sus atribuciones;
+II. Las recomendaciones, políticas públicas e informes que emita deberán tener respuesta de los sujetos públicos a quienes se dirija, y contará con las atribuciones y procedimientos adecuados para dar seguimiento a las mismas, y
+III. Rendirá un informe público a los titulares de los Poderes del Estado, en el que dará cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones.
+IV.- Las demás facultades y atribuciones que dispongan las leyes de la materia.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
+160 Ter.- La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción II, del artículo 157 Bis de esta Constitución. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
 TITULO DECIMO
 PREVENCIONES GENERALES
 (REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)
