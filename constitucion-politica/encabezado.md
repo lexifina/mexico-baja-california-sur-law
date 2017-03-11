@@ -964,8 +964,9 @@ Los Magistrados del Tribunal Superior de Justicia serán designados preferenteme
 92.- Los Magistrados del Tribunal Superior de Justicia del Estado serán electos por el Congreso del Estado, de la terna que el Gobernador someta a su consideración, el cual, previa comparecencia de las personas propuestas, designará al Magistrado que deba cubrir la vacante.
 La designación de los Magistrados se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de diez días naturales. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
 En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2017)
+93.- Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley y podrán ser reelectos por un periodo igual de seis años. Únicamente tendrán derecho a un haber de retiro durante los dos años posteriores a la conclusión del cargo, tanto a quienes hayan durado en su cargo doce años con motivo de una reelección, así como a los que hayan cumplido seis años en el cargo. Este derecho es intransferible.
 (REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)
-93.- Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley y podrán ser reelectos por un periodo igual de seis años, al término del cual tendrán derecho a un haber de retiro.
 En caso de resultar reelectos los magistrados, sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
 I. Al cumplir doce años en el cargo de Magistrado;
 II. Por incapacidad física o mental que impida el buen desempeño de sus funciones;
@@ -977,6 +978,7 @@ VII. Sean jubilados en los términos legales o renuncien a su puesto;
 VIII. Desempeñen otro empleo o encargo de la Federación, del Estado, de algún Municipio o particulares, salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia;
 IX. En los demás casos que establezca esta constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado; y
 X. No excusarse de conocer los asuntos de los que tenga conocimiento que está impedido conforme a la ley
+(REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)
 Tratándose de la fracción I, el Congreso del Estado, a través del Presidente de la Mesa Directiva en turno, notificará al Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. Para las demás hipótesis previstas en el presente artículo, el Congreso del Estado proveerá lo conducente a fin de iniciar procedimiento de privación del puesto de magistrado respetando en todo caso la garantía de audiencia.
 (REFORMADO, B.O. 28 DE FEBRERO DE 2017)
 Los Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Fiscal Especializado en Materia de Combate a la Corrupción, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
