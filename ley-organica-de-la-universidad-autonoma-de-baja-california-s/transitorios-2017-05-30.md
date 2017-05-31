@@ -1,0 +1,6 @@
+B.O. 30 DE MAYO DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2433.- SE REFORMA LA FRACCIÓN XXXVI DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 1° DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA SUR".]
+ARTÍCULO PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+ARTÍCULO SEGUNDO.- La reforma al artículo 79 fracción XXXVI, de la Constitución Política del Estado de Baja California Sur, respecto a la Legalización y certificación de los Títulos profesionales o de grado, deberá realizarse a partir de los expedidos en el ciclo escolar próximo siguiente al de la entrada en vigor de la presente Ley
+ARTÍCULO TERCERO.- La Secretaría de Educación Pública deberá adecuar las normas que se ajusten a la presente reforma en materia de Legalización de Estudios para ser remitidas a la Secretaría respectiva para la certificación del Título.
+ARTÍCULO CUARTO.- Las Instituciones Públicas o Privadas que emitan títulos profesionales o de grado, deberán adecuar sus reglamentos respectivos para ajustarse a lo dispuesto por la presente reforma.

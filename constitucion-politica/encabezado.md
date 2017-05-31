@@ -83,7 +83,6 @@ Los ascendientes, tutores y custodios tienen la obligación de preservar y exigi
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 10.- La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el Artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación será conforme al marco del respeto a los derechos humanos y a los principios señalados en dicho precepto, y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado.
 Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación que impartan el Estado y Municipios será gratuita y tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la Independencia y en la justicia.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, B.O. 30 DE ABRIL DE 2013)
 Es derecho de los habitantes del Estado, acceder a la información y el conocimiento para lograr una comunidad totalmente intercomunicada. El Estado y Municipios, en apoyo de las labores escolares proporcionarán espacios públicos con acceso a internet gratuito en Bibliotecas Públicas y Escolares, para lo cual se coordinarán con sus dependencias, instituciones tecnológicas y educativas de todo el Estado.
 (ADICIONADO, B.O. 30 DE JUNIO DE 2014)
@@ -450,7 +449,6 @@ III.- Visitar los distritos en los que fueren electos e informar a los habitante
 IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso del Estado un informe de sus actividades desarrolladas dentro y fuera de sus distritos correspondientes.
 SECCION III
 DE LAS SESIONES
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL P.O. DE 27 DE JUNIO Y SU REFORMA DE 31 DE DICIEMBRE AMBOS DE 2014.
 (REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2014)
 50.- El Congreso del Estado tendrá, durante el año, dos Períodos Ordinarios de Sesiones: el primero, del 01 de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 31 de diciembre del mismo año y el segundo, del 15 de marzo al 30 de junio.
 (REFORMADO, B.O. 30 DE NOVIEMBRE DE 1987)
@@ -811,7 +809,8 @@ XXXII.- Prestar y vigilar el eficaz cumplimiento de los servicios sociales que d
 XXXIII.- Conceder licencia hasta por tres meses a funcionarios y empleados;
 XXXIV.- Convocar a elecciones extraordinarias de diputados, cuando haya desaparecido el Poder Legislativo;
 XXXV.- Proponer al Congreso que convoque a elecciones, si lo juzga necesario, cuando por cualquier motivo desaparezca el Ayuntamiento, una vez integrado el Concejo Municipal;
-XXXVI.- Expedir títulos profesionales, con sujeción a la ley respectiva;
+(REFORMADA, B.O. 30 DE MAYO DE 2017)
+XXXVI.- Legalizar y certificar los títulos profesionales o de grado, con sujeción a la Ley respectiva.
 XXXVII.- Nombrar representantes fuera del Estado para la gestión de los negocios del mismo;
 XXXVIII.- Actuar como árbitro en los conflictos que se susciten entre los municipios y miembros del ayuntamiento;
 XXXIX.- Otorgar patentes de notario, con sujeción a la ley respectiva;
@@ -1075,7 +1074,6 @@ Estos bienes son inalienables, imprescriptibles e inembargables y no están suje
 CAPITULO II
 DE LA HACIENDA PUBLICA
 105.- La Hacienda Pública del Estado está constituída por:
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)
 I.- Los ingresos que determinen su Ley de Hacienda, de Derechos y Productos y demás normas aplicables.
 (F. DE E., B.O. 14 DE ENERO DE 2016)
@@ -1251,7 +1249,6 @@ I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estat
 II.- Aprobar y expedir en el ámbito de su competencia los bandos de Policía y buen Gobierno; los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la Administración Pública Municipal, regulen las materias, procedimientos, funciones y Servicios Públicos de su competencia que procuren la participación ciudadana y vecinal.
 III.- Conceder licencia a sus miembros hasta por treinta días y llamar a quienes deban suplirlos;
 IV.- Designar al Regidor que deba sustituir al Presidente Municipal en caso de falta absoluta de éste y su suplente, y llamar a los suplentes del Síndico o Regidores en los casos de falta absoluta de éstos;
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)
 V.- Mantener los servicios de Seguridad Pública, Policía Preventiva y de Transito Municipales de acuerdo con la Ley en la materia.
 VI.- Establecer en el territorio del municipio las delegaciones y subdelegaciones que sean necesarias;
@@ -1265,7 +1262,6 @@ IX.- Promover el mejoramiento de las funciones y Servicios Públicos, y el acrec
 Las funciones y servicios públicos que el Municipio tendrá a su cargo serán los siguientes:
 a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 b) Alumbrado Público;
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)
 c) Seguridad Pública en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía preventiva y de Tránsito Municipales de acuerdo con la Ley en la materia;
 d) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
@@ -1285,7 +1281,6 @@ XV.- Decretar las obras de utilidad pública u ornato del municipio.
 XVI.- Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los Servicios Públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la Asociación de Municipios de dos o más Estados deberán contar con la aprobación de las Legislaturas de los Estados respectivos. Así mismo cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que este, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien ejerzan coordinadamente por el Estado y por el propio Municipio.
 (REFORMADA, B.O. 10 DE JULIO DE 2002)
 XVII.- Con la aprobación de las dos terceras partes de sus integrantes, solicitar al Congreso del Estado su aprobación para celebrar convenio para que el Gobierno del Estado, asuma una función o servicio público municipal por el tiempo que se requiera, y en su caso, establecer una prorroga.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 XVIII.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 (ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)
 XIX.- Celebrar convenios para que instituciones Federales o Estatales, presten los servicios de seguridad social a sus trabajadores.
@@ -1342,7 +1337,6 @@ V.- Proponer al ayuntamiento la asignación de comisiones de gobierno y administ
 (ADICIONADA [N. DE E. REFORMADA], B.O. 26 DE AGOSTO DE 1975)
 VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal de policia y administrativo de acuerdo con las disposiciones aplicables.
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo que establezca el reglamento interior;
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2015) (F. DE E., B.O. 14 DE ENERO DE 2016)
 VIII.- Tener bajo su mando los cuerpos de Seguridad Publica, Policía Preventiva y Transito Municipales, en los términos que establezca el Reglamento respectivo y la Ley en la materia.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
@@ -1350,7 +1344,6 @@ La policía preventiva municipal deberá acatar las órdenes que el gobernador d
 IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días;
 X.- Vigilar que los delegados y subdelegados cumplan las funciones de su encargo e informar de ello al ayuntamiento;
 XI.- Remitir ejemplares a las autoridades del municipio y estatales, de las leyes, decretos y demás disposiciones, autorizados con su firma y la del Secretario, con la fecha de su publicación;
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 XII.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 SECCION III
 DEL SINDICO
@@ -1380,7 +1373,6 @@ VII.- Obras Públicas, Asentamientos Humanos y Ecología
 VIII.- El Organismo Operador de Agua Potable, Alcantarillado y Tratamiento de Aguas Residuales
 IX.- Delegaciones y Subdelegaciones Municipales
 X.- Catastro
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 XI.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 XII.- Desarrollo Municipal
 XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur.
