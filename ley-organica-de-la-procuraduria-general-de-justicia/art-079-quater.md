@@ -4,11 +4,15 @@ I. Ejercer las facultades que la Constitución, las leyes, los reglamentos y dem
 II. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción;
 III. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que la ley considera como delitos en materia de corrupción;
 IV. Implementar programas destinados a detectar la comisión de los hechos que las leyes estatales consideran como delitos en materia de corrupción. Dichos programas deberán ser aprobados por el Procurador General de Justicia del Estado;
-IV (SIC). Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que las leyes consideran como delitos en materia de corrupción;
-V. Emitir los acuerdos internos, circulares, instructivos, bases, lineamientos, reglas de operación, Manuales de Organización, de Procedimientos técnicos, guías y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia. En ningún caso podrán contradecir las normas administrativas emitidas por el Procurador General de Justicia (sic) Estado;
-VI. Fortalecer e implementar en materia de su competencia, mecanismos de cooperación y colaboración con otras autoridades;
-VII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
-IX (SIC). Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
+(F. DE E., B.O. 20 DE JULIO DE 2017)
+V. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que las leyes consideran como delitos en materia de corrupción;
+(F. DE E., B.O. 20 DE JULIO DE 2017)
+VI. Emitir los acuerdos internos, circulares, instructivos, bases, lineamientos, reglas de operación, Manuales de Organización, de Procedimientos técnicos, guías y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia. En ningún caso podrán contradecir las normas administrativas emitidas por el Procurador General de Justicia Estado;
+(F. DE E., B.O. 20 DE JULIO DE 2017)
+VII. Fortalecer e implementar en materia de su competencia, mecanismos de cooperación y colaboración con otras autoridades;
+(F. DE E., B.O. 20 DE JULIO DE 2017)
+VIII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
+IX. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
 X. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada;
 XI. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Procuraduría General de Justicia del Estado, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
 XII. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
