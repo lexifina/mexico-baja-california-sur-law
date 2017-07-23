@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO: Los actuales Comités de Vecinos y las formas de organización vecinal formalmente constituidas en el Estado, continuarán en funciones hasta que los Ayuntamientos emitan el Reglamento que organizara los comités vecinales.

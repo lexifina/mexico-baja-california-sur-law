@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO: Una vez que entre en vigor el presente Decreto quedara abrogada la Ley de Participación Ciudadana del Estado de Baja California Sur, publicada mediante Decreto 1280 en el Boletín Oficial del Gobierno del Estado de Baja California Sur, en fecha 10 de junio de 2000 y derogadas todas las disposiciones que se opongan al presente ordenamiento.
