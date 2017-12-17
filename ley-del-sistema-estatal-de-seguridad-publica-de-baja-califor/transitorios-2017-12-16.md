@@ -1,0 +1,7 @@
+B.O. 16 DE DICIEMBRE DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO 2516.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR Y DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- Las dependencias del Poder Ejecutivo del Estado que corresponda deberán realizar las modificaciones a sus reglamentos respectivos para ajustarlos a la presente reforma de Ley, en de (sic) un plazo de 90 días naturales contados a partir de la entrada en vigor del presente decreto, quedando vigentes los que rigen actualmente, hasta en tanto se expidan las reformas mencionadas.
+TERCERO.- Los recursos humanos, materiales y bienes patrimoniales, así como las partidas presupuestales asignadas a la Subsecretaria de Seguridad Pública a través de la Secretaría General Gobierno, pasarán a formar parte de la Secretaría de Seguridad Pública.
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+CUARTO.- Cuando en otras leyes, reglamentos, convenios, contratos o cualquier otro instrumento equivalente, haya sido otorgada la denominación de Subsecretaría de Seguridad Pública, se entenderá referida a la Secretaría de Seguridad Pública, a partir de la entrada en vigor del presente Decreto.
