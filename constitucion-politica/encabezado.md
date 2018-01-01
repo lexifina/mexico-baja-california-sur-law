@@ -340,8 +340,8 @@ DEL TERRITORIO DEL ESTADO
 I.- Por el norte el paralelo 28; por el oriente, el Golfo de California; por el sur y el poniente, el Océano Pacífico;
 II.- Quedan comprendidas bajo la jurisdicción del Estado las Islas que a continuación se mencionan:
 Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en el Océano Pacífico; Cerralvo, Santa Catalina o Catalana, San Juan Nepomuceno, Espíritu Santo, San José de Sta. Cruz, del Carmen, Coronados, San Marcos y Tortugas, situadas en el Golfo de California y, además, las islas, islotes y cayos adyacentes localizados entre los paralelos 28° y 22° 30' norte.
-(REFORMADO, B.O. 10 DE MAYO DE 2003)
-35.- La ciudad de La Paz es la Capital del Estado y la Sede Oficial de los Poderes Públicos de la entidad.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)
+35.- La ciudad de La Paz es la Capital del Estado y la Sede Oficial de los Poderes de la Entidad, los cuales cambiarán de residencia sólo por razones de fuerza mayor o los que determine la Ley.
 TITULO QUINTO
 DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
 (REFORMADO, B.O. 27 DE JUNIO DE 2014)
@@ -531,9 +531,11 @@ XI.- Conceder a los diputados licencia temporal para separarse de sus cargos;
 XII.- Decidir sobre las solicitudes de renuncia que formulen los diputados y Gobernador del Estado para separarse definitivamente de sus cargos;
 (REFORMADA, B.O. 28 DE FEBRERO DE 2017)
 XIII.- Declarar cuando alguna Ley o acto del Gobierno Federal invada la soberanía del Estado y solicitar al Titular del Poder Ejecutivo Estatal que haga la reclamación que corresponda.
-XIV.- Cambiar la sede de los Poderes del Estado;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)
+XIV.- Cambiar la sede de los Poderes del Estado, exclusivamente por razones de fuerza mayor o los que determine la ley.
 XV.- Ejercer las facultades que le otorga la Constitución General de la República en relación a la Guardia Nacional;
-XVI.- Determinar las características y el uso del Escudo Estatal;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)
+XVI.- Determinar las características y el uso del escudo estatal y otros símbolos oficiales.
 XVII.- Solicitar la comparecencia de funcionarios públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 XVIII.- Erigirse en Jurado de Sentencia en los juicios a que se refiere el Artículo 158 de esta Constitución.
@@ -560,7 +562,8 @@ XXII.- Legislar en todo lo relativo a la administración pública;
 XXIII.- Autorizar la participación del Gobernador en comisiones interestatales de desarrollo regional;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 XXIV.- Autorizar al Gobernador para celebrar convenios con la Federación y con los Ayuntamientos del Estado.
-XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad;
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)
+XXV.- Otorgar la medalla al Mérito Ciudadano" Profra. María Rosaura Zapata Cano", en términos de la ley correspondiente.
 (REFORMADA, B.O. 31 DE OCTUBRE DE 2016)
 XXVI.- Autorizar, por el voto de las dos terceras partes de los miembros presentes de la legislatura, al Titular del Poder Ejecutivo para contratar obligaciones y empréstitos a nombre del Estado y a los Ayuntamientos para contratarlos a nombre de los Municipios, así como a los Organismos Descentralizados Estatales, Municipales o Intermunicipales, a las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y a los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantías o el establecimiento de la fuente de pago, siempre que se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los Municipios. Lo anterior, conforme a las bases que se establezcan en la Ley correspondiente, y por los conceptos y hasta por los montos aprobados. El Ejecutivo del Estado y los Ayuntamientos, informarán del ejercicio de tales autorizaciones al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
 Autorizar al Gobernador, en los mismos términos del primer párrafo de la presente fracción, para que, en representación del Estado, se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de los Organismos Descentralizados Estatales, Municipales o Intermunicipales, de las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y de los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal.
@@ -721,8 +724,11 @@ VI.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
 (REFORMADO, B.O. 27 DE JUNIO DE 2014)
 70.- El Gobernador del Estado durará en su encargo seis años e iniciará el ejercicio de sus funciones el día 10 de septiembre.
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)
 71.- Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:
-"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Baja California Sur y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador del Estado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Baja California Sur. Si así no lo hiciere, que el pueblo me lo demande".
+"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE BAJA CALIFORNIA SUR Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR DEL ESTADO QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NACION Y DEL ESTADO DE BAJA CALIFORNIA SUR, SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
+Al rendir protesta, el Gobernador del Estado lo hará sobre los ejemplares facsimilares de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución que al efecto se hallen bajo resguardo del Poder Ejecutivo, de conformidad con la ley correspondiente.
+El Congreso del Estado no podrá declarar sede distinta ni recinto oficial diferente al de su residencia habitual tratándose de la toma de protesta del Gobernador del Estado.
 72.- En caso de falta absoluta del Gobernador del Estado ocurrida en los dos primeros años del período respectivo, si el Congreso del Estado estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo las dos terceras partes del número total de sus miembros, designará por votación secreta y por mayoría absoluta de votos, un Gobernador Interino, expidiendo el propio Congreso del Estado, dentro de los diez días siguientes al de la designación del Gobernador Interino, la convocatoria para la elección del Gobernador que habrá de concluir el período correspondiente. Entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones deberá haber un plazo no menor de seis meses, ni mayor de doce.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
 Si el Congreso del Estado no estuviere en sesiones, la Diputación Permanente nombrará, desde luego, un Gobernador Provisional, y convocará a sesiones extraordinarias al Congreso del Estado para que éste, a su vez, designe al Gobernador Interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior.
