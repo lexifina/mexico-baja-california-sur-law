@@ -1,0 +1,2 @@
+Artículo Tercero.- El Congreso del Estado, dentro de los 60 días hábiles siguientes a la entrada en vigor de esta Ley, realizará una convocatoria estatal para elegir la letra, música del Himno y el Lema.
+Los plazos de la convocatoria deberán ajustarse de tal modo que la obra que resulte ganadora de acuerdo con las bases establecidas por el Congreso del Estado, pueda ser interpretada en la sesión solemne conmemorativa del 44 aniversario de la conversión de Baja California Sur, de territorio a Estado Libre y Soberano.
