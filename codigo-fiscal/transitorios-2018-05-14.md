@@ -1,0 +1,3 @@
+B.O. 14 DE MAYO DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO 2530 SE EXPIDE LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR; SE REFORMA EL ARTÍCULO 118 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, Y SE DEROGA EL TÍTULO VI DEL CÓDIGO FISCAL PARA EL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+ÚNICO.- La presente derogación entrará en vigor una vez que cobre vigencia la Ley de Procedimiento Contencioso Administrativo para el Estado de Baja California Sur, salvo para los juicios que se encuentren en trámite ante la autoridad que corresponda.
