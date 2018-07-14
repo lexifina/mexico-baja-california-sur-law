@@ -1,0 +1,3 @@
+(ADICIONADO, B.O. 13 DE JULIO DE 2018)
+Artículo 85 Bis.- Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, independientemente de que habiten en domicilios distintos, darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa.
+Las autorizaciones a que se refiere esta Ley deberán ser otorgadas por quienes ejerzan la patria potestad o tutela en los mismos términos y con las mismas formalidades.
