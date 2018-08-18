@@ -80,6 +80,8 @@ Toda medida o disposición protectora de la familia y la niñez se considera de 
 En todas las decisiones y actuaciones del Estado se velara y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño de ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
 (ADICIONADO, B.O. 20 DE ABRIL DE 2013)
 Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
+(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)
+El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 10.- La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el Artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación será conforme al marco del respeto a los derechos humanos y a los principios señalados en dicho precepto, y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado.
 Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación que impartan el Estado y Municipios será gratuita y tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la Independencia y en la justicia.
@@ -645,8 +647,10 @@ XLVI bis.- Elegir, con el voto de las dos terceras partes de los miembros que co
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
 (REFORMADA, B.O. 27 DE ABRIL DE 2016)
 XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; así como a los Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitución y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
+(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)
+XLIX.- Expedir leyes que establezcan la concurrencia del Estado y de los Municipios en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, cumpliendo con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y de las leyes que de ella emanen y de los tratados internacionales de la materia de los que México sea parte;
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
-XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
+L.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 SECCION VI
 DE LA DIPUTACION PERMANENTE
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
