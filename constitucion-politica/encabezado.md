@@ -520,6 +520,8 @@ II.- Expedir Leyes, así como ejercer las facultades que le otorga la Constituci
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 (REFORMADA, B.O. 28 DE FEBRERO DE 2017)
 IV.- Expedir la Ley que organice su estructura y su funcionamiento interno, la cual no necesitará ser promulgada por el Gobernador del Estado para tener vigencia, la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur, así como para expedir la ley que establezca las bases de coordinación del Sistema Anticorrupción del Estado de Baja California Sur, a que se refiere el artículo 160 Bis de esta Constitución, así como las facultades y funciones de los diversos órganos que integren el Sistema Anticorrupción del Estado de Baja California Sur;
+(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)
+IV Bis.- Aprobar e implementar el Plan de Desarrollo Legislativo, que regirá durante cada legislatura, de conformidad con lo dispuesto en la ley de la materia.
 (REFORMADA, B.O. 18 DE JUNIO DE 1998)
 V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 (ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2004)
