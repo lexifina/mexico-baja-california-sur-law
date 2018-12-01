@@ -1,0 +1,4 @@
+B.O. 30 DE NOVIEMBRE DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO 2574 SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
