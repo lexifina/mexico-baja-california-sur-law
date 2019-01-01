@@ -1,0 +1,6 @@
+B.O. 12 DE DICIEMBRE DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO 2576 SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN DEL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA SUR".]
+ARTÍCULO PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+ARTÍCULO SEGUNDO.- El Gobernador del Estado de Baja California Sur, a partir de la entrada en vigor del presente decreto, contara con un plazo de 60 días naturales para expedir el decreto o decretos de "Zonas de Salvaguarda Territoriales para Prevención de la Contaminación" de conformidad con lo establecido en el presente decreto, en las áreas geográficas correspondientes de los municipios del Estado.
+ARTÍCULO TERCERO.- El Gobierno del Estado y los Ayuntamientos de Baja California Sur, deberán armonizar sus reglamentos y demás disposiciones administrativas aplicables y relacionadas al presente decreto en un plazo de 180 días naturales contados a partir de su entrada en vigor.
+ARTÍCULO CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.

@@ -819,6 +819,8 @@ XXV.- Promover el desarrollo económico del Estado buscando siempre que sea comp
 XXVI.- Fomentar la creación de industrias y empresas rurales, buscando la participación armónica de todos los factores de la producción;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 XXVII.- Participar con los ayuntamientos en la planificación del crecimiento de centros urbanos y de fraccionamientos, a fin de propiciar el desarrollo armónico y la convivencia social de la población.
+(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2018)
+XXVII BIS.- Decretar por causas de utilidad pública Áreas Naturales Protegidas y Zonas de Salvaguarda Territoriales para la Prevención de la Contaminación, en términos de lo dispuesto en la Ley de Equilibrio Ecológico y Protección del Ambiente vigente en la Entidad.
 XXVIII.- Mejorar las condiciones económicas y sociales de vida de los campesinos, fomentando en ellos el arraigo a sus lugares de residencia;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 XXIX.- Celebrar convenios con el Gobierno Federal y con los Ayuntamientos del Estado para coordinar sus atribuciones en materias concurrentes, así como para la prestación eficaz de funciones y servicios públicos, y asumir la prestación temporal de los mismos, cuando los Ayuntamientos así lo soliciten, satisfaciendo las formalidades exigidas por esta Constitución y las Leyes que de ella emanen.
@@ -848,7 +850,7 @@ XLIV.- Proponer al Congreso del Estado los aspirantes al puesto de Magistrado o 
 XLV.- Nombrar a los miembros del Consejo Tutelar para Menores en los términos que disponga la Ley de la materia
 (ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)
 XLVI.- Publicar los días 15 de Junio y 15 de Diciembre de cada año, en el Boletín Oficial del Gobierno del Estado y en el periódico local de mayor circulación, las fórmulas y criterios de asignación, así como los montos de las Participaciones Federales y Estatales otorgadas a los Municipios.
-(ADICIONADA, B.O. 10 DE JUNIO DE 2000)(F. DE E., B.O. 31 DE JULIO DE 2000)
+(ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 XLVII.- Solicitar al Consejo Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de Gobierno consideradas como trascendentes para la vida pública del Estado.
 (REFORMADA, B.O. 10 DE JUNIO DE 2000)
 XLVIII.- Las demás que señalen esta Constitución y sus leyes.
@@ -1284,6 +1286,10 @@ VI.- Establecer en el territorio del municipio las delegaciones y subdelegacione
 (REFORMADA, B.O. 31 DE MARZO DE 2013)
 VII.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como de los Asentamientos Humanos, debiendo establecer la prohibición de usos de suelo y uso de edificación para que no se pueda establecer ni funcionar ninguna casa, o lugar abierto o cerrado, en que se practiquen juegos con apuestas ni sorteos, de ninguna clase y similares; en el ámbito de su competencia; proteger, preservar y restaurar el equilibrio ecológico conforme a lo dispuesto en la Fracción XXIX-G del Artículo 73 de la Constitución General de la República, así como su regularización de la tenencia de la tierra en el ámbito de su competencia.
 Asimismo, otorgar licencias y permisos para construcciones. No estarán permitidos en el Estado los permisos o licencias de construcción para establecerse ni funcionar ninguna casa o lugar abierto o cerrado en que se practiquen juegos con apuestas ni sorteos de ninguna clase y similares.
+(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2018)
+VII BIS.- Incorporar a los planes y programas de desarrollo urbano como uso de suelo de conservación, los decretos de Áreas Naturales Protegidas y de Zonas de Salvaguarda Territoriales para la Prevención de la Contaminación, emitidas por el Gobernador del Estado.
+(NOTA: EL 11 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII, TEMA C.1, Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN VII BIS DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE ENERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+NO SE OTORGARÁN LOS PERMISOS PARA CONSTRUCCIONES, CUALQUIERA QUE SEA SU TIPO, QUE TENGAN COMO PROPÓSITO EL MANEJO, LA ACUMULACIÓN O RESGUARDO DE MATERIALES PELIGROSOS, CONFORME A LA LEY EN MATERIA DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN DEL AMBIENTE VIGENTE EN LA ENTIDAD.
 VIII.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, con auxilio del Instituto correspondiente, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos, y que se ejecuten sin la autorización o permiso correspondiente;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 IX.- Promover el mejoramiento de las funciones y Servicios Públicos, y el acrecentamiento del patrimonio Municipal.
