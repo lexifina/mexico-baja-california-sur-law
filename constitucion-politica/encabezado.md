@@ -654,8 +654,10 @@ XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciud
 XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; así como a los Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitución y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
 (ADICIONADA, B.O. 15 DE AGOSTO DE 2018)
 XLIX.- Expedir leyes que establezcan la concurrencia del Estado y de los Municipios en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, cumpliendo con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y de las leyes que de ella emanen y de los tratados internacionales de la materia de los que México sea parte;
+(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
+L.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 (ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2018)
-L.- Expedir todas las leyes con perspectiva de género, logrando la transversalidad e institucionalizar acciones y políticas públicas en su diseño, ejecución y evaluación del estado con perspectiva de género.
+L (SIC).- Expedir todas las leyes con perspectiva de género, logrando la transversalidad e institucionalizar acciones y políticas públicas en su diseño, ejecución y evaluación del estado con perspectiva de género.
 SECCION VI
 DE LA DIPUTACION PERMANENTE
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
@@ -1297,7 +1299,8 @@ f) Panteones;
 g) Rastros;
 h) Calles, parques, jardines y su equipamiento;
 i) Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de los Municipios, así como de su capacidad administrativa y financiera
-X.- Formular anualmente su proyecto de ley de ingresos que será sometido a aprobación del Congreso del Estado;
+(REFORMADA, B.O. EL 20 DE OCTUBRE DE 2018)
+X.- Presentar ante el Congreso del Estado para su aprobación en su caso, durante los primeros quince días del mes de noviembre de cada año, sus Iniciativas de Leyes de Ingresos, que regirán durante el año siguiente.
 (REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)
 XI.- Formular, aprobar, y publicar anualmente conforme a la Ley su Presupuesto de Egresos conforme a sus ingresos, debiendo preverse las partidas necesarias para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de Largo Plazo.
 (REFORMADA, B.O. 17 DE JULIO DE 2017)
