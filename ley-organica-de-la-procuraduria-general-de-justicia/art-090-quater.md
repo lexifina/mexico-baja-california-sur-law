@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)
+ARTÍCULO 90 QUATER.- El cambio de adscripción es la asignación de los Agentes del Ministerio Público, Agentes Estatales de Investigación Criminal, Peritos, y personal administrativo a una unidad administrativa distinta u órgano en el que se desempeñaban dentro de la Procuraduría, y podrá variar por disposición del Procurador o de quien se encuentre facultado para ello.

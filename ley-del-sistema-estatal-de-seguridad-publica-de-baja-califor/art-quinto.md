@@ -1,0 +1,2 @@
+ARTÍCULO QUINTO.- El Gobernador del Estado deberá expedir en un plazo que no exceda de 60 días, el Reglamento del Consejo Estatal de Seguridad Pública de Baja California Sur, en el que se contemple la integración y funcionamiento del Comité Administrador del Fondo de Aportaciones par a (sic) la Seguridad Pública y del Consejo de Honor y Justicia.
+Entre tanto se da cumplimiento a lo dispuesto en el presente artículo, seguirán vigentes los reglamentos de los órganos señalados en lo que no se opongan a la presente Ley.

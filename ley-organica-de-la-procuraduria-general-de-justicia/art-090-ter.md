@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)
+ARTÍCULO 90 TER.- La rotación es el cambio en la asignación de los Agentes del Ministerio Público, Agentes Estatales de Investigación Criminal, Peritos, y personal administrativo, a los lugares en que deban desempeñar sus funciones dentro de la misma unidad administrativa en que se desempeñan dentro de la Procuraduría, sin que ello implique un cambio de adscripción.
