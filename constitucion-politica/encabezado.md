@@ -482,12 +482,12 @@ II.- Los Diputados al Congreso del Estado
 III.- Los Ayuntamientos
 (REFORMADA, B.O. 10 DE MAYO DE 2003)
 IV.- El Tribunal Superior de Justicia
-(REFORMADA, B.O. 27 DE JUNIO DE 2014)
-V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.13% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas.
+(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2018)
+V.- Los ciudadanos del Estado registrados en la lista nominal de electores, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respetivas.
 (REFORMADA, B.O. 15 DE AGOSTO DE 2018)
 VI.- Al inicio de cada periodo ordinario de sesiones, el Gobernador del Estado tiene derecho de presentar dos iniciativas para trámite preferente, o bien señalar con tal carácter hasta dos que se hubieren presentado en periodos anteriores y se encuentren pendientes de dictamen. De igual forma, cada una de las fracciones parlamentarias del Congreso del Estado, podrá presentar una iniciativa para trámite preferente, o bien, señalar con tal carácter una de las que se hubieren presentado en periodos anteriores y que se encuentre pendiente de dictamen. Lo anterior en los términos que prescriba la legislación de la materia.
-(REFORMADO, B.O. 15 DE AGOSTO DE 2018)
-El Congreso del Estado deberá discutir y votar las iniciativas de trámite preferente en un plazo no mayor a treinta días naturales. Las iniciativas ciudadanas se considerarán de trámite preferente para los efectos señalados en el presente párrafo.
+(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2018)
+El Congreso del Estado deberá discutir y votar las iniciativas de trámite preferente en un plazo no mayor a treinta días naturales. Las primeras tres iniciativas ciudadanas que se presenten al inicio de cada periodo ordinario de sesiones, se considerarán de trámite preferente para los efectos señalados en el presente párrafo.
 (REFORMADO [N. DE E. REUBICADO, ANTES PARTE FINAL DEL SEGUNDO PÁRRAFO DEL ARTÍCULO], B.O. 15 DE AGOSTO DE 2018)
 No podrán tener el carácter de preferente las iniciativas de adición o reforma a esta Constitución.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
