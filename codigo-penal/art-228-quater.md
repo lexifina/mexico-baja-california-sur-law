@@ -1,0 +1,7 @@
+(ADICIONADO, B.O. 20 DE JUNIO DE 2019)
+Artículo 228 Quáter. Excluyente de la acción penal. Será causa excluyente de la acción penal el contar desde antes de la radicación del Número Único de Caso correspondiente, con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste.
+Será también excluyente de la acción penal, acreditar con la documentación correspondiente:
+I. Haber adquirido el vehículo o cualquiera de sus partes en subasta pública;
+II. Haber comprado el vehículo, parte o partes del mismo en una negociación legalmente establecida, o directamente de un particular respecto de un vehículo de su propiedad; y
+III. Haber recibido en custodia el vehículo de motor o cualquiera de sus partes, para su reparación o mejora, siempre que se trate de una negociación legalmente establecida y dedicado al ramo correspondiente a la actividad a realizar sobre el vehículo o sus partes.
+Asimismo, no serán sancionadas las conductas a que se refieren las fracciones VII y VIII del artículo 228 Ter de este Código, cuando el vehículo de motor robado, parte o partes a que aluden dichas disposiciones, hayan sido proporcionados por persona a quien le opere respecto de tales bienes, alguna de las excluyentes a que se refiere el presente artículo.

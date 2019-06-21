@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 20 DE JUNIO DE 2019)
+Artículo 228 Sexties. Si en los actos mencionados en los artículos 228 Bis, 228 Ter y 228 Quinquies, participa algún servidor público o persona que presta sus servicios para el Estado por contrato, además de las sanciones a que se refieren estos artículos, se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por el período igual a la pena de prisión impuesta.
