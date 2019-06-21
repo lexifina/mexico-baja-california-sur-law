@@ -1,6 +1,8 @@
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 31 DE DICIEMBRE DE 2017)
 CAPITULO IV BIS
 CIBERACOSO SEXUAL
-(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2017)
-Artículo 183 Bis. Ciberacoso Sexual. A quien cometa el delito de ciberacoso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a diez años de prisión y hasta quinientos días multa.
-Se entiende por ciberacoso sexual a quien con fines lascivos y utilizando la coacción, intimidación, inducción, seducción o engaño, establece comunicación a través de teléfono, Internet, o cualquier otra tecnología de la información y comunicación, con el propósito de obtener contenido sexual o pornográfico del menor, difundirlo, amenazar con hacerlo, y/o concertar un encuentro sexual con el mismo, a fin de cometer cualquiera de los delitos descritos en los artículos 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 182, 183, 184, 185 y 187.
+(REFORMADO, B.O. 20 DE JUNIO DE 2019)
+Artículo 183 Bis. Comete el delito de ciberacoso quien hostigue, amenace o envíe contenido no requerido en una o más ocasiones que por medio de las Tecnologías de la Información y Telecomunicación, redes sociales, correo electrónico, mensajería instantánea o cualquier espacio digital y cause un daño en la dignidad personal o cualquier otro bien tutelado por la norma.
+Se le impondrá la pena de once meses y hasta seis años de prisión y multa de cincuenta a seiscientos días multa en el momento de la comisión del delito.
+Cuando la víctima sea menor de edad, se presumirá el daño a la dignidad por tratarse de una persona en desarrollo psicoemocional y físico y la sanción se aumentará desde una tercera parte de la mínima y hasta dos terceras partes de la máxima.
+Además se instruirá a la autoridad competente a investigar los contenidos denunciados que se presuma constituyan el ciberacoso, y se solicitará la intervención inmediata para inhibir la práctica, a fin de generar un banco de datos con información pertinente que este en constante actualización por la terminología emergente sobre los delitos en el ecosistema digital.
