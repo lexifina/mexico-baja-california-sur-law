@@ -455,6 +455,8 @@ DE LAS SESIONES
 50.- El Congreso del Estado tendrá, durante el año, dos Períodos Ordinarios de Sesiones: el primero, del 01 de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 31 de diciembre del mismo año y el segundo, del 15 de marzo al 30 de junio.
 (REFORMADO, B.O. 30 DE NOVIEMBRE DE 1987)
 A convocatoria del Gobernador o de la Diputación Permanente, los Periodos de Sesiones del Congreso del Estado, podrán iniciarse hasta 15 días antes de la fecha establecida en el párrafo que precede.
+(ADICIONADO, B.O. 20 DE JULIO DE 2019)
+Para garantizar el principio de paridad de género en la Presidencia de las Mesas Directivas de los Periodos Ordinarios de Sesiones, deberá alternarse el género en cada uno de los periodos ordinarios.
 (REFORMADO, B.O. 30 DE ABRIL DE 1981)
 51.- El Congreso del Estado celebrará Período Extraordinario de Sesiones, a convocatoria del Gobernador o la Diputación Permanente. En la convocatoria correspondiente se señalarán el motivo y la finalidad de los Períodos Extraordinarios.
 52.- No podrá celebrarse ninguna sesión sin la concurrencia de más de la mitad del número total de diputados.
@@ -663,6 +665,8 @@ DE LA DIPUTACION PERMANENTE
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
 65.- El día de la clausura del período ordinario de sesiones, el Congreso del Estado elegirá mediante votación por cédula y por mayoría de votos, una diputación permanente compuesta de tres miembros, que funcionará durante el receso ocurrido entre los periodos ordinarios de sesiones. El primero de los nombrados será el Presidente, el segundo el Primer Secretario y el Tercero el Segundo Secretario.
 Asimismo, se elegirán cinco suplentes, los cuales cubrirán las ausencias de los propietarios, conforme sean requeridos en el orden en que fueron electos.
+(ADICIONADO, B.O. 20 DE JULIO DE 2019)
+Para garantizar el principio de paridad de género en la Presidencia de las Mesas Directivas de los Periodos de Recesos, deberá alternarse el género en cada uno de los periodos de receso.
 (REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 1983)
 66.- Son facultades de la Diputación Permanente:
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
