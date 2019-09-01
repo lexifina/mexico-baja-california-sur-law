@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley que crea la Comisión de Conciliación y Arbitraje Médico para el Estado de Baja California Sur, bajo decreto 1626, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur No. 45 de fecha 31 de Octubre de 2006.

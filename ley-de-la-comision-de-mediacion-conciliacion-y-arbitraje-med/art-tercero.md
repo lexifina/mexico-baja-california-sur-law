@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Todas las remisiones en leyes diversas a la Ley que crea la Comisión de Conciliación y Arbitraje Médico para el Estado de Baja California Sur, se entenderán a partir de la entrada en vigencia del presente Decreto a la Ley de la Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Baja California Sur.
