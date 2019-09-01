@@ -1,0 +1,9 @@
+B.O. 31 DE AGOSTO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO 2619 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR, Y SE EXPIDE LA LEY DE LA COMISIÓN DE MEDIACIÓN, CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+ARTÍCULO SEGUNDO.- Se abroga la Ley que crea la Comisión de Conciliación y Arbitraje Médico para el Estado de Baja California Sur, bajo decreto 1626, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur No. 45 de fecha 31 de Octubre de 2006.
+ARTÍCULO TERCERO.-Todas las remisiones en leyes diversas a la Ley que crea la Comisión de Conciliación y Arbitraje Médico para el Estado de Baja California Sur, se entenderán a partir de la entrada en vigencia del presente Decreto a la Ley de la Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Baja California Sur.
+ARTÍCULO CUARTO.- Se le concede a la Comisión hasta un término de 90 días hábiles para emitir el Reglamento correspondiente.
+ARTÍCULO QUINTO.- Por única ocasión y con el fin de salvaguardar los derechos laborales de los funcionarios que han sido nombrados en términos de lo que establece la Ley que crea la Comisión de Conciliación y Arbitraje Médico para el Estado de Baja California Sur, estos durarán en su encargo hasta en tanto no sean removidos por el Titular del Poder Ejecutivo del Estado, en términos de lo dispuesto en la ley de la materia.
+ARTÍCULO SEXTO.- El Comité Técnico previa disponibilidad presupuestal podrá contratar personal para el desahogo de los trabajos de la Comisión.
+ARTÍCULO SÉPTIMO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio
