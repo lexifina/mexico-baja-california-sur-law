@@ -176,6 +176,8 @@ El cargo de Comisionado comenzará a correr a partir del día siguiente de la pu
 Los Comisionados durarán en su encargo siete años y deberán cumplir con los requisitos establecidos en este artículo.
 (ADICIONADO, B.O. 27 DE ABRIL DE 2016)
 El Comisionado presidente será electo entre los comisionados por un periodo de dos años, y podrá ser reelegido para el periodo inmediato; estará obligado a rendir un informe anual ante el Congreso del Estado de Baja California Sur, en la fecha y en los términos que disponga la ley.
+(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)
+La rotación o reelección, en su caso, del Presidente, se realizará en sesión pública dentro de los primeros quince días del mes de diciembre del año que corresponda, debiendo entrar en funciones el día siguiente al de su elección. Dicha sesión deberá ser convocada, al menos con 10 días hábiles de anticipación
 (ADICIONADO, B.O. 27 DE ABRIL DE 2016)
 Los comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones públicas como privadas ya sean docentes, científicas o de beneficencia, los cuales podrá desempeñar fuera de su horario de trabajo y solo podrán ser removidos de su cargo en los términos del Título Noveno de esta Constitución y podrán ser sujetos a Juicio Político.
 (ADICIONADO, B.O. 27 DE ABRIL DE 2016)
@@ -187,7 +189,8 @@ b) Tener cuando menos treinta años cumplidos el día de la designación;
 c) Poseer el día de la designación, título profesional, expedido por autoridad o institución legalmente facultad para ello y tres años de experiencia en el ejercicio profesional;
 d) No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 e) No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
-f) No haber contendido para un cargo de elección popular o ejercido alguno, durante los cinco años anteriores al día de su nombramiento;
+(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)
+f) No haber contendido o ejercido por el cargo de elección popular de gobernador, integrante de los ayuntamientos o diputado por mayoría, durante los cinco años anteriores al día de su nombramiento
 g) No haber sido Magistrado del Tribunal Superior de Justicia del Estado, Magistrado del Tribunal Estatal Electoral, Magistrados del Tribunal de Justicia Administrativa del Estado de Baja California Sur, Juez del Fuero Común, Secretario y Subsecretario del Despacho, Procurador y Subprocurador General de Justicia, Fiscales Especializados, Contralor General, Titular de la Auditoría Superior del Estado, Consejero Presidente o Consejero Electoral del Instituto Estatal Electoral, Presidente de la Comisión Estatal de Derechos Humanos, Oficial Mayor del Tribunal Superior de Justicia del Estado, Oficial Mayor del Congreso del Estado, Secretario General, Tesorero General, Oficial Mayor o Contralor de alguno de los Ayuntamientos de la Entidad, durante los cinco años anteriores al día de su nombramiento; y
 h) No haber fungido como ministro de algún culto religioso cinco años antes al de su designación.
 (ADICIONADO, B.O. 27 DE ABRIL DE 2016)

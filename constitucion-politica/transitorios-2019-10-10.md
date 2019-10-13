@@ -1,0 +1,5 @@
+B.O. 10 DE OCTUBRE DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO 2640 SE ADICIONA UN PÁRRAFO DÉCIMOQUINTO RECORRIÉNDOSE LAS SUBSECUENTES A LA FRACCIÓN VIII DEL APARTADO B Y SE REFORMA EL INCISO F) DE LA FRACCIÓN VIII DEL APARTADO B, AMBOS DEL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+PRIMERO.- El presente decreto entrara en vigor el 1 .o de enero de 2020.
+SEGUNDO.- Por única ocasión la rotación del Comisionado Presidente del Instituto de Transparencia y Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, que deberá llevarse a cabo en el mes de septiembre de 2021 para relevar en el cargo al M. en C. Conrado Mendoza Márquez, tendrá un carácter de Presidencia Interina (sic) con una duración de septiembre de 2021 a diciembre del mismo año, en cuya fecha se elegirá al nuevo Presidente, conforme al presente decreto.
+Quien haya ocupado el cargo en la Presidencia de forma interina en términos del párrafo que precede podrá ser electo o electa para un primer periodo de 2 años.
