@@ -162,10 +162,11 @@ Las resoluciones del organismo garante son vinculatorias, definitivas e inatacab
 La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
 (ADICIONADO, B.O. 27 DE ABRIL DE 2016)
 Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
-(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
-El organismo garante se integrará por tres comisionados, garantizando la equidad de género. Para su nombramiento, el Congreso del Estado, a propuesta de las fracciones parlamentarias realizará una amplia consulta a la sociedad, siguiendo el procedimiento establecido en la Ley Reglamentaria del Poder Legislativo y la Ley de Transparencia Acceso a la Información Pública y Protección de Datos Personales.
-(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
-Para la elección del Comisionado que deba cubrir la vacante, se integrará de una terna compuesta por dos propuestas de la sociedad y una de las fracciones parlamentarias, se requerirá el voto de las dos terceras partes de los miembros del Congreso.
+(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)
+El organismo garante se integrará por tres comisionados, garantizando la equidad de género. Para su nombramiento, el Congreso del Estado, a través (sic)
+(sic) de la Comisión Permanente respectiva realizará una amplia consulta pública a la sociedad, siguiendo el procedimiento establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)
+Para la elección del Comisionado que deba cubrir la vacante se integrará una terna y se requerirá el voto de las dos terceras partes de los miembros del Congreso.
 (ADICIONADO, B.O. 27 DE ABRIL DE 2016)
 Una vez electo, se le tomará la protesta ante el Pleno del Congreso, y se mandará publicar el decreto correspondiente.
 (ADICIONADO, B.O. 27 DE ABRIL DE 2016)
