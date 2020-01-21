@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 20 DE ENERO DE 2020)
+Artículo 29 Bis 5.- Una vez reunidos los requisitos de conformidad con esta ley y su reglamento e integrado el expediente, la autoridad competente emitirá su opinión respecto a la expedición del certificado de idoneidad en un término que no excederá de cuarenta y cinco días naturales, salvo que no tenga certeza respecto de la documentación que integra el expediente o que no cuente con suficientes elementos, caso en el que se podrá ampliar el plazo hasta por treinta días naturales más.

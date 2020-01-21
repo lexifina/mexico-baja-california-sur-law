@@ -1,0 +1,3 @@
+(ADICIONADO, B.O. 20 DE ENERO DE 2020)
+ARTÍCULO 44 BIS.- Cuando en los predios donde se celebre una campeada se encuentre ganado ajeno que se haya introducido accidentalmente; la autoridad notificará a su propietario o representante para que dentro del término de cinco días proceda a retirarlo, previo pago de los gastos que se hubieran generado. Además se notificara de dicha circunstancia a la Secretaría y a la asociación ganadera local correspondiente.
+Transcurrido el tiempo señalado sin que el propietario o representante acuda por el ganado, la autoridad lo pondrá a disposición del Presidente Municipal correspondiente para los efectos que procedan.
