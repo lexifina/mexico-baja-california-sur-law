@@ -1,0 +1,4 @@
+B.O. 10 DE FEBRERO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO 2701 SE REFORMAN EL ARTÍCULO 27 Y LOS PUNTOS C. Y D. DEL ARTÍCULO 28; Y SE ADICIONA UN PUNTO E. AL ARTÍCULO 28, DE LA LEY DE SÍMBOLOS Y PROTOCOLOS OFICIALES DEL ESTADO DE BAJA CALIFORNIA SUR".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+SEGUNDO.- La Comisión a la que se hubiere turnado una propuesta que haya recibido el Congreso del Estado y se encuentren en el análisis a que se refiere el artículo 29 de (sic) Ley de Símbolos y Protocolos Oficiales del Estado de Baja California Sur, deberá en un plazo no mayor a 30 días solicitar a la persona o institución, que hubiere propuesto al candidato o candidata, para que en un plazo igual presente el documento al que se refiere el punto e. del artículo 28 del presente decreto.
