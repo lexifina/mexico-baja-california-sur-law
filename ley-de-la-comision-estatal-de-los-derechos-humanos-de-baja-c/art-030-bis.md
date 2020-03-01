@@ -1,0 +1,3 @@
+(ADICIONADO, B.O. 29 DE FEBRERO DE 2020)
+Artículo 30 Bis.- La convocatoria a sesiones del Consejo Consultivo deberá publicarse en los estrados de la Comisión Estatal de los Derechos Humanos, por lo menos con 48 horas antes de la celebración de la misma, notificándose vida electrónica o personalmente en el domicilio de quienes integren el propio Consejo Consultivo.
+Quien ocupe la Secretaría Ejecutiva de la Comisión Estatal de los Derechos Humanos, realizará funciones de secretaria de acuerdos en las sesiones del Consejo Consultivo; elaborará las actas de sesiones y dependerá de quien presida el Consejo Consultivo.

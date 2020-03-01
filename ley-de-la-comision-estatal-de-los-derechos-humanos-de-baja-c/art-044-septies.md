@@ -1,0 +1,3 @@
+(ADICIONADO, B.O. 29 DE FEBRERO DE 2020)
+Artículo 44 Septies.- Quien ocupe la titularidad del Órgano Interno de Control de la Comisión Estatal será sujeto de responsabilidad en términos de la Ley de Responsabilidades Administrativas del Estado; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión Estatal, serán sancionados por quien ocupe la titularidad del Órgano Interno de Control, en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios y demás legislación y normatividad aplicables.
