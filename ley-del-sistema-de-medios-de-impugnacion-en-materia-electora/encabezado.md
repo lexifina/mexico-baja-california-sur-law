@@ -1,7 +1,7 @@
-LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
-Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 27 de febrero de 2004.
-LEONEL EFRAÍN COTA MONTAÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER.
-QUE EL H. CONGRESO DEL ESTADO, SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
-DECRETO 1456
-EL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR DECRETA:
-LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
+LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de agosto de 2011.
+Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
+DECRETO 712
+LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
+EXPOSICION DE MOTIVOS.
+Por tanto, no basta actuar como un vínculo de comunicación entre unos y otros; el intermediario inmobiliario cumple y debe cumplir el rol que añada valor a las decisiones de los inversionistas nacionales y extranjeros, que facilite la toma de decisiones, además de mostrar o poner sobre la mesa toda aquella información que sea de importancia para sus fines.
