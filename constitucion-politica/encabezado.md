@@ -27,8 +27,8 @@ PRINCIPIOS CONSTITUCIONALES
 2o.- La Constitución General de la República, los Tratados Internacionales de los que el Estado Mexicano sea parte y esta Constitución son la Ley suprema del Estado. Los ordenamientos que de ellas emanen, forman la estructura jurídica del Estado de Baja California Sur.
 3o.- Las autoridades y funcionarios del Estado, no tienen más facultades que las que expresamente les concede esta Constitución, la General de la República y las leyes que de ellas emanen.
 4o.- Es función del Estado proveer el desenvolvimiento de todas las facultades de sus habitantes y promover en todo a que disfruten sin excepción de igualdad de oportunidades, dentro de la justicia social.
-(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)
-5o.- Es finalidad del Estado promover la participación de todos los ciudadanos en los procesos que norman la vida pública y económica de la comunidad. Fomentar la conciencia de la solidaridad Estatal, Nacional e Internacional, se reconoce en esta Constitución, la participación ciudadana como derecho humano.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+5o.- Es finalidad del Estado promover la participación de todas las ciudadanas y ciudadanos en los procesos que norman la vida pública y económica de la comunidad. Fomentar la conciencia de la solidaridad Estatal, Nacional e Internacional, se reconoce en esta Constitución, la participación ciudadana como derecho humano.
 (REFORMADO, B.O. 10 DE JULIO DE 2014)
 6o.- Es función del Estado promover el desarrollo económico y social garantizando que este sea sustentable e integral y regular el proceso demográfico, para procurar el progreso social compartido y que mediante la competitividad, el fomento del crecimiento económico y el empleo, y una más justa distribución del ingreso y la riqueza permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y generación de empleo.
 El Estado planeará, conducirá, coordinará y orientará la actividad económica estatal, y llevará a cabo la regulación y fomento de las actividades que demande el interés general en el marco de libertades que otorga esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
@@ -162,29 +162,28 @@ Las resoluciones del organismo garante son vinculatorias, definitivas e inatacab
 La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
 (ADICIONADO, B.O. 27 DE ABRIL DE 2016)
 Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
-(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)
-El organismo garante se integrará por tres comisionados, garantizando la equidad de género. Para su nombramiento, el Congreso del Estado, a través (sic)
-(sic) de la Comisión Permanente respectiva realizará una amplia consulta pública a la sociedad, siguiendo el procedimiento establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
-(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)
-Para la elección del Comisionado que deba cubrir la vacante se integrará una terna y se requerirá el voto de las dos terceras partes de los miembros del Congreso.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El organismo garante se compondrá por tres integrantes, Comisionadas y Comisionados, observando en su integración el principio de paridad de género. Para su nombramiento, el Congreso del Estado, a través de la Comisión Permanente respectiva realizará una amplia consulta pública a la sociedad, siguiendo el procedimiento establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Para la elección de la Comisionada o Comisionado que deba cubrir la vacante se integrará una terna y se requerirá el voto de las dos terceras partes de los miembros del Congreso.
 (ADICIONADO, B.O. 27 DE ABRIL DE 2016)
 Una vez electo, se le tomará la protesta ante el Pleno del Congreso, y se mandará publicar el decreto correspondiente.
-(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
-El Gobernador del Estado podrá objetar el comisionado electo en uso de su facultad de veto prevista en la Constitución, en estos casos el Congreso del Estado, procederá de nueva cuenta a realizar el procedimiento de elección.
-(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
-El cargo de Comisionado comenzará a correr a partir del día siguiente de la publicación del Decreto correspondiente en el Boletín Oficial del Gobierno del Estado.
-(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
-Los Comisionados durarán en su encargo siete años y deberán cumplir con los requisitos establecidos en este artículo.
-(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
-El Comisionado presidente será electo entre los comisionados por un periodo de dos años, y podrá ser reelegido para el periodo inmediato; estará obligado a rendir un informe anual ante el Congreso del Estado de Baja California Sur, en la fecha y en los términos que disponga la ley.
-(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)
-La rotación o reelección, en su caso, del Presidente, se realizará en sesión pública dentro de los primeros quince días del mes de diciembre del año que corresponda, debiendo entrar en funciones el día siguiente al de su elección. Dicha sesión deberá ser convocada, al menos con 10 días hábiles de anticipación
-(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
-Los comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones públicas como privadas ya sean docentes, científicas o de beneficencia, los cuales podrá desempeñar fuera de su horario de trabajo y solo podrán ser removidos de su cargo en los términos del Título Noveno de esta Constitución y podrán ser sujetos a Juicio Político.
-(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
-El Congreso del Estado resolverá sobre las renuncias que presenten los Comisionados. En esos casos, así como en los de fallecimiento, ausencia, remoción, inhabilitación o cualquier otra circunstancia que le impida a un Comisionado concluir su encargo, el Congreso del Estado designará a quien lo sustituya, conforme a lo establecido en los párrafos precedentes, únicamente para concluir el período respectivo.
-(REFORMADO, B.O. 28 DE FEBRERO DE 2017)
-Para ser Comisionado del organismo garante, se requiere:
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El Titular de la Gubernatura del Estado podrá objetar a la Comisionada o Comisionado electo en uso de su facultad de veto prevista en la Constitución, en estos casos el Congreso del Estado, procederá de nueva cuenta a realizar el procedimiento de elección.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El cargo de Comisionada y Comisionado comenzará a correr a partir del día siguiente de la publicación del Decreto correspondiente en el Boletín Oficial del Gobierno del Estado.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+La Comisionada o Comisionado durarán en su encargo siete años y deberán cumplir con los requisitos establecidos en este artículo.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+La Comisionada presidenta o Comisionado presidente se elegirá entre las y los comisionados por un periodo de dos años, también en este cargo se deberá observar el principio de paridad y garantizar la alternancia entre mujeres y hombres cada periodo electivo, sin perjuicio de lo anterior, la Comisionada o Comisionado presidente podrá ser reelegida o reelegido para el periodo inmediato y estará obligado a rendir un informe anual ante el Congreso del Estado de Baja California Sur, en la fecha y en los términos que disponga la ley.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+La rotación o reelección, en su caso, de la Comisionada presidenta o Comisionado presidente, se realizará en sesión pública dentro de los primeros quince días del mes de diciembre del año que corresponda, debiendo entrar en funciones el día siguiente al de su elección. Dicha sesión deberá ser convocada, al menos con 10 días hábiles de anticipación.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Las Comisionadas o Comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones públicas como privadas ya sean docentes, científicas o de beneficencia, los cuales podrá desempeñar fuera de su horario de trabajo y solo podrán ser removidos de su cargo en los términos del Título Noveno de esta Constitución y podrán ser sujetos a Juicio Político.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El Congreso del Estado resolverá sobre las renuncias que presenten las Comisionadas o los Comisionados. En esos casos, así como en los de fallecimiento, ausencia, remoción, inhabilitación o cualquier otra circunstancia que le impida a una Comisionada o Comisionado concluir su encargo, el Congreso del Estado designará a quien lo sustituya, conforme a lo establecido en los párrafos precedentes, únicamente para concluir el período respectivo.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)
+Para ser Comisionada o Comisionado del organismo garante, se requiere:
 a) Ser ciudadano mexicano y residente en el Estado, por lo menos cinco años antes al día de su elección;
 b) Tener cuando menos treinta años cumplidos el día de la designación;
 c) Poseer el día de la designación, título profesional, expedido por autoridad o institución legalmente facultad para ello y tres años de experiencia en el ejercicio profesional;
@@ -194,8 +193,8 @@ e) No haber ejercido cargo de dirigencia partidista nacional, estatal o municipa
 f) No haber contendido o ejercido por el cargo de elección popular de gobernador, integrante de los ayuntamientos o diputado por mayoría, durante los cinco años anteriores al día de su nombramiento
 g) No haber sido Magistrado del Tribunal Superior de Justicia del Estado, Magistrado del Tribunal Estatal Electoral, Magistrados del Tribunal de Justicia Administrativa del Estado de Baja California Sur, Juez del Fuero Común, Secretario y Subsecretario del Despacho, Procurador y Subprocurador General de Justicia, Fiscales Especializados, Contralor General, Titular de la Auditoría Superior del Estado, Consejero Presidente o Consejero Electoral del Instituto Estatal Electoral, Presidente de la Comisión Estatal de Derechos Humanos, Oficial Mayor del Tribunal Superior de Justicia del Estado, Oficial Mayor del Congreso del Estado, Secretario General, Tesorero General, Oficial Mayor o Contralor de alguno de los Ayuntamientos de la Entidad, durante los cinco años anteriores al día de su nombramiento; y
 h) No haber fungido como ministro de algún culto religioso cinco años antes al de su designación.
-(ADICIONADO, B.O. 27 DE ABRIL DE 2016)
-El organismo garante tendrá un Consejo Consultivo, integrado por cinco Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros del Congreso. La ley determinará los procedimientos a seguir para la presentación de las propuestas al Congreso del Estado.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El organismo garante tendrá un Consejo Consultivo, integrado por cinco Consejeras y Consejeros, observando en su integración el principio de paridad de género, que serán elegidos por el voto de las dos terceras partes de los miembros del Congreso. La ley determinará los procedimientos a seguir para la presentación de las propuestas al Congreso del Estado.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 14.- A nadie se le podrá aplicar una ley retroactivamente en su perjuicio.
 Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las Leyes expedidas con anterioridad al hecho.
@@ -307,7 +306,8 @@ II.- Por ausencia con motivo de la realización de estudios profesionales, cient
 25.- La calidad de sudcaliforniano se pierde por la adquisición expresa de otra.
 CAPITULO III
 DE LOS CIUDADANOS SUDCALIFORNIANOS
-26.- Son ciudadanos del Estado los hombres y las mujeres que siendo sudcalifornianos, hayan cumplido 18 años y tengan un modo honesto de vivir.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+26.- Son ciudadanos del Estado las mujeres y los hombres que residan en Baja California Sur, hayan cumplido 18 años y tengan un modo honesto de vivir.
 27.- Adquieren la calidad de ciudadanos, los mexicanos que habiendo cumplido 18 años, tengan un modo honesto de vivir y hayan residido en el Estado durante 3 años efectivos.
 (REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2013)
 28.- Son derechos de las ciudadanas y ciudadanos sudcalifornianos:
@@ -334,8 +334,10 @@ IV.- Votar en las elecciones, consultas ciudadanas plebiscitarias y de referénd
 V.- Ejercer los cargos de elección popular para los que fuere electo; y
 VI.- Desempeñar las funciones electorales, censales, las de jurado y las de concejo del municipio en que resida.
 30.- Los sudcalifornianos serán preferidos para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano.
-31.- Las prerrogativas de los ciudadanos sudcalifornianos se suspenden por incumplimiento de las obligaciones a que se refiere el artículo 29. Dicha suspensión durará un año, y se impondrá sin menoscabo de las demás sanciones que correspondan.
-32.- Las prerrogativas del ciudadano se recobran:
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+31.- Las prerrogativas de las ciudadanas y ciudadanos Sudcalifornianos se suspenden por incumplimiento de las obligaciones a las que se refiere el Artículo 29. Dicha suspensión durará un año, y se impondrá sin menoscabo de las demás sanciones que correspondan.
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+32.- Las prerrogativas de las ciudadanas y ciudadanos se recobran:
 I.- Por haber cesado la causa que originó la suspensión;
 II.- Por rehabilitación; y
 III.- Por haber transcurrido el término de la suspensión.
@@ -359,7 +361,8 @@ Las autoridades electorales solamente podrán intervenir en los asuntos internos
 Un partido político estatal perderá su registro por no haber obtenido al menos, el tres por ciento del total de la votación valida emitida en cualquiera de las elecciones que se celebren para Gobernador del Estado o Diputados de Mayoría Relativa.
 II.- La ley garantizará que en los procesos electorales estatales y municipales los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 Los partidos políticos y los candidatos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
-Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar o adquirir propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio estatal de este tipo de mensajes contratados o adquiridos fuera del Estado.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar o adquirir propaganda en radio y televisión dirigida a influir en las preferencias electorales de las ciudadanas y ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio estatal de este tipo de mensajes contratados o adquiridos fuera del Estado.
 Para fines electorales locales, el Instituto Nacional Electoral administrará los tiempos que correspondan al Estado en radio y televisión en las estaciones y canales de cobertura en la entidad, conforme a lo establecido en el apartado B de la fracción III del artículo 41 de la Constitución General.
 De igual manera la ley determinará condiciones de equidad para que los partidos políticos tengan acceso a los medios de comunicación social, distintos a la radio y la televisión.
 En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las instituciones, a los propios partidos y a las personas.
@@ -369,7 +372,8 @@ La Ley fijará los criterios para determinar los límites a las erogaciones de l
 La ley fijara las causales de nulidad de las elecciones de gobernador, diputados y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
 Sin perjuicio de lo establecido en el inciso B) del párrafo segundo del Apartado C, de la fracción V del artículo 41 de la Constitución General y con fundamento en el último párrafo del apartado B de la fracción V del artículo 41 del mismo ordenamiento, el Instituto Estatal Electoral, podrá llevar a cabo la fiscalización de las finanzas de los partidos políticos y de las campañas de los candidatos, conforme a la delegación respectiva que en su caso haga el Instituto Nacional Electoral, en los términos establecidos en la Ley General de Instituciones y Procedimientos Electorales.
 IV.- La organización de los procesos electorales es una función que corresponde realizar al poder público, a través de un Organismo Público Local en Materia Electoral que se denominará Instituto Estatal Electoral, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propio, depositario de la autoridad electoral en la entidad, responsable del ejercicio de la función estatal de organizar las elecciones, en los términos de la Ley de la materia, así como responsable de los procedimientos de referéndum y el plebiscito. En el ejercicio de sus actividades, el Instituto se regirá por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
-El Instituto Estatal Electoral residirá en la Capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por un Consejero Presidente y seis Consejeros Electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones y un Secretario Ejecutivo. Los Consejos Distritales y Municipales Electorales serán órganos desconcentrados del Instituto Estatal Electoral y solo funcionaran durante el desarrollo del proceso electoral. Las mesas directivas de casilla estarán integradas por ciudadanos.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El Instituto Estatal Electoral residirá en la Capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por una Consejera o un Consejero Presidente y seis Consejeras o Consejeros Electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones y una o un Secretario Ejecutivo. Las y los Consejos Distritales y Municipales Electorales serán órganos desconcentrados del Instituto Estatal Electoral y solo funcionarán durante el desarrollo del proceso electoral. Las mesas directivas de casilla estarán integradas por ciudadanas y ciudadanos.
 El Instituto Estatal Electoral tendrá a su cargo las facultades, atribuciones y obligaciones que establece el inciso a) del apartado B de la fracción V del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, 104 de la Ley General de Instituciones y Procedimientos Electorales y los relativos de la Ley Electoral del Estado de Baja California Sur;
 V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales.
 En materia electoral, la interposición de los medios de impugnaciones constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado;
@@ -383,17 +387,27 @@ VI.- La ley correspondiente tipificará los delitos y determinará las faltas en
 VII.- La ley de la materia señalará las reglas a las que se sujetarán las candidaturas independientes a cargos de elección popular;
 VIII.- La Procuraduría General de Justicia del Estado, contará con una Agencia del Ministerio Público Especializada en delitos electorales; y
 IX.- La Ley de la materia señalará las reglas a las que se sujetarán las candidaturas comunes.
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+36 BIS.- El Tribunal Estatal Electoral es el órgano jurisdiccional especializado en materia electoral en el Estado y gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Estará conformado por tres integrantes, Magistradas y Magistrados que actuarán en forma colegiada y permanecerán en su encargo durante siete años; cumplirán sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
 (ADICIONADO, B.O. 27 DE JUNIO DE 2014)
-36 BIS.- El Tribunal Estatal Electoral es el órgano jurisdiccional especializado en materia electoral en el Estado y gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Estará integrado por Tres Magistrados que actuarán en forma colegiada y permanecerán en su encargo durante siete años; cumplirán sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
 El Tribunal Estatal Electoral no formará parte del Poder Judicial del Estado.
-Los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, de conformidad con lo dispuesto por la Constitución General, y la Ley General de Instituciones y Procedimientos Electorales.
-Los magistrados electorales serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes en la materia.
-Durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Las Magistradas y Magistrados electorales serán electos en forma escalonada, observando el principio de paridad de género, por las dos terceras partes de los miembros presentes de la Cámara de Senadores, de conformidad con lo dispuesto por la Constitución General, y la Ley General de Instituciones y Procedimientos Electorales.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Las Magistradas y Magistrados serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes en la materia.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Durante el periodo de su encargo, las Magistradas y Magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+(ADICIONADO, B.O. 27 DE JUNIO DE 2014)
 Todas las sesiones del Tribunal Estatal Electoral serán públicas.
-Para ser magistrados electorales se requieren cubrir los requisitos señalados en el artículo 115 de la Ley General de Instituciones y Procedimientos Electorales.
-En caso de presentarse alguna vacante temporal de alguno de los magistrados, ésta se cubrirá de conformidad con el procedimiento que disponga la ley de la materia.
-Tratándose de una vacante definitiva de magistrado, ésta será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
-La ley relativa establecerá el procedimiento de designación del magistrado presidente, así como las reglas para cubrir las vacantes temporales que se presenten. La presidencia deberá ser rotatoria.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Para ser Magistrada o Magistrado electorales se requieren cubrir los requisitos señalados en el artículo 115 de la Ley General de Instituciones y Procedimientos Electorales.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+En caso de presentarse alguna vacante temporal de alguno de las Magistradas y Magistrados, ésta se cubrirá de conformidad con el procedimiento que disponga la ley de la materia.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Tratándose de una vacante definitiva de Magistrada y Magistrado, ésta será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+La ley relativa establecerá el procedimiento de designación de la Magistrada presidenta o Magistrado presidente, así como las reglas para cubrir las vacantes temporales que se presenten. La presidencia deberá ser rotatoria y encabezada alternadamente entre hombres y mujeres en cada periodo electivo.
+(ADICIONADO, B.O. 27 DE JUNIO DE 2014)
 La organización y competencia del Tribunal Estatal Electoral será fijada por la ley.
 37.- El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, teniendo como base de su división territorial, de su organización política y administrativa, el Municipio Libre.
 38.- Baja California Sur es un Estado democrático, considerando a la democracia, no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
@@ -408,33 +422,43 @@ DEL CONGRESO
 40.- El poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Baja California Sur".
 SECCION II
 DE LA ELECCION E INSTALACION DEL CONGRESO
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+41.- El Congreso del Estado de Baja California Sur se integrará con dieciséis diputadas y diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cinco diputadas y diputados electos mediante el principio de representación proporcional, apegándose en ambos casos, a lo siguiente:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)
+I.- La asignación de diputadas y diputados por el principio de representación proporcional se hará de acuerdo con el procedimiento que se establezca en la Ley, y se sujetará a las siguientes bases:
 (REFORMADO, B.O. 27 DE JUNIO DE 2014)
-41.- El Congreso del Estado de Baja California Sur se integrará con dieciséis Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cinco Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a lo siguiente:
-I.- La asignación de diputados por el principio de representación proporcional se hará de acuerdo con el procedimiento que se establezca en la Ley, y se sujetará a las siguientes bases:
 a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado;
-b).- Los partidos políticos tendrán derecho a que se les asignen diputados por el principio de representación proporcional, siempre y cuando hayan registrado candidatos, por lo menos, en ocho distritos electorales uninominales; y
-c).- Para que un partido político tenga derecho a que le sean asignados diputados de representación proporcional, deberá alcanzar por lo menos el tres por ciento del total de la votación valida emitida para diputados de Mayoría Relativa, en los términos que establezca la ley.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+b).- Los partidos políticos tendrán derecho a que se les asignen diputadas y diputados por el principio de representación proporcional, siempre y cuando hayan registrado candidatos, por lo menos, en ocho distritos electorales uninominales; y
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+c).- Para que un partido político tenga derecho a que le sean asignados diputadas y diputados de representación proporcional, deberá alcanzar por lo menos el tres por ciento del total de la votación valida emitida para diputadas y diputados de Mayoría Relativa, en los términos que establezca la ley.
+(REFORMADO, B.O. 27 DE JUNIO DE 2014)
 La asignación se hará independientemente de los triunfos de mayoría que hubiesen obtenido siguiendo un orden de mayor a menor porcentaje de votos obtenidos.
+(REFORMADA, B.O. 27 DE JUNIO DE 2014)
 II.- El Consejo General del Instituto Estatal Electoral asignará las diputaciones por el principio de Representación Proporcional a los partidos políticos con derecho a ello, en los términos de las fórmulas y reglas establecidas en esta Constitución y en la Ley de la Materia.
-III.- En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos a su porcentaje de votación estatal valida emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal valida emitida más el ocho por ciento; asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
-En ningún caso los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, más de dos candidatos a Diputados por mayoría relativa y por representación proporcional.
-Ningún partido político podrá contar con más de dieciséis diputados por ambos principios.
-(REFORMADO, B.O. 10 DE JULIO DE 1978)
-42.- Los diputados de mayoría relativa y de representación proporcional, son representantes del pueblo sudcaliforniano, tienen la misma categoría e igualdad de derechos y obligaciones. Por cada diputado propietario se elegirá un suplente y la elección será por fórmula.
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+III.- En ningún caso, un partido político podrá contar con un número de diputadas y diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos a su porcentaje de votación estatal valida emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal valida emitida más el ocho por ciento; asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+En ningún caso los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, más de dos candidatos a Diputadas y Diputados por mayoría relativa y por representación proporcional.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Ningún partido político podrá contar con más de dieciséis Diputadas y Diputados por ambos principios.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+42.- Las diputadas y diputados de Mayoría Relativa y de Representación Proporcional son representantes del pueblo Sudcaliforniano y tienen la misma categoría e igualdad de derechos y obligaciones. Por cada diputada y diputado propietario se elegirá un suplente y la elección será por fórmula.
 (REFORMADO, B.O. 14 DE JULIO DE 1995)
 43.- Las elecciones de diputados por el principio de mayoría relativa serán computadas y declaradas válidas por los órganos electorales en cuyo territorio se haya llevado a cabo el proceso electoral correspondiente, el que otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos, en los términos de la ley de la materia.
 (REFORMADO, B.O. 18 DE JUNIO DE 1998)
 El cómputo de las elecciones de Diputados por el principio de representación proporcional, así como la asignación de éstos, será efectuada por el Instituto Estatal Electoral.
 (DEROGADO TERCER PÁRRAFO, B.O. 18 DE JUNIO DE 1998)
-(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 1999)
-44.- Para ser Diputado al Congreso del Estado se requiere:
-I.- Ser sudcaliforniano y ciudadano del Estado en ejercicio de sus derechos;
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+44.- Para ser Diputada o Diputado al Congreso del Estado se requiere:
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+I.- Ser Sudcaliforniano y ciudadana o ciudadano del Estado en ejercicio de sus derechos;
 (REFORMADA, B.O. 14 DE JUNIO DE 1999)
 II.- Tener 18 años cumplidos al día de la elección.
 (REFORMADA, B.O. 27 DE JUNIO DE 2014)
 III.- Estar en pleno goce de sus derechos y tener residencia efectiva no menor de un año anterior al día de la elección, en el distrito por el que se pretende postular o tres años en el Estado.
-(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 1987)
-45.- No podrá ser Diputado:
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+45.- No podrá ser Diputada o Diputado:
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
 (REFORMADA, B.O. 28 DE FEBRERO DE 2017)
 II.- Los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Fiscal Especializado en materia de Combate a la Corrupción, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa, los miembros del Consejo de la Judicatura, los Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días naturales antes de la fecha de las elecciones.
@@ -443,12 +467,16 @@ IV.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y
 (REFORMADA, B.O. 14 DE JULIO DE 1995)
 VI.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección.
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+46.- Las diputadas y diputados al Congreso del Estado podrán ser reelectos, hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 (REFORMADO, B.O. 27 DE JUNIO DE 2014)
-46.- Los Diputados al Congreso del Estado podrán ser reelectos, hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 La ley establecerá las reglas y condiciones que se observaran para hacer efectivo este principio.
-47.- Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
-48.- Los diputados en ejercicio, no podrán desempeñar ninguna otra comisión o empleo público por el que disfruten sueldo, sin licencia previa del Congreso del Estado o de la Diputación Permanente, pero entonces cesarán en su función representativa mientras duren en su nuevo cargo. No quedan comprendidas en esta disposición las actividades docentes.
-49.- Son obligaciones de los diputados:
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+47.- Las diputadas y diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+48.- Las diputadas y diputados en ejercicio no podrán desempeñar ninguna otra comisión o empleo público por el que disfruten de sueldo sin licencia previa del Congreso del Estado o de la Diputación Permanente, pero entonces cesarán en su función representativa, mientras duren en su nuevo cargo. No quedan comprendidas en esta disposición las actividades docentes.
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+49.- Son obligaciones de las Diputadas y Diputados:
 I.- Asistir regularmente a las sesiones;
 II.- Desempeñar las comisiones que les sean conferidas;
 III.- Visitar los distritos en los que fueren electos e informar a los habitantes de sus labores legislativas; y
@@ -463,10 +491,13 @@ A convocatoria del Gobernador o de la Diputación Permanente, los Periodos de Se
 Para garantizar el principio de paridad de género en la Presidencia de las Mesas Directivas de los Periodos Ordinarios de Sesiones, deberá alternarse el género en cada uno de los periodos ordinarios.
 (REFORMADO, B.O. 30 DE ABRIL DE 1981)
 51.- El Congreso del Estado celebrará Período Extraordinario de Sesiones, a convocatoria del Gobernador o la Diputación Permanente. En la convocatoria correspondiente se señalarán el motivo y la finalidad de los Períodos Extraordinarios.
-52.- No podrá celebrarse ninguna sesión sin la concurrencia de más de la mitad del número total de diputados.
-53.- Los diputados que no concurran a una sesión sin causa justificada o sin permiso del Presidente del Congreso del Estado, no tendrán derecho a la dieta correspondiente al día en que faltaren.
-Cuando algún diputado deje de asistir por más de cinco sesiones continuas del Congreso del Estado, se entenderá que renuncia a concurrir al período respectivo. En este caso, se llamará al suplente para que lo reemplace.
-54.- Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electos diputados no se presenten, sin causa justificada, a juicio del Congreso del Estado, a desempeñar el cargo dentro del plazo señalado en el artículo anterior.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+52.- No podrá celebrarse ninguna sesión sin la concurrencia de más de la mitad del número total de diputados y diputados (sic).
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+53.- Las diputadas o diputados que no concurran a una sesión sin causa justificada o sin permiso de la Presidenta o Presidente del Congreso del Estado, no tendrán derecho a la dieta correspondiente al día en que faltaren.
+Cuando alguna diputada o diputado deje de asistir por más de cinco sesiones continuas del Congreso del Estado, se entenderá por renuncia a concurrir al período respectivo. En este caso, se llamará al suplente para que lo reemplace.
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+54.- Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley señale quienes, habiendo sido electo (sic) diputadas y diputados, no se presenten, sin causa justificada, a juicio del Congreso del Estado, a desempeñar el cargo dentro del plazo señalado en el artículo anterior.
 También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que habiendo postulado candidatos en una elección, acuerden que sus miembros que resultaren electos, no se presenten a desempeñar sus funciones.
 (REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2016)
 55.- Durante el Primer Periodo Ordinario de Sesiones de cada año de ejercicio Constitucional del Congreso del Estado, el Gobernador del Estado presentará un informe por escrito, en el que exponga el estado que guarda la Administración Pública del Estado; sin exceder del 15 de noviembre del año que corresponda. En el último año de ejercicio constitucional del Gobernador enviará el informe antes del 10 de septiembre.
@@ -474,22 +505,22 @@ También incurrirán en responsabilidad, que la misma ley sancionará, los parti
 El Congreso realizará el análisis del informe y podrá solicitar por escrito al Gobernador del Estado ampliar la información respecto de algún asunto en particular, y citar a los Secretarios de Despacho o su equivalente, Procurador General de Justicia u otro funcionario de la Administración Pública Estatal Centralizada o Paraestatal, para dar cuenta al Congreso del Estado de dichos asuntos.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 Cuando se trate del estudio de algún asunto o proyecto sobre la materia a cargo de los Secretarios de Despacho, Procurador General o cualquier otro servidor público o titular de la Administración Pública Estatal, Paraestatal u Organismo Autónomo, el Congreso podrá citarlos a comparecer bajo protesta de decir verdad.
-(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
-56.- La Sede del Congreso será la Ciudad de La Paz, Capital del Estado de Baja California Sur y podrá cambiarla provisionalmente, si así lo acuerdan las dos terceras partes de la totalidad de los Diputados, notificándolo a los otros dos poderes.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+56.- La Sede del Congreso será la Ciudad de La Paz, Capital del Estado de Baja California Sur y podrá cambiarla provisionalmente, si así lo acuerdan las dos terceras partes de la totalidad de las diputadas y diputados, notificándolo a los otros dos poderes.
 SECCION IV
 DE LA INICIATIVA Y FORMACION DE LAS LEYES Y DECRETOS
 (REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)
 57.- La facultad de iniciar leyes, decretos, reformas y adiciones, compete a:
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
 I.- El Gobernador del Estado.
-(REFORMADA, B.O. 10 DE MAYO DE 2003)
-II.- Los Diputados al Congreso del Estado
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+II.- Las Diputadas y Diputados al Congreso del Estado.
 (REFORMADA, B.O. 10 DE MAYO DE 2003)
 III.- Los Ayuntamientos
 (REFORMADA, B.O. 10 DE MAYO DE 2003)
 IV.- El Tribunal Superior de Justicia
-(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2018)
-V.- Los ciudadanos del Estado registrados en la lista nominal de electores, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respetivas.
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+V.- Las ciudadanas y ciudadanos del Estado registrados en la lista nominal de electores, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas.
 (REFORMADA, B.O. 15 DE AGOSTO DE 2018)
 VI.- Al inicio de cada periodo ordinario de sesiones, el Gobernador del Estado tiene derecho de presentar dos iniciativas para trámite preferente, o bien señalar con tal carácter hasta dos que se hubieren presentado en periodos anteriores y se encuentren pendientes de dictamen. De igual forma, cada una de las fracciones parlamentarias del Congreso del Estado, podrá presentar una iniciativa para trámite preferente, o bien, señalar con tal carácter una de las que se hubieren presentado en periodos anteriores y que se encuentre pendiente de dictamen. Lo anterior en los términos que prescriba la legislación de la materia.
 (REFORMADO, B.O. 30 DE NOVIEMBRE DE 2018)
@@ -627,8 +658,8 @@ XXXV.- Crear o suprimir municipios y reformar la división política del Estado 
 XXXVI.- Emitir las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presentan entre los Ayuntamientos entre sí, y entre estos y el poder Ejecutivo del Estado por motivo de la celebración de convenios, el ejercicio de sus funciones y la prestación de servicios públicos municipales;
 (REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)
 XXXVII.- Suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato de alguno de sus miembros por alguno de los casos previstos en la Ley, mediante el voto de las dos terceras partes de la totalidad de los integrantes del Congreso del Estado.
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
-XXXVIII.- En caso de declararse desintegrado un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, el Congreso del Estado designará a un Concejo Municipal, el cual estará integrado por el mismo número de miembros del ayuntamiento y se elegirá de entre las propuestas de hasta 10 ciudadanos quienes deberán cumplir con los requisitos de elegibilidad para los regidores, que presenten ante el Congreso del Estado cada una de las fracciones parlamentarias.
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+XXXVIII.- En caso de declararse desintegrado un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos el Congreso del Estado designará a un Consejo Municipal, el cual estará integrado por el mismo número de miembros del Ayuntamiento y se elegirá de entre las propuestas de hasta 10 ciudadanas y ciudadanos, observando el principio de paridad de género, quienes deberán cumplir con los requisitos de elegibilidad para los regidores, que presenten ante el Congreso del Estado cada una de las fracciones parlamentarias.
 XXXIX.- Expedir la ley de expropiación por causa de utilidad pública;
 XL.- Expedir leyes para fijar la extensión máxima de la propiedad rural, en los términos del artículo 27 fracción XVII de la Constitución General de la República;
 XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, sobre la base de su naturaleza inalienable, ingravable e inembargable;
@@ -637,9 +668,12 @@ XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la sup
 XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí, con el Gobierno del Estado y con Ayuntamientos de otros Estados para ejecución de obras y prestación de Servicios Públicos, así como emitir el procedimiento y condiciones para que el Gobierno Estatal asuma temporalmente una función o servicio municipal, previa solicitud del Ayuntamiento respectivo, aprobado por cuando menos dos terceras partes de sus integrantes, cuando al no existir el convenio correspondiente, el Congreso del Estado, considere que el Ayuntamiento de que se trate esté imposibilitado para ejercerlas o prestarlas.
 (REFORMADA, B.O. 28 DE FEBRERO DE 2017)
 XLIV.- Expedir las leyes que instituyan el Tribunal de Justicia Administrativa del Estado de Baja California Sur, su organización, funcionamiento, los procedimientos y los recursos contra sus resoluciones, dotado de plena autonomía para dictar sus fallos, mismo que tendrán a su cargo dirimir las controversias que se susciten entre las administraciones públicas estatal y municipales y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
-La ley que regule la creación y funcionamiento del Tribunal de Justicia Administrativa del Estado de Baja California Sur establecerá su composición y el número de Magistrados que lo integran, pudiendo funcionar en pleno o en salas atendiendo primordialmente al principio de especialización para conocer y resolver los asuntos enlistados en esta fracción.
-El o los Magistrados que integren el Tribunal de Justicia Administrativa del Estado de Baja California Sur durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de ley, pudiendo ser reelectos por una única vez, por un periodo igual de seis años. Dicho procedimiento se estipulará en la Ley Orgánica respectiva.
-El o los Magistrados que integren el Tribunal de Justicia Administrativa del Estado de Baja California Sur podrán ser removidos por las causas graves que establezca la ley y con la misma votación aplicable para su designación.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El Tribunal de Justicia Administrativa estará compuesto por tres integrantes, Magistradas y Magistrados, debiendo observarse para su integración el principio de paridad de género. Podrá funcionar en pleno o en salas atendiendo primordialmente al principio de especialización para conocer y resolver los asuntos enlistados en el párrafo anterior.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Las Magistradas y Magistrados que integren el Tribunal de Justicia Administrativa del Estado de Baja California Sur durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de ley, pudiendo ser reelectos por una única vez, por un periodo igual de seis años. Dicho procedimiento se estipulará en la Ley Orgánica respectiva.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Las Magistradas y Magistrados que integren el Tribunal de Justicia Administrativa del Estado de Baja California Sur podrán ser removidos por las causas graves que establezca la ley y con la misma votación aplicable para su designación.
 El Tribunal de Justicia Administrativa del Estado de Baja California Sur tendrá un Presidente, que se elegirá de acuerdo a los procedimientos que la ley señale.
 (REFORMADA, B.O. 28 DE FEBRERO DE 2017)
 XLV.- Elegir a los Magistrados del Tribunal de Justicia Administrativa del Estado de Baja California Sur, de la terna que el Gobernador someta a su consideración, previa comparecencia de las personas propuestas, designando al Magistrado que deba cubrir la vacante.
@@ -654,10 +688,10 @@ El Congreso del Estado podrá acordar la no ratificación de los aspirantes prop
 Previamente a la ratificación o no ratificación por el Congreso del Estado, la persona nombrada por el Gobernador del Estado para ocupar el cargo de Procurador General de Justicia del Estado y de Contralor General deberá de comparecer ante el Pleno del Poder Legislativo.
 (ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)
 XLVI bis.- Elegir, con el voto de las dos terceras partes de los miembros que concurran a la sesión, al Titular de la Fiscalía Especializada en materia de combate a la Corrupción de la Procuraduría General de Justicia del Estado, quien deberá de comparecer ante el Pleno del Poder Legislativo.
-(ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
-XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
-(REFORMADA, B.O. 27 DE ABRIL DE 2016)
-XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; así como a los Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitución y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de las ciudadanas y ciudadanos, los actos del Poder Ejecutivo que sean trascendentales para el orden público o el interés social del Estado, y en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+XLVIII.- Elegir a la Presidenta o Presidente y Consejeras y Consejeros de la Comisión Estatal de Derechos Humanos; así como a las Comisionadas y Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitución y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
 (ADICIONADA, B.O. 15 DE AGOSTO DE 2018)
 XLIX.- Expedir leyes que establezcan la concurrencia del Estado y de los Municipios en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, cumpliendo con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y de las leyes que de ella emanen y de los tratados internacionales de la materia de los que México sea parte;
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
@@ -714,16 +748,25 @@ VIII. Actuar como órgano técnico de la Legislatura para la revisión y fiscali
 Los Poderes del Estado y las demás entidades fiscalizadas facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley. Asimismo, los servidores públicos locales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema Financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
 (ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
 66 Quater.- El Congreso del Estado designará al titular de la Auditoría Superior del Estado por el voto de las dos terceras partes de los integrantes de la Legislatura. La ley determinará el procedimiento para su designación. Dicho titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Noveno de esta Constitución.
-(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
-66 Quinquies.- Para ser titular de la Auditoría Superior del Estado se deben cumplir los siguientes requisitos:
-I. Ser ciudadano mexicano por nacimiento y estar en pleno ejercicio de sus derechos civiles y políticos;
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+66 Quinquies.- Para ser Titular de la Auditoría Superior del Estado se deben cumplir los siguientes requisitos:
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+I.- Ser ciudadana o ciudadano mexicano por nacimiento y estar en pleno ejercicio de sus derechos civiles y políticos;
+(ADICIONADA, B.O. 28 DE FEBRERO DE 2017)
 II. No tener más de sesenta y cinco años de edad, ni menos de treinta, el día de la designación;
+(ADICIONADA, B.O. 28 DE FEBRERO DE 2017)
 III. Contar, cuando menos, con título y cédula profesional de nivel licenciatura en las carreras de Contaduría Pública, Derecho, Economía o Administración;
+(ADICIONADA, B.O. 28 DE FEBRERO DE 2017)
 IV. Contar al momento de su designación, con una experiencia comprobada de cinco años, en el control, manejo y administración de recursos públicos;
+(ADICIONADA, B.O. 28 DE FEBRERO DE 2017)
 V. No haber sido sancionado por responsabilidad grave como Servidor Público y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+(ADICIONADA, B.O. 28 DE FEBRERO DE 2017)
 VI. No haber sido secretario de despacho, Procurador General de Justicia del Estado, Titular de Dependencias o entidades del Poder Ejecutivo, ni dirigente de algún partido político, ni haber formado parte de los órganos electorales con derecho a voto, ni haber sido Tesorero, ni Contralor Municipal, durante los tres años previos al de su designación;
+(ADICIONADA, B.O. 28 DE FEBRERO DE 2017)
 VII. No haber ejercido cargo de representación popular ya sea federal, estatal o municipal, durante los tres años previos al de su designación; y
+(ADICIONADA, B.O. 28 DE FEBRERO DE 2017)
 VIII. No ser ministro de culto religioso alguno.
+(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)
 Durante el ejercicio de su encargo, el titular de la Auditoría Superior del Estado no podrá formar parte de ningún partido político, tampoco podrá desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 CAPITULO II
 DEL PODER EJECUTIVO
@@ -779,10 +822,12 @@ DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 (REFORMADA, B.O. 10 DE MAYO DE 2003)
 I.- Promulgar, cumplir y hacer cumplir las leyes federales
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
-III.- Nombrar y remover libremente a los Secretarios del Despacho, y demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes, garantizando el principio de igualdad de género.
-(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
-IV.- Presentar a consideración del Congreso del Estado, las ternas para la designación de los Magistrados que integrarán el Tribunal Superior de Justicia del Estado y someter sus licencias por mas de un mes o sus renuncias o remociones a la aprobación del propio Congreso.
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+III.- Nombrar y remover libremente a las Secretarias y los Secretarios del Despacho, y demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes, observando el principio de paridad de género. La Ley Orgánica de la Administración Pública del Estado determinara las formas y modalidades para observar el principio de paridad de género en los nombramientos de las personas Titulares de las Secretarias del Despacho del Poder Ejecutivo Estatal.
+En caso de que los nombramientos y remociones de los Titulares de las Secretarías del Despacho se realicen en contravención a lo establecido en el párrafo anterior, se considerarán nulos de pleno derecho.
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+IV.- Presentar a consideración del Congreso del Estado, las ternas para la designación de las Magistradas y Magistrados que integrarán el Tribunal Superior de Justicia del Estado y someter sus licencias, renuncias o remociones a la aprobación del propio Congreso.
+Los nombramientos realizados en términos del presente numeral deberán garantizar la observancia del principio de paridad de género en la conformación del Pleno del Tribunal Superior de Justicia del Estado;
 (REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)
 V.- Presentar a consideración del Congreso del Estado, la propuesta para la designación del Procurador General de Justicia y Contralor General, y una vez ratificados, expedir los nombramientos respectivos, pudiéndolos remover libremente por causa justificada.
 En el caso de que el Congreso del Estado resuelva no ratificar las propuestas de nombramiento efectuadas en dos ocasiones, podrá designarlos libremente;
@@ -977,67 +1022,87 @@ X.- Los Jueces Especializados en Justicia para Adolescentes
 XI.- Los Jueces de Ejecución; y
 (ADICIONADA, B.O. 10 DE ABRIL DE 2013)
 XII.- Los demás funcionarios y auxiliares de la administración de Justicia.
-(REFORMADO, B.O. 31 DE JULIO DE 2016)
-La ley establecerá las bases mediante las cuales el Consejo de la Judicatura procederá en la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+La ley establecerá las bases mediante las cuales el Consejo de la Judicatura procederá en la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, observando el principio de paridad de género, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 (REFORMADO, B.O. 6 DE ABRIL DE 1999)
 90.- El Tribunal Superior de Justicia del Estado se integrará por siete Magistrados nombrados por el Poder Legislativo, de entre las ternas propuestas por el Gobernador del Estado.
 Para el trámite de las renuncias, licencias y remociones de los Magistrados se seguirá el procedimiento que esta Constitución y las Leyes de la Materia establecen.
-(REFORMADO, B.O. 20 DE FEBRERO DE 1988)
-91.- Para ser Magistrado se requiere:
-(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
-I.- Ser ciudadano Sudcaliforniano, en pleno ejercicio de sus derechos políticos y civiles y haber residido en el Estado durante los dos años anteriores al día de la designación.
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+91.- Para ser Magistrada o Magistrado, se requiere:
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+I.- Ser ciudadana o ciudadano, en pleno ejercicio de sus derechos políticos y civiles y haber residido en el Estado durante los dos años anteriores al día de la designación.
 (REFORMADA, B.O. 6 DE FEBRERO DE 2002)
 II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 (REFORMADA, B.O. 18 DE JUNIO DE 1998)
 III.- Poseer al día de su elección, con una antigüedad mínima de diez años, Título y Cédula Profesional de Licenciado en Derecho, expedidos por la autoridad o institución legalmente facultada para ello;
+(REFORMADA, B.O. 20 DE FEBRERO DE 1988)
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 (REFORMADA, B.O. 28 DE FEBRERO DE 2017)
 V.- No haber sido Secretario de Despacho del Poder Ejecutivo, Contralor General, Procurador General de Justicia, Fiscal Especializado en materia de Combate a la Corrupción, Diputado Local o Presidente Municipal, durante el año previo al día de la designación.
 VI.- (DEROGADA, B.O. 24 DE DICIEMBRE DE 2008)
-[N. DE E. ANTES FRACCIÓN V, B.O. 6 DE FEBRERO DE 2002]
-Los Magistrados del Tribunal Superior de Justicia serán designados preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Las Magistradas y Magistrados del Tribunal Superior de Justicia serán elegidos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, observando el principio de paridad de género en la conformación del Pleno del Tribunal.
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+92.- Las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado serán electos por el Congreso del Estado, de la terna que el Titular de la Gubernatura del Estado someta a su consideración, el cual, previa comparecencia de las personas propuestas, designará a la Magistrada o Magistrado que deba cubrir la vacante. La terna deberá garantizar que se observe el principio de paridad de género en la conformación del Pleno del Tribunal.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+La designación de las Magistradas y Magistrados se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de diez días naturales. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrada o Magistrado la persona que, dentro de dicha terna, designe el Titular de la Gubernatura del Estado.
 (ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)
-92.- Los Magistrados del Tribunal Superior de Justicia del Estado serán electos por el Congreso del Estado, de la terna que el Gobernador someta a su consideración, el cual, previa comparecencia de las personas propuestas, designará al Magistrado que deba cubrir la vacante.
-La designación de los Magistrados se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de diez días naturales. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
 En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
-(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2017)
-93.- Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley y podrán ser reelectos por un periodo igual de seis años. Únicamente tendrán derecho a un haber de retiro durante los dos años posteriores a la conclusión del cargo, tanto a quienes hayan durado en su cargo doce años con motivo de una reelección, así como a los que hayan cumplido seis años en el cargo. Este derecho es intransferible.
-(REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)
-En caso de resultar reelectos los magistrados, sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
-I. Al cumplir doce años en el cargo de Magistrado;
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+93.- Las Magistradas y Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley y podrán ser reelectos por un periodo igual de seis años. Únicamente tendrán derecho a un haber de retiro durante los dos años posteriores a la conclusión del cargo, tanto a quienes hayan durado en su cargo doce años con motivo de una reelección, así como a los que hayan cumplido seis años en el cargo. Este derecho es intransferible.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)
+En caso de resultar reelectos las Magistradas y Magistrados, sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+I.- Al cumplir doce años en el cargo de Magistrada o Magistrado;
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)
 II. Por incapacidad física o mental que impida el buen desempeño de sus funciones;
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)
 III. Si no conserva los requisitos establecidos para su nombramiento, previstos en nuestra constitución;
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)
 IV. Incurran en faltas de probidad u honradez, mala conducta o negligencia en el desempeño de sus labores;
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)
 V. Si no gozan de buena reputación con motivo del ejercicio de su encargo;
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)
 VI. Sean condenados por sentencia ejecutoriada en juicio de responsabilidad administrativa de servidores públicos o juicio político que los inhabilite o destituya, en los casos que éstos procedan;
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)
 VII. Sean jubilados en los términos legales o renuncien a su puesto;
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)
 VIII. Desempeñen otro empleo o encargo de la Federación, del Estado, de algún Municipio o particulares, salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia;
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)
 IX. En los demás casos que establezca esta constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado; y
+(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)
 X. No excusarse de conocer los asuntos de los que tenga conocimiento que está impedido conforme a la ley
-(REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)
-Tratándose de la fracción I, el Congreso del Estado, a través del Presidente de la Mesa Directiva en turno, notificará al Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. Para las demás hipótesis previstas en el presente artículo, el Congreso del Estado proveerá lo conducente a fin de iniciar procedimiento de privación del puesto de magistrado respetando en todo caso la garantía de audiencia.
-(REFORMADO, B.O. 28 DE FEBRERO DE 2017)
-Los Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Fiscal Especializado en Materia de Combate a la Corrupción, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
-(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)
-93 BIS.- Para la reelección de Magistrados, estos deberán demostrar poseer los atributos que se les reconocieron al habérseles designado, y que su trabajo cotidiano lo desempeñaron de manera pronta, completa e imparcial, como expresión de honorabilidad, diligencia, excelencia profesional y honestidad invulnerable, remitiendo al Congreso del Estado los escritos y documentos conducentes a tal efecto.
-Para la reelección o no de los magistrados, se seguirá el siguiente procedimiento:
-(REFORMADA, B.O. 22 DE JUNIO DE 2017)
-I.- Con una anticipación no menor a sesenta días naturales ni mayor a noventa días naturales, de que concluya el periodo para el que fue nombrado, el Magistrado de que se trate, en uso de su garantía de audiencia presentará por escrito y por duplicado ante el Congreso del Estado, a través del Presidente de la Mesa Directiva o de la Diputación Permanente, su intención de reelegirse o no. En caso de que el Magistrado de que se trate se abstenga de presentar el escrito mencionado dentro del plazo señalado perderá su derecho a ser reelecto para un nuevo periodo de seis años.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Tratándose de la fracción I, el Congreso del Estado, a través del Presidente de la Mesa Directiva en turno, notificará a la Magistrada o Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. Para las demás hipótesis previstas en el presente artículo, el Congreso del Estado proveerá lo conducente a fin de iniciar procedimiento de privación del puesto de Magistrada o Magistrado respetando en todo caso la garantía de audiencia.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Las Magistradas y Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Fiscal Especializado en Materia de Combate a la Corrupción, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+93 BIS.- Para la reelección de las Magistradas y Magistrados, estos deberán demostrar poseer los atributos que se les reconocieron al habérseles designado, y que su trabajo cotidiano lo desempeñaron de manera pronta, completa e imparcial, como expresión de honorabilidad, diligencia, excelencia profesional y honestidad invulnerable, remitiendo al Congreso del Estado los escritos y documentos conducentes a tal efecto.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)
+Para la reelección o no de las Magistradas y Magistrados, se seguirá el siguiente procedimiento:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)
+I.- Con una anticipación no menor a sesenta días naturales ni mayor a noventa días naturales, de que concluya el período para el que fue nombrado, la Magistrada o Magistrado de que se trate, en uso de su garantía de audiencia presentará por escrito y por duplicado ante el Congreso del Estado, a través de la Presidenta o Presidente de la Mesa Directiva o de la Diputación Permanente, su intención de reelegirse o no. En caso de que la Magistrada o Magistrado de que se trate se abstenga de presentar el escrito mencionado dentro del plazo señalado perderá su derecho a ser reelecto para un nuevo periodo de seis años.
+(REFORMADO, B.O. 22 DE JUNIO DE 2017)
 Con el duplicado del escrito a que se refiere el párrafo anterior, se dará vista a la Comisión dictaminadora correspondiente;
-(REFORMADA, B.O. 22 DE JUNIO DE 2017)
-II.- La Comisión Legislativa dictaminadora deberá solicitar al Pleno del Tribunal Superior de Justicia o al Pleno del Consejo de la Judicatura según corresponda, toda aquella información y documentación que resulte útil y necesaria para conocer el desempeño en el ejercicio del cargo del Magistrado sujeto a evaluación, de conformidad con lo establecido en la Ley Orgánica del Poder Judicial del Estado, quedando estos obligados a proporcionarla en breve término. La Infracción a estas disposiciones por parte del Pleno del Tribunal o del Pleno del Consejo de la Judicatura, será causa de juicio político.
-De igual forma, deberá solicitar al magistrado sujeto a evaluación la información y documentación que considere pertinente, pudiendo además, solicitar a personas e instituciones públicas y privadas, todo tipo de información relativa al desempeño del cargo del magistrado, y estas quedan obligadas a proporcionar en breve término.
-III.- Una vez reunida la documentación a que se refieren las fracciones I y II de este artículo, lo (sic) Comisión dictaminadora, deberá emitir el dictamen de evaluación correspondiente, en el cual se deberá señalar si el Magistrado posee los atributos que se le reconocieron al habérsele designado, cumpliendo los requisitos satisfechos para su nombramiento y si se actualiza o no alguno o algunos de los supuestos previstos en el artículo 93 de esta Constitución, así como contener todos aquellos elementos objetivos que den a conocer, si durante el desempeño de su trabajo cotidiano, lo ha ejercido de manera pronta, completa e imparcial, como expresión de diligencia, excelencia profesional y honestidad invulnerable;
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+II.- La Comisión Legislativa dictaminadora deberá solicitar al Pleno del Tribunal Superior de Justicia o al Pleno del Consejo de la Judicatura según corresponda, toda aquella información y documentación que resulte útil y necesaria para conocer el desempeño en el ejercicio del cargo de la Magistrada o el Magistrado sujeto a evaluación, de conformidad con lo establecido en la Ley Orgánica del Poder Judicial del Estado, quedando estos obligados a proporcionarla en breve término. La Infracción a estas disposiciones por parte del Pleno del Tribunal o del Pleno del Consejo de la Judicatura, será causa de juicio político.
+De igual forma, deberá solicitar a la Magistrada o el Magistrado sujeto a evaluación la información y documentación que considere pertinente, pudiendo además, solicitar a personas e instituciones públicas y privadas, todo tipo de información relativa al desempeño del cargo de la Magistrada o Magistrado, y estas quedan obligadas a proporcionar en breve término.
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+III.- Una vez reunida la documentación a que se refieren las fracciones I y II de este artículo, lo (sic) Comisión dictaminadora, deberá emitir el dictamen de evaluación correspondiente, en el cual se deberá señalar si la Magistrada o el Magistrado posee los atributos que se le reconocieron al habérsele designado, cumpliendo los requisitos satisfechos para su nombramiento y si se actualiza o no alguno o algunos de los supuestos previstos en el artículo 93 de esta Constitución, así como contener todos aquellos elementos objetivos que den a conocer, si durante el desempeño de su trabajo cotidiano, lo ha ejercido de manera pronta, completa e imparcial, como expresión de diligencia, excelencia profesional y honestidad invulnerable;
+(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2010)
 IV.- El Congreso del Estado con base en lo anterior, resolverá en definitiva sobre su reelección o no reelección al menos quince días antes de que concluya el periodo para el que fue electo dicho funcionario judicial, con una votación de mayoría absoluta.
-Si el Congreso resuelve la no reelección, se procederá a realizar un nuevo nombramiento en los términos que establece esta Constitución y el Magistrado cesará en sus funciones a la conclusión del periodo para el que fue nombrado; y
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Si el Congreso resuelve la no reelección, se procederá a realizar un nuevo nombramiento en los términos que establece esta Constitución y la Magistrada o el Magistrado cesará en sus funciones a la conclusión del periodo para el que fue nombrado; y
+(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2010)
 V.- La resolución del Congreso se hará del conocimiento del funcionario, mediante notificación personal, y de la sociedad en general, mediante su publicación en el Boletín oficial del Gobierno del Estado.
-(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)
-94.- Los Magistrados del Tribunal Superior de Justicia deberán otorgar la protesta de Ley ante el Congreso del Estado.
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+94.- Las Magistradas y Magistrados del Tribunal Superior de Justicia deberán otorgar la protesta de Ley ante el Congreso del Estado.
 (REFORMADO, B.O. 31 DE JULIO DE 2016)
 Los Jueces protestarán ante el Consejo de la Judicatura; los demás funcionarios y empleados de la Administración de Justicia rendirán su protesta ante la autoridad de quien dependan.
-(REFORMADO, B.O. 31 DE JULIO DE 2016)
-Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y los Jueces percibirán una remuneración adecuada e irrenunciable conforme a la ley, la cual no podrá ser disminuida durante su encargo.
-95.- El Tribunal Superior de Justicia funcionará en los términos que lo determine la Ley Orgánica. El Tribunal, en escrutinio secreto, en la primera sesión que se celebre durante el mes de abril del año en que se haga la designación, nombrará de entre los Magistrados al que será Presidente del Tribunal Superior de Justicia. Este durará tres años en su cargo.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Las Magistradas y Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y los Jueces percibirán una remuneración adecuada e irrenunciable conforme a la ley, la cual no podrá ser disminuida durante su encargo.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+95.- El Tribunal Superior de Justicia funcionará en los términos que lo determine la Ley orgánica. El Tribunal, en escrutinio secreto, en la primera sesión que se celebre durante el mes de abril del año en que se haga la designación, nombrará de entre las Magistradas y Magistrados al que será Presidenta o Presidente del Tribunal Superior de Justicia. Este durará tres años en su cargo. La presidencia deberá ser rotatoria y encabezada alternadamente entre hombres y mujeres en cada periodo.
 96.- El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la ley orgánica respectiva.
 (REFORMADO PRIMER PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)
 97.- Son facultades del Pleno del Tribunal Superior de Justicia:
@@ -1054,15 +1119,16 @@ VII.- Ordenar, por conducto del Presidente del Tribunal, que se haga la consigna
 VIII.- Informar al Gobernador o al Congreso del Estado acerca de los casos de indulto necesario, reconocimiento de inocencia, anulación de sentencia, rehabilitación y demás que las Leyes determinen, previos los trámites y con los requisitos que ellos establezcan.
 (REFORMADA, B.O. 31 DE JULIO DE 2016)
 IX.- Conocer de las resoluciones del Consejo de la Judicatura respecto de la sustanciación correspondiente, por las faltas administrativas de los integrantes del Poder Judicial del Estado, de acuerdo con el procedimiento que señale esta Constitución y la Ley respectiva.
-X.- Conocer de la recusación conjunta de los Magistrados; y
-(ADICIONADA, B.O. 6 DE FEBRERO DE 2002)
-XI.- Conceder licencia a los Magistrados cuando no sean mayores de un mes en los términos que establezca la Ley.
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+X.- Conocer de la recusación conjunta de las Magistradas y Magistrados.
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+XI.- Conceder licencia a las Magistradas y Magistrados cuando no sean mayores de un mes en los términos que establezca la Ley.
 (ADICIONADA, B.O. 6 DE FEBRERO DE 2002)
 XII.- Emitir la opinión que solicite el Congreso del Estado sobre las iniciativas de Leyes o Decretos relacionados con la administración de Justicia;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)
 XIII.- Recibir anualmente en sesión solemne, conjuntamente con el Pleno del Consejo de la Judicatura el informe que rendirá el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura sobre el estado que guarda la Administración de Justicia y del ejercicio presupuestal. A este acto asistirán los Poderes Legislativo y Ejecutivo.
-(REFORMADA, B.O. 31 DE JULIO DE 2016)
-XIV.- Designar, en votación secreta por la mayoría de sus integrantes al Magistrado y Juez de Primera Instancia que, conforme al numeral 100 de ésta Constitución, será miembro del Consejo de la Judicatura; y
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+XIV.- Designar, en votación secreta por la mayoría de sus integrantes a la Magistrada o Magistrado y Juez de Primera Instancia que, conforme al numeral 100 de ésta Constitución, será miembro del Consejo de la Judicatura; y
 (ADICIONADA, B.O. 31 DE JULIO DE 2016)
 XV.- Las demás que le confiera esta Constitución y las Leyes.
 (REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2016)
@@ -1073,25 +1139,36 @@ El Tribunal Superior de Justicia determinará el número de Jueces que deberán 
 Ningún funcionario Judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 99.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
 99 BIS.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
+(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
+100.- El Consejo de la Judicatura es un órgano del Poder Judicial, con independencia técnica y de gestión, así como para emitir sus resoluciones. En su integración se observará la paridad de género entre hombres y mujeres.
 (ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
-100.- El Consejo de la Judicatura es un órgano del Poder Judicial, con independencia técnica y de gestión, así como para emitir sus resoluciones.
 El Consejo de la Judicatura se integra por los siguientes miembros:
 I.- El Magistrado Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo;
 II.- Un Magistrado, designado por el Pleno del Tribunal Superior de Justicia, para ejercer la Comisión;
 III.- Un Juez de Primera Instancia, designado por el Pleno del Tribunal Superior de Justicia, para ejercer la comisión;
 IV.- Un Representante Ciudadano electo por el Congreso del Estado, conforme lo establece la presente Constitución, y
 V.- Un Representante designado por el Gobernador del Estado, conforme lo establece esta Constitución.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 Los Consejeros rendirán la protesta de ley ante quien los designó, durarán cuatro años en el cargo, serán sustituidos conforme a la Ley y no podrán ser nombrados para un nuevo periodo.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 De igual forma, deberán reunir los requisitos señalados en las fracciones I, II, III, y IV del numeral 91 de esta Constitución, ser personas que se hayan distinguido por su capacidad profesional y administrativa, así como por su honestidad y honorabilidad en el ejercicio de sus actividades.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)
 Los Magistrados y Jueces que, por cualquier circunstancia dejen de serlo, no podrán seguir formando parte del Consejo de la Judicatura por lo que el Tribunal deberá designar a quienes les sustituyan, para concluir el plazo por el que fueron electos. Los Magistrados y Jueces que sean designados en sustitución, podrán ser designados consejeros en un periodo que no sea continuo a aquel en que hayan cubierto la sustitución.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 Los Consejeros en ejercicio de su función, deberán proceder con independencia e imparcialidad. Durante su encargo, los Consejeros solo podrán ser removidos en los términos del Título Noveno de esta Constitución.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 El Consejo de la Judicatura funcionará en Pleno o en comisiones y estará facultado en términos de la Ley Orgánica del Poder Judicial del Estado de Baja California Sur, para expedir acuerdos generales para el adecuado ejercicio de sus atribuciones y contará con una Secretaría ejecutiva, cuyo Titular será designado por el Pleno del Consejo a propuesta del Presidente; cargo que recaerá en la Secretaria del Pleno del Tribunal y ejercerá las atribuciones que le confiere la ley en mención.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 El Pleno del Tribunal podrá solicitar al Consejo de la Judicatura la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en la Entidad.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 La ley establecerá los términos y procedimientos para el ejercicio de las atribuciones del Consejo de la Judicatura respecto de los procedimientos por faltas administrativos (sic) de los miembros y funcionarios Judiciales del Poder Judicial del Estado.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de Jueces, las cuales podrán ser revisadas por el Tribunal Superior de Justicia únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 El Consejo de la Judicatura deberá dar cuenta al Tribunal Superior en los casos que se trate de la remoción de Magistrados con el fin de que se proceda conforme lo dispuesto por el numeral 64 fracción XXI de ésta Constitución.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial. Una vez integrados en un solo documento, este será remitido conforme a la ley para su inclusión en el Proyecto de Presupuesto de Egresos del Estado.
+(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 La administración del Tribunal Superior de Justicia corresponderá a su Presidente.
 (REFORMADO, B.O. 31 DE JULIO DE 2016)
 101.- El Gobernador demandará ante el Congreso del Estado, la destitución de cualesquiera de los Magistrados del Tribunal Superior de Justicia o de los Consejeros de la Judicatura, por delitos, faltas oficiales y omisiones en los que incurran, previstos en esta Constitución y en las Leyes de la Materia.
@@ -1179,7 +1256,7 @@ III.- Subdelegaciones.
 La extensión y límites de las delegaciones y subdelegaciones serán determinadas por el ayuntamiento respectivo.
 CAPITULO III
 DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
-(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2000)
+(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], B.O. 14 DE DICIEMBRE DE 2021)
 122.- Para la creación de Municipios en el Estado, se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
 I.- Que sea conveniente para satisfacer las necesidades de sus habitantes;
 II.- Que la superficie del territorio del Estado en que se pretenda erigir, sea suficiente para cubrir sus necesidades y atender a sus posibilidades y de desarrollo futuro;
@@ -1191,9 +1268,10 @@ IV.- Que su población no sea inferior a cinco mil habitantes.
 V.- Que la comunidad en que se establezca su cabecera cuente con más de tres mil habitantes.
 VI.- Que la ciudad señalada en la fracción anterior, tenga servicios públicos adecuados para su población; y
 VII.- Que previamente se escuche la opinión de los ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo;
-(REFORMADA, B.O. 10 DE JUNIO DE 2000)
-VIII.- Que cuando menos las dos terceras partes de los ciudadanos del territorio que se pretenda erigir en Municipio, manifiesten su conformidad en el plebiscito que al efecto se lleve a cabo.
-Cuando la solicitud provenga de los Ciudadanos, el procedimiento se sujetará a lo dispuesto por la Ley de la materia.
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+VIII.- Que cuando menos las dos terceras partes de las ciudadanas y_ciudadanos (sic) del territorio que se pretenda erigir en Municipio, manifiesten su conformidad en plebiscito que al efecto se lleve a cabo.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Cuando la solicitud provenga de la ciudadanía, el procedimiento se sujetará a lo dispuesto por la Ley de la materia.
 123.- El Congreso del Estado podrá declarar la supresión de un municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridad (sic) para su creación.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
 124.- El Gobierno del Estado y los Ayuntamientos de la entidad conjuntamente o por separado podrán promover la fusión de comunidades para crear otras de mayor extensión que permitan integrar a los núcleos aislados de población con el objeto de ejecutar programas de desarrollo general, siempre y cuando pertenezcan al mismo municipio.
@@ -1233,21 +1311,29 @@ Estarán exentos de pagar las contribuciones a que se refieren los incisos a) y 
 134.- El Ayuntamiento es el órgano municipal de Gobierno a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 (REFORMADO, B.O. 27 DE OCTUBRE DE 2003)
 135.- Los Ayuntamientos se integrarán de la siguiente manera:
-El Ayuntamiento de La Paz se integrará por un Presidente, un Síndico y ocho Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de Mayoría Relativa y con cinco Regidores por el principio de Representación Proporcional.
-El Ayuntamiento de Comondú se integrará por un Presidente, un Síndico y seis Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa y con tres Regidores por el principio de Representación Proporcional.
-El Ayuntamiento de Los Cabos se integrará por un Presidente, un Síndico y siete Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa y con cuatro Regidores por el principio de Representación Proporcional.
-El Ayuntamiento de Mulegé se integrará por un Presidente, un Síndico y seis Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa y con tres Regidores por el Principio de Representación Proporcional.
-El Ayuntamiento de Loreto se integrará por un Presidente, un Síndico y cuatro Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa y con dos Regidores por el principio de Representación Proporciona (sic).
-Por cada miembro de los Ayuntamientos, habrá un suplente.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El Ayuntamiento de La Paz se integrará con una Presidenta o Presidente, una Sindica o Síndico y ocho Regidoras o Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de Mayoría Relativa y con cinco Regidoras o Regidores por el principio de representación proporcional.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El Ayuntamiento de Comondú se integrará con una Presidenta o Presidente, una Sindica o Síndico y seis Regidoras o Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa y con tres Regidoras o Regidores por el principio de Representación Proporcional.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El Ayuntamiento de Los Cabos se integrará por una Presidenta o Presidente, una Sindica o Síndico y siete Regidoras o Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa y con cuatro Regidoras o Regidores por el principio de Representación Proporcional.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El Ayuntamiento de Mulegé se integrará con una Presidenta o Presidente, una Sindica o Síndico y seis Regidoras o Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa, y con tres Regidoras o Regidores por el principio de Representación Proporcional.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El Ayuntamiento de Loreto se integrará con una Presidenta o Presidente, una Sindica o Síndico y cuatro Regidoras o Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de Mayoría Relativa y con dos Regidoras o Regidores por el principio de Representación Proporcional.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+En su conformación se deberá observar el principio de paridad de género. Por cada miembro de los Ayuntamientos, habrá un suplente.
 La Ley de la materia determinará la fórmula y el procedimiento de asignación de las Regidurias por el Principio de Representación Proporcional.
 Los miembros de los Ayuntamientos duraran en su cargo tres años a partir de la fecha en que tomen posesión del mismo
-136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+136.- Ningún ciudadano o ciudadana puede excusarse de servir al cargo de Presidenta o Presidente, Sindica o Síndico, o Regidora o Regidor, salvo causa justificada, calificada por el Ayuntamiento.
 CAPITULO VI
 DE LA ELECCION DEL AYUNTAMIENTO
 137.- Los miembros del ayuntamiento se elegirán por planillas en los términos de la Ley Electoral, las que comprenderán a los candidatos por cada uno de los cargos.
 (REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JULIO DE 1995)
 138.- Para ser miembro de un Ayuntamiento se requiere:
-I.- Ser ciudadano sudcaliforniano en ejercicio de sus derechos políticos;
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+I.- Ser ciudadana o ciudadano sudcaliforniano en ejercicio de sus derechos políticos.
 II.- Haber residido en el municipio por un período no menos de un año inmediato anterior al día de la elección;
 (REFORMADA, B.O. 14 DE JUNIO DE 1999)
 III.- Tener 21 años cumplidos al día de la elección, excepto para ser Síndico o Regidor, en cuyo caso se requerirán 18 años de edad al día de la elección.
@@ -1379,8 +1465,9 @@ III.- Presidir las sesiones y participar en las deliberaciones;
 (REFORMADA, B.O. 20 DE FEBRERO DE 1988)
 IV.- Rendir anualmente al Ayuntamiento, un informe detallado sobre el estado que guarde la Administración Pública Municipal.
 V.- Proponer al ayuntamiento la asignación de comisiones de gobierno y administración entre los regidores;
-(ADICIONADA [N. DE E. REFORMADA], B.O. 26 DE AGOSTO DE 1975)
-VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal de policia y administrativo de acuerdo con las disposiciones aplicables.
+(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
+VI.- Nombrar y remover a los Delegados, Subdelegados, Alcaldes y personal de policía y administrativo, de acuerdo con las disposiciones aplicables.
+En los casos de la conformación del gabinete de primer nivel de la administración pública municipal, establecido en el artículo 154 de esta Constitución y en los artículos 102 y 103 de la Ley Orgánica del Gobierno Municipal, deberá observarse el principio de paridad de género, que se refiere a la integración cuantitativa igualitaria entre mujeres y hombres.
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo que establezca el reglamento interior;
 (REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2015) (F. DE E., B.O. 14 DE ENERO DE 2016)
 VIII.- Tener bajo su mando los cuerpos de Seguridad Publica, Policía Preventiva y Transito Municipales, en los términos que establezca el Reglamento respectivo y la Ley en la materia.
@@ -1422,6 +1509,10 @@ XI.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 XII.- Desarrollo Municipal
 XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur.
 155.- La ley orgánica determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
+(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)
+En el nombramiento y remoción de los Titulares de la Secretaría General, Tesorería, Contraloría, Oficialía Mayor y de las Direcciones Generales de los Ayuntamientos, deberá observarse el principio de paridad de género.
+(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)
+En caso de que los nombramientos y remociones de dichos Titulares se realicen en contravención a lo establecido en el párrafo anterior, se considerarán nulos de pleno derecho.
 (REFORMADA SU DENOMINACIÓN, B.O. 28 DE FEBRERO DE 2017)
 TITULO NOVENO
 DE LAS RESPONSABILIDADES Y SISTEMA ANTICORRUPCIÓN
@@ -1451,7 +1542,8 @@ IV. El Tribunal de Justicia Administrativa del Estado de Baja California Sur, im
 También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. La ley establecerá los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
 (ADICIONADA, B.O. 28 DE FEBRERO DE 2017)
 V.- Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia de juicio político ante el Congreso del Estado.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+Cualquier ciudadana o ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia de juicio político ante el Congreso del Estado.
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 La Auditoría Superior del Estado y la Contraloría General podrán recurrir las determinaciones de la Fiscalía Especializada en materia de Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado de Baja California Sur, de conformidad con lo previsto en esta Constitución y las leyes respectivas, respectivamente.
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
@@ -1506,7 +1598,8 @@ d) El establecimiento de bases y principios para la efectiva coordinación de la
 e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
 Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité Coordinador sobre la atención que brinden a las mismas.
 B. El Comité de Participación Ciudadana del Sistema tiene como objetivo, coadyuvar al cumplimiento de los objetivos del Comité Coordinador, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal Anticorrupción.
-El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, así como actividades de procuración de justicia o de participación ciudadana y el procedimiento para su designación deberá establecerse en la Ley del Sistema Estatal Anticorrupción que expida el Congreso del Estado.
+(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
+El Comité de Participación Ciudadana estará integrado por cinco ciudadanos y ciudadanas de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, así como actividades de procuración de justicia o de participación ciudadana y el procedimiento para su designación deberá establecerse en la Ley del Sistema Estatal Anticorrupción que expida el Congreso del Estado y se deberá observar el principio de paridad de género en su integración.
 I. Tendrá acceso a la información pública necesaria, adecuada y oportuna para el ejercicio de sus atribuciones;
 II. Las recomendaciones, políticas públicas e informes que emita deberán tener respuesta de los sujetos públicos a quienes se dirija, y contará con las atribuciones y procedimientos adecuados para dar seguimiento a las mismas, y
 III. Rendirá un informe público a los titulares de los Poderes del Estado, en el que dará cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones.
