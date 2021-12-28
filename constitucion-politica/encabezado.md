@@ -103,6 +103,30 @@ Las Leyes locales organizarán el patrimonio familiar determinando los bienes qu
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 12.- Las Autoridades Estatales organizarán, coordinarán y fomentarán la vida económica de la entidad, para asegurar a todos los habitantes una existencia digna, tomando en consideración que los factores de la producción garantizan la justicia social.
 El trabajo es un derecho del individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado protegerá, en beneficio de los trabajadores, el cumplimiento de los derechos y prerrogativas establecidos en el Artículo 123 de la Constitución General de la República.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+La resolución de las diferencias o los conflictos entre trabajadores y patrones a que se refiere el apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos que no sea competencia del Poder Judicial de la Federación, corresponderá a los Tribunales Laborales del Poder Judicial del Estado de Baja California Sur.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+Los integrantes de los Tribunales Laborales serán designados atendiendo a lo dispuesto en los artículos 88 y 89 último párrafo de esta Constitución.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+Antes de acudir a los Tribunales Laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria, la cual estará a cargo del organismo descentralizado especializado e imparcial, de la Administración Pública del Estado, denominado Centro de Conciliación Laboral del Estado de Baja California Sur.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+El Centro de Conciliación Laboral del Estado de Baja California Sur estará dotado de personalidad jurídica y patrimonio propio. Contando para su funcionamiento con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Rigiéndose por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria, con fecha y hora debidamente fijadas de manera expedita. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto. La ley establecerá las reglas para que los convenios laborales adquieran condición de cosa juzgada, así como para su ejecución.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+Para la designación del titular del Centro de Conciliación Laboral del Estado de Baja California Sur, el Ejecutivo del Estado someterá una terna a consideración del Congreso del Estado, la cual previa comparecencia de las personas propuestas, realizará la designación correspondiente.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+La designación del titular del Centro de Conciliación Laboral del Estado de Baja California Sur, se hará por el voto de las dos terceras partes de los integrantes del Congreso del Estado presentes en la sesión correspondiente, dentro del improrrogable plazo de treinta días.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+Si el Congreso del Estado, no resolviere dentro de dicho plazo, ocupará el cargo quien sea designado por el Gobernador Constitucional del Estado de los que se encuentren dentro de la terna propuesta.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador Constitucional del Estado someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Titular de (sic) Poder Ejecutivo del Estado.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del Centro de Conciliación Laboral, que no haya ocupado cargo alguno en partidos políticos, ni haya sido candidato a ocupar algún cargo público de elección popular en los tres años anteriores a la designación, deberá gozar de buena reputación y cumplir los requisitos que establezca la ley.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+El titular del Centro de Conciliación Laboral del Estado de Baja California Sur, será nombrado por un periodo de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+El titular del Centro de Conciliación Laboral del Estado de Baja California Sur, sólo podrá ser removido por causa grave en los términos del Título IV de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 (REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)
 13.- Todos los habitantes del Estado tienen derecho a una alimentación nutritiva, suficiente y de calidad, a la protección de la salud, y en general, al bienestar y a la seguridad individual y social, como objetivos de la permanente superación del nivel de vida de la población. La ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
@@ -694,10 +718,10 @@ XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de las ciud
 XLVIII.- Elegir a la Presidenta o Presidente y Consejeras y Consejeros de la Comisión Estatal de Derechos Humanos; así como a las Comisionadas y Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitución y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
 (ADICIONADA, B.O. 15 DE AGOSTO DE 2018)
 XLIX.- Expedir leyes que establezcan la concurrencia del Estado y de los Municipios en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, cumpliendo con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y de las leyes que de ella emanen y de los tratados internacionales de la materia de los que México sea parte;
-(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
-L.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
-(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2018)
-L (SIC).- Expedir todas las leyes con perspectiva de género, logrando la transversalidad e institucionalizar acciones y políticas públicas en su diseño, ejecución y evaluación del estado con perspectiva de género.
+(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)
+L.- Expedir todas las leyes con perspectiva de género, logrando la transversalidad e institucionalizar acciones y políticas públicas en su diseño, ejecución y evaluación del estado con perspectiva de género.
+(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)
+LI.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 SECCION VI
 DE LA DIPUTACION PERMANENTE
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)
@@ -1018,12 +1042,16 @@ VIII.- Los Jueces de Control.
 IX.- El Tribunal de Juicio Oral.
 (ADICIONADA, B.O. 10 DE ABRIL DE 2013)
 X.- Los Jueces Especializados en Justicia para Adolescentes
-(ADICIONADA, B.O. 10 DE ABRIL DE 2013)
-XI.- Los Jueces de Ejecución; y
-(ADICIONADA, B.O. 10 DE ABRIL DE 2013)
-XII.- Los demás funcionarios y auxiliares de la administración de Justicia.
+(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)
+XI.- Los Jueces de Ejecución;
+(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2021)
+XII.- Los Jueces en materia laboral; y
+(ADICIONADA [N. DE E. REUBICADA], B.O. 27 DE DICIEMBRE DE 2021)
+XIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
 (REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
 La ley establecerá las bases mediante las cuales el Consejo de la Judicatura procederá en la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, observando el principio de paridad de género, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
+Los Jueces Laborales serán designados mediante concursos abiertos, observando el principio de paridad de género, con base en criterios objetivos y de acuerdo al procedimiento (sic) disponga la Ley. Asimismo, deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 (REFORMADO, B.O. 6 DE ABRIL DE 1999)
 90.- El Tribunal Superior de Justicia del Estado se integrará por siete Magistrados nombrados por el Poder Legislativo, de entre las ternas propuestas por el Gobernador del Estado.
 Para el trámite de las renuncias, licencias y remociones de los Magistrados se seguirá el procedimiento que esta Constitución y las Leyes de la Materia establecen.
@@ -1074,8 +1102,8 @@ IX. En los demás casos que establezca esta constitución y la Ley de Responsabi
 X. No excusarse de conocer los asuntos de los que tenga conocimiento que está impedido conforme a la ley
 (REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
 Tratándose de la fracción I, el Congreso del Estado, a través del Presidente de la Mesa Directiva en turno, notificará a la Magistrada o Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. Para las demás hipótesis previstas en el presente artículo, el Congreso del Estado proveerá lo conducente a fin de iniciar procedimiento de privación del puesto de Magistrada o Magistrado respetando en todo caso la garantía de audiencia.
-(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
-Las Magistradas y Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Fiscal Especializado en Materia de Combate a la Corrupción, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
+(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)
+Los Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, Jueces Laborales, los integrantes del Consejo de la Judicatura del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Fiscal Especializado en Materia de Combate a la Corrupción, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
 (REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
 93 BIS.- Para la reelección de las Magistradas y Magistrados, estos deberán demostrar poseer los atributos que se les reconocieron al habérseles designado, y que su trabajo cotidiano lo desempeñaron de manera pronta, completa e imparcial, como expresión de honorabilidad, diligencia, excelencia profesional y honestidad invulnerable, remitiendo al Congreso del Estado los escritos y documentos conducentes a tal efecto.
 (REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)
