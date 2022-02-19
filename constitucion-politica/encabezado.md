@@ -1129,8 +1129,8 @@ V.- La resolución del Congreso se hará del conocimiento del funcionario, media
 Los Jueces protestarán ante el Consejo de la Judicatura; los demás funcionarios y empleados de la Administración de Justicia rendirán su protesta ante la autoridad de quien dependan.
 (REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
 Las Magistradas y Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y los Jueces percibirán una remuneración adecuada e irrenunciable conforme a la ley, la cual no podrá ser disminuida durante su encargo.
-(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
-95.- El Tribunal Superior de Justicia funcionará en los términos que lo determine la Ley orgánica. El Tribunal, en escrutinio secreto, en la primera sesión que se celebre durante el mes de abril del año en que se haga la designación, nombrará de entre las Magistradas y Magistrados al que será Presidenta o Presidente del Tribunal Superior de Justicia. Este durará tres años en su cargo. La presidencia deberá ser rotatoria y encabezada alternadamente entre hombres y mujeres en cada periodo.
+(REFORMADO, B.O. 18 DE FEBRERO DE 2022)
+95.- El Tribunal Superior de Justicia funcionará en los términos que determine su Ley Orgánica. Quien presida el Tribunal Superior lo hará por un periodo de dos años. Su elección será alternada entre géneros, durante la primera sesión que se celebre en el mes de abril del año que corresponda. Quien ocupe la presidencia no podrá ser objeto de reelección.
 96.- El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la ley orgánica respectiva.
 (REFORMADO PRIMER PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)
 97.- Son facultades del Pleno del Tribunal Superior de Justicia:
