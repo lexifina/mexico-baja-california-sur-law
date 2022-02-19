@@ -1,0 +1,1 @@
+Artículo Segundo. Sin perjuicio de lo establecido en el Artículo Primero Transitorio, el Centro de Conciliación Laboral del Estado de Baja California Sur, iniciara su función conciliatoria prevista en el artículo 7 de la presente Ley, el 1° de mayo de 2022.
