@@ -1,2 +1,0 @@
-(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)
-ARTICULO 45 BIS-A.- En los casos no previstos en este Capítulo se aplicarán supletoriamente: la Ley Federal del Trabajo, el Código de Procedimientos Civiles del Estado, los principios generales de derecho, los principios generales de justicia social que se deriven del Artículo 123 constitucional, la jurisprudencia y tesis de los tribunales federales, la costumbre y la equidad.

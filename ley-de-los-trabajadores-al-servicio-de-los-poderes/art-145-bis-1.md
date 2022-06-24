@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)
+Artículo 145 Bis 1.- En el muro principal del Salón de Sesiones se ubica el mapa del Estado de Nuevo León. A la derecha e izquierda del extremo superior, se localiza el Escudo Nacional y el Escudo de Nuevo León, respectivamente. Sobre el muro dos Banderas Nacionales, una de izquierda a derecha y otra de derecha a izquierda, enlazadas por un moño tricolor.
+En los costados derecho e izquierdo, se encuentran colocados los Muros de Honor, con los nombres de personajes declarados por el Congreso del Estado de Nuevo León, como Hombres y Mujeres Ilustres, así como de Instituciones y participantes de hechos históricos, con igual declaración, inscritos con letras áureas.

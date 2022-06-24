@@ -1,0 +1,2 @@
+(REFORMADO, P.O. 28 DE JUNIO DE 2006)
+Artículo 99 Bis.- En cualquier estado de una sesión, un Diputado podrá pedir la observancia de la Ley Orgánica del Poder Legislativo o de este Reglamento, formulando una moción de orden en una participación que no deberá exceder de un minuto. Al efecto deberá citar el precepto o preceptos reglamentarios cuya aplicación reclama. Escuchada la moción, el Presidente del Congreso resolverá lo conducente.
