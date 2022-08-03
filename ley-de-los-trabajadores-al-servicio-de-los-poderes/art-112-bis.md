@@ -1,6 +1,0 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2006)
-Artículo 112 Bis.- El Pleno del Congreso, a petición del orador o de algún otro Diputado, podrá acordar que los dictámenes que hayan sido programados por la Oficialía Mayor, para su presentación en el Pleno y que hayan sido circulados a los integrantes de la Legislatura con al menos veinticuatro horas de anticipación, podrán recibir la dispensa de su lectura o determinarse que únicamente se lean los resolutivos, procediéndose de inmediato a su discusión y votación.
-(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)
-Para efecto de lo dispuesto por el presente artículo los Grupos Legislativos, y en su caso los Diputados que no formen parte de un Grupo Legislativo, llevarán el registro oficial de la fecha y hora de circulación de los dictámenes a través del sistema interno de transmisión y comunicación de información del Congreso denominado intranet.
-(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)
-Para que proceda la dispensa el Secretario deberá dar fe de que del registro oficial de la fecha y hora en que se circularon los dictámenes, se desprende que han transcurrido las veinticuatro horas a que hace referencia el párrafo primero del presente artículo.

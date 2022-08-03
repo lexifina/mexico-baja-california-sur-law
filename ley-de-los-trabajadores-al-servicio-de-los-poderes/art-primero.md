@@ -1,0 +1,2 @@
+(REFORMADO, B.O. 18 DE FEBRERO DE 2022)
+ARTICULO PRIMERO.- En lo referente a los trabajadores de las instituciones descentralizadas de índole estatal y municipal, su relación contractual será regulada por las Condiciones Generales de Trabajo establecidas entre el Sindicato, los Poderes Legislativo, Ejecutivo, Judicial y Municipios del Estado de Baja California Sur, debiendo ser representados y tutelados invariablemente por el Sindicato Único de Trabajadores al Servicio de los Poderes del Estado y Municipios del Estado de Baja California Sur.

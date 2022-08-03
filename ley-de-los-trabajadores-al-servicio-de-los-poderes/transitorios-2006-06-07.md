@@ -1,3 +1,0 @@
-P.O. 7 DE JUNIO DE 2006.
-Artículo Primero.- El presente Decreto entrará en vigor a los 5 días contados a partir del día de su publicación en el Periódico Oficial del Estado.
-Artículo Segundo.- Para efectos de lo dispuesto por el segundo párrafo del Artículo 112 Bis que se adiciona en el presente Decreto, los Coordinadores de los Grupos Legislativos y los Diputados que no formen parte de un Grupo Legislativo, en tanto no cuenten con reloj fechador deberán hacer del conocimiento de la Oficialía Mayor, mediante escrito, el nombre y firma de la o las personas acreditadas para recibir los dictámenes que se circulen.
