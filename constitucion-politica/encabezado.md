@@ -1050,8 +1050,8 @@ XII.- Los Jueces en materia laboral; y
 XIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
 (REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
 La ley establecerá las bases mediante las cuales el Consejo de la Judicatura procederá en la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, observando el principio de paridad de género, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
-(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)
-Los Jueces Laborales serán designados mediante concursos abiertos, observando el principio de paridad de género, con base en criterios objetivos y de acuerdo al procedimiento (sic) disponga la Ley. Asimismo, deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)
+Las Juezas y los Jueces del Poder Judicial serán designados mediante concurso, observando el principio de paridad de género, conforme a las bases que se establezcan en la convocatoria respectiva y con arreglo al procedimiento que disponga la normatividad que resulte aplicable. Asimismo, deberán contar con capacidad y experiencia en la materia que les corresponda. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 (REFORMADO, B.O. 6 DE ABRIL DE 1999)
 90.- El Tribunal Superior de Justicia del Estado se integrará por siete Magistrados nombrados por el Poder Legislativo, de entre las ternas propuestas por el Gobernador del Estado.
 Para el trámite de las renuncias, licencias y remociones de los Magistrados se seguirá el procedimiento que esta Constitución y las Leyes de la Materia establecen.
@@ -1190,8 +1190,8 @@ El Consejo de la Judicatura funcionará en Pleno o en comisiones y estará facul
 El Pleno del Tribunal podrá solicitar al Consejo de la Judicatura la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en la Entidad.
 (ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 La ley establecerá los términos y procedimientos para el ejercicio de las atribuciones del Consejo de la Judicatura respecto de los procedimientos por faltas administrativos (sic) de los miembros y funcionarios Judiciales del Poder Judicial del Estado.
-(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de Jueces, las cuales podrán ser revisadas por el Tribunal Superior de Justicia únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
+(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)
+Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación o no ratificación y remoción de Juezas y Jueces, las cuales podrán ser revisadas por el Tribunal Superior de Justicia únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca esta Constitución, la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
 (ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
 El Consejo de la Judicatura deberá dar cuenta al Tribunal Superior en los casos que se trate de la remoción de Magistrados con el fin de que se proceda conforme lo dispuesto por el numeral 64 fracción XXI de ésta Constitución.
 (ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)
