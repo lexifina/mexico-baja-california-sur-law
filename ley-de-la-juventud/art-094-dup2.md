@@ -1,2 +1,0 @@
-(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)
-ARTÍCULO 94.- El Instituto Sudcaliforniano de la Juventud emitirá anualmente convocatoria en coordinación con la Secretaría de Educación Pública del Gobierno del Estado y la Secretaría del Trabajo y Previsión Social, en la que se expresarán los términos y requisitos que deberán cubrir, las personas propuestas a recibir este galardón. La convocatoria se publicará en la primera quincena de junio de cada año y el galardón se entregará el 12 de agosto.

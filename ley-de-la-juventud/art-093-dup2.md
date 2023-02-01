@@ -1,7 +1,0 @@
-(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)
-ARTÍCULO 93.- Para el otorgamiento de cada distinción a que se refiere el artículo anterior se consideran los siguientes criterios:
-Actividades Académicas: Trayectoria Académica sobresaliente, distinciones recibidas, participación en actividades extracurriculares.
-Artísticas y Culturales: Que su obra, ejecución o talento, impacte en el desarrollo humano, que fortalezca las relaciones y la identidad de nuestra sociedad.
-Cultura Emprendedora: Liderazgo emprendedor que debe traducirse en habilidad para crear, innovar y desarrollar actividades productivas viables, redituables y sustentables. Así como capacitación y adiestramiento de personal, dirigidos a la productividad y el crecimiento.
-Innovación, Ciencia y Tecnología: Acciones que contribuyan a fomentar y generar la investigación científica; creación e innovación tecnológica; investigaciones básicas en las ciencias naturales, sociales y las humanidades, fortaleciendo los espacios de expresión de su creatividad e inventiva.
-Grupos Vulnerables y su Inclusión: Jóvenes o asociaciones juveniles, que a través de sus actividades promuevan y fomenten el respeto, promoción y protección de los derechos humanos de los grupos vulnerables.
