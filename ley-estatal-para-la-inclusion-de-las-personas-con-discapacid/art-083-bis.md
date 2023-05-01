@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 30 DE ABRIL DE 2023)
+Artículo 83 Bis.- El Instituto Sudcaliforniano para la Inclusión de las Personas con Discapacidad en Coordinación con el Instituto Estatal de Radio y Televisión, garantizarán la participación de intérpretes de lengua de señas mexicanas durante la programación habitual que se realice, acorde a lo dispuesto en el artículo 20 de la Ley General para la Inclusión de las Personas con Discapacidad, con especial énfasis en las sesiones del Consejo Estatal de Protección Civil que se transmitan por televisión.

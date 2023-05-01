@@ -1,0 +1,3 @@
+B.O. 30 DE ABRIL DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO 2911 SE REFORMAN LOS INCISOS B), C), D) Y E), Y EL CONTENIDO DEL ACTUAL INCISO E), PASA A SER INCISO F) QUE SE ADICIONA A LA FRACCIÓN XIX DEL ARTÍCULO 46 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
