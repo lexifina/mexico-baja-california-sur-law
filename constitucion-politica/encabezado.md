@@ -358,8 +358,14 @@ IV.- Votar en las elecciones, consultas ciudadanas plebiscitarias y de referénd
 V.- Ejercer los cargos de elección popular para los que fuere electo; y
 VI.- Desempeñar las funciones electorales, censales, las de jurado y las de concejo del municipio en que resida.
 30.- Los sudcalifornianos serán preferidos para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano.
-(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
-31.- Las prerrogativas de las ciudadanas y ciudadanos Sudcalifornianos se suspenden por incumplimiento de las obligaciones a las que se refiere el Artículo 29. Dicha suspensión durará un año, y se impondrá sin menoscabo de las demás sanciones que correspondan.
+(REFORMADO, B.O. 30 DE MAYO DE 2023)
+31.- Los derechos o prerrogativas de las ciudadanas y los ciudadanos Sudcalifornianos se suspenden:
+I.- Por incumplimiento de las obligaciones a las que se refiere el Artículo 29. Dicha suspensión durará un año, y se impondrá sin menoscabo de las demás sanciones que correspondan;
+II.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
+III.- Por sentencia ejecutoria que imponga como pena esa suspensión;
+IV.- Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual, por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violación política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos o violencia institucional e incumplimiento de la obligación alimentaria, y
+V.- Ser declarada como persona deudora alimentaria morosa.
+Las personas que se ubiquen en alguno o algunos de los supuestos previstos en las fracciones II, III, IV y V del presente artículo no podrán ser registradas como candidatas o candidatos a cualquier cargo de elección popular, ni podrán ser designadas, electas o nombradas para desempeñar cualquier empleo, cargo o comisión en el servicio público.
 (REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
 32.- Las prerrogativas de las ciudadanas y ciudadanos se recobran:
 I.- Por haber cesado la causa que originó la suspensión;
@@ -956,8 +962,8 @@ III.- Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás dispos
 IV.- Firmar los acuerdos dictados por el Gobernador del Estado, así como los contratos que celebre. Sin este requisito no surtirán efectos legales.
 V.- Representar al Gobernador del Estado cuand0 (sic) éste lo estime conveniente, ante las Autoridades de la Federación, de las Entidades Federativas y de los Municipios del Estado; y
 VI.- Las demás que les confieran las Leyes.
-(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)
-84.- Para ser Procurador General de Justicia de ésta Entidad Federativa, y Fiscal Especializado en materia de Combate a la Corrupción, se requiere:
+(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MAYO DE 2023)
+84.- Para que una persona pueda ser titular de la Procuraduría General de Justicia de (sic) Estado, u ocupar la Fiscalía Especializada en materia de Combate a la Corrupción o cualquier otra subprocuraduría, se requiere:
 (REFORMADA, B.O. 23 DE SEPTIEMBRE DE 2015)
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)
