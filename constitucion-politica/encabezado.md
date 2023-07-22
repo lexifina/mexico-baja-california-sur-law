@@ -100,6 +100,12 @@ Los Municipios del Estado deberán formular, aprobar y administrar los Planes y 
 Toda persona tiene el derecho al uso y disfrute de los espacios públicos destinados para áreas verdes, deporte, esparcimiento y recreación, así como para la realización de eventos cívicos y culturales. Los habitantes de las comunidades donde se ubiquen tienen derecho a ser informados y que se les consulte sobre las decisiones estatales y municipales que pretendan modificar su uso, enajenarlos, usufructuarlos o cualquier forma de trasmisión de la propiedad que altere la naturaleza de su objeto. La consulta pública se realizara en los términos de la ley de la materia y su resultado será vinculatorio para la autoridad.
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)
 Las Leyes locales organizarán el patrimonio familiar determinando los bienes que deban constituirlos, sobre la base que será inalienable y no estará sujeto a embargo ni gravamen alguno.
+(ADICIONADO, B.O. 21 DE JULIO DE 2023)
+Se reconoce el derecho humano a la movilidad de las personas y colectividades que habitan en el Estado. Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, comodidad, eficacia y eficiencia, sostenibilidad, calidad, inclusión, igualdad, confiabilidad, equidad, habitabilidad, movilidad activa, multimodalidad, participación, resiliencia y progresividad.
+(ADICIONADO, B.O. 21 DE JULIO DE 2023)
+De acuerdo a la jerarquía de movilidad, se otorgará prioridad a los peatones y conductores de vehículos no motorizados, y se fomentará una cultura de movilidad sustentable.
+(ADICIONADO, B.O. 21 DE JULIO DE 2023)
+El Estado y sus municipios garantizarán las medidas necesarias para que toda persona tenga acceso al ejercicio de este derecho, particularmente en el uso equitativo del espacio vial, el cual será adecuado a las necesidades sociales y ambientales de cada región geográfica del Estado.
 (REFORMADO, B.O. 10 DE ABRIL DE 2013)
 12.- Las Autoridades Estatales organizarán, coordinarán y fomentarán la vida económica de la entidad, para asegurar a todos los habitantes una existencia digna, tomando en consideración que los factores de la producción garantizan la justicia social.
 El trabajo es un derecho del individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado protegerá, en beneficio de los trabajadores, el cumplimiento de los derechos y prerrogativas establecidos en el Artículo 123 de la Constitución General de la República.
