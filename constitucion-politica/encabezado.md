@@ -410,7 +410,8 @@ Sin perjuicio de lo establecido en el inciso B) del párrafo segundo del Apartad
 IV.- La organización de los procesos electorales es una función que corresponde realizar al poder público, a través de un Organismo Público Local en Materia Electoral que se denominará Instituto Estatal Electoral, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propio, depositario de la autoridad electoral en la entidad, responsable del ejercicio de la función estatal de organizar las elecciones, en los términos de la Ley de la materia, así como responsable de los procedimientos de referéndum y el plebiscito. En el ejercicio de sus actividades, el Instituto se regirá por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 (REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
 El Instituto Estatal Electoral residirá en la Capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por una Consejera o un Consejero Presidente y seis Consejeras o Consejeros Electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones y una o un Secretario Ejecutivo. Las y los Consejos Distritales y Municipales Electorales serán órganos desconcentrados del Instituto Estatal Electoral y solo funcionarán durante el desarrollo del proceso electoral. Las mesas directivas de casilla estarán integradas por ciudadanas y ciudadanos.
-El Instituto Estatal Electoral tendrá a su cargo las facultades, atribuciones y obligaciones que establece el inciso a) del apartado B de la fracción V del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, 104 de la Ley General de Instituciones y Procedimientos Electorales y los relativos de la Ley Electoral del Estado de Baja California Sur;
+(REFORMADO, B.O. 26 DE JULIO DE 2023)
+El Instituto Estatal Electoral tendrá a su cargo las facultades, atribuciones y obligaciones que establece el inciso a) del apartado B de la fracción V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, 104 de la Ley General de Instituciones y Procedimientos Electorales y los relativos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur;
 V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales.
 En materia electoral, la interposición de los medios de impugnaciones constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado;
 La ley establecerá el sistema de nulidades de las elecciones por violaciones graves, dolosas y determinantes en los siguientes casos:
@@ -602,8 +603,8 @@ IV Bis.- Aprobar e implementar el Plan de Desarrollo Legislativo, que regirá du
 V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 (ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2004)
 VI.- Legislar en materia de Coordinación Fiscal entre el Estado y los Municipios.
-(REFORMADA, B.O. 27 DE JUNIO DE 2014)
-VII.- Elegir al Contralor General del Instituto Estatal Electoral; y en caso de presentarse alguna vacante temporal de algún Magistrado del Tribunal Estatal Electoral, elegir al Magistrado que cubra dicha vacante con base en el procedimiento establecido en la Ley de la materia.
+(REFORMADA, B.O. 26 DE JULIO DE 2023)
+VII.- Elegir a la persona titular de la Contraloría General del Instituto Estatal Electoral;
 VIII.- Convocar a elecciones para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los dos primeros años del período constitucional, conforme a lo establecido en este ordenamiento;
 IX.- Convocar a elecciones extraordinarias para cubrir las vacantes de sus miembros;
 X.- Erigirse en Colegio Electoral para elegir Gobernador Substituto que concluya el período constitucional, en caso de falta absoluta de Gobernador ocurrida dentro de los cuatro últimos años de dicho período, de conformidad al artículo 72 de esta Constitución;
@@ -808,8 +809,10 @@ CAPITULO II
 DEL PODER EJECUTIVO
 SECCION I
 DEL GOBERNADOR
-67.- El Poder Ejecutivo se deposita en una sola persona denominada "Gobernador del Estado de Baja California Sur".
-68.- La elección del Gobernador será directa, secreta, uninominal y por mayoría relativa en todo el territorio del Estado, en los términos de la Ley Electoral.
+(REFORMADO, B.O. 26 DE JULIO DE 2023)
+67.- El ejercicio del Poder Ejecutivo del Estado se deposita en una sola persona que se denomina "Gobernadora o Gobernador del Estado de Baja California Sur".
+(REFORMADO, B.O. 26 DE JULIO DE 2023)
+68.- La elección de la Gubernatura será directa, secreta, uninominal, por mayoría relativa y bajo el principio de paridad de género en todo el Territorio del Estado, en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur.
 69.- Para ser Gobernador del Estado se requiere:
 (REFORMADA, B.O. 27 DE JUNIO DE 2014)
 I.- Ser ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios.
@@ -1261,8 +1264,8 @@ CONCEPTOS Y FINES
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
 117.- El Municipio es la entidad local básica de la organización territorial del Estado; es la institución jurídica, política y social, de carácter autónomo, con autoridades propias, atribuciones específicas y libre en la administración de su hacienda. Su finalidad consiste en organizar a la comunidad asentada en su territorio en la gestión de sus intereses y la satisfacción de sus necesidades colectivas, tendientes a lograr su desarrollo integral y sustentable; proteger y fomentar los valores de la convivencia local y ejercer las funciones en la prestación de los Servicios Públicos de su competencia.
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para normar directa y libremente las materias de su competencia, así como para establecer sus órganos de gobierno interior.
-(REFORMADO, B.O. 27 DE JUNIO DE 2014)
-118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo de junio de cada tres años en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE JULIO DE 2023)
+118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo de junio de cada tres años en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 (ADICIONADO, B.O. 23 DE SEPTIEMBRE DE 2015)
 Los ayuntamientos iniciarán el ejercicio de sus periodos de conformidad al siguiente calendario:
 I.- El ayuntamiento de Mulegé, iniciará su periodo el 25 de Septiembre del año de la elección.
@@ -1369,7 +1372,8 @@ Los miembros de los Ayuntamientos duraran en su cargo tres años a partir de la 
 136.- Ningún ciudadano o ciudadana puede excusarse de servir al cargo de Presidenta o Presidente, Sindica o Síndico, o Regidora o Regidor, salvo causa justificada, calificada por el Ayuntamiento.
 CAPITULO VI
 DE LA ELECCION DEL AYUNTAMIENTO
-137.- Los miembros del ayuntamiento se elegirán por planillas en los términos de la Ley Electoral, las que comprenderán a los candidatos por cada uno de los cargos.
+(REFORMADO, B.O. 26 DE JULIO DE 2023)
+137.- Los Integrantes del Ayuntamiento se elegirán por planillas en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur, las que comprenderán a las personas candidatas por cada uno de los cargos.
 (REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JULIO DE 1995)
 138.- Para ser miembro de un Ayuntamiento se requiere:
 (REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)
@@ -1389,7 +1393,8 @@ III.- Los militares en servicio activo y los ciudadanos que tengan mando en los 
 IV.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
 (REFORMADO, B.O. 14 DE JULIO DE 1995)(F. DE E., B.O. 18 DE AGOSTO DE 1995)
 139.- Las elecciones de los miembros de los ayuntamientos serán computadas y declaradas válidas por el órgano electoral municipal, mismo que otorgará la constancia de mayoría a la planilla de candidatos que la hubieren obtenido y hará la asignación de regidores por el principio de representación proporcional, de acuerdo a los requisitos y reglas que establezca la ley de la materia.
-140.- La Ley Electoral reglamentará la preparación, desarrollo y vigilancia del proceso comicial para la renovación de ayuntamientos.
+(REFORMADO, B.O. 26 DE JULIO DE 2023)
+140.- La Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur regulará la preparación, desarrollo y vigilancia del proceso comicial para la renovación de Ayuntamientos.
 (REFORMADO, B.O. 27 DE JUNIO DE 2014)
 141.- Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos que hayan estado en ejercicio, podrán ser reelectos para un período adicional, siempre y cuando el período del mandato de los Ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 142.- En caso de ausencia temporal que no exceda de treinta días del Presidente Municipal, pasará a desempeñar sus funciones el Primer Regidor.
