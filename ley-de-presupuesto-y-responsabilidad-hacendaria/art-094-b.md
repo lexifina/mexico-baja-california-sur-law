@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2023)
+ARTÍCULO 94 B. El Consejo Estatal Hacendario es el órgano de enlace, consulta, opinión y análisis técnico, el cual tiene por objeto coadyuvar al fortalecimiento del Sistema de Coordinación Hacendaria entre el Gobierno del Estado y los Ayuntamientos de los municipios de la entidad, así como para desarrollar e implementar con el mismo fin, programas de capacitación y profesionalización a los diversos servidores públicos.

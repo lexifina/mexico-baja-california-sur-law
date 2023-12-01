@@ -885,8 +885,9 @@ XIII.- Ejercer las facultades que le otorga la Constitución Federal en relació
 (ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)
 XIV.- Publicar el Decreto de creación del Comité de Contribuyentes que prevé el Código Fiscal del Estado de Baja California Sur, y en términos del mismo.
 El Titular del Poder Ejecutivo podrá celebrar con los Municipios que así lo decidan, convenios en materia de coordinación fiscal.
-Asimismo, el Gobernador del Estado publicará el Decreto de creación de un organismo, que de común acuerdo con los Municipios, tenga la finalidad de revisar permanentemente los aspectos que atañen a la recaudación y distribución de las diversas contribuciones que en vía de ingresos conforman las Haciendas Públicas Municipales, y con la finalidad de crear un grupo de asesoría, capacitación y planeación hacendaria, en el ámbito de coordinación fiscal que determine la Ley de la materia.
-Para los efectos señalados el Gobernador del Estado, como integrante del organismo a que se refiere el párrafo anterior, ordenará al Secretario de Finanzas del Estado y al personal que el mismo determine para que se reúnan trimestralmente con las autoridades fiscales Municipales.
+(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2023)
+Asimismo, el Gobernador del Estado por conducto de la Secretaría de Finanzas y Administración concurrirá conforme a la ley de la materia, a la integración del Sistema Estatal Hacendario, el cual tendrá por objeto establecer los principios, bases y políticas públicas tendientes a fortalecer la coordinación hacendaria entre el Gobierno del Estado y los Ayuntamientos de la Entidad.
+(DEROGADO CUARTO PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2023)
 XV.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales;
 XVI.- Ejercer actos de dominio del patrimonio del Estado en los términos de esta Constitución;
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)
