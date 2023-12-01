@@ -1,0 +1,6 @@
+(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2023)
+ARTÍCULO 37 TER.- Los servicios señalados en el artículo anterior, no obstante lo señalado en otras disposiciones, deberán atender los siguientes principios:
+I. Eficacia.- Los servicios deben de tener un funcionamiento que permita una reducción máxima del tiempo de reacción y atención.
+II. Calidad.- Las acciones y prácticas realizadas deben de adaptarse a las características de cada situación, de acuerdo con las recomendaciones clínicas protocolarias, maximizando la posibilidad de sobrevivencia y evitando las complicaciones posteriores.
+III. Continuidad.- El sistema debe permitir la integración de todos los eslabones de la cadena entre estos servicios y la red de dispositivos tanto de atención prehospitalaria, como de urgencias y emergencias. En este sentido, debe permitir el traslado a los establecimientos más apropiados según el caso y directamente, cuando sea necesario, a los centros más cercanos y especializados. Privilegiando el principio de no discriminación.
+IV. Líneas estratégicas.- Los servicios de atención médica prehospitalaria deberá (sic) evaluarse y considerar la capacitación técnica del recurso humano responsable de proporcionar el apoyo asistencial médico en la atención de servicios prehospitalarios de urgencias y emergencias.
