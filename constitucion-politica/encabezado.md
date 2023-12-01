@@ -350,17 +350,33 @@ III.- Asociarse individual y libremente para tomar parte en forma pacífica en l
 IV.- Ejercer en toda clase de negocios el derecho de petición; y
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2012)
 V.- Presentar Iniciativas ante el Congreso del Estado de acuerdo con los requisitos y procedimientos establecidos en la Ley de la materia y en la Ley Orgánica del Poder Legislativo del Estado de Baja California Sur;
-(ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
-VI.- Participar en las consultas ciudadanas plebiscitarias y de referéndum; y
-(REFORMADA, B.O. 10 DE JUNIO DE 2000)
-VII.- Las demás que le confieran esta Constitución y las Leyes que de ella emanan.
+(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2023)
+VI.- Participar en las consultas ciudadanas plebiscitarias y de referéndum;
+(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], B.O. 30 DE NOVIEMBRE DE 2023)
+VII.- Participar en los procesos de revocación de mandato.
+En lo que se refiere a la revocación de mandato del Gobernador Constitucional del Estado, esta debe entenderse como el instrumento de participación solicitado por la ciudadanía para determinar la conclusión anticipada del desempeño del cargo a partir de la pérdida de confianza, y se llevará a cabo conforme a lo siguiente:
+a) Será convocado por el Instituto Estatal Electoral a petición de los ciudadanos y ciudadanas, en un número equivalente, al menos, al diez por ciento de los inscritos en la lista nominal de electores en la Entidad, siempre y cuando en la solicitud correspondan a por lo menos la mitad más uno de los Municipios del Estado y que representen, como mínimo, el diez por ciento de la lista nominal de electores de cada una (sic) de ellos;
+El Instituto Estatal Electoral, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato;
+b) Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional;
+Los ciudadanos y ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto Estatal Electoral emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas;
+c) Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal de la Entidad, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales locales o federales;
+d) Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores de la Entidad. La revocación de mandato sólo procederá por mayoría absoluta:
+e) El Instituto Estatal Electoral tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato del titular del Poder Ejecutivo Estatal, los cuales podrán ser impugnados ante el Tribunal Estatal Electoral, en los términos de lo dispuesto en la fracción V del artículo 36, así como el artículo 36 BIS de la presente Constitución;
+f) El Tribunal Estatal Electoral realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto. En su caso, emitirá la declaratoria de revocación y se estará a lo dispuesto en el artículo 72 de esta Constitución, en relación a las faltas absolutas del Gobernador Constitucional del Estado;
+g) Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato;
+h) El Instituto Estatal Electoral promoverá la participación ciudadana y serán (sic) la única instancia a cargo de la difusión de los mismos. La promoción será objetiva, imparcial y con fines informativos;
+i) Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos y ciudadanas;
+j) Durante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno, y
+k) Los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
+(ADICIONADA [N. DE E. REUBICADA], B.O. 30 DE NOVIEMBRE DE 2023)
+VIII.- Las demás que le confieran esta Constitución y las Leyes que de ella emanan.
 (REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2013)
 29.- Son deberes de las ciudadanas y ciudadanos sudcalifornianos:
 I.- Inscribirse en el catastro de la municipalidad, manifestando sus propiedades, industria, profesión u ocupación;
 II.- Inscribirse en los padrones electorales, en los términos que determinen las leyes;
 III.- Alistarse en la Guardia Nacional;
-(REFORMADA, B.O. 20 DE JULIO DE 2013)
-IV.- Votar en las elecciones, consultas ciudadanas plebiscitarias y de referéndum;
+(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2023)
+IV.- Votar en las elecciones, consultas ciudadanas plebiscitarias, de referéndum y los procesos de revocación de mandato; en los términos que señale la Ley;
 V.- Ejercer los cargos de elección popular para los que fuere electo; y
 VI.- Desempeñar las funciones electorales, censales, las de jurado y las de concejo del municipio en que resida.
 30.- Los sudcalifornianos serán preferidos para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano.
@@ -410,9 +426,10 @@ Sin perjuicio de lo establecido en el inciso B) del párrafo segundo del Apartad
 IV.- La organización de los procesos electorales es una función que corresponde realizar al poder público, a través de un Organismo Público Local en Materia Electoral que se denominará Instituto Estatal Electoral, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propio, depositario de la autoridad electoral en la entidad, responsable del ejercicio de la función estatal de organizar las elecciones, en los términos de la Ley de la materia, así como responsable de los procedimientos de referéndum y el plebiscito. En el ejercicio de sus actividades, el Instituto se regirá por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 (REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
 El Instituto Estatal Electoral residirá en la Capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por una Consejera o un Consejero Presidente y seis Consejeras o Consejeros Electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones y una o un Secretario Ejecutivo. Las y los Consejos Distritales y Municipales Electorales serán órganos desconcentrados del Instituto Estatal Electoral y solo funcionarán durante el desarrollo del proceso electoral. Las mesas directivas de casilla estarán integradas por ciudadanas y ciudadanos.
-(REFORMADO, B.O. 26 DE JULIO DE 2023)
-El Instituto Estatal Electoral tendrá a su cargo las facultades, atribuciones y obligaciones que establece el inciso a) del apartado B de la fracción V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, 104 de la Ley General de Instituciones y Procedimientos Electorales y los relativos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur;
-V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales.
+(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2023)
+El Instituto Estatal Electoral tendrá a su cargo las facultades, atribuciones y obligaciones que establece el inciso a) del apartado B y el apartado C, ambos de la fracción V del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, 104 de la Ley General de Instituciones y Procedimientos Electorales y los relativos de la Ley Electoral del Estado de Baja California Sur;
+(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2023)
+V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, incluidos los procesos de revocación de Mandato, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales.
 En materia electoral, la interposición de los medios de impugnaciones constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado;
 La ley establecerá el sistema de nulidades de las elecciones por violaciones graves, dolosas y determinantes en los siguientes casos:
 a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
@@ -430,8 +447,8 @@ IX.- La Ley de la materia señalará las reglas a las que se sujetarán las cand
 El Tribunal Estatal Electoral no formará parte del Poder Judicial del Estado.
 (REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
 Las Magistradas y Magistrados electorales serán electos en forma escalonada, observando el principio de paridad de género, por las dos terceras partes de los miembros presentes de la Cámara de Senadores, de conformidad con lo dispuesto por la Constitución General, y la Ley General de Instituciones y Procedimientos Electorales.
-(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
-Las Magistradas y Magistrados serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes en la materia.
+(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2023)
+Las Magistradas y Magistrados serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes en la materia, así como en materia de revocación de mandato.
 (REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
 Durante el periodo de su encargo, las Magistradas y Magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
 (ADICIONADO, B.O. 27 DE JUNIO DE 2014)
@@ -811,8 +828,8 @@ SECCION I
 DEL GOBERNADOR
 (REFORMADO, B.O. 26 DE JULIO DE 2023)
 67.- El ejercicio del Poder Ejecutivo del Estado se deposita en una sola persona que se denomina "Gobernadora o Gobernador del Estado de Baja California Sur".
-(REFORMADO, B.O. 26 DE JULIO DE 2023)
-68.- La elección de la Gubernatura será directa, secreta, uninominal, por mayoría relativa y bajo el principio de paridad de género en todo el Territorio del Estado, en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur.
+(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2023)
+68.- La elección del Gobernador será directa, secreta, uninominal y por mayoría relativa en todo el Territorio del Estado, en los términos de la Ley Electoral. El cargo de Gobernador del Estado de Baja California Sur puede ser revocado en los términos establecidos en esta Constitución.
 69.- Para ser Gobernador del Estado se requiere:
 (REFORMADA, B.O. 27 DE JUNIO DE 2014)
 I.- Ser ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios.
