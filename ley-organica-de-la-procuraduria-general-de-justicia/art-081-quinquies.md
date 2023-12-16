@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)
+ARTÍCULO 81 QUINQUIES.- El Titular de la Unidad Especializada en Inteligencia Patrimonial y Económica de la Procuraduría General de Justicia en el Estado de Baja California Sur, deberá cumplir con los requisitos para ser Ministerio Público establecidos en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California Sur y tener capacitación en materia de Extinción de Dominio.

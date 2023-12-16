@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)
+ARTÍCULO 79 OCTIES.- La titular de la Fiscalía Especializada para la Atención de Delitos Cometidos contra las mujeres, además de reunir los requisitos establecidos en el artículo 23 de la Ley Orgánica de la Procuraduría General de Justicia en el Estado de Baja California Sur, deberá tener formación y/o experiencia en derechos humanos y perspectiva de género.

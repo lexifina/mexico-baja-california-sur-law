@@ -1,0 +1,5 @@
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 15 DE DICIEMBRE DE 2023)
+CAPÍTULO XVII BIS
+DE LA UNIDAD ESPECIALIZADA DE INTELIGENCIA PATRIMONIAL Y ECONÓMICA
+(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2023)
+ARTÍCULO 81 BIS.- La Unidad Especializada en Inteligencia Patrimonial y Económica de la Procuraduría General de Justicia en el Estado de Baja California Sur, se adscribe directamente al Procurador General de Justicia en el Estado de Baja California Sur y tiene como objetivo detectar las estructuras financieras de la delincuencia, lograr una mayor eficiencia en la investigación y persecución de los delitos por hechos de corrupción, encubrimiento, delitos cometidos por servidores públicos, robo de vehículos, recursos de procedencia ilícita, delitos contra la salud, secuestro, extorsión y trata de personas y en el aseguramiento y la extinción de dominio de los bienes destinados a estos, de acuerdo a lo establecido en el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
