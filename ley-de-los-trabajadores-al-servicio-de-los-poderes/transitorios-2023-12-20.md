@@ -1,0 +1,6 @@
+B.O. 20 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO 3006 SE ADICIONAN UN PÁRRAFO SEGUNDO, UN PÁRRAFO TERCERO COMPUESTO CON LOS INCISOS A), B), C), D), E), F), CON SUS NUMERALES 1, 2, 3, 4, Y 5 Y LOS PÁRRAFOS CUARTO QUINTO Y SEXTO TODOS AL ARTÍCULO 74 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE ESTADO DE BAJA CALIFORNIA SUR".]
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- En un plazo de treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, los Sindicatos deberán armonizar sus estatutos conforme a lo establecido en el presente Decreto.
+La falta de armonización de los Estatutos de los Sindicatos dentro del plazo establecido en el presente Decreto, no menoscabara el derecho de sus miembros a ejercer su voto personal, libre, directo y secreto en la elección de sus dirigencias. En este supuesto, en los procesos de renovación de los Comités Ejecutivo Estatal y Seccionales, próximas e inmediatas a celebrarse, las convocatorias que al efecto se emitan, deberán garantizar la observancia de lo previsto en el presente Decreto.
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
