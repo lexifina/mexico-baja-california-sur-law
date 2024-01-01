@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2023)
+ARTICULO 154 BIS. El Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, deberá contar con una página de internet o medios electrónicos convencionales para cumplir con las obligaciones que, en materia de transparencia, le sean aplicables de conformidad con lo establecido en el artículo 75 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
