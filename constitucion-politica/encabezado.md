@@ -1062,27 +1062,29 @@ La administración, vigilancia y disciplina del Poder Judicial del Estado, con e
 (REFORMADA, B.O. 6 DE FEBRERO DE 2002)
 I.- El Tribunal Superior de Justicia.
 II.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
-(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
-III.- Los Jueces de Primera Instancia
-(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
-IV.- Los Jueces Menores.
-(REFORMADA, B.O. 6 DE FEBRERO DE 2002)
-V.- Los Jueces de Paz.
+(REFORMADA, B.O. 11 DE JULIO DE 2024)
+III.- Las y los Jueces de Primera Instancia.
+(REFORMADA, B.O. 11 DE JULIO DE 2024)
+IV.- Las y los Jueces Menores.
+(REFORMADA, B.O. 11 DE JULIO DE 2024)
+V.- Las y los Jueces de Paz.
 (REFORMADA, B.O. 6 DE FEBRERO DE 2002)
 VI.- Los árbitros.
 VII.- (DEROGADA, B.O. 6 DE FEBRERO DE 2002)
-(REFORMADA, B.O. 10 DE ABRIL DE 2013)
-VIII.- Los Jueces de Control.
+(REFORMADA, B.O. 11 DE JULIO DE 2024)
+VIII.- Las y los Jueces de Control.
 (ADICIONADA, B.O. 10 DE ABRIL DE 2013)
 IX.- El Tribunal de Juicio Oral.
-(ADICIONADA, B.O. 10 DE ABRIL DE 2013)
-X.- Los Jueces Especializados en Justicia para Adolescentes
-(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)
-XI.- Los Jueces de Ejecución;
-(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2021)
-XII.- Los Jueces en materia laboral; y
-(ADICIONADA [N. DE E. REUBICADA], B.O. 27 DE DICIEMBRE DE 2021)
-XIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
+(REFORMADA, B.O. 11 DE JULIO DE 2024)
+X.- Las y los Jueces Especializados en Justicia para Adolescentes
+(REFORMADA, B.O. 11 DE JULIO DE 2024)
+XI.- Las y los Jueces de Ejecución;
+(REFORMADA, B.O. 11 DE JULIO DE 2024)
+XII.- Las y los Jueces en materia laboral;
+(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2024)
+XIII.- Las y los Jueces Especializados en Violencia contra las Mujeres; y
+(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE JULIO DE 2024)
+XIV.- Los demás funcionarios y auxiliares de la administración de Justicia.
 (REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
 La ley establecerá las bases mediante las cuales el Consejo de la Judicatura procederá en la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, observando el principio de paridad de género, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 (REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)
@@ -1164,8 +1166,8 @@ V.- La resolución del Congreso se hará del conocimiento del funcionario, media
 Los Jueces protestarán ante el Consejo de la Judicatura; los demás funcionarios y empleados de la Administración de Justicia rendirán su protesta ante la autoridad de quien dependan.
 (REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)
 Las Magistradas y Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y los Jueces percibirán una remuneración adecuada e irrenunciable conforme a la ley, la cual no podrá ser disminuida durante su encargo.
-(REFORMADO, B.O. 18 DE FEBRERO DE 2022)
-95.- El Tribunal Superior de Justicia funcionará en los términos que determine su Ley Orgánica. Quien presida el Tribunal Superior lo hará por un periodo de dos años. Su elección será alternada entre géneros, durante la primera sesión que se celebre en el mes de abril del año que corresponda. Quien ocupe la presidencia no podrá ser objeto de reelección.
+(REFORMADO, B.O. 11 DE JULIO DE 2024)
+95.- El Tribunal Superior de Justicia funcionará en los términos que determine la Ley Orgánica del Poder Judicial. Quien presida el Tribunal Superior lo hará por un periodo de tres años. Su elección será alternada entre géneros, y se llevará a cabo en sesión plenaria que deberá celebrarse el último día hábil del periodo que corresponda en el cargo a la o el Presidente en turno. Quien ocupe la presidencia no podrá ser objeto de reelección.
 96.- El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la ley orgánica respectiva.
 (REFORMADO PRIMER PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)
 97.- Son facultades del Pleno del Tribunal Superior de Justicia:
