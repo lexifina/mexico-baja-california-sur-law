@@ -1,2 +1,0 @@
-(ADICIONADO, B.O. 21 DE JULIO DE 2023)
-Artículo 167 Bis. Requisitos de Procedibilidad y Pena Adicional. Tratándose de Personas Adultas Mayores, cuando los sujetos activos de los delitos previstos en el Capítulo I de este Título Tercero, sean descendientes directos o tengan parentesco por consanguinidad, afinidad o por adopción con la víctima, se perseguirán de oficio. Así mismo, además de la pena señalada en el delito que corresponda, se les impondrá la pérdida de los derechos sucesorios.

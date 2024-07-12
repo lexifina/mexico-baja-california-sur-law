@@ -1,5 +1,0 @@
-(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)
-Artículo 227 TER. Robo con violencia. Si el robo se ejecuta con violencia, a la pena que corresponda por el robo simple, se agregarán de tres a seis años de prisión. Hay violencia física o moral, pudiendo recaer la primera sobre las personas o las cosas. Si la violencia en las personas constituyere otro delito, se aplicarán las reglas de la acumulación.
-Si hay violencia en las cosas y produce daños, éstos quedarán subsumidos en el delito de robo calificado.
-La violencia a las personas se distingue de física o moral. Se entiende por violencia física en el robo, la fuerza material que para cometerlo se hace a una persona o a las cosas. Hay violencia moral cuando el ladrón amaga o amenaza a una persona con un mal grave, presente o inmediato, capaz de intimidarla.
-Se equipara a la violencia moral, cuando la víctima haya sido intimidada, mediante la utilización de juguetes u otros objetos que tengan apariencia, forma o configuración de armas de fuego, de pistolas de municiones o aquellas que arrojen proyectiles a través de aire o gas comprimido.
