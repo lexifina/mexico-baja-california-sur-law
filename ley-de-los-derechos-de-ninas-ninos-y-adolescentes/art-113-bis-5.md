@@ -1,0 +1,28 @@
+(ADICIONADO, B.O. 11 DE JULIO DE 2024)
+Artículo 113 Bis 5.- La Procuraduría de Protección Municipal tendrá las atribuciones que le señale su propia normatividad, además de las siguientes:
+I. Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Federal, la Constitución Política del Estado, los tratados internacionales, esta Ley y demás disposiciones aplicables.
+Dicha protección integral deberá abarcar, por lo menos:
+a) Atención médica y psicológica, de manera preventiva, oportuna e integral;
+b) Seguimiento a las actividades académicas, entorno social y cultural, y
+c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia.
+II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la Ley General, esta Ley y demás disposiciones aplicables;
+III. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
+IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme al procedimiento previsto en la ley aplicable. La conciliación no procederá en casos de violencia;
+V. Realizar las indagatorias para dar seguimiento a las denuncias recibidas respecto de la vulneración de derechos de niñas, niños y adolescentes;
+VI. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y/o adolescentes;
+VII. Solicitar al Ministerio Público dé atención inmediata a la imposición de medidas urgentes de protección especial idóneas, cuando exista algún riesgo fundado o peligro inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente;
+VIII. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
+a) El ingreso de una niña, niño o adolescente a un centro de asistencia social, y
+b) La atención médica inmediata por parte de alguna institución del Sistema Nacional de Salud.
+Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el Órgano Jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
+IX. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al Ministerio Público de atención inmediata y a la autoridad jurisdiccional competente.
+Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+Para la imposición de las medidas urgentes de protección, la Procuraduría de Protección o sus similares municipales, podrán solicitar el auxilio de las instituciones policiales competentes.
+En caso de incumplimiento de las medidas urgentes de protección, la Procuraduría de Protección o sus similares municipales, podrá solicitar la imposición de las medidas de apremio establecidas en el Código Nacional de Procedimientos Penales;
+X. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
+XI. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+XII. Implementar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes;
+XIII. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
+XIV. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
+XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, y
+XVI. Las demás que le confiera esta Ley y otras disposiciones aplicables en la materia.

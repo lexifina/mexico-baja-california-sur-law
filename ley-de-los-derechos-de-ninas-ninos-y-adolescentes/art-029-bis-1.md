@@ -1,3 +1,6 @@
+(DEROGADO SEGUNDO PÁRRAFO, B.O. 11 DE JULIO DE 2024)
+(DEROGADO TERCER PÁRRAFO, B.O. 11 DE JULIO DE 2024)
+(DEROGADO CUARTO PÁRRAFO, B.O. 11 DE JULIO DE 2024)
 (ADICIONADO, B.O. 20 DE ENERO DE 2020)
 Artículo 29 Bis 1.- Los Centros de Asistencia Social que reciban niñas, niños y/o adolescentes en situación de indefensión o desamparo familiar sólo podrán recibir niñas, niños y/o adolescentes por disposición de la Procuraduría de Protección o sus similares en los municipios por orden del ministerio público u órgano jurisdiccional competente. El incumplimiento de lo anterior, será considerado como un acto ilegal.
 Las niñas, niños y/o adolescentes acogidos en Centros de Asistencia Social, serán considerados expósitos o abandonados una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos o se tenga información que permita conocer su origen salvo que la Procuraduría de Protección correspondiente no cuente con los elementos suficientes que den certeza sobre la situación de expósito o abandonado de los menores de edad. En este caso, se podrá extender el plazo hasta por sesenta días naturales más.

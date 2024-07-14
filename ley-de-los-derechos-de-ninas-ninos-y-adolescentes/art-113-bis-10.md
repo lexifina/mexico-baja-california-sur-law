@@ -1,0 +1,10 @@
+(ADICIONADO, B.O. 11 DE JULIO DE 2024)
+Artículo 113 Bis 10.- La Procuraduría de Protección Municipal llevará acabo el registro de las adopciones que promueva ante los juzgados, con el objeto de conservar la información correspondiente a los orígenes de la niña, niño o adolescente adoptado, incluyendo la identidad de sus progenitores, su historia médica y de su familia.
+Además, conservará los datos de identificación del proceso, incluyendo la autoridad jurisdiccional que autorizó la adopción, así como la información correspondiente de los padres adoptivos.
+La información obtenida tendrá el carácter de confidencial y sólo será proporcionada en los siguientes supuestos:
+I.- Para cumplir con las disposiciones del Código Civil del Estado, y
+II.- Cuando sea solicitada vía oficio por las diversas autoridades administrativas competentes en el tema de adopciones, con el único fin de llevar a cabo su registro, control y estadística.
+TÍTULO SEXTO
+DE LOS SISTEMAS Y PROGRAMAS LOCALES DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
+CAPÍTULO PRIMERO
+Sistema Estatal de Protección

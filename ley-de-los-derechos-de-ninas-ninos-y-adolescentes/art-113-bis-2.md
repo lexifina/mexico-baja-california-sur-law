@@ -1,0 +1,4 @@
+(ADICIONADO, B.O. 11 DE JULIO DE 2024)
+Artículo 113 Bis 2.- La Procuraduría de Protección Municipal tendrá legitimación procesal para ejercer ante la autoridad judicial competente acciones para proteger los derechos de niñas, niños y adolescentes en los términos prescritos en la presente Ley y demás disposiciones aplicables.
+La Procuraduría de Protección Municipal actuará de manera directa por conducto de su titular en el Municipio que corresponda, o a través de sus asesores jurídicos que se les designe como delegados para representar a la Institución, cuya acreditación se realizará mediante oficio simple suscrito por quien sea titular de la misma.
+Para los casos en los que intervenga la Procuraduría de Protección de alguno de los Municipios, deberán de enviar un informe bimestral a la Procuraduría de Protección, el cual deberá contener los datos de los juicios desahogados y pendientes, a fin de llevar un Registro Estatal.

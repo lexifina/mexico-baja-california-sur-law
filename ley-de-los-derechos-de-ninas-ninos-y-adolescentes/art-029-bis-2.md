@@ -9,7 +9,11 @@ VI. La obtención directa o indirecta de beneficios indebidos, materiales o de c
 VII. La obtención de lucro o beneficio personal ilícito como resultado de la adopción;
 VIII. El matrimonio entre la persona adoptante y adoptada o sus descendientes, así como el matrimonio entre la persona adoptada con los familiares del adoptante o sus descendientes;
 IX. Ser adoptada o adoptado por más de una persona, salvo en caso de que quienes adoptan sean cónyuges o concubinos, en cuyo caso se requerirá el consentimiento de ambos;
-X. La adopción por discriminación, entendida como aquella donde se considera al niño como valor supletorio o reivindicatorio, y
-XI. Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano o al interés superior de la niñez y su adecuado desarrollo evolutivo.
+(REFORMADA, B.O. 11 DE JULIO DE 2024)
+X. La adopción por discriminación, entendida como aquella donde se considera al niño como valor supletorio o reivindicatorio;
+(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2024)
+XI. Que en los casos de adopción, el consentimiento de la madre sea otorgado dentro de los diez días posteriores el (sic) alumbramiento, y
+(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE JULIO DE 2024)
+XII. Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano o al interés superior de la niñez y su adecuado desarrollo evolutivo.
 Las autoridades vigilarán el desarrollo del proceso de adaptación a través del seguimiento que realice la Procuraduría de Protección y sus similares en los Municipios, mediante los reportes subsecuentes, respetando el derecho de la familia a vivir conforme a sus estándares, costumbres y valores.
 Las autoridades podrán suspender el proceso de adopción cuando tengan razones para creer que la adopción se realiza en contravención de lo establecido por la presente ley. En caso de que el proceso de adopción haya concluido judicialmente, la Procuraduría de Protección o sus similares en los Municipios correspondientes, tomarán las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes en los términos que disponga la ley para las y los hijos consanguíneos.
