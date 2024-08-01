@@ -1,0 +1,4 @@
+(ADICIONADO, B.O. 31 DE JULIO DE 2024)
+Artículo 28 D
+La persona titular de la Presidencia Municipal del Ayuntamiento entrante solicitará por escrito a la persona titular de la Presidencia Municipal del Ayuntamiento saliente que se proceda a la instalación e inicio de los trabajos de la Comisión de Transición a mas tardar tres dias antes de la fecha señalada en el primer párrafo del artículo 28 A.
+En caso de que la persona titular de la Presidencia Municipal del Ayuntamiento saliente no realice las acciones necesarias para llevar a cabo la instalación e inicio de los trabajos de la Comisión de Transición, incurrirá en responsabilidad y por tanto se hará acreedora a las sanciones administrativas que resulten aplicables en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
