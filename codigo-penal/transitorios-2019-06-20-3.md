@@ -1,0 +1,4 @@
+B.O. 20 DE JUNIO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO 2611 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+Segundo.- Sin perjuicio de lo dispuesto en el artículo transitorio Primero, la policía Cibernética de la Entidad contara con el plazo de 180 días a partir de la entrada en vigor de esta reforma, para el debido diseño, implementación, modificación y actualización de sus planes, programas y bases de datos a efecto de que se modifiquen de acuerdo a lo establecido en el presente Decreto.

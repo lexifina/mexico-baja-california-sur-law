@@ -1,0 +1,5 @@
+(REFORMADO [N. DE E. ADICIONADO], B.O. 14 DE AGOSTO DE 2024)
+Artículo 41 Ter.- Son objetivos de la Red Estatal de Radio de Emergencia:
+I. Constituir un sistema de comunicaciones radioeléctricas alternativo y complementario a las redes de comunicación utilizadas por las autoridades de protección civil. Dicho sistema deberá permitir la recogida de información relevante a nivel estatal sobre cualquier situación de la emergencia, y la transmisión de mensajes a aquellos destinatarios que, por las características de la emergencia o desastre, no dispongan de otros medios de comunicación operativos.
+II. Conformar una estructura operativa que permita a los radioaficionados acreditados en el Estado, colaborar en emergencias y desastres asumiendo voluntariamente las funciones que les fueran solicitadas como apoyo por las autoridades en materia de protección civil.
+III. Constituirse como una capacidad operativa de apoyo al Sistema Estatal de Protección Civil y de los Sistemas Municipales de Protección Civil, cuando se les solicite y se considere necesario.
