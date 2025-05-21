@@ -1,0 +1,4 @@
+B.O. 20 DE MAYO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO 3147 SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 45, EL INCISO C) DE LA FRACCIÓN VII DEL ARTÍCULO 46, LA FRACCIÓN VII DEL ARTÍCULO 46 Y EL INCISO E) DE LA FRACCIÓN VIII DEL ARTÍCULO 46; Y SE ADICIONA EL INCISO D) A LA FRACCIÓN VII DEL ARTÍCULO 46, RECORRIÉNDOSE EL TEXTO DEL ACTUAL INCISO C) EN SU ORDEN SUBSECUENTE, Y EL INCISO F) A LA FRACCIÓN VIII DEL ARTÍCULO 46, RECORRIÉNDOSE EL TEXTO DEL ACTUAL INCISO E) EN SU ORDEN SUBSECUENTE; TODAS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+Segundo.- Se Derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.

@@ -1,0 +1,4 @@
+B.O. 20 DE MAYO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO 3145 SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 178, EL PRIMER PÁRRAFO DEL ARTÍCULO 180 Y EL ARTÍCULO 184 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto y que se encuentren en trámite o pendientes de resolución, se seguirán substanciando hasta su conclusión conforme a las disposiciones vigentes y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.

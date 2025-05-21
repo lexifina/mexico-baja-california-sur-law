@@ -1,0 +1,4 @@
+B.O. 20 DE MAYO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO 3150 SE REFORMA EL NUMERAL VI DEL ARTÍCULO 33 DE LA LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR".]
+Primero.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+Segundo.- Se exhorta a los Ayuntamientos en el Estado de Baja California Sur, en el ámbito de sus facultades y atribuciones, a que realicen las adecuaciones normativas correspondientes a fin de "garantizar que las instalaciones de los Parques y espacios públicos de nueva creación o donde se realicen remodelaciones, cuenten con condiciones de accesibilidad a las personas con discapacidad; Así mismo cuando se instalen Juegos infantiles en los espacios antes mencionados, se garantice también la existencia de juegos infantiles inclusivos"
