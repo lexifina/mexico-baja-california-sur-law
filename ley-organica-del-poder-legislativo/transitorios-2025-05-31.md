@@ -1,0 +1,5 @@
+B.O. 31 DE MAYO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO 3153 SE REFORMA LOS INCISOS L) Y M) DE LA FRACCIÓN XXIV DEL ARTÍCULO 46, Y SE ADICIONAN LOS INCISOS N), Ñ) Y O) A LA FRACCIÓN XXIV DEL ARTÍCULO 46, UN CAPÍTULO CUARTO DENOMINADO: "DEL PARLAMENTO ABIERTO" AL TÍTULO DÉCIMO Y LOS ARTÍCULOS 261 BIS, 261 TER, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DE BAJA CALIFORNIA SUR".]
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+Artículo Segundo. La Comisión de Transparencia y Anticorrupción en un plazo no mayor de cuarenta y cinco días siguientes a la entrada en vigor del presente decreto deberá presentar el proyecto de "Lineamientos de Parlamento Abierto del Poder Legislativo del Estado de Baja California Sur", a la Junta de Gobierno y Coordinación Política, órgano de gobierno que deberá aprobarlos y expedirlos en un plazo no mayor a treinta días hábiles.
+Artículo Tercero. Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
