@@ -1,0 +1,7 @@
+B.O. 10 DE SEPTIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO 3179 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+TERCERO.- La Secretaría de Salud del Gobierno del Estado de Baja California Sur, contará con un lapso no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para coordinarse con las autoridades correspondientes del Poder Judicial y de la Procuraduría General de Justicia ambas del Estado de Baja California Sur, a efecto de llevar un registro y remitir información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas.
+CUARTO.- Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.

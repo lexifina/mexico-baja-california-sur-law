@@ -1,0 +1,8 @@
+(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2025)
+Artículo 390 QUINQUIES. Lesiones Agravadas por ataques con ácido, sustancias químicas o corrosivas en razón de género. Las penas previstas en el artículo anterior, se aumentaran en dos tercios, cuando las lesiones sean causadas mediante ataques con ácido, sustancias químicas o corrosivas en contra de una mujer en razón de su género.
+Se considera que las lesiones por ataques con ácido o similares son cometidas en razón de género cuando ocurra cualquiera de las siguientes circunstancias:
+I. Si entre el sujeto activo y la víctima existe o haya existido una relación sentimental, sexual, afectiva o de confianza, o cualquier otra relación de hecho o amistad;
+II. Si entre el sujeto activo y la víctima existe o haya existido una relación profesional, laboral, docente, religiosa, institucional, de servicio o cualquier otra que implique, de manera formal o de hecho, una relación de subordinación o superioridad;
+III. Si entre el sujeto activo y la víctima existe parentesco por consanguinidad, civil o afinidad;
+IV. Que previo a la lesión infligida existan antecedentes de violencia contra las mujeres o delitos de género, hayan existido amenazas, acecho, acoso o cualquier tipo de violencia o acto de agresión en el ámbito familiar, profesional, laboral, docente ejercido por parte del sujeto activo contra la mujer, o
+V. Cuando se cometa en contra de las mujeres transexuales o transgénero, en el ámbito profesional, laboral, relaciones sentimentales o cualquier otra, por razones que deriven de su orientación sexual, identidad o expresión de género.
