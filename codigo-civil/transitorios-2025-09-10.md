@@ -1,0 +1,3 @@
+B.O. 10 DE SEPTIEMBRE DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO 3176 SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 305 A Y SE ADICIONAN LOS ARTÍCULOS 305 C Y 340 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
