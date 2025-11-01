@@ -1,0 +1,4 @@
+B.O. 31 DE OCTUBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO 3163 SE ADICIONAN UNA FRACCIÓN VII RECORRIÉNDOSE LAS SUBSECUENTES EN SU ORDEN AL ARTÍCULO 3 Y UN ARTÍCULO 9 BIS A LA LEY DE PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS PARA BAJA CALIFORNIA SUR".]
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- Las erogaciones motivo del presente decreto se cubrirán con la disponibilidad autorizada en materia de atención medica preventiva de animales domésticos, en los (sic) Presupuesto de Egresos para el Ejercicio Fiscal del Año 2025 y posteriores, así como lo autorizado para el cumplimiento de lo normado en el artículo 87 BIS 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
