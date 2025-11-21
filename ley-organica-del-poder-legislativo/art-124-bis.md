@@ -1,0 +1,5 @@
+(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2025)
+Artículo 124 Bis
+Las iniciativas de Ley o Decreto, así como Proposiciones con Punto de Acuerdo, presentadas durante una Legislatura que no sean dictaminadas a más tardar al día treinta de agosto del año en que concluye su ejercicio legislativo, se considerarán automáticamente caducadas, por lo que la Legislatura entrante no las considerará como asuntos pendientes de resolver, sin necesidad de declaración administrativa alguna.
+Del anterior párrafo, se exceptúan las iniciativas de Ley o de Decreto, así como Proposiciones con Punto de Acuerdo, que hubiesen sido presentados en el segundo periodo ordinario de sesiones y segundo periodo de receso del tercer año de ejercicio legislativo, las cuales se considerarán caducadas al término del primer periodo ordinario de sesiones del primer año de ejercicio legislativo de la Legislatura siguiente.
+De igual forma se exceptúan aquellas iniciativas de Ley o de Decreto que estén vinculadas con el trámite o cumplimiento de una acción de inconstitucionalidad, controversia constitucional o juicio de amparo.
