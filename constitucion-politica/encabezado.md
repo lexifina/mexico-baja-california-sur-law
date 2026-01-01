@@ -1581,6 +1581,14 @@ XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria 
 En el nombramiento y remoción de los Titulares de la Secretaría General, Tesorería, Contraloría, Oficialía Mayor y de las Direcciones Generales de los Ayuntamientos, deberá observarse el principio de paridad de género.
 (ADICIONADO, B.O. 14 DE DICIEMBRE DE 2021)
 En caso de que los nombramientos y remociones de dichos Titulares se realicen en contravención a lo establecido en el párrafo anterior, se considerarán nulos de pleno derecho.
+(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRA, B.O. 17 DE SEPTIEMBRE DE 2025)
+TITULO OCTAVO BIS
+DE LAS RELACIONES JURÍDICAS DE TRABAJO ENTRE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR Y LOS TRABAJADORES A SU SERVICIO
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 17 DE SEPTIEMBRE DE 2025)
+CAPITULO UNICO
+BASES GENERALES
+(ADICIONADO, B.O. 17 DE SEPTIEMBRE DE 2025)
+155 BIS.- Las relaciones jurídicas de trabajo entre los Titulares de los Poderes del Estado y Municipios de Baja California Sur y las personas trabajadoras a su servicio, se regirán por las leyes que expida la Legislatura, con base en lo dispuesto por los Artículos 115 fracción VIII, 116 fracción VI, y 123 de la Constitución Política de los Estados Unidos Mexicanos.
 (REFORMADA SU DENOMINACIÓN, B.O. 28 DE FEBRERO DE 2017)
 TITULO NOVENO
 DE LAS RESPONSABILIDADES Y SISTEMA ANTICORRUPCIÓN
