@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2025)
+Artículo 43 Bis. Corresponde a este órgano de control interno fungir como autoridad garante del Tribunal de Justicia Administrativa, ejerciendo para tales efectos las funciones, competencias y atribuciones que en materia de transparencia, acceso a la información pública y protección de datos personales en posesión de sujetos obligados establece la legislación de la materia.
