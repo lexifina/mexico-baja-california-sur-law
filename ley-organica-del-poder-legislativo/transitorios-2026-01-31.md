@@ -1,0 +1,6 @@
+P.O. 31 DE ENERO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO 3261 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y DEL REGLAMENTO INTERIOR DE LA CONTRALORÍA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES".]
+PRIMERO. Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+El presente Decreto entrará en vigor el día primero de enero de dos mil veintiséis, fecha de entrada en vigor de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+SEGUNDO. La Junta de Gobierno y Coordinación Política, la Oficialía Mayor, la Dirección de Finanzas y la Contraloría del Poder Legislativo del Estado de Baja California Sur, deberán realizar, dentro de los noventa días naturales siguientes a la publicación del presente Decreto en el Boletín Oficial del Gobierno del Estado, las adecuaciones administrativas y presupuestales necesarias para el debido cumplimiento de lo dispuesto en el mismo.
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
