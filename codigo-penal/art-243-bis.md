@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)
+Artículo 243 Bis. Fraude Familiar. A quien en perjuicio de la sociedad conyugal o patrimonio común generado durante el matrimonio o el concubinato, oculte, transfiera o adquiera a nombre de terceros bienes, sin autorización expresa de su cónyuge, concubina o concubino, se le aplicará sanción de uno a cinco años de prisión y multa de cincuenta a trescientos días, así como a la reparación del daño.
