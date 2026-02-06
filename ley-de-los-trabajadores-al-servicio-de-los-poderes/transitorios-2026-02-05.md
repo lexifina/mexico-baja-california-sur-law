@@ -1,0 +1,4 @@
+B.O. 5 DE FEBRERO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO 2934 SE ADICIONA UN ARTÍCULO 63 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR Y UN ÚLTIMO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 44 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+PRIMERO.- El Presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- Se Derogan todas las disposiciones legales que se opongan al presente Decreto.
