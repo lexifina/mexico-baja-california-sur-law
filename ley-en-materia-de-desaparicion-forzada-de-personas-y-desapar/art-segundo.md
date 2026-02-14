@@ -1,0 +1,1 @@
+Artículo segundo.- El presente Decreto Abroga la Ley en Materia de Desaparición Forzada de Personas y Desaparición Cometida por particulares para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 16 de Agosto de 2019.
