@@ -1,0 +1,7 @@
+B.O. 10 DE MAYO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO 3276 SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO.- El "Observatorio Ciudadano de Obra Pública y Servicios Relacionados con las Mismas", deberá quedar instalado en un plazo que no exceda de 120 días hábiles siguientes a partir de la publicación del presente Decreto.
+TERCERO.- El Congreso del Estado de Baja California Sur a través de las Comisiones Permanentes de Transparencia y Anticorrupción y de Infraestructura convocaran a las asociaciones e instituciones señaladas en las fracciones I a la VII del artículo 103, para que designen a sus representantes para la conformación del Observatorio.
+CUARTO.- A más tardar dentro de los 30 días siguientes a la publicación del presente decreto en el Boletín Oficial del Gobierno del Estado, el Congreso del Estado deberá de expedir la convocatoria para la elección de los integrantes del "Observatorio Ciudadano de Obra Pública y Servicios Relacionados con las Mismas" referidos en la fracción VIII del numeral 103 de esta Ley.
+QUINTO.- Una vez instalado el "Observatorio Ciudadano de Obra Pública y Servicios Relacionados con las Mismas", éste contará con un plazo de 60 días hábiles, para expedir su Reglamento Interno.
