@@ -467,6 +467,8 @@ DEL PODER LEGISLATIVO
 SECCION I
 DEL CONGRESO
 40.- El poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Baja California Sur".
+(ADICIONADO, B.O. 4 DE JUNIO DE 2026)
+En su integración y funcionamiento deberán garantizarse los principios de paridad, igualdad sustantiva y perspectiva de género.
 SECCION II
 DE LA ELECCION E INSTALACION DEL CONGRESO
 (REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)
@@ -681,6 +683,8 @@ El Congreso del Estado evaluará el desempeño de la Auditoría Superior del Est
 XXXI.- Aprobar, y en su caso modificar, el Presupuesto de Egresos del Estado y fijar las contribuciones para cubrirlo.
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos del Estado, se aplicara la que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 Asimismo, cuando también por cualquier circunstancia no se aprobare el presupuesto de Egresos del Estado, se aplicara el que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+(ADICIONADO, B.O. 4 DE JUNIO DE 2026)
+XXXI BIS.- Aprobar anualmente su Presupuesto de Egresos, el cual no podrá exceder del cero punto setenta por ciento del monto total del Presupuesto de Egresos del Estado del año correspondiente.
 XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de emergencia en caso de desastre;
 (REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)
 XXXIII.- Aprobar y decretar las Leyes de Hacienda y de Ingresos Municipales, tomando en consideración su independencia económica, revisar y fiscalizar sus cuentas públicas
@@ -1286,8 +1290,8 @@ CONCEPTOS Y FINES
 (REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)
 117.- El Municipio es la entidad local básica de la organización territorial del Estado; es la institución jurídica, política y social, de carácter autónomo, con autoridades propias, atribuciones específicas y libre en la administración de su hacienda. Su finalidad consiste en organizar a la comunidad asentada en su territorio en la gestión de sus intereses y la satisfacción de sus necesidades colectivas, tendientes a lograr su desarrollo integral y sustentable; proteger y fomentar los valores de la convivencia local y ejercer las funciones en la prestación de los Servicios Públicos de su competencia.
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para normar directa y libremente las materias de su competencia, así como para establecer sus órganos de gobierno interior.
-(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE JULIO DE 2023)
-118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo de junio de cada tres años en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE JUNIO DE 2026)
+118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. La elección se celebrará el primer domingo de junio de cada tres años en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 (ADICIONADO, B.O. 23 DE SEPTIEMBRE DE 2015)
 Los ayuntamientos iniciarán el ejercicio de sus periodos de conformidad al siguiente calendario:
 I.- El ayuntamiento de Mulegé, iniciará su periodo el 25 de Septiembre del año de la elección.
@@ -1704,7 +1708,12 @@ Los servidores públicos del Estado, los Municipios, de sus entidades y dependen
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
 III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
-IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE JUNIO DE 2026)
+IV.- No se podrán adquirir o contratar con recursos públicos, seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones, que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+(ADICIONADO, B.O. 4 DE JUNIO DE 2026)
+Bajo estas mismas condiciones tampoco se concederán ni cubrirán jubilaciones, pensiones, haberes de retiro, créditos o préstamos, así como liquidaciones por servicios prestados.
+(ADICIONADO, B.O. 4 DE JUNIO DE 2026)
+Todos estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 (REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)
 165.- Todos los profesionistas que sean funcionarios y empleados del Estado, no pueden ejercer su profesión sino cuando se lo permitan las leyes orgánicas aplicables de las dependencias en que trabajen. La infracción de este artículo será causa de responsabilidad.
