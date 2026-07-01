@@ -1,0 +1,6 @@
+B.O. 30 DE JUNIO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO 3289 SE REFORMA EL INCISO B) DE LA FRACCIÓN XXIII Y SE ADICIONA LA FRACCIÓN XXII BIS AL ARTÍCULO 5; SE ADICIONA UN CAPÍTULO VII DENOMINADO "DEL TURISMO COMUNITARIO" AL TÍTULO TERCERO; Y SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 27 DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+SEGUNDO. En un plazo no mayor a ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría de Turismo deberá realizar las adecuaciones necesarias al Programa Estatal de Turismo e incluir una línea específica de fomento al turismo comunitario.
+TERCERO. En un plazo no mayor a ciento ochenta días naturales, la Secretaría deberá emitir los lineamientos para la integración y funcionamiento del Registro Estatal de Iniciativas de Turismo Comunitario.
+CUARTO. Se faculta a la Secretaría para que, en coordinación con el Instituto Sudcaliforniano de Cultura, universidades públicas y organizaciones comunitarias, diseñe esquemas de certificación y evaluación participativa en esta modalidad turística.

@@ -1,0 +1,7 @@
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 2026)
+CAPÍTULO II BIS
+COHABITACIÓN FORZADA DE PERSONAS MENORES DE EDAD
+(ADICIONADO, B.O. 30 DE JUNIO DE 2026)
+Artículo 174 Bis. Cohabitación forzada de personas menores de edad. Comete el delito de cohabitación forzada de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien obligue, coaccione, induzca, solicite, gestione u oferte a una o varias de estas personas a unirse informal o consuetudinariamente, con o sin su consentimiento, con alguien de su misma condición o con persona mayor de dieciocho años de edad, con el fin de convivir en forma constante y equiparable a la de un matrimonio. Al responsable de este delito se le impondrá de ocho a quince años de prisión y de dos mil a cuatro mil días multa.
+Para efectos de este artículo, se entenderá por unión informal o consuetudinaria aquella situación en la que la víctima cohabite de manera habitual con otra persona bajo un vínculo de pareja de facto que implique subordinación, dependencia, sujeción o la asunción de roles propios de una relación conyugal o análoga.
+Para efectos de este artículo, el consentimiento de la persona menor de edad no excluye la responsabilidad penal, ni será causa de justificación la existencia de usos, costumbres, prácticas comunitarias, religiosas o culturales.
