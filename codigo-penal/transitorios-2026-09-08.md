@@ -1,0 +1,5 @@
+B.O. 8 DE SEPTIEMBRE DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO 3303 SE ADICIONA UN PÁRRAFO CUARTO Y QUINTO AL ARTÍCULO 336 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de resolución, por las disposiciones previstas en el artículo 335 y 336 del Código Penal para el Estado Libre y Soberano de Baja California Sur que se reforma, se seguirán substanciando hasta su conclusión con la disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
