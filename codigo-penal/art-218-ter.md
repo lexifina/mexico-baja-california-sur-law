@@ -1,0 +1,16 @@
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE OCTUBRE DE 2026)
+CAPITULO I BIS
+ACECHO
+(ADICIONADO, B.O. 10 DE OCTUBRE DE 2026)
+Artículo 218 TER. Comete el delito de acecho quien, por cualquier medio físico o digital, por sí o por interpósita persona, realice de manera reiterada y sin el consentimiento de la víctima dos o más actos dirigidos específicamente en su contra, con la finalidad de intimidarla, coaccionarla, controlarla o afectar su libertad o seguridad personal, generándole una afectación relevante en su vida cotidiana, tranquilidad o seguridad.
+A la persona responsable de alguna de esas conductas descritas en los párrafos anteriores se le impondrán penas de seis meses a 2 años y hasta 1500 días multa
+Se entenderá que existe acecho cuando el sujeto activo, de manera insistente y reiterada, lleve a cabo cualquiera de las conductas siguientes:
+I. Seguir, perseguir o presentarse de manera reiterada en lugares donde se encuentre la víctima, o bien vigilarla, observarla o espiarla de forma dirigida y persistente, es decir, dos o más ocasiones, con el propósito de conocer, registrar o supervisar sus movimientos, actividades, ubicaciones o entorno personal;
+II. Establecer, intentar establecer o mantener contacto en dos o más ocasiones con la víctima a través de cualquier medio de comunicación, plataformas digitales, redes sociales o por interpósita persona, cuando dicha conducta, por su frecuencia, contenido o contexto, resulte idónea para generar intimidación o coacción;
+III. Monitorear, rastrear, localizar o recopilar información personal relativa a la víctima, incluyendo datos sobre su ubicación, actividades o relaciones, sin su consentimiento;
+IV. Realizar actos dirigidos a afectar la libertad, seguridad o patrimonio de la víctima o de personas cercanas a ella, cuando dichos actos sean idóneos para generar intimidación, presión o control;
+V. Ejecutar conductas dirigidas a causar daño en la persona, bienes, entorno o relaciones de la víctima, o de personas con quienes tenga vínculos familiares, afectivos o sociales, con la finalidad de mantenerla en estado de intimidación o sujeción.
+Para la configuración del delito, las conductas deberán ser idóneas para provocar efectivamente una afectación relevante en la vida cotidiana, libertad, seguridad o integridad personal de la víctima.
+Se entenderá que existe afectación relevante cuando la víctima, como consecuencia directa de las conductas, se vea obligada a modificar o restringir de manera significativa sus hábitos, rutinas o patrones de movilidad; sus horarios o lugares de tránsito; su domicilio, residencia, lugar de trabajo o de estudio; o su forma de interacción o desenvolvimiento en espacios físicos o digitales.
+Cuando las conductas se realicen a través de tecnologías de la información y la comunicación, redes sociales, correo electrónico o cualquier espacio digital, se aplicará lo dispuesto en este artículo, siempre que los actos sean dirigidos de manera específica a la víctima y no consistan exclusivamente en expresiones aisladas, interacciones ocasionales o conductas propias del uso ordinario de dichos medios.
+Las penas previstas en este artículo se impondrán sin perjuicio de las que pudieren corresponder por otros delitos cometidos.

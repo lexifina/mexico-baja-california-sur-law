@@ -1,0 +1,7 @@
+(ADICIONADO, B.O. 10 DE OCTUBRE DE 2026)
+Artículo 218 QUINQUIES. No se actualizará el delito de acecho cuando las conductas previstas en este capítulo se realicen en ejercicio legítimo de la libertad de expresión, del derecho a la información, de la actividad periodística, académica, de investigación o de defensa de derechos humanos, respecto de hechos o asuntos de interés público, siempre que concurran los requisitos siguientes:
+I. Que la conducta tenga una finalidad predominantemente informativa, investigativa, académica, de denuncia o de documentación de hechos de relevancia pública;
+II. Que se lleve a cabo por medios idóneos, necesarios, razonables y proporcionales al fin legítimo perseguido;
+III. Que no incluya amenazas, violencia, coacción, persecución física, interceptación, vigilancia en el domicilio o en lugares de asistencia ordinaria de la persona, ingreso no autorizado, ni cualquier otro acto objetivamente intimidatorio;
+IV. Que no tenga por objeto, ni sea manifiestamente apta para intimidar o forzar a la persona a modificar de manera relevante su desenvolvimiento ordinario.
+La exclusión prevista en este artículo no será aplicable cuando, bajo la apariencia de actividad periodística, informativa, académica o de denuncia, se ejecuten actos de hostigamiento personal manifiestamente desvinculados de un interés público real o realizados con ánimo de intimidación, represalia o amedrentamiento.
