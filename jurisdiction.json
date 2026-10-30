@@ -1,0 +1,11 @@
+{
+  "path": "mx-bcs",
+  "code": "MX-BCS",
+  "name": "Baja California Sur",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-baja-california-sur-law",
+  "build": "built: constitution, codes and laws (101 ordenamientos, 739 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}

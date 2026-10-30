@@ -1,0 +1,513 @@
+day,kind,law,acts,files,branch
+1975-01-18,start,constitucion-1975-01-15-extraordinario,constitucion-politica,1,main
+1975-08-27,law,decreto-1975-08-26-31-extraordinario,constitucion-politica,2,main
+1975-08-27,law,decreto-1975-08-26-31-extraordinario-2,constitucion-politica,2,main
+1975-08-27,law,decreto-1975-08-26-31-suplemento,constitucion-politica,2,main
+1976-12-22,law,decreto-1976-12-21-47-extraordinario,constitucion-politica,2,main
+1976-12-22,law,decreto-1976-12-21-47-extraordinario-2,constitucion-politica,2,main
+1977-04-20,law,decreto-1977-04-20-15,constitucion-politica,2,main
+1977-05-21,law,decreto-1977-05-20-21,constitucion-politica,2,main
+1978-01-03,start,ley-1977-12-31-46,ley-del-notariado,141,main
+1978-07-11,law,decreto-1978-07-10-24,constitucion-politica,2,main
+1978-07-11,law,decreto-1978-07-10-24-2,constitucion-politica,2,main
+1980-03-21,start,ley-1980-03-20-10,ley-de-los-comites-de-caminos-vecinales-en-el-estado-de-baja,30,main
+1980-04-08,law,decreto-1980-04-07-13-extraordinario,constitucion-politica,2,main
+1980-04-11,law,decreto-1980-04-10-14,constitucion-politica,2,main
+1981-03-26,law,decreto-1981-03-25-8-extraordinario,constitucion-politica,2,main
+1981-05-01,law,decreto-1981-04-30-14,constitucion-politica,2,main
+1982-07-11,start,ley-1982-07-10-20,ley-del-instituto-de-vivienda-de-baja-california-sur,20,main
+1982-12-01,law,decreto-1982-11-30-37,ley-del-instituto-de-vivienda-de-baja-california-sur,9,main
+1982-12-11,start,decreto-1982-12-10-38,ley-que-establece-el-derecho-de-via-de-una-carretera-o-camin,11,main
+1983-01-01,start,decreto-1982-12-31-40,ley-para-que-en-lo-sucesivo-se-utilice-el-nombre-completo-de,10,main
+1983-01-01,law,decreto-1982-12-31-40,constitucion-politica,2,main
+1983-04-26,law,decreto-1983-04-25-13-extraordinario,constitucion-politica,2,main
+1983-07-01,start,decreto-1983-06-30-22,ley-del-sistema-para-el-desarrollo-integral-de-la-familia-de,31,main
+1983-12-17,law,decreto-1983-12-16-40-extraordinario,constitucion-politica,2,main
+1984-03-11,start,ley-1984-03-10-9,ley-de-proteccion-a-la-imagen-urbana,36,main
+1984-09-11,law,decreto-1984-09-10-32,constitucion-politica,2,main
+1984-09-11,law,decreto-1984-09-10-32-2,constitucion-politica,2,main
+1984-10-21,law,decreto-1984-10-20-37,constitucion-politica,2,main
+1985-05-21,law,decreto-1985-05-20-16,constitucion-politica,2,main
+1985-07-11,law,decreto-1985-07-10-23,constitucion-politica ley-del-notariado,29,main
+1986-05-14,law,decreto-1986-05-13-11-extraordinario,constitucion-politica,2,main
+1986-11-08,law,decreto-1986-11-07-37-extraordinario,constitucion-politica,2,main
+1987-05-21,law,decreto-1987-05-20-22,constitucion-politica,2,main
+1987-12-01,law,decreto-1987-11-30-44,constitucion-politica,2,main
+1987-12-21,law,decreto-1987-12-20-47,constitucion-politica,3,main
+1988-02-21,law,decreto-1988-02-20-6,constitucion-politica,3,main
+1988-02-23,law,decreto-1988-02-20-6-2,constitucion-politica,2,main
+1989-01-01,start,decreto-1988-12-31-36-bis,ley-que-establece-las-bases-normativas-en-materia-de-faltas,29,main
+1989-07-11,law,decreto-1989-07-10-19,constitucion-politica,2,main
+1989-11-01,law,decreto-1989-10-31-31,constitucion-politica,3,main
+1990-03-11,law,decreto-1990-03-10-5-bis,constitucion-politica,3,main
+1991-04-21,law,decreto-1991-04-20-6,constitucion-politica,2,main
+1992-04-11,law,decreto-1992-04-10-14,constitucion-politica,2,main
+1992-05-20,law,decreto-1992-05-19-21-extraordinario,constitucion-politica,2,main
+1992-06-12,law,decreto-1992-06-11-26-extraordinario,constitucion-politica,2,main
+1992-06-12,law,decreto-1992-06-11-26-extraordinario-2,constitucion-politica,2,main
+1992-08-21,law,decreto-1992-08-20-36,constitucion-politica,2,main
+1992-08-27,law,decreto-1992-08-26-37-extraordinario,constitucion-politica,2,main
+1993-03-06,law,decreto-1993-03-05-11-extraordinario,constitucion-politica,2,main
+1993-06-01,law,decreto-1993-05-31-25,constitucion-politica,2,main
+1993-06-11,law,decreto-1993-06-10-27,ley-del-notariado,36,main
+1993-12-11,law,decreto-1993-12-10-49,constitucion-politica,2,main
+1994-05-11,start,decreto-1994-05-10-15,ley-que-crea-el-instituto-sudcaliforniano-de-cultura-de-baja,17,main
+1994-05-21,law,decreto-1994-05-20-16,constitucion-politica,2,main
+1995-07-15,law,decreto-1995-07-14-23-extraordinario,constitucion-politica,2,main
+1996-07-19,start,codigo-1996-07-19-25-bis-extraordinario,codigo-civil,2981,main
+1996-10-22,law,decreto-1996-10-22-41-extraordinario,constitucion-politica,2,main
+1997-01-17,law,decreto-1997-01-17-4-extraordinario,codigo-civil,3,main
+1997-02-15,law,decreto-1997-02-14-11-extraordinario,constitucion-politica,2,main
+1997-05-26,start,codigo-1997-05-23-22-extraordinario,codigo-de-procedimientos-civiles,991,main
+1997-12-12,law,decreto-1997-12-12-52-extraordinario,constitucion-politica,2,main
+1998-06-08,start,ley-1997-12-08-50-extraordinario,ley-de-transporte,85,main
+1998-06-18,law,decreto-1998-06-18-21-extraordinario,constitucion-politica,2,main
+1998-08-01,law,decreto-1998-07-31-27,ley-de-transporte,16,main
+1998-11-11,law,decreto-1998-11-10-40,ley-de-transporte,3,main
+1999-01-01,law,decreto-1998-12-31-48,ley-del-notariado,15,main
+1999-04-06,law,decreto-1999-04-06-12-extraordinario,constitucion-politica,2,main
+1999-06-15,law,decreto-1999-06-14-25-extraordinario,constitucion-politica codigo-civil,6,main
+1999-06-21,start,ley-1999-06-20-27,ley-del-instituto-sudcaliforniano-de-la-juventud,19,main
+1999-08-01,start,ley-1999-07-31-35,ley-del-instituto-sudcaliforniano-de-las-mujeres-antes-ley-d,21,main
+2000-01-01,law,decreto-1999-12-31-55,constitucion-politica,2,main
+2000-06-11,law,decreto-2000-06-10-20,constitucion-politica,2,main
+2000-07-11,start,ley-2000-07-10-23,ley-para-el-ejercicio-de-las-profesiones,73,main
+2000-09-08,law,decreto-2000-07-10-23,codigo-civil,3,main
+2001-01-01,law,decreto-2000-12-31-42,constitucion-politica,2,main
+2001-06-21,start,ley-2001-06-20-27,ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-es,51,main
+2001-12-31,law,decreto-2001-12-31-59,constitucion-politica,2,main
+2002-01-08,start,ley-2002-01-07-2-extraordinario,ley-que-regula-el-almacenaje-distribucion-venta-y-consumo-de,70,main
+2002-01-08,law,decreto-2002-01-07-2-extraordinario,codigo-civil codigo-de-procedimientos-civiles,16,main
+2002-02-07,law,decreto-2002-02-06-7-extraordinario,constitucion-politica ley-del-notariado,22,main
+2002-03-11,law,decreto-2002-03-10-15,constitucion-politica,2,main
+2002-04-19,law,ley-2002-03-20-16,ley-de-transporte,2,main
+2002-07-11,law,decreto-2002-07-10-32,constitucion-politica ley-de-transporte,4,main
+2002-07-11,law,decreto-2002-07-10-32-2,constitucion-politica,2,main
+2002-10-11,law,decreto-2002-10-10-44,constitucion-politica,2,main
+2003-05-11,law,decreto-2003-05-10-16,constitucion-politica ley-del-notariado,4,main
+2003-10-28,law,decreto-2003-10-27-no-44-extraordinario,constitucion-politica,2,main
+2004-01-01,start,ley-2003-12-31-59,ley-ganadera,174,main
+2004-02-01,law,decreto-2004-01-31-05,ley-para-el-ejercicio-de-las-profesiones,4,main
+2004-02-24,start,ley-2004-02-23-11-bis-estraordinario,ley-de-los-trabajadores-al-servicio-de-los-poderes,166,main
+2004-02-28,start,ley-2004-02-27-13-extraordinario,ley-del-sistema-de-medios-de-impugnacion-en-materia-electora,69,main
+2004-06-21,law,decreto-2004-06-20-38,constitucion-politica,2,main
+2005-01-01,start,ley-2004-12-31-71,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,100,main
+2005-01-01,start,ley-2004-12-31-71,ley-de-salud,383,main
+2005-01-01,law,decreto-2004-12-31-71,constitucion-politica,2,main
+2005-03-21,start,ley-2005-03-20-18,ley-de-prevencion-y-tratamiento-integral-de-la-violencia-fam,33,main
+2005-03-21,start,ley-2005-03-20-18,ley-de-transito-terrestre,95,main
+2005-05-17,law,decreto-2005-05-16-28-extraordinario,ley-de-transporte,3,main
+2005-06-15,law,decreto-2005-06-14-34-extraordinario,constitucion-politica ley-de-salud,7,main
+2005-07-06,law,decreto-2005-07-05-37-extraordinario,constitucion-politica,2,main
+2005-07-11,law,decreto-2005-07-10-38,ley-de-transito-terrestre ley-de-transporte,6,main
+2005-10-26,law,decreto-2005-10-25-59-extraordinario,ley-del-instituto-sudcaliforniano-de-las-mujeres-antes-ley-d,11,main
+2005-10-28,law,decreto-2005-10-27-60-extraordinario,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,32,main
+2005-11-11,law,decreto-2005-11-10-64,constitucion-politica,2,main
+2005-11-21,law,decreto-2005-11-20-66,ley-de-prevencion-y-tratamiento-integral-de-la-violencia-fam,3,main
+2005-12-16,law,decreto-2005-12-15-70-extraordinario,codigo-civil,5,main
+2005-12-21,law,decreto-2005-12-20-71,ley-del-instituto-de-vivienda-de-baja-california-sur,10,main
+2005-12-29,law,decreto-2005-12-28-72-extraordinario,ley-de-salud,3,main
+2006-01-01,start,codigo-2005-12-28-72-extraordinario,codigo-fiscal,322,main
+2006-01-01,start,ley-2005-03-20-18,ley-de-responsabilidad-patrimonial,51,main
+2006-02-16,start,ley-2006-02-15-07-extraordinario,ley-que-crea-el-organismo-publico-descentralizado-patronato,20,main
+2006-06-21,law,decreto-2006-06-20-26,constitucion-politica,2,main
+2006-07-12,law,decreto-2006-07-11-29-extraordinario,constitucion-politica codigo-civil codigo-de-procedimientos-civiles ley-del-notariado,13,main
+2006-09-21,start,ley-2006-09-20-41,ley-de-sanidad-animal-vegetal-pesquera-y-acuicola,60,main
+2006-11-26,law,decreto-2006-11-25-48-extraordinario,constitucion-politica ley-que-crea-el-instituto-sudcaliforniano-de-cultura-de-baja,9,main
+2006-11-26,law,decreto-2006-11-25-48-extraordinario-2,constitucion-politica,2,main
+2006-12-31,law,fe-de-erratas-2006-12-31-54,constitucion-politica,1,main
+2007-01-01,law,decreto-2006-12-31-54,codigo-civil ley-de-transito-terrestre,5,main
+2007-06-11,law,decreto-2007-06-10-22,constitucion-politica,2,main
+2007-06-30,start,ley-2006-12-31-54,ley-para-prevenir-y-eliminar-la-discriminacion,70,main
+2007-07-21,law,decreto-2007-07-20-29,ley-del-notariado,2,main
+2007-08-01,law,decreto-2007-07-31-32,ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-es,11,main
+2007-11-09,start,ley-2007-10-10-45-bis-extraordinario,ley-organica-del-gobierno-municipal,229,main
+2007-12-01,start,ley-2007-11-30-58,ley-sobre-el-regimen-de-propiedad-en-condominio,73,main
+2007-12-02,law,decreto-2007-12-01-58-bis-extraordinario,ley-de-los-trabajadores-al-servicio-de-los-poderes,41,main
+2008-01-01,start,ley-2007-12-31-63,ley-del-servicio-profesional-de-carrera-para-la-administraci,53,main
+2008-03-11,law,decreto-2008-03-10-15,ley-organica-del-gobierno-municipal,3,main
+2008-03-11,law,decreto-2008-03-11-16-extraordinario,codigo-fiscal,6,main
+2008-03-11,law,decreto-2008-03-11-16-extraordinario,ley-organica-del-gobierno-municipal,5,main
+2008-04-01,law,decreto-2008-03-31-20,codigo-civil codigo-de-procedimientos-civiles ley-de-prevencion-y-tratamiento-integral-de-la-violencia-fam,38,main
+2008-04-01,law,decreto-2008-03-31-20-2,codigo-civil,10,main
+2008-07-09,start,ley-2008-07-08-36-extraordinario,ley-organica-del-ministerio-publico,98,main
+2008-07-09,law,decreto-2008-07-08-36-extraordinario,ley-del-servicio-profesional-de-carrera-para-la-administraci,6,main
+2008-10-11,start,ley-2008-10-10-52,ley-organica-de-la-benemerita-escuela-normal-urbana-profr-do,33,main
+2008-12-11,law,decreto-2008-12-10-61,ley-que-regula-el-almacenaje-distribucion-venta-y-consumo-de,8,main
+2009-03-04,law,decreto-2009-03-03-10-extraordinario,ley-organica-del-gobierno-municipal,2,main
+2009-08-01,start,ley-2009-07-31-35,ley-de-seguridad-escolar,38,main
+2009-10-01,start,ley-2009-09-30-45,ley-de-la-infraestructura-fisica-educativa,28,main
+2009-10-01,start,ley-2009-09-30-45,ley-del-boletin-oficial-del-gobierno,28,main
+2009-10-01,law,decreto-2009-09-30-45,ley-del-instituto-sudcaliforniano-de-las-mujeres-antes-ley-d,4,main
+2010-03-13,law,decreto-2010-03-12-10-extraordinario,ley-del-sistema-de-medios-de-impugnacion-en-materia-electora,3,main
+2010-06-11,law,decreto-2010-06-10-22,codigo-civil codigo-de-procedimientos-civiles,12,main
+2010-07-10,law,decreto-2010-06-10-22,ley-organica-del-ministerio-publico,4,main
+2010-07-21,law,decreto-2010-07-20-28,ley-organica-del-ministerio-publico,2,main
+2010-10-30,start,ley-2010-08-01-32-extraordinario,ley-de-pesca-y-acuacultura-sustentables,117,main
+2010-12-21,start,ley-2010-12-20-60,ley-de-turismo,64,main
+2011-01-01,law,decreto-2010-06-10-22-2,codigo-civil,3,main
+2011-01-01,law,decreto-2010-12-31-61,codigo-de-procedimientos-civiles ley-organica-del-ministerio-publico,17,main
+2011-01-01,law,decreto-2010-12-31-61,codigo-civil,41,main
+2011-03-21,law,decreto-2011-03-20-18,ley-organica-del-gobierno-municipal,3,main
+2011-03-23,start,ley-2011-03-20-18,ley-de-remuneraciones-de-los-servidores-publicos,42,main
+2011-04-19,law,decreto-2011-04-18-27-extraordinario,ley-organica-del-gobierno-municipal,3,main
+2011-04-19,law,decreto-2011-04-18-27-extraordinario-2,ley-organica-del-gobierno-municipal,5,main
+2011-06-07,law,decreto-2011-06-06-35-extraordinario,codigo-fiscal,8,main
+2011-06-30,law,fe-de-erratas-2011-06-30-41,codigo-fiscal,2,main
+2011-07-07,law,decreto-2011-07-06-43-extraordinario,codigo-civil codigo-de-procedimientos-civiles,5,main
+2011-10-04,start,ley-2011-07-06-43-extraordinario,ley-que-regula-a-los-establecimientos-dedicados-a-la-compra,20,main
+2011-12-21,law,decreto-2011-12-20-69,ley-organica-del-ministerio-publico,7,main
+2012-01-01,start,ley-2011-12-31-70,ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor,145,main
+2012-01-11,start,ley-2012-01-10-02,ley-del-impulso-fomento-y-desarrollo-de-la-industria-cinemat,21,main
+2012-02-11,start,ley-2012-02-10-11,ley-del-instituto-de-capacitacion-para-los-trabajadores,25,main
+2012-08-01,law,decreto-2012-07-31-38,codigo-civil codigo-de-procedimientos-civiles ley-de-los-trabajadores-al-servicio-de-los-poderes ley-de-turismo ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor,46,main
+2012-08-01,law,decreto-2012-07-31-38-2,codigo-civil,5,main
+2012-11-17,law,decreto-2012-11-16-53-extraordinario,ley-de-turismo,4,main
+2012-12-01,start,ley-2012-11-30-55,ley-para-la-prevencion-atencion-y-tratamiento-integral-del-s,16,main
+2012-12-03,law,decreto-2012-11-30-55,ley-de-salud,4,main
+2012-12-03,law,decreto-2012-11-30-55-2,ley-de-salud,12,main
+2013-01-01,start,,ley-organica-de-la-universidad-tecnologica-de-la-paz-baja-ca,260,main
+2013-01-01,law,decreto-2012-12-31-61,ley-que-establece-las-bases-normativas-en-materia-de-faltas,5,main
+2013-01-20,law,fe-de-erratas-2013-01-20-05,ley-que-establece-las-bases-normativas-en-materia-de-faltas,1,main
+2013-03-20,law,decreto-2012-12-20-58,codigo-de-procedimientos-civiles,2,main
+2013-03-20,law,decreto-2012-12-31-61,codigo-de-procedimientos-civiles,4,main
+2013-06-21,start,ley-2013-06-20-27,ley-de-proteccion-de-los-animales-domesticos-para-baja-calif,32,main
+2013-07-11,law,decreto-2013-07-10-30,ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-es ley-que-regula-a-los-establecimientos-dedicados-a-la-compra,15,main
+2013-07-21,law,decreto-2013-07-20-32,ley-de-salud ley-de-transito-terrestre ley-de-turismo ley-para-el-ejercicio-de-las-profesiones,12,main
+2013-08-01,start,ley-2013-07-31-35,ley-de-la-juventud,99,main
+2013-12-01,start,ley-2013-11-30-59,ley-organica-de-la-escuela-normal-superior-de-cultura-fisica,21,main
+2013-12-01,law,decreto-2013-11-30-59,ley-de-transito-terrestre ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor,37,main
+2014-01-28,law,decreto-2014-01-27-3-extraordinario,codigo-civil,5,main
+2014-02-26,start,ley-2014-01-27-3-extraordinariio,ley-estatal-para-la-inclusion-de-las-personas-con-discapacid,155,main
+2014-05-01,law,decreto-2014-04-30-20,ley-para-prevenir-y-eliminar-la-discriminacion,15,main
+2014-06-14,start,ley-2014-06-13-27-extraordinario,ley-organica-de-la-universidad-autonoma-de-baja-california-s,53,main
+2014-06-28,law,decreto-2014-06-28-31,ley-del-sistema-de-medios-de-impugnacion-en-materia-electora ley-organica-del-gobierno-municipal,24,main
+2014-06-30,law,decreto-2008-03-10-15,constitucion-politica,2,main
+2014-06-30,law,decreto-2008-03-10-15-2,constitucion-politica,2,main
+2014-06-30,law,decreto-2008-03-11-16-extraordinario,constitucion-politica,2,main
+2014-06-30,law,decreto-2008-12-24-66-extraordinario,constitucion-politica,2,main
+2014-06-30,law,decreto-2009-04-24-16-bis-extraordinario,constitucion-politica,3,main
+2014-06-30,law,decreto-2009-06-18-26-extraordinario,constitucion-politica,2,main
+2014-06-30,law,decreto-2010-03-12-10-extraordinario,constitucion-politica,2,main
+2014-06-30,law,decreto-2010-03-12-10-extraordinario-2,constitucion-politica,2,main
+2014-06-30,law,decreto-2010-07-20-28,constitucion-politica,2,main
+2014-06-30,law,decreto-2010-12-20-60,constitucion-politica,3,main
+2014-06-30,law,decreto-2010-12-31-61,constitucion-politica,2,main
+2014-06-30,law,fe-de-erratas-2011-03-20-18,constitucion-politica,2,main
+2014-06-30,law,decreto-2011-10-10-58,constitucion-politica,2,main
+2014-06-30,law,decreto-2011-10-10-58-2,constitucion-politica,24,main
+2014-06-30,law,decreto-2012-06-30-33,constitucion-politica,2,main
+2014-06-30,law,decreto-2012-11-10-51,constitucion-politica,2,main
+2014-06-30,law,decreto-2012-12-20-58,constitucion-politica,2,main
+2014-06-30,law,decreto-2012-12-20-58-2,constitucion-politica,2,main
+2014-06-30,law,decreto-2012-12-20-58-3,constitucion-politica,2,main
+2014-06-30,law,decreto-2012-12-31-61,constitucion-politica,2,main
+2014-06-30,law,decreto-2012-12-31-61-2,constitucion-politica,2,main
+2014-06-30,law,decreto-2013-03-31-14,constitucion-politica,2,main
+2014-06-30,law,decreto-2013-04-10-15,constitucion-politica,2,main
+2014-06-30,law,decreto-2013-04-20-16,constitucion-politica,2,main
+2014-06-30,law,decreto-2013-04-30-18,constitucion-politica,2,main
+2014-06-30,law,decreto-2013-07-20-32,constitucion-politica,2,main
+2014-06-30,law,decreto-2013-08-20-39,constitucion-politica,2,main
+2014-06-30,law,decreto-2013-09-13-45-extraordinario,constitucion-politica,2,main
+2014-06-30,law,decreto-2013-11-30-59,constitucion-politica,2,main
+2014-06-30,law,decreto-2013-12-20-64,constitucion-politica,2,main
+2014-06-30,law,decreto-2014-01-31-4,constitucion-politica,2,main
+2014-06-30,law,decreto-2014-06-27-30,constitucion-politica,3,main
+2014-07-01,start,ley-2014-06-30-32,ley-de-proteccion-a-la-exposicion-del-humo-de-tabaco,41,main
+2014-07-01,law,decreto-2014-06-30-32,constitucion-politica codigo-civil codigo-fiscal ley-de-salud ley-organica-del-gobierno-municipal,68,main
+2014-07-01,law,decreto-2014-06-30-32-2,constitucion-politica ley-de-salud,4,main
+2014-07-03,law,decreto-2014-06-30-32,ley-de-la-juventud,8,main
+2014-07-11,law,decreto-2014-07-10-34,constitucion-politica ley-del-instituto-sudcaliforniano-de-las-mujeres-antes-ley-d,14,main
+2014-07-31,law,fe-de-erratas-2014-07-31-36,codigo-civil,3,main
+2014-08-01,law,decreto-2014-07-31-36,ley-estatal-para-la-inclusion-de-las-personas-con-discapacid,503,main
+2014-08-20,law,fe-de-erratas-2014-08-20-39,ley-de-la-juventud,3,main
+2014-10-11,start,ley-2014-10-10-47,ley-de-sociedades-mutualistas,47,main
+2014-10-21,law,decreto-2014-10-20-48,ley-organica-del-gobierno-municipal,7,main
+2014-10-29,start,ley-2014-07-31-36,ley-organica-de-la-defensoria-publica,48,main
+2014-11-11,start,ley-2014-11-10-53,ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-de,109,main
+2014-11-11,law,decreto-2014-11-10-53,ley-de-la-infraestructura-fisica-educativa,8,main
+2014-11-21,law,decreto-2014-11-20-54,codigo-civil ley-organica-del-gobierno-municipal,11,main
+2014-12-01,law,decreto-2014-11-30-56,ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor,16,main
+2014-12-03,start,ley-2014-11-30-56,ley-organica-de-la-procuraduria-general-de-justicia,108,main
+2014-12-03,start,ley-2014-11-30-56,ley-para-la-administracion-de-bienes-asegurados-decomisados,33,main
+2014-12-03,start,ley-2014-11-30-56,ley-para-la-proteccion-de-personas-que-intervienen-en-el-pro,35,main
+2014-12-03,law,ley-2014-11-30-56,ley-organica-del-ministerio-publico,4,main
+2014-12-11,law,decreto-2014-12-10-58,codigo-de-procedimientos-civiles ley-de-turismo ley-organica-del-gobierno-municipal,30,main
+2015-01-01,start,ley-2014-12-31-62,ley-organica-de-la-escuela-normal-superior,29,main
+2015-01-01,law,decreto-2014-12-31-62,codigo-civil ley-organica-de-la-escuela-normal-superior-de-cultura-fisica,10,main
+2015-01-03,law,decreto-2014-12-31-62,constitucion-politica,5,main
+2015-01-03,law,decreto-2014-12-31-62-2,constitucion-politica,2,main
+2015-02-01,law,decreto-2015-01-31-4,ley-del-instituto-de-vivienda-de-baja-california-sur,6,main
+2015-03-30,start,codigo-2014-11-30-56,codigo-penal,389,main
+2015-04-01,law,decreto-2015-03-31-17,codigo-civil,2,main
+2015-04-21,start,ley-2015-04-20-21,ley-para-prevenir-atender-y-erradicarla-violencia-y-el-maltr,44,main
+2015-05-21,law,decreto-2015-05-20-28,ley-ganadera,6,main
+2015-06-21,law,decreto-2015-06-20-34,ley-de-salud,6,main
+2015-07-11,law,decreto-2015-07-10-39,ley-de-pesca-y-acuacultura-sustentables ley-de-prevencion-y-tratamiento-integral-de-la-violencia-fam ley-de-salud ley-de-seguridad-escolar ley-organica-del-gobierno-municipal,17,main
+2015-07-21,law,decreto-2015-07-20-40,ley-que-crea-el-instituto-sudcaliforniano-de-cultura-de-baja,4,main
+2015-07-23,start,ley-2015-07-20-40,ley-de-prevencion-promocion-deteccion-oportuna-tratamiento-c,76,main
+2015-09-02,start,ley-2015-09-01-49-extraordinario,ley-de-proteccion-civil-y-gestion-de-riesgos,79,main
+2015-09-02,law,decreto-2015-09-01-49-extraordinario,ley-de-salud ley-de-turismo,16,main
+2015-09-02,law,decreto-2015-09-01-49-extraordinario-2,ley-de-turismo,7,main
+2015-09-10,start,ley-2015-09-09-52-extraordinario,ley-organica-de-la-administracion-publica,69,main
+2015-09-10,law,decreto-2015-09-09-52-extraordinario,constitucion-politica,2,main
+2015-09-23,law,decreto-2015-09-23-55-extraordinario,constitucion-politica,2,main
+2015-09-23,law,decreto-2015-09-23-55-extraordinario-2,constitucion-politica,2,main
+2015-10-01,law,decreto-2015-08-31-48,ley-que-regula-el-almacenaje-distribucion-venta-y-consumo-de,23,main
+2015-12-20,law,decreto-2015-12-20-70,constitucion-politica ley-organica-de-la-administracion-publica,5,main
+2015-12-21,start,ley-2015-12-20-70,ley-de-participacion-ciudadana-en-la-prevencion-social-de-la,52,main
+2015-12-21,law,decreto-2015-12-20-70,ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor,22,main
+2015-12-21,law,decreto-2015-12-20-70-2,constitucion-politica,2,main
+2015-12-23,law,decreto-2015-12-20-70-3,constitucion-politica,2,main
+2016-01-01,law,decreto-2015-12-31-72,ley-organica-de-la-administracion-publica ley-que-regula-el-almacenaje-distribucion-venta-y-consumo-de,6,main
+2016-01-03,start,ley-2015-12-31-72,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,131,main
+2016-01-14,law,fe-de-erratas-2016-01-14-2-extraordinario,constitucion-politica,3,main
+2016-04-27,law,decreto-2016-04-27-16-extraordinario,constitucion-politica,2,main
+2016-04-30,law,decreto-2016-04-30-17,constitucion-politica,2,main
+2016-05-01,law,decreto-2016-04-30-17,codigo-penal ley-organica-de-la-procuraduria-general-de-justicia,12,main
+2016-05-01,law,decreto-2016-04-30-17-2,constitucion-politica,2,main
+2016-05-21,law,decreto-2016-05-20-20,codigo-civil codigo-penal,5,main
+2016-05-26,law,decreto-2016-05-26-21-extraordinario,constitucion-politica,2,main
+2016-06-23,law,decreto-2016-06-22-26-extraordinario,constitucion-politica,2,main
+2016-07-11,law,decreto-2016-07-10-28,constitucion-politica codigo-de-procedimientos-civiles,3791,main
+2016-08-01,start,ley-2016-07-31-31,ley-de-mejora-regulatoria,84,main
+2016-08-01,law,decreto-2016-07-31-31,constitucion-politica,2,main
+2016-08-03,start,ley-2016-07-31-31,ley-de-mecanismos-alternativos-de-solucion-de-controversias,41,main
+2016-08-21,law,decreto-2016-08-20-33,codigo-civil codigo-de-procedimientos-civiles ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-de ley-sobre-el-regimen-de-propiedad-en-condominio,3930,main
+2016-10-01,law,decreto-2016-09-30-39,ley-organica-del-gobierno-municipal,245,main
+2016-10-14,law,fe-de-erratas-2016-10-14-41-extraordinario,ley-organica-del-gobierno-municipal,246,main
+2016-10-15,law,decreto-2016-10-14-41-extraordinario,ley-de-los-trabajadores-al-servicio-de-los-poderes ley-de-salud ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor,8,main
+2016-10-31,law,decreto-2016-10-31-44,constitucion-politica codigo-civil codigo-de-procedimientos-civiles codigo-fiscal codigo-penal ley-de-los-trabajadores-al-servicio-de-los-poderes ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-pesca-y-acuacultura-sustentables ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-de ley-de-prevencion-promocion-deteccion-oportuna-tratamiento-c ley-de-proteccion-a-la-exposicion-del-humo-de-tabaco ley-de-proteccion-de-los-animales-domesticos-para-baja-calif ley-de-responsabilidad-patrimonial ley-de-salud ley-de-sanidad-animal-vegetal-pesquera-y-acuicola ley-de-transporte ley-de-turismo ley-del-notariado ley-del-sistema-de-medios-de-impugnacion-en-materia-electora ley-estatal-para-la-inclusion-de-las-personas-con-discapacid ley-ganadera ley-organica-de-la-administracion-publica ley-para-el-ejercicio-de-las-profesiones ley-para-prevenir-y-eliminar-la-discriminacion ley-que-regula-a-los-establecimientos-dedicados-a-la-compra ley-que-regula-el-almacenaje-distribucion-venta-y-consumo-de ley-sobre-el-regimen-de-propiedad-en-condominio,764,main
+2016-10-31,law,fe-de-erratas-2016-10-31-44,ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor,1,main
+2016-12-21,law,decreto-2016-12-20-49,codigo-civil ley-para-prevenir-y-eliminar-la-discriminacion,19,main
+2017-01-01,start,ley-2016-12-31-50,ley-organica-del-poder-judicial,309,main
+2017-01-01,law,decreto-2016-12-31-50,constitucion-politica codigo-civil codigo-de-procedimientos-civiles ley-para-el-ejercicio-de-las-profesiones,115,main
+2017-03-01,law,decreto-2017-02-28-7,constitucion-politica,2,main
+2017-03-11,law,decreto-2017-03-10-8,constitucion-politica ley-organica-del-poder-judicial,8,main
+2017-03-21,law,decreto-2017-03-20-9,codigo-civil codigo-de-procedimientos-civiles,10,main
+2017-04-13,start,ley-2017-04-10-12,ley-del-sistema-anticorrupcion,47,main
+2017-05-31,law,decreto-2017-05-30-17-extraordinario,constitucion-politica ley-del-sistema-de-medios-de-impugnacion-en-materia-electora ley-organica-de-la-universidad-autonoma-de-baja-california-s,12,main
+2017-06-23,law,decreto-2017-06-22-22-extraordinario,constitucion-politica codigo-civil codigo-penal,7,main
+2017-06-25,law,decreto-2017-06-10-20,codigo-de-procedimientos-civiles,45,main
+2017-06-27,law,decreto-2017-06-27-23-extraordinario,ley-organica-de-la-procuraduria-general-de-justicia,16,main
+2017-06-28,law,decreto-2017-06-27-23-extraordinario,ley-organica-de-la-administracion-publica ley-organica-de-la-defensoria-publica,33,main
+2017-06-28,law,decreto-2017-06-27-23-extraordinario-2,ley-organica-de-la-administracion-publica,2,main
+2017-06-30,start,ley-2017-06-27-23-extraordinario,ley-de-responsabilidades-administrativas,232,main
+2017-06-30,start,ley-2017-06-27-23-extraordinario,ley-organica-del-tribunal-de-justicia-administrativa,51,main
+2017-07-17,law,decreto-2017-07-17-27,constitucion-politica ley-organica-del-tribunal-de-justicia-administrativa,5,main
+2017-07-17,law,decreto-2017-07-17-27-2,constitucion-politica,3,main
+2017-07-18,law,decreto-2017-07-17-27,codigo-penal,18,main
+2017-07-20,law,fe-de-erratas-2017-07-20-28,constitucion-politica ley-organica-de-la-procuraduria-general-de-justicia,4,main
+2017-07-21,law,decreto-2017-07-20-28,ley-de-salud ley-organica-del-gobierno-municipal,17,main
+2017-07-23,start,ley-2017-07-20-28,ley-de-participacion-ciudadana,103,main
+2017-10-01,law,decreto-2017-09-30-38,ley-estatal-para-la-inclusion-de-las-personas-con-discapacid,3,main
+2017-10-11,law,decreto-2017-10-10-39,ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-es,6,main
+2017-11-01,start,ley-2017-10-31-41,ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-c,99,main
+2017-11-01,law,decreto-2017-10-31-41,codigo-civil,2,main
+2017-12-01,start,decreto-2017-11-30-45,ley-de-servicios-de-seguridad-privada,134,main
+2017-12-01,law,decreto-2017-11-30-45,codigo-civil codigo-penal ley-de-los-trabajadores-al-servicio-de-los-poderes ley-de-proteccion-civil-y-gestion-de-riesgos ley-organica-de-la-administracion-publica,31,main
+2017-12-01,law,decreto-2017-11-30-45-2,codigo-penal,2,main
+2017-12-01,law,decreto-2017-11-30-45-3,codigo-penal,3,main
+2017-12-17,law,decreto-2017-12-16-48-extraordinario,ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor ley-organica-de-la-administracion-publica,30,main
+2017-12-21,law,decreto-2017-12-20-49,ley-organica-del-poder-judicial,32,main
+2018-01-01,start,ley-2017-12-31-50,ley-de-simbolos-y-protocolos-oficiales,60,main
+2018-01-01,start,ley-2017-07-20-28,ley-que-regula-a-los-agentes-profesionales-inmobiliarios-en,31,main
+2018-01-01,law,decreto-2017-12-31-50,constitucion-politica codigo-civil codigo-penal ley-de-los-derechos-de-ninas-ninos-y-adolescentes,15,main
+2018-01-01,law,decreto-2017-12-31-50-2,constitucion-politica,2,main
+2018-05-15,start,ley-2018-05-14-20-extraordinario,ley-de-procedimiento-administrativo,109,main
+2018-05-15,start,ley-2018-05-14-20-extraordinario,ley-de-procedimiento-contencioso-administrativo,90,main
+2018-05-15,law,decreto-2018-05-14-20-extraordinario,ley-de-responsabilidades-administrativas,6,main
+2018-05-17,law,decreto-2018-05-14-20-extraordinario,codigo-fiscal,70,main
+2018-05-28,law,decreto-2018-05-28-23-extraordinario,ley-de-responsabilidades-administrativas,2,main
+2018-06-11,law,decreto-2018-06-10-25,ley-organica-del-gobierno-municipal,2,main
+2018-07-14,law,decreto-2018-07-13-30-extraordinario,codigo-civil ley-de-la-juventud ley-de-los-derechos-de-ninas-ninos-y-adolescentes,39,main
+2018-08-11,law,decreto-2018-08-10-37,ley-de-los-trabajadores-al-servicio-de-los-poderes,5,main
+2018-08-16,law,decreto-2018-08-15-38-extraordinario,codigo-civil codigo-de-procedimientos-civiles ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-participacion-ciudadana ley-organica-del-gobierno-municipal,72,main
+2018-08-18,law,decreto-2018-08-15-38-extraordinario,constitucion-politica,2,main
+2018-09-01,law,decreto-2018-08-15-38-extraordinario-2,constitucion-politica,2,main
+2018-09-01,law,decreto-2018-08-15-38-extraordinario-3,constitucion-politica,2,main
+2018-09-13,law,decreto-2018-09-10-43,ley-que-regula-a-los-agentes-profesionales-inmobiliarios-en,23,main
+2018-09-26,law,decreto-2018-09-25-46-extraordinario,constitucion-politica,2,main
+2018-11-11,law,decreto-2018-11-10-54,codigo-civil,2,main
+2018-12-01,law,decreto-2018-11-30-57,ley-de-participacion-ciudadana ley-de-simbolos-y-protocolos-oficiales,8,main
+2018-12-31,law,fe-de-erratas-2018-12-31-62,ley-que-regula-a-los-agentes-profesionales-inmobiliarios-en,2,main
+2019-01-01,start,ley-2018-06-30-28,ley-para-la-prevencion-y-atencion-integral-del-cancer-de-mam,48,main
+2019-01-01,start,ley-2018-12-31-62,ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica,45,main
+2019-01-01,law,decreto-2018-10-20-51,constitucion-politica ley-organica-del-gobierno-municipal,4,main
+2019-01-01,law,decreto-2018-12-12-59-extraordinario,ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-c ley-de-remuneraciones-de-los-servidores-publicos ley-de-responsabilidades-administrativas ley-organica-del-poder-judicial,14,main
+2019-01-01,law,decreto-2018-12-31-62,ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor ley-organica-de-la-procuraduria-general-de-justicia,65,main
+2019-01-01,law,decreto-2018-11-30-57,constitucion-politica,2,main
+2019-01-01,law,decreto-2018-12-20-61,ley-organica-del-gobierno-municipal,3,main
+2019-01-01,law,decreto-2018-12-12-59-extraordinario,constitucion-politica,2,main
+2019-04-11,law,decreto-2019-04-10-17,codigo-penal,12,main
+2019-04-20,law,decreto-2019-04-20-19,ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-c ley-de-remuneraciones-de-los-servidores-publicos ley-de-responsabilidades-administrativas ley-organica-del-poder-judicial,8,main
+2019-04-30,law,fe-de-erratas-2019-04-30-20,ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor ley-organica-de-la-procuraduria-general-de-justicia,3,main
+2019-05-11,law,decreto-2019-05-10-21,ley-de-turismo,7,main
+2019-06-01,law,decreto-2019-05-31-25,ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-de,4,main
+2019-06-21,law,decreto-2019-06-20-28,codigo-penal ley-de-los-trabajadores-al-servicio-de-los-poderes,17,main
+2019-06-21,law,decreto-2019-06-20-28-2,codigo-penal,5,main
+2019-06-21,law,decreto-2019-06-20-28-3,codigo-penal,5,main
+2019-06-21,law,decreto-2019-06-20-28-4,codigo-penal,2,main
+2019-06-29,law,decreto-2019-06-28-29,codigo-civil,20,main
+2019-07-01,law,decreto-2019-06-30-30,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2019-07-21,law,decreto-2019-07-20-33,constitucion-politica ley-de-responsabilidad-patrimonial,5,main
+2019-08-11,start,ley-2019-08-10-35,ley-que-regula-la-utilizacion-de-colores-simbolos-publicidad,8,main
+2019-08-17,law,decreto-2019-08-16-36-extraordinario,codigo-penal ley-organica-de-la-procuraduria-general-de-justicia,16,main
+2019-09-01,start,ley-2019-08-31-38,ley-de-la-comision-de-mediacion-conciliacion-y-arbitraje-med,67,main
+2019-09-01,law,decreto-2019-08-31-38,ley-de-salud,5,main
+2019-10-13,law,decreto-2019-10-10-44,constitucion-politica ley-de-pesca-y-acuacultura-sustentables,6,main
+2019-10-13,law,decreto-2019-10-10-44-2,constitucion-politica,2,main
+2019-11-11,law,decreto-2019-11-10-50,ley-de-los-trabajadores-al-servicio-de-los-poderes,2,main
+2019-12-01,law,decreto-2019-11-30-52,codigo-civil,2,main
+2019-12-17,law,decreto-2019-12-16-54-extraordinario,codigo-penal ley-de-la-juventud ley-organica-de-la-administracion-publica,42,main
+2019-12-21,law,decreto-2019-12-20-56,ley-estatal-para-la-inclusion-de-las-personas-con-discapacid,3,main
+2020-01-01,law,decreto-2019-12-20-56,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,3,main
+2020-01-01,law,decreto-2019-12-31-57,ley-de-los-trabajadores-al-servicio-de-los-poderes,3,main
+2020-01-01,law,decreto-2019-12-20-56-2,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,14,main
+2020-01-21,start,ley-2020-01-20-2,ley-de-planeacion,94,main
+2020-01-21,start,ley-2020-01-20-2,ley-de-presupuesto-y-responsabilidad-hacendaria,105,main
+2020-01-21,start,ley-2020-01-20-2,ley-de-videovigilancia,66,main
+2020-01-21,law,decreto-2020-01-20-2,codigo-penal ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor ley-ganadera,141,main
+2020-02-11,law,decreto-2020-02-10-4,ley-de-simbolos-y-protocolos-oficiales,3,main
+2020-03-01,law,ley-2020-02-29-7,ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-c,102,main
+2020-03-25,law,decreto-2020-03-24-13-extraordinario,codigo-civil,2,main
+2021-08-01,start,ley-2021-07-31-28-bis,ley-en-materia-de-declaracion-especial-de-ausencia-de-person,37,main
+2021-08-01,law,decreto-2021-07-31-28-bis,codigo-civil codigo-penal ley-de-proteccion-de-los-animales-domesticos-para-baja-calif ley-de-turismo ley-para-prevenir-y-eliminar-la-discriminacion,19,main
+2021-08-01,law,decreto-2021-07-31-28-bis-2,ley-de-turismo,8,main
+2021-08-21,law,decreto-2021-08-20-31,ley-organica-del-gobierno-municipal,7,main
+2021-10-03,start,ley-2021-09-30-39,ley-organica-del-poder-legislativo,263,main
+2021-10-10,law,fe-de-erratas-2021-10-10-40,ley-organica-del-poder-legislativo,3,main
+2021-12-15,law,decreto-2021-12-14-50,ley-organica-del-tribunal-de-justicia-administrativa,35,main
+2021-12-15,law,decreto-2021-12-14-50-extraordinario,constitucion-politica codigo-penal ley-de-participacion-ciudadana ley-de-responsabilidades-administrativas ley-del-instituto-sudcaliforniano-de-las-mujeres-antes-ley-d ley-del-sistema-anticorrupcion ley-del-sistema-de-medios-de-impugnacion-en-materia-electora ley-organica-del-gobierno-municipal ley-organica-del-poder-judicial,79,main
+2021-12-15,law,decreto-2021-12-14-50-extraordinario-2,codigo-penal ley-del-sistema-de-medios-de-impugnacion-en-materia-electora,83,main
+2021-12-18,law,decreto-2021-12-15-51-extraordinario,ley-de-planeacion,70,main
+2021-12-27,law,decreto-2021-12-27-54-extraordinario,ley-organica-del-poder-legislativo,5,main
+2021-12-28,law,decreto-2021-12-27-54-extraordinario,constitucion-politica,2,main
+2022-01-01,start,ley-2021-07-31-28-bis,ley-para-la-atencion-digna-de-la-mujer-durante-el-embarazo-p,58,main
+2022-01-01,law,decreto-2021-12-27-54-extraordinario,ley-organica-de-la-administracion-publica,9,main
+2022-02-19,start,ley-2022-02-18-9-extraordinario,ley-organica-del-centro-de-conciliacion-laboral,69,main
+2022-02-19,law,decreto-2022-02-18-9-extraordinario,constitucion-politica ley-de-mecanismos-alternativos-de-solucion-de-controversias ley-organica-de-la-defensoria-publica ley-organica-del-poder-judicial,73,main
+2022-02-21,law,decreto-2022-02-18-9-extraordinario,ley-de-los-trabajadores-al-servicio-de-los-poderes ley-organica-de-la-administracion-publica,6,main
+2022-03-23,law,decreto-2022-03-20-18,codigo-civil codigo-de-procedimientos-civiles,8,main
+2022-04-29,law,decreto-2022-04-29-27-extraordinario,constitucion-politica ley-organica-del-centro-de-conciliacion-laboral ley-organica-del-poder-judicial,9,main
+2022-05-24,start,ley-2022-05-23-33-extraordinario,ley-que-instituye-el-dia-del-pescador-sudcaliforniano-y-el-d,7,main
+2022-05-24,law,decreto-2022-05-23-33-extraordinario,ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-c,15,main
+2022-06-01,law,decreto-2022-05-31-34,ley-del-instituto-de-vivienda-de-baja-california-sur,2,main
+2022-06-15,law,decreto-2022-06-14-36-extraordinario,codigo-penal ley-de-los-trabajadores-al-servicio-de-los-poderes,10,main
+2022-06-17,law,decreto-2022-06-14-36-extraordinario,ley-de-salud,6,main
+2022-06-24,law,decreto-2022-06-23-38-extraordinario,ley-de-los-trabajadores-al-servicio-de-los-poderes,272,main
+2022-07-01,law,decreto-2022-06-30-40,ley-de-turismo,4,main
+2022-07-11,law,decreto-2022-07-10-41,codigo-civil ley-de-los-derechos-de-ninas-ninos-y-adolescentes,18,main
+2022-07-21,law,decreto-2022-07-20-43,codigo-civil,2,main
+2022-08-03,law,decreto-2022-08-02-46-extraordinario,ley-de-los-trabajadores-al-servicio-de-los-poderes ley-de-videovigilancia,314,main
+2022-08-11,law,decreto-2022-08-10-47,ley-de-pesca-y-acuacultura-sustentables,3,main
+2022-09-21,law,decreto-2022-09-20-55,codigo-penal,2,main
+2022-12-01,law,decreto-2022-11-30-72,codigo-civil codigo-penal,17,main
+2022-12-03,law,decreto-2022-11-30-72-2,codigo-penal,4,main
+2022-12-17,law,decreto-2022-12-16-76-extraordinario,codigo-civil codigo-penal,10,main
+2022-12-28,law,decreto-2022-12-27-78-extraordinario,constitucion-politica ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-organica-del-poder-judicial ley-organica-del-poder-legislativo ley-para-el-ejercicio-de-las-profesiones,30,main
+2022-12-28,law,decreto-2022-12-27-78-extraordinario-2,constitucion-politica,2,main
+2023-01-01,law,decreto-2022-06-30-40,ley-estatal-para-la-inclusion-de-las-personas-con-discapacid,4,main
+2023-01-27,law,decreto-2023-01-26-6-extraordinario,ley-organica-del-poder-legislativo,6,main
+2023-02-01,law,decreto-2023-01-31-07,ley-de-la-juventud,19,main
+2023-04-20,law,fe-de-erratas-2023-04-20-22,ley-organica-del-poder-legislativo,2,main
+2023-04-25,law,decreto-2023-04-24-23-extraordinario,codigo-penal,2,main
+2023-04-25,law,decreto-2023-04-24-23-extraordinario-2,codigo-penal,2,main
+2023-05-01,law,decreto-2023-04-30-25,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-proteccion-civil-y-gestion-de-riesgos ley-estatal-para-la-inclusion-de-las-personas-con-discapacid ley-organica-de-la-administracion-publica ley-organica-del-poder-legislativo,43,main
+2023-05-05,law,decreto-2023-05-04-26-extraordinario,ley-organica-del-poder-legislativo,2,main
+2023-05-11,law,decreto-2023-05-10-27,codigo-civil ley-organica-del-poder-judicial,5,main
+2023-05-21,law,decreto-2023-05-20-30,codigo-civil ley-organica-del-gobierno-municipal,4,main
+2023-05-31,law,decreto-2023-05-30-32-extraordinario,constitucion-politica,2,main
+2023-06-21,start,ley-2023-06-20-35,ley-para-el-desarrollo-y-la-creacion-artesanal,30,main
+2023-06-21,law,decreto-2023-06-20-35,ley-organica-del-poder-legislativo,2,main
+2023-07-22,law,decreto-2023-07-21-43-extraordinario,constitucion-politica codigo-civil codigo-penal ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-es ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores-al-servicio-de-los-poderes ley-de-turismo ley-organica-del-poder-legislativo,53,main
+2023-07-27,start,ley-2023-07-26-44-extraordinario,ley-de-instituciones-y-procedimientos-electorales,331,main
+2023-07-27,law,decreto-2023-07-26-44-extraordinario,constitucion-politica,2,main
+2023-08-10,law,fe-de-erratas-2023-08-10-46,ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-es,2,main
+2023-10-01,law,decreto-2023-09-30-58,ley-de-turismo,3,main
+2023-11-01,law,decreto-2023-10-31-68,ley-de-turismo,3,main
+2023-11-21,law,decreto-2023-11-20-74,codigo-penal,2,main
+2023-12-01,law,decreto-2023-11-30-76,constitucion-politica ley-de-presupuesto-y-responsabilidad-hacendaria,10,main
+2023-12-01,law,decreto-2023-11-30-76-bis-extraordinario,ley-de-salud,5,main
+2023-12-01,law,decreto-2023-11-30-76-bis-extraordinario,constitucion-politica,2,main
+2023-12-11,law,decreto-2023-12-10-79,ley-de-los-trabajadores-al-servicio-de-los-poderes,2,main
+2023-12-16,law,decreto-2023-12-15-82-extraordinario,codigo-penal ley-organica-de-la-procuraduria-general-de-justicia,23,main
+2024-01-01,start,ley-2023-07-26-44-extraordinario,ley-de-movilidad-y-seguridad-vial,76,main
+2024-01-01,law,decreto-2023-12-10-79-2,ley-de-los-trabajadores-al-servicio-de-los-poderes,3,main
+2024-01-01,law,decreto-2023-12-20-83,ley-de-los-trabajadores-al-servicio-de-los-poderes,2,main
+2024-01-18,law,codigo-2024-01-17-06-extraordinario,codigo-civil,2,main
+2024-01-18,law,decreto-2024-01-17-6-extraordinario,ley-de-servicios-de-seguridad-privada,46,main
+2024-01-20,law,decreto-2024-01-17-06-extraordinario,ley-de-los-trabajadores-al-servicio-de-los-poderes,2,main
+2024-05-11,law,decreto-2024-05-10-36,ley-para-la-prevencion-y-atencion-integral-del-cancer-de-mam,3,main
+2024-06-01,law,decreto-2024-05-31-41,constitucion-politica codigo-civil codigo-penal ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-c ley-de-salud,18,main
+2024-06-10,law,fe-de-erratas-2024-06-10-42,ley-de-salud,2,main
+2024-06-21,law,decreto-2024-06-20-43,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores-al-servicio-de-los-poderes,4,main
+2024-07-05,law,decreto-2024-07-04-48-extraordinario,codigo-civil,3,main
+2024-07-11,law,decreto-2024-07-10-50,ley-de-los-trabajadores-al-servicio-de-los-poderes,3,main
+2024-07-12,law,decreto-2024-07-11-51-extraordinario,constitucion-politica codigo-fiscal codigo-penal ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-c ley-de-responsabilidades-administrativas ley-organica-del-poder-judicial,42,main
+2024-07-12,law,decreto-2024-07-11-51-extraordinario-2,constitucion-politica codigo-penal,5,main
+2024-07-12,law,decreto-2024-07-11-51-extraordinario-3,codigo-penal,542,main
+2024-07-14,law,decreto-2024-07-11-51-extraordinario,codigo-civil ley-de-los-derechos-de-ninas-ninos-y-adolescentes,52,main
+2024-08-01,law,decreto-2024-07-31-56,ley-organica-del-gobierno-municipal ley-organica-del-poder-legislativo,16,main
+2024-08-15,start,ley-2024-08-14-60-extraordinario,ley-de-revocacion-de-mandato,56,main
+2024-08-15,law,decreto-2024-08-14-60-extraordinario,codigo-penal ley-de-instituciones-y-procedimientos-electorales ley-de-participacion-ciudadana ley-de-proteccion-civil-y-gestion-de-riesgos ley-del-sistema-estatal-de-seguridad-publica-de-baja-califor,575,main
+2024-08-23,law,decreto-2024-08-22-63-extraordinario,ley-que-regula-el-almacenaje-distribucion-venta-y-consumo-de,4,main
+2024-12-21,law,decreto-2024-12-20-88,codigo-fiscal ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica,44,main
+2024-12-31,law,decreto-2024-12-30-92-extraordinario,ley-de-pesca-y-acuacultura-sustentables,3,main
+2025-01-10,law,decreto-2025-01-10-03-bis,ley-organica-del-poder-legislativo,4,main
+2025-02-10,law,decreto-2025-02-10-12,ley-organica-del-poder-legislativo,5,main
+2025-03-15,law,decreto-2025-03-14-20-extraordinario,constitucion-politica,2,main
+2025-05-01,law,decreto-2025-04-30-31,codigo-civil codigo-de-procedimientos-civiles,11,main
+2025-05-21,law,decreto-2025-05-20-36,constitucion-politica codigo-penal ley-estatal-para-la-inclusion-de-las-personas-con-discapacid ley-organica-del-poder-legislativo,11,main
+2025-06-01,law,decreto-2025-05-31-37,constitucion-politica ley-organica-del-poder-legislativo,6,main
+2025-06-25,law,decreto-2025-06-24-41-extraordinario,ley-organica-del-tribunal-de-justicia-administrativa,6,main
+2025-07-01,law,decreto-2025-06-30-44,ley-estatal-para-la-inclusion-de-las-personas-con-discapacid,2,main
+2025-07-11,law,decreto-2025-07-10-46,ley-de-planeacion ley-de-salud,32,main
+2025-09-11,law,decreto-2025-09-10-57,codigo-civil codigo-penal ley-de-proteccion-de-los-animales-domesticos-para-baja-calif ley-de-salud,11,main
+2025-09-11,law,decreto-2025-09-10-57-2,codigo-penal,5,main
+2025-09-18,law,decreto-2025-09-17-59-extraordinario,ley-de-pesca-y-acuacultura-sustentables ley-organica-de-la-escuela-normal-superior-de-cultura-fisica,28,main
+2025-10-23,law,decreto-2025-10-22-73-extraordinario,ley-organica-del-poder-legislativo,7,main
+2025-11-01,law,decreto-2025-10-31-76,ley-de-proteccion-de-los-animales-domesticos-para-baja-calif,3,main
+2025-11-21,law,decreto-2025-11-20-80,codigo-penal ley-organica-del-gobierno-municipal ley-organica-del-poder-legislativo,6,main
+2025-11-22,law,decreto-2025-11-21-81-extraordinario,codigo-penal,2,main
+2025-12-25,law,decreto-2025-12-24-88-extraordinario,ley-de-los-trabajadores-al-servicio-de-los-poderes ley-de-remuneraciones-de-los-servidores-publicos,10,main
+2026-01-01,start,ley-2025-12-24-88-extraordinario,ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos,132,main
+2026-01-01,start,decreto-2025-11-21-81-extraordinario,ley-de-transparencia-y-acceso-a-la-informacion-publica,211,main
+2026-01-01,law,decreto-2025-07-07-45-bis-extraordinario,constitucion-politica,2,main
+2026-01-01,law,decreto-2025-11-21-81-extraordinario,ley-de-instituciones-y-procedimientos-electorales ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-c ley-organica-de-la-administracion-publica ley-organica-del-poder-judicial ley-organica-del-poder-legislativo ley-organica-del-tribunal-de-justicia-administrativa,15,main
+2026-01-01,law,decreto-2025-09-10-57,constitucion-politica,2,main
+2026-01-01,law,decreto-2025-09-17-59-extraordinario,constitucion-politica,2,main
+2026-02-01,start,ley-2026-01-31-12,ley-para-prevenir-investigar-y-sancionar-los-delitos-en-mate,25,main
+2026-02-01,law,decreto-2026-01-31-12,codigo-penal ley-de-salud ley-de-transito-terrestre ley-de-transporte ley-ganadera,19,main
+2026-02-03,law,decreto-2026-01-31-12,ley-de-los-trabajadores-al-servicio-de-los-poderes ley-organica-del-poder-legislativo,7,main
+2026-02-06,start,ley-2026-02-05-14-extraordinario,ley-de-prevencion-y-gestion-integral-de-residuos-y-economia,102,main
+2026-02-06,law,decreto-2026-02-05-14-extraordinario,codigo-civil codigo-penal ley-de-los-trabajadores-al-servicio-de-los-poderes ley-de-responsabilidades-administrativas,10,main
+2026-02-06,law,decreto-2026-02-05-14-extraordinario-2,codigo-penal ley-de-los-trabajadores-al-servicio-de-los-poderes,12,main
+2026-02-06,law,decreto-2026-02-05-14-extraordinario-3,codigo-penal,3,main
+2026-02-06,law,decreto-2026-02-05-14-extraordinario-4,codigo-penal,3,main
+2026-02-08,law,decreto-2026-02-05-14-extraordinario,ley-de-salud ley-para-la-atencion-digna-de-la-mujer-durante-el-embarazo-p,7,main
+2026-02-14,start,ley-2026-02-13-19-extraordinario,ley-en-materia-de-desaparicion-forzada-de-personas-y-desapar,137,main
+2026-02-14,law,decreto-2026-02-13-19-extraordinario,ley-de-los-trabajadores-al-servicio-de-los-poderes ley-de-responsabilidades-administrativas,5,main
+2026-02-19,law,fe-de-erratas-2026-02-19-20-extraordinario,ley-en-materia-de-desaparicion-forzada-de-personas-y-desapar,3,main
+2026-05-11,law,decreto-2026-05-10-37,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-responsabilidades-administrativas ley-organica-del-gobierno-municipal,12,main
+2026-05-15,law,decreto-2026-05-14-39,codigo-penal,3,main
+2026-05-31,law,decreto-2026-05-31-44,ley-de-instituciones-y-procedimientos-electorales,18,main
+2026-06-01,law,decreto-2026-05-31-44,constitucion-politica codigo-civil codigo-penal,9,main
+2026-06-01,law,decreto-2026-05-31-44-2,codigo-penal,2,main
+2026-06-05,law,decreto-2026-06-04-45-extraordinario,constitucion-politica,2,main
+2026-07-01,law,ley-2026-06-30-52,codigo-penal ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-salud ley-de-turismo ley-del-instituto-sudcaliforniano-de-la-juventud,20,main
+2026-07-01,law,ley-2026-06-30-52-2,ley-de-turismo,7,main
+2026-08-01,law,ley-2026-07-31-61,ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-es,8,main
+2026-09-09,law,decreto-2026-09-08-72-extraordinario,codigo-civil codigo-penal,12,main
+2026-09-24,law,ley-2026-09-23-76-extraordinario,ley-organica-de-la-escuela-normal-superior,3,main
+2026-10-11,law,decreto-2026-10-10-80,codigo-penal ley-para-prevenir-investigar-y-sancionar-los-delitos-en-mate,12,main
+2026-10-11,law,decreto-2026-10-10-80-2,codigo-penal,3,main
+2026-10-21,law,decreto-2026-10-20-84,ley-organica-de-la-escuela-normal-superior-de-cultura-fisica,2,main
+2027-09-30,law,decreto-2026-02-10-16,ley-organica-del-poder-legislativo,16,futuro
+2027-09-30,law,ley-2026-07-31-61,ley-organica-del-poder-legislativo,2,futuro
+2027-09-30,law,ley-2026-07-31-61-2,ley-organica-del-poder-legislativo,3,futuro
+2027-09-30,law,decreto-2026-10-10-80,ley-organica-del-poder-legislativo,7,futuro
+2027-10-01,law,decreto-2024-08-14-60-extraordinario-2,ley-de-proteccion-civil-y-gestion-de-riesgos,5,futuro
+2027-10-01,law,decreto-2026-09-08-72-extraordinario,constitucion-politica,2,futuro
+2027-10-01,law,decreto-2024-08-20-62,ley-de-proteccion-civil-y-gestion-de-riesgos,2,futuro
