@@ -1,12 +1,13 @@
 # How this repository was made (Baja California Sur)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Suprema Corte de Justicia de la Nación: Legislación (state compilation) | <https://legislacion.scjn.gob.mx/> | 2026-10-30 | Ley Federal del Derecho de Autor, art. 14, fr. VIII: legislative texts are not protected. SCJN terms: copying for informative and academic purposes, with no commercial use. |
+| H. Congreso del Estado de Baja California Sur — Marco jurídico | <https://www.cbcs.gob.mx/index.php/trabajos-legislativos/leyes> | 2026-11-05 | Mexican legislative and regulatory texts: Ley Federal del Derecho de Autor, article 14 VIII. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -115,20 +116,55 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-que-regula-la-utilizacion-de-colores-simbolos-publicidad` | LEY QUE REGULA LA UTILIZACION DE COLORES, SIMBOLOS, PUBLICIDAD Y PROPAGANDA GUBERNAMENTAL PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2019-08-11 to 2019-08-11 |
 | `ley-sobre-el-regimen-de-propiedad-en-condominio` | LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE BAJA CALIFORNIA SUR | 3 | 2007-12-01 to 2016-10-31 |
 | `ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica` | LEY SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR | 2 | 2019-01-01 to 2024-12-21 |
+| `ley-de-adquisiciones-arrendamientos-y-servicios` | LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2026-09-09 to 2026-09-09 |
+| `ley-de-aguas` | LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2025-09-11 to 2025-09-11 |
+| `ley-de-asistencia-social` | LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2026-01-31 to 2026-01-31 |
+| `ley-de-atencion-a-victimas` | LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2019-04-20 to 2019-04-20 |
+| `ley-de-austeridad-presupuestal` | LEY DE AUSTERIDAD PRESUPUESTAL PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2022-12-14 to 2022-12-14 |
+| `ley-de-bibliotecas` | LEY DE BIBLIOTECAS PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2015-09-02 to 2015-09-02 |
+| `ley-de-capacitacion-en-materia-de-genero-de-prevencion-y-erradicacion-de-la-viol` | LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2021-08-01 to 2021-08-01 |
+| `ley-de-catastro-para-los-municipios` | LEY DE CATASTRO PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2025-01-11 to 2025-01-11 |
+| `ley-de-cultura-fisica-y-deporte` | LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2026-05-11 to 2026-05-11 |
+| `ley-de-derechos-de-las-personas-pueblos-y-comunidades-indigenas-y-afromexicanas` | LEY DE DERECHOS DE LAS PERSONAS, PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS DE BAJA CALIFORNIA SUR | 1 | 2025-10-31 to 2025-10-31 |
+| `ley-de-desarrollo-forestal-sustentable` | LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2019-06-21 to 2019-06-21 |
+| `ley-de-desarrollo-social` | LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2019-04-20 to 2019-04-20 |
+| `ley-de-desarrollo-urbano` | LEY DE DESARROLLO URBANO PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2025-11-22 to 2025-11-22 |
+| `ley-de-deuda-publica` | LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2020-01-01 to 2020-01-01 |
+| `ley-de-fiscalizacion-y-rendicion-de-cuentas` | LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2022-12-28 to 2022-12-28 |
+| `ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la-sociedad-civil` | LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2015-07-11 to 2015-07-11 |
+| `ley-de-fomento-apicola` | LEY DE FOMENTO APÍCOLA PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2016-10-31 to 2016-10-31 |
+| `ley-de-fomento-de-la-cultura-del-cuidado-y-uso-racional-del-agua` | LEY DE FOMENTO DE LA CULTURA DEL CUIDADO Y USO RACIONAL DEL AGUA PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2023-05-01 to 2023-05-01 |
+| `ley-de-fomento-economico-y-competividad` | LEY DE FOMENTO ECONÓMICO Y COMPETITIVIDAD DEL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2026-06-01 to 2026-06-01 |
+| `ley-de-fomento-para-la-lectura-y-el-libro` | LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2016-10-31 to 2016-10-31 |
+| `ley-de-hacienda` | LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-humanidades-ciencias-tecnologias-e-innovacion` | LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2025-12-11 to 2025-12-11 |
+| `ley-de-igualdad-entre-mujeres-y-hombres` | LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2025-09-01 to 2025-09-01 |
+| `ley-de-ingresos-del-municipio-de-los-cabos-baja-california-sur-para-el-ejercicio` | LEY DE INGRESOS DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL DE 2026 | 1 | 2026-08-01 to 2026-08-01 |
+| `ley-de-instituciones-de-asistencia-privada` | LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2016-08-01 to 2016-08-01 |
+| `ley-de-justicia-para-adolescentes` | LEY DE JUSTICIA PARA ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2016-10-31 to 2016-10-31 |
+| `ley-de-responsabilidades-de-los-servidores-publicos` | LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE BAJA CALIFORNIA SUR | 1 | 2017-06-23 to 2017-06-23 |
+| `ley-del-instituto-sudcaliforniano-de-las-mujeres` | LEY DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES | 1 | 2021-12-15 to 2021-12-15 |
+| `ley-organica-de-la-escuela-normal-superior-de-cultura-fisica-profr-roman-pozo-me` | LEY ORGÁNICA DE LA ESCUELA NORMAL SUPERIOR DE CULTURA FÍSICA “PROFR. ROMÁN POZO MÉNDEZ” DEL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2026-10-21 to 2026-10-21 |
+| `ley-organica-de-la-universidad-tenologica-dela-paz` | LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE LA PAZ | 1 | 2013-01-01 to 2013-01-01 |
+| `ley-para-el-otorgamiento-de-pension-a-deudos-de-los-integrantes-de-las-instituci` | LEY PARA EL OTORGAMIENTO DE PENSIÓN A DEUDOS DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, CAÍDOS EN EL CUMPLIMIENTO DEL DEBER | 1 | 2026-09-09 to 2026-09-09 |
+| `ley-para-la-atencion-y-proteccion-a-personas-con-trastorno-del-espectro-autista` | LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON TRASTORNO DEL ESPECTRO AUTISTA DEL ESTADO DE BAJA CALIFORNIA SUR | 1 | 2026-04-11 to 2026-04-11 |
+| `ley-que-crea-el-instituto-sudcaliforniano-de-cultura` | LEY QUE CREA EL INSTITUTO SUDCALIFORNIANO DE CULTURA | 1 | 2015-07-21 to 2015-07-21 |
+| `se-crea-el-fondo-social-para-el-desarrollo-de-baja-california-sur` | SE CREA EL FONDO SOCIAL PARA EL DESARROLLO DE BAJA CALIFORNIA SUR | 1 | 2005-08-11 to 2005-08-11 |
+| `se-crea-la-junta-estatal-de-caminos-de-baja-california-sur` | SE CREA LA JUNTA ESTATAL DE CAMINOS DE BAJA CALIFORNIA SUR | 1 | 1993-06-11 to 1993-06-11 |
 
-The build made 512 commits:
+The build made 547 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 101 | first version of an act |
+| 136 | first version of an act |
 | 411 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 7 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
+- 7 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 464 laws in the record.
-- 1104 tags.
+- 1139 tags.
 
 ## Dates
 
@@ -140,13 +176,13 @@ When a law gives no date of its own, the default rule applies: Decrees take effe
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `cff182e5c31e7b219c0f6e63d257e704caf4323d79846fb8d0101f869e1bc71c` (50661414 bytes).
+- Corpus: sha256 `97a08000c32ef3f181ad339010438a2080630a4463729537e408a351a0320536` (52855702 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-739 versions of 101 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -158,6 +194,41 @@ No second build of this corpus has been compared yet.
 - Units: the heading and preamble (encabezado), one file per article (with the headings and editor's notes printed just before it), the original transitorios, and the transitorios of each reform decree under its publication date. The banner "ÚLTIMA REFORMA PUBLICADA ..." / "TEXTO ORIGINAL" is left out; editor's notes ("(REFORMADO, P.O. ...)", "N. DE E.") stay as printed.
 - An act's first commit is its first publication only when SCJN's oldest record is the act itself and its text is marked "TEXTO ORIGINAL"; otherwise it is the oldest version available, naming the publications before it.
 - Codes of conduct and ethics are left out; only ordenamientos SCJN marks as in force are included.
+- ley-de-adquisiciones-arrendamientos-y-servicios: In-force basis: Última reforma publicada BOGE 08-09-2026; PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2026-09-09. Source text retained in one file, including textual transitional material.
+- ley-de-aguas: In-force basis: Última reforma publicada BOGE 10-09-2025; PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2025-09-11. Source text retained in one file, including textual transitional material.
+- ley-de-asistencia-social: In-force basis: Última reforma publicada BOGE 31-01-2026; PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2026-01-31. Source text retained in one file, including textual transitional material.
+- ley-de-atencion-a-victimas: In-force basis: Última reforma publicada BOGE 20-04-2019; ARTÍCULO ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.; resulting date 2019-04-20. Source text retained in one file, including textual transitional material.
+- ley-de-austeridad-presupuestal: In-force basis: Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 13 de diciembre de 2022; Primero: El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del gobierno del estado.; resulting date 2022-12-14. Source text retained in one file, including textual transitional material.
+- ley-de-bibliotecas: In-force basis: Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 01 de septiembre de 2015; Primero.- Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del  Gobierno del Estado de Baja California Sur.; resulting date 2015-09-02. Source text retained in one file, including textual transitional material.
+- ley-de-capacitacion-en-materia-de-genero-de-prevencion-y-erradicacion-de-la-viol: In-force basis: Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 31 de Julio de 2021; Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2021-08-01. Source text retained in one file, including textual transitional material.
+- ley-de-catastro-para-los-municipios: In-force basis: Última reforma publicada BOGE 10-01-2025; PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2025-01-11. Source text retained in one file, including textual transitional material.
+- ley-de-cultura-fisica-y-deporte: In-force basis: Última reforma publicada BOGE 10-05-2026; PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2026-05-11. Source text retained in one file, including textual transitional material.
+- ley-de-derechos-de-las-personas-pueblos-y-comunidades-indigenas-y-afromexicanas: In-force basis: Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 30 de Octubre de 2025; PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.; resulting date 2025-10-31. Source text retained in one file, including textual transitional material.
+- ley-de-desarrollo-forestal-sustentable: In-force basis: Última reforma publicada BOGE 20-06-2019; Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2019-06-21. Source text retained in one file, including textual transitional material.
+- ley-de-desarrollo-social: In-force basis: Última reforma publicada BOGE 20-04-2019; ARTÍCULO ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.; resulting date 2019-04-20. Source text retained in one file, including textual transitional material.
+- ley-de-desarrollo-urbano: In-force basis: Última reforma publicada BOGE 21-11-2025; PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2025-11-22. Source text retained in one file, including textual transitional material.
+- ley-de-deuda-publica: In-force basis: Última reforma publicada BOGE 20-12-2019; PRIMERO.- El presente Decreto entrará en vigor el 01 de enero de 2020, previo su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2020-01-01. Source text retained in one file, including textual transitional material.
+- ley-de-fiscalizacion-y-rendicion-de-cuentas: In-force basis: Última reforma publicada BOGE 27-12-2022; Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2022-12-28. Source text retained in one file, including textual transitional material.
+- ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la-sociedad-civil: In-force basis: Última reforma publicada BOGE 10-07-2015; ARTÍCULO ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2015-07-11. Source text retained in one file, including textual transitional material.
+- ley-de-fomento-apicola: In-force basis: Última reforma publicada BOGE 31-10-2016; PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2016-10-31. Source text retained in one file, including textual transitional material.
+- ley-de-fomento-de-la-cultura-del-cuidado-y-uso-racional-del-agua: In-force basis: Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 30 de abril de 2023; PRIMERO.-  El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.; resulting date 2023-05-01. Source text retained in one file, including textual transitional material.
+- ley-de-fomento-economico-y-competividad: In-force basis: Última reforma publicada BOGE 31-05-2026; ARTICULO PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.; resulting date 2026-06-01. Source text retained in one file, including textual transitional material.
+- ley-de-fomento-para-la-lectura-y-el-libro: In-force basis: Última reforma publicada BOGE 31-10-2016; PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2016-10-31. Source text retained in one file, including textual transitional material.
+- ley-de-hacienda: In-force basis: Última reforma publicada BOGE 31-12-2025; PRIMERO. El presente Decreto entrará en vigor el 01 de enero de 2026, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2026-01-01. Source text retained in one file, including textual transitional material.
+- ley-de-humanidades-ciencias-tecnologias-e-innovacion: In-force basis: Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 10 de Diciembre de 2025; PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2025-12-11. Source text retained in one file, including textual transitional material.
+- ley-de-igualdad-entre-mujeres-y-hombres: In-force basis: Última reforma publicada BOGE 31-08-2025; PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2025-09-01. Source text retained in one file, including textual transitional material.
+- ley-de-ingresos-del-municipio-de-los-cabos-baja-california-sur-para-el-ejercicio: In-force basis: Última reforma publicada BOGE 31-07-2026; PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.; resulting date 2026-08-01. Source text retained in one file, including textual transitional material.
+- ley-de-instituciones-de-asistencia-privada: In-force basis: Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 31 de Julio de 2016; Artículo Primero. La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.; resulting date 2016-08-01. Source text retained in one file, including textual transitional material.
+- ley-de-justicia-para-adolescentes: In-force basis: Última reforma publicada BOGE 31-10-2016; PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2016-10-31. Source text retained in one file, including textual transitional material.
+- ley-de-responsabilidades-de-los-servidores-publicos: In-force basis: Última reforma publicada BOGE 22-06-2017; PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2017-06-23. Source text retained in one file, including textual transitional material.
+- ley-del-instituto-sudcaliforniano-de-las-mujeres: In-force basis: Última reforma publicada BOGE 14-12-2021; Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2021-12-15. Source text retained in one file, including textual transitional material.
+- ley-organica-de-la-escuela-normal-superior-de-cultura-fisica-profr-roman-pozo-me: In-force basis: Última reforma publicada BOGE 20-10-2026; PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2026-10-21. Source text retained in one file, including textual transitional material.
+- ley-organica-de-la-universidad-tenologica-dela-paz: In-force basis: Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 31 de Diciembre de 2012; ARTÍCULO PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2013-01-01. Source text retained in one file, including textual transitional material.
+- ley-para-el-otorgamiento-de-pension-a-deudos-de-los-integrantes-de-las-instituci: In-force basis: Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 08 de septiembre de 2026; PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2026-09-09. Source text retained in one file, including textual transitional material.
+- ley-para-la-atencion-y-proteccion-a-personas-con-trastorno-del-espectro-autista: In-force basis: Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 10 de abril de 2026; Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2026-04-11. Source text retained in one file, including textual transitional material.
+- ley-que-crea-el-instituto-sudcaliforniano-de-cultura: In-force basis: Última reforma publicada BOGE 20-07-2015; ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2015-07-21. Source text retained in one file, including textual transitional material.
+- se-crea-el-fondo-social-para-el-desarrollo-de-baja-california-sur: In-force basis: Última reforma publicada BOGE 10-08-2005; ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.; resulting date 2005-08-11. Source text retained in one file, including textual transitional material.
+- se-crea-la-junta-estatal-de-caminos-de-baja-california-sur: In-force basis: Última reforma publicada BOGE 10-06-1993; UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION, EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.; resulting date 1993-06-11. Source text retained in one file, including textual transitional material.
 
 ## What AI did and did not do
 
@@ -169,3 +240,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which ordenamientos to include; it wrote no law text. Every word of law comes from the SCJN compilation's consolidated texts.
+- Model assistance selected source and implementation; no model-written law text or OCR.

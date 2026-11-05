@@ -5242,6 +5242,496 @@
      "sha256": "c2fc3d372ef4ea2f09b957dd3d98212c6ac7507543c706b4419e10d38032c0c1"
     }
    ]
+  },
+  {
+   "slug": "ley-de-adquisiciones-arrendamientos-y-servicios",
+   "short": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LAdquisicionesArrendamientosBCS.doc",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LAdquisicionesArrendamientosBCS.doc",
+     "sha256": "39eb9d67967a18ee5e2274eb7ac52e8e32f8530e45fd564eb422cb54a00639ce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-aguas",
+   "short": "LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LAguasBCS-.doc",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LAguasBCS-.doc",
+     "sha256": "3ed3d2be3c17d0a4d16eccfd4844e9d92ac53844af8137d5e98e1d467330c75a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-asistencia-social",
+   "short": "LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LAsistenciaSocialBCS.doc",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LAsistenciaSocialBCS.doc",
+     "sha256": "fd723a1db2f44a9bfc256cf08c0f98a5376a80870c3628f58e181b25701346dc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-atencion-a-victimas",
+   "short": "LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LAtencionVictimasBCS.doc",
+   "versions": [
+    {
+     "from": "2019-04-20",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LAtencionVictimasBCS.doc",
+     "sha256": "70dd4545d3fdc301843dac91ebec232e56c2b1f40446821e4b9a2885649ad4f8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-austeridad-presupuestal",
+   "short": "LEY DE AUSTERIDAD PRESUPUESTAL PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE AUSTERIDAD PRESUPUESTAL PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LAusteridadPresupuestalBCS.doc",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LAusteridadPresupuestalBCS.doc",
+     "sha256": "83b13b96d2923329ce3fcc310d24bff78b19eb02fae30b0433c1ae87f8e2270b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-bibliotecas",
+   "short": "LEY DE BIBLIOTECAS PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE BIBLIOTECAS PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LBibliotecasBCS.doc",
+   "versions": [
+    {
+     "from": "2015-09-02",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LBibliotecasBCS.doc",
+     "sha256": "634794058ff2c1024987b5d20994f5ca0febb62b512ffd424f6d6b653f5454d6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-capacitacion-en-materia-de-genero-de-prevencion-y-erradicacion-de-la-viol",
+   "short": "LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LCapacitacionMateriaGeneroPrevencionErradicacionViolenciaHaciaMujeresParaElEstadoBCS.doc",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LCapacitacionMateriaGeneroPrevencionErradicacionViolenciaHaciaMujeresParaElEstadoBCS.doc",
+     "sha256": "ff507427c165d6cfc838924b4e36eea43e21af171206afc0692ce9dcb97936d6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-catastro-para-los-municipios",
+   "short": "LEY DE CATASTRO PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE CATASTRO PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LCatastroBCS.doc",
+   "versions": [
+    {
+     "from": "2025-01-11",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LCatastroBCS.doc",
+     "sha256": "74ade161813558718d502db33039b2b4e076eb1a2fa860f173d428c8edffde7d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-cultura-fisica-y-deporte",
+   "short": "LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LCulturaFisicaBCS-.doc",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LCulturaFisicaBCS-.doc",
+     "sha256": "cd1eeb3a518e97a0472a3aeca9f8021d79dd0f1219b2f64a1b07a4199dc867ca"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-derechos-de-las-personas-pueblos-y-comunidades-indigenas-y-afromexicanas",
+   "short": "LEY DE DERECHOS DE LAS PERSONAS, PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE DERECHOS DE LAS PERSONAS, PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LDerPersPueblosComIndigAfromexBCS-.doc",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LDerPersPueblosComIndigAfromexBCS-.doc",
+     "sha256": "61d3ec6839607e5eaa98627882e33c33706c2dd1bbc733ee0958903853db2c83"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-desarrollo-forestal-sustentable",
+   "short": "LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LDesarrolloForestalBCS.doc",
+   "versions": [
+    {
+     "from": "2019-06-21",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LDesarrolloForestalBCS.doc",
+     "sha256": "5cb387188718d729a92bdbac12d51bbc3ca803db5cecca8bf33a31434e76e0d3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-desarrollo-social",
+   "short": "LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LDesarrolloSocialBCS.doc",
+   "versions": [
+    {
+     "from": "2019-04-20",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LDesarrolloSocialBCS.doc",
+     "sha256": "9eec46193249ddc9d6c2d57518e25f00da0812af8ce14d3033d1dc67bdb78851"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-desarrollo-urbano",
+   "short": "LEY DE DESARROLLO URBANO PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE DESARROLLO URBANO PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LDesarrolloUrbanoBCS-.doc",
+   "versions": [
+    {
+     "from": "2025-11-22",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LDesarrolloUrbanoBCS-.doc",
+     "sha256": "ca905417cc95322fb2ece15d0a6f9d28e67e16cb69fcf494061ffc92cabe5ea7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-deuda-publica",
+   "short": "LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LDeudaPublicaBCS.doc",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LDeudaPublicaBCS.doc",
+     "sha256": "7748940fff47460e836e2458edd306a980eb446fc4356822d21b0aa6b5a8689f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-fiscalizacion-y-rendicion-de-cuentas",
+   "short": "LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LFiscalizacionRendCuentasBCS.doc",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LFiscalizacionRendCuentasBCS.doc",
+     "sha256": "9e038b3e64a3fba8ba81afba101f137386e66df034b4c49c69e8f43e7a0bd8b0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la-sociedad-civil",
+   "short": "LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LFomentoActividadesBCS.doc",
+   "versions": [
+    {
+     "from": "2015-07-11",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LFomentoActividadesBCS.doc",
+     "sha256": "d1db9dc7f31f4ffb31fcd3501cdb205b234022a095a1d83f4ce924e56d3170dd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-fomento-apicola",
+   "short": "LEY DE FOMENTO APÍCOLA PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE FOMENTO APÍCOLA PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LFomentoApicolaBCS.doc",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LFomentoApicolaBCS.doc",
+     "sha256": "8f1eeebcd652264f272374740a2367e78fd41220824aac6446c97e53949d0d15"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-fomento-de-la-cultura-del-cuidado-y-uso-racional-del-agua",
+   "short": "LEY DE FOMENTO DE LA CULTURA DEL CUIDADO Y USO RACIONAL DEL AGUA PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE FOMENTO DE LA CULTURA DEL CUIDADO Y USO RACIONAL DEL AGUA PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LFomentoCulturaCuidadoAguaBCS-.doc",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LFomentoCulturaCuidadoAguaBCS-.doc",
+     "sha256": "0632fa8b454c9bc2dc8a49b335bedc9ad14cc6c6968530aaef9c47766f5730e3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-fomento-economico-y-competividad",
+   "short": "LEY DE FOMENTO ECONÓMICO Y COMPETITIVIDAD DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE FOMENTO ECONÓMICO Y COMPETITIVIDAD DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LFomentoCompetitividadBCS_.doc",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LFomentoCompetitividadBCS_.doc",
+     "sha256": "01a0c161f5f142f840c38a7f79dd9bead54290cd667fe6562376bb764809dbe3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-fomento-para-la-lectura-y-el-libro",
+   "short": "LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LFomentoLecturaBCS.doc",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LFomentoLecturaBCS.doc",
+     "sha256": "56985c3f5d72a527af028b39c494e3da45c187a777191a0bdb2d60107656639b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-hacienda",
+   "short": "LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LHaciendaBCS.doc",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LHaciendaBCS.doc",
+     "sha256": "e6967bfa683b91b198f888c21e604c6beec469e89fc1cc415a5a5288e830edb6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-humanidades-ciencias-tecnologias-e-innovacion",
+   "short": "LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LHumanidadesCienciasTecnologiasInnovacionBCS.doc",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LHumanidadesCienciasTecnologiasInnovacionBCS.doc",
+     "sha256": "0e2e5a67512e241ee06ad449ad66d416d552a80cc4c1e578591a815f4efbd115"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-igualdad-entre-mujeres-y-hombres",
+   "short": "LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LIgualdadMujeresHombresBCS.doc",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LIgualdadMujeresHombresBCS.doc",
+     "sha256": "fedcf4b494a40dd7fb500118369c986b69c313e427f1c8ad833de9adfb3f99ad"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-los-cabos-baja-california-sur-para-el-ejercicio",
+   "short": "LEY DE INGRESOS DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL DE 2026",
+   "title": "LEY DE INGRESOS DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL DE 2026",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LIngresosLosCabos-2026.doc",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LIngresosLosCabos-2026.doc",
+     "sha256": "26349f39096329c01ec405adac1e7ea14db2296107bdf58fc0066d63211306d8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-instituciones-de-asistencia-privada",
+   "short": "LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LInstitucionesAsistenciaBCS.doc",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LInstitucionesAsistenciaBCS.doc",
+     "sha256": "294d420c4b86b674a0adaf66de9732497bd6bf79848a1304e921a9e404df46c5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-justicia-para-adolescentes",
+   "short": "LEY DE JUSTICIA PARA ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE JUSTICIA PARA ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LJusticiaAdolecentesBCS.doc",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LJusticiaAdolecentesBCS.doc",
+     "sha256": "fdacab5a510dd0f18546e2a2b41ca169a4d5b6017fd4dbb2fed73430c9209876"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-responsabilidades-de-los-servidores-publicos",
+   "short": "LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE BAJA CALIFORNIA SUR",
+   "title": "LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LResponsabilidadesServidoresPublicosBCS.doc",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LResponsabilidadesServidoresPublicosBCS.doc",
+     "sha256": "02f71b8187ed5c46a2d23b560fd215f51b7c2625f31a99686d1fc8f65e0ea60f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-del-instituto-sudcaliforniano-de-las-mujeres",
+   "short": "LEY DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES",
+   "title": "LEY DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LInstitutoSudMujer-.doc",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LInstitutoSudMujer-.doc",
+     "sha256": "7c83a43242e51195bfff365e7c7304bc67f0fbbaccf9fed2e4753f7c71837d0e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-de-la-escuela-normal-superior-de-cultura-fisica-profr-roman-pozo-me",
+   "short": "LEY ORGÁNICA DE LA ESCUELA NORMAL SUPERIOR DE CULTURA FÍSICA “PROFR. ROMÁN POZO MÉNDEZ” DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY ORGÁNICA DE LA ESCUELA NORMAL SUPERIOR DE CULTURA FÍSICA “PROFR. ROMÁN POZO MÉNDEZ” DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LOrgEscCulturaFisicaBCS.doc",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LOrgEscCulturaFisicaBCS.doc",
+     "sha256": "26602a33ace13ff352f809723ded14e4a86e7c9c9583e51295948e4775e342ce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-de-la-universidad-tenologica-dela-paz",
+   "short": "LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE LA PAZ",
+   "title": "LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE LA PAZ",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LOrgUniTecnologica.doc",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LOrgUniTecnologica.doc",
+     "sha256": "700208a89f000c243c068f7c965bac31e1068d37f2ec7c0c34fdc2a366c96ed6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-el-otorgamiento-de-pension-a-deudos-de-los-integrantes-de-las-instituci",
+   "short": "LEY PARA EL OTORGAMIENTO DE PENSIÓN A DEUDOS DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, CAÍDOS EN EL CUMPLIMIENTO DEL DEBER",
+   "title": "LEY PARA EL OTORGAMIENTO DE PENSIÓN A DEUDOS DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, CAÍDOS EN EL CUMPLIMIENTO DEL DEBER",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LOtorgamientoPension.doc",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LOtorgamientoPension.doc",
+     "sha256": "14c86f08b6fb24a049ee2c0ad0c6a71e5bf7b36f069ba63d661d620867b9b307"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-la-atencion-y-proteccion-a-personas-con-trastorno-del-espectro-autista",
+   "short": "LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON TRASTORNO DEL ESPECTRO AUTISTA DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "title": "LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON TRASTORNO DEL ESPECTRO AUTISTA DEL ESTADO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LAtencionProteccionPersonasTrastornoAutistaBCS_.doc",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LAtencionProteccionPersonasTrastornoAutistaBCS_.doc",
+     "sha256": "aa3dddd63301c86081ca67f01224a8d5a64c683151da5424c70a53d01344a5c9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-crea-el-instituto-sudcaliforniano-de-cultura",
+   "short": "LEY QUE CREA EL INSTITUTO SUDCALIFORNIANO DE CULTURA",
+   "title": "LEY QUE CREA EL INSTITUTO SUDCALIFORNIANO DE CULTURA",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/LInstitutoSudCultura.doc",
+   "versions": [
+    {
+     "from": "2015-07-21",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/LInstitutoSudCultura.doc",
+     "sha256": "5930f9f7abfcb6edcccc9dc0e058dc494ff55beca1fcbafafae6a6a15444d800"
+    }
+   ]
+  },
+  {
+   "slug": "se-crea-el-fondo-social-para-el-desarrollo-de-baja-california-sur",
+   "short": "SE CREA EL FONDO SOCIAL PARA EL DESARROLLO DE BAJA CALIFORNIA SUR",
+   "title": "SE CREA EL FONDO SOCIAL PARA EL DESARROLLO DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/FondoSocialDesarrolloBCS.doc",
+   "versions": [
+    {
+     "from": "2005-08-11",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/FondoSocialDesarrolloBCS.doc",
+     "sha256": "480077c5df7bc3bbd20c2769001b0405392e73cde7912364e9be530dc2588db1"
+    }
+   ]
+  },
+  {
+   "slug": "se-crea-la-junta-estatal-de-caminos-de-baja-california-sur",
+   "short": "SE CREA LA JUNTA ESTATAL DE CAMINOS DE BAJA CALIFORNIA SUR",
+   "title": "SE CREA LA JUNTA ESTATAL DE CAMINOS DE BAJA CALIFORNIA SUR",
+   "url": "https://www.cbcs.gob.mx/LEYES-BCS/JuntaCaminosBCS.doc",
+   "versions": [
+    {
+     "from": "1993-06-11",
+     "units": 1,
+     "source_url": "https://www.cbcs.gob.mx/LEYES-BCS/JuntaCaminosBCS.doc",
+     "sha256": "cfc65f1366de66b0ecb1a7d90a9f468bf97f505c9c52b298bda0431f9fc77a0b"
+    }
+   ]
   }
  ]
 }

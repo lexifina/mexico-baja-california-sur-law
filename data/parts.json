@@ -120,6 +120,46 @@
     "ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica"
    ],
    "sha256": "aadefe2546d42b476815634df55e51c993b36a1fe8caa1a8fce47ba0fa59bdb2"
+  },
+  "90-q908-congress-current.json": {
+   "acts": [
+    "ley-de-adquisiciones-arrendamientos-y-servicios",
+    "ley-de-aguas",
+    "ley-de-asistencia-social",
+    "ley-de-atencion-a-victimas",
+    "ley-de-austeridad-presupuestal",
+    "ley-de-bibliotecas",
+    "ley-de-capacitacion-en-materia-de-genero-de-prevencion-y-erradicacion-de-la-viol",
+    "ley-de-catastro-para-los-municipios",
+    "ley-de-cultura-fisica-y-deporte",
+    "ley-de-derechos-de-las-personas-pueblos-y-comunidades-indigenas-y-afromexicanas",
+    "ley-de-desarrollo-forestal-sustentable",
+    "ley-de-desarrollo-social",
+    "ley-de-desarrollo-urbano",
+    "ley-de-deuda-publica",
+    "ley-de-fiscalizacion-y-rendicion-de-cuentas",
+    "ley-de-fomento-a-las-actividades-de-las-organizaciones-de-la-sociedad-civil",
+    "ley-de-fomento-apicola",
+    "ley-de-fomento-de-la-cultura-del-cuidado-y-uso-racional-del-agua",
+    "ley-de-fomento-economico-y-competividad",
+    "ley-de-fomento-para-la-lectura-y-el-libro",
+    "ley-de-hacienda",
+    "ley-de-humanidades-ciencias-tecnologias-e-innovacion",
+    "ley-de-igualdad-entre-mujeres-y-hombres",
+    "ley-de-ingresos-del-municipio-de-los-cabos-baja-california-sur-para-el-ejercicio",
+    "ley-de-instituciones-de-asistencia-privada",
+    "ley-de-justicia-para-adolescentes",
+    "ley-de-responsabilidades-de-los-servidores-publicos",
+    "ley-del-instituto-sudcaliforniano-de-las-mujeres",
+    "ley-organica-de-la-escuela-normal-superior-de-cultura-fisica-profr-roman-pozo-me",
+    "ley-organica-de-la-universidad-tenologica-dela-paz",
+    "ley-para-el-otorgamiento-de-pension-a-deudos-de-los-integrantes-de-las-instituci",
+    "ley-para-la-atencion-y-proteccion-a-personas-con-trastorno-del-espectro-autista",
+    "ley-que-crea-el-instituto-sudcaliforniano-de-cultura",
+    "se-crea-el-fondo-social-para-el-desarrollo-de-baja-california-sur",
+    "se-crea-la-junta-estatal-de-caminos-de-baja-california-sur"
+   ],
+   "sha256": "3cd5438534a6d3797a6aec4fea13c769dd99d6e0bdd3ac7c21e90c6c435159a4"
   }
  },
  "schema": 1
